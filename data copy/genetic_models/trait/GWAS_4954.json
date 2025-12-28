@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "TRAF3IP2",
+  "id": "GWAS_4954",
+  "last_updated": "2025-12-24T00:26:49.632266",
+  "odds_ratio": 1.37,
+  "phenotype": "GWAS association for rs458017",
+  "pvalue": 2e-16,
+  "references": [],
+  "rsid": "rs458017",
+  "source": "GWAS",
+  "source_url": null
+}

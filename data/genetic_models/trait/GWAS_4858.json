@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "ELOVL2",
+  "id": "GWAS_4858",
+  "last_updated": "2025-12-24T00:26:49.631426",
+  "odds_ratio": 0.06,
+  "phenotype": "(SM-16 + 7 other traits)",
+  "pvalue": 2e-14,
+  "references": [],
+  "rsid": "rs9393903",
+  "source": "GWAS",
+  "source_url": null
+}

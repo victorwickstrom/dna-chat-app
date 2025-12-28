@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "FSTL1",
+  "id": "GWAS_9551",
+  "last_updated": "2025-12-24T00:12:31.762660",
+  "odds_ratio": 0.04,
+  "phenotype": "(RQmax)",
+  "pvalue": 7e-06,
+  "references": [],
+  "rsid": "rs9289146",
+  "source": "GWAS",
+  "source_url": null
+}

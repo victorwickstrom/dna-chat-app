@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "gene",
+  "drug": null,
+  "effect": "Chromosome: chr7",
+  "evidence_level": "unknown",
+  "gene": "ASL",
+  "id": "CPIC_gene_ASL_30",
+  "last_updated": "2025-12-24T00:26:50.459088",
+  "odds_ratio": null,
+  "phenotype": null,
+  "pvalue": null,
+  "references": [],
+  "rsid": null,
+  "source": "CPIC",
+  "source_url": null
+}

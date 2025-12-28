@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "SLC22A11",
+  "id": "GWAS_5677",
+  "last_updated": "2025-12-24T00:12:31.669526",
+  "odds_ratio": 1.26,
+  "phenotype": "(Gout)",
+  "pvalue": 1e-06,
+  "references": [],
+  "rsid": "rs2078267",
+  "source": "GWAS",
+  "source_url": null
+}

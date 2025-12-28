@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "PZP",
+  "id": "GWAS_903",
+  "last_updated": "2025-12-24T00:26:49.592786",
+  "odds_ratio": 0.4,
+  "phenotype": "GWAS association for rs6487679",
+  "pvalue": 1e-06,
+  "references": [],
+  "rsid": "rs6487679",
+  "source": "GWAS",
+  "source_url": null
+}

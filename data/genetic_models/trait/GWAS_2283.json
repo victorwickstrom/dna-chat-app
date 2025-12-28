@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "CYP27B1",
+  "id": "GWAS_2283",
+  "last_updated": "2025-12-24T00:26:49.606447",
+  "odds_ratio": 1.23,
+  "phenotype": "GWAS association for rs703842",
+  "pvalue": 4.9999999999999995e-11,
+  "references": [],
+  "rsid": "rs703842",
+  "source": "GWAS",
+  "source_url": null
+}

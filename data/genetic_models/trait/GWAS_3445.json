@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "TMEM215",
+  "id": "GWAS_3445",
+  "last_updated": "2025-12-24T00:26:49.617584",
+  "odds_ratio": 2.89,
+  "phenotype": "GWAS association for rs4463516",
+  "pvalue": 3.0000000000000004e-08,
+  "references": [],
+  "rsid": "rs4463516",
+  "source": "GWAS",
+  "source_url": null
+}

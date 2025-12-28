@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "LITAF",
+  "id": "GWAS_4790",
+  "last_updated": "2025-12-24T00:26:49.630801",
+  "odds_ratio": 1.124,
+  "phenotype": "GWAS association for rs529866",
+  "pvalue": 2e-16,
+  "references": [],
+  "rsid": "rs529866",
+  "source": "GWAS",
+  "source_url": null
+}

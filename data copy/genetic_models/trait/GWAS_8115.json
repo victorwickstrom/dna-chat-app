@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "APBA2",
+  "id": "GWAS_8115",
+  "last_updated": "2025-12-24T00:12:31.730475",
+  "odds_ratio": 0.92,
+  "phenotype": "(Harm avoidance)",
+  "pvalue": 2e-06,
+  "references": [],
+  "rsid": "rs17680945",
+  "source": "GWAS",
+  "source_url": null
+}

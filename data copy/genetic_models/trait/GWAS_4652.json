@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "EGFLAM",
+  "id": "GWAS_4652",
+  "last_updated": "2025-12-24T00:26:49.629564",
+  "odds_ratio": null,
+  "phenotype": "(EA + AA - GSE)",
+  "pvalue": 3e-06,
+  "references": [],
+  "rsid": "rs7715172",
+  "source": "GWAS",
+  "source_url": null
+}

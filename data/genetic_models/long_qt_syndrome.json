@@ -1,0 +1,35 @@
+{
+  "id": "long_qt_syndrome",
+  "category": "cardiovascular",
+  "snps": [
+    {
+      "rsid": "rs199472724",
+      "riskAllele": "A",
+      "weight": 3.0
+    },
+    {
+      "rsid": "rs199472679",
+      "riskAllele": "C",
+      "weight": 2.8
+    },
+    {
+      "rsid": "rs1805127",
+      "riskAllele": "G",
+      "weight": 1.5
+    }
+  ],
+  "population": "ALL",
+  "interpretation": {
+    "low": "L\u00e5g genetisk risk f\u00f6r long qt syndrome.",
+    "medium": "M\u00e5ttlig risk f\u00f6r long qt syndrome.",
+    "high": "H\u00f6g genetisk risk f\u00f6r long qt syndrome; flera riskalleler p\u00e5tr\u00e4ffade."
+  },
+  "evidence": [
+    {
+      "source": "ClinVar",
+      "pubmed": "24690028"
+    }
+  ],
+  "severity": "medical",
+  "confidence": "high"
+}

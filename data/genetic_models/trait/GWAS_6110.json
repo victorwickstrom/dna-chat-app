@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "CHRNA5",
+  "id": "GWAS_6110",
+  "last_updated": "2025-12-24T00:12:31.679174",
+  "odds_ratio": 0.033,
+  "phenotype": "(CPD)",
+  "pvalue": 2e-07,
+  "references": [],
+  "rsid": "rs667282",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "EPHB1",
+  "id": "GWAS_4737",
+  "last_updated": "2025-12-24T00:26:49.630307",
+  "odds_ratio": null,
+  "phenotype": "(men)",
+  "pvalue": 3e-06,
+  "references": [],
+  "rsid": "rs1502172",
+  "source": "GWAS",
+  "source_url": null
+}

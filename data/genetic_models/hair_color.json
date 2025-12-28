@@ -1,0 +1,35 @@
+{
+  "id": "hair_color",
+  "category": "trait",
+  "snps": [
+    {
+      "rsid": "rs1805007",
+      "riskAllele": "T",
+      "weight": 2.0
+    },
+    {
+      "rsid": "rs2733832",
+      "riskAllele": "C",
+      "weight": 1.5
+    },
+    {
+      "rsid": "rs237551",
+      "riskAllele": "A",
+      "weight": 1.2
+    }
+  ],
+  "population": "EUR",
+  "interpretation": {
+    "low": "L\u00e5g genetisk risk f\u00f6r hair color.",
+    "medium": "M\u00e5ttlig risk f\u00f6r hair color.",
+    "high": "H\u00f6g genetisk risk f\u00f6r hair color; flera riskalleler p\u00e5tr\u00e4ffade."
+  },
+  "evidence": [
+    {
+      "source": "GWAS",
+      "pubmed": "19266167"
+    }
+  ],
+  "severity": "trait",
+  "confidence": "moderate"
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "FLRT3",
+  "id": "GWAS_3819",
+  "last_updated": "2025-12-24T00:26:49.621776",
+  "odds_ratio": 2.86,
+  "phenotype": "GWAS association for rs761998",
+  "pvalue": 7e-06,
+  "references": [],
+  "rsid": "rs761998",
+  "source": "GWAS",
+  "source_url": null
+}

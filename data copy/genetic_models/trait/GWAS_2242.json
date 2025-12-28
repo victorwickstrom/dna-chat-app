@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "CAMK4",
+  "id": "GWAS_2242",
+  "last_updated": "2025-12-24T00:26:49.606030",
+  "odds_ratio": null,
+  "phenotype": "(DBP)",
+  "pvalue": 4e-06,
+  "references": [],
+  "rsid": "rs10491334",
+  "source": "GWAS",
+  "source_url": null
+}

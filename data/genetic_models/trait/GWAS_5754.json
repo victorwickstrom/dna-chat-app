@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "GAS1",
+  "id": "GWAS_5754",
+  "last_updated": "2025-12-24T00:12:31.671054",
+  "odds_ratio": 12.0,
+  "phenotype": "(HOMA-IR)",
+  "pvalue": 4e-06,
+  "references": [],
+  "rsid": "rs9792548",
+  "source": "GWAS",
+  "source_url": null
+}

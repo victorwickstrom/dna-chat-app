@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "gene",
+  "drug": null,
+  "effect": "Chromosome: chr19",
+  "evidence_level": "unknown",
+  "gene": "ERCC1",
+  "id": "CPIC_gene_ERCC1_0",
+  "last_updated": "2025-12-24T00:26:50.458964",
+  "odds_ratio": null,
+  "phenotype": null,
+  "pvalue": null,
+  "references": [],
+  "rsid": null,
+  "source": "CPIC",
+  "source_url": null
+}

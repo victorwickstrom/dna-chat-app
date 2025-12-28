@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "CALCR",
+  "id": "GWAS_1543",
+  "last_updated": "2025-12-24T00:26:49.598889",
+  "odds_ratio": 0.41,
+  "phenotype": "GWAS association for rs7786765",
+  "pvalue": 9e-06,
+  "references": [],
+  "rsid": "rs7786765",
+  "source": "GWAS",
+  "source_url": null
+}

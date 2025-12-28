@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "GPR98",
+  "id": "GWAS_2541",
+  "last_updated": "2025-12-24T00:26:49.608866",
+  "odds_ratio": null,
+  "phenotype": "(NeckZ1)",
+  "pvalue": 2e-07,
+  "references": [],
+  "rsid": "rs10514345",
+  "source": "GWAS",
+  "source_url": null
+}

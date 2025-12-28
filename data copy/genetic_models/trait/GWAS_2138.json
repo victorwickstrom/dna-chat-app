@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "NAALADL2",
+  "id": "GWAS_2138",
+  "last_updated": "2025-12-24T00:26:49.605072",
+  "odds_ratio": 0.289,
+  "phenotype": "GWAS association for rs78943174",
+  "pvalue": 4e-08,
+  "references": [],
+  "rsid": "rs78943174",
+  "source": "GWAS",
+  "source_url": null
+}

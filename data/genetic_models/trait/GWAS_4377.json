@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "SHB",
+  "id": "GWAS_4377",
+  "last_updated": "2025-12-24T00:26:49.626929",
+  "odds_ratio": null,
+  "phenotype": "GWAS association for rs7873102",
+  "pvalue": 6e-07,
+  "references": [],
+  "rsid": "rs7873102",
+  "source": "GWAS",
+  "source_url": null
+}

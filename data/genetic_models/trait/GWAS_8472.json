@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "PDXDC1",
+  "id": "GWAS_8472",
+  "last_updated": "2025-12-24T00:12:31.738617",
+  "odds_ratio": 0.073,
+  "phenotype": "(SM-15 + 12 other traits)",
+  "pvalue": 5e-16,
+  "references": [],
+  "rsid": "rs7200543",
+  "source": "GWAS",
+  "source_url": null
+}

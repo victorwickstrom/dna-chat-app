@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "BAT3",
+  "id": "GWAS_2972",
+  "last_updated": "2025-12-24T00:26:49.613365",
+  "odds_ratio": 1.24,
+  "phenotype": "GWAS association for rs3117582",
+  "pvalue": 4e-10,
+  "references": [],
+  "rsid": "rs3117582",
+  "source": "GWAS",
+  "source_url": null
+}

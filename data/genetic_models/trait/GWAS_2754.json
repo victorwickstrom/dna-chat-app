@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "TERT",
+  "id": "GWAS_2754",
+  "last_updated": "2025-12-24T00:26:49.611346",
+  "odds_ratio": 1.26,
+  "phenotype": "GWAS association for rs2853676",
+  "pvalue": 4e-14,
+  "references": [],
+  "rsid": "rs2853676",
+  "source": "GWAS",
+  "source_url": null
+}

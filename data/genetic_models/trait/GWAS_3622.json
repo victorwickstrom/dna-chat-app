@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": null,
+  "id": "GWAS_3622",
+  "last_updated": "2025-12-24T00:26:49.619337",
+  "odds_ratio": 28.75,
+  "phenotype": "(Unsaturated iron-binding capacity)",
+  "pvalue": 1e-07,
+  "references": [],
+  "rsid": "rs2698530",
+  "source": "GWAS",
+  "source_url": null
+}

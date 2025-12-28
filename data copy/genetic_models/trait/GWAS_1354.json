@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "ZNF202",
+  "id": "GWAS_1354",
+  "last_updated": "2025-12-24T00:26:49.597233",
+  "odds_ratio": null,
+  "phenotype": "(SAS)",
+  "pvalue": 4e-07,
+  "references": [],
+  "rsid": "rs2126709",
+  "source": "GWAS",
+  "source_url": null
+}

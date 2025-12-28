@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "HCP5",
+  "id": "GWAS_8526",
+  "last_updated": "2025-12-24T00:12:31.739746",
+  "odds_ratio": 5.8,
+  "phenotype": "(setpoint)",
+  "pvalue": 5e-35,
+  "references": [],
+  "rsid": "rs2395029",
+  "source": "GWAS",
+  "source_url": null
+}

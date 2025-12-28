@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "SLC38A10",
+  "id": "GWAS_9255",
+  "last_updated": "2025-12-24T00:12:31.756942",
+  "odds_ratio": null,
+  "phenotype": "(less than or equal to)",
+  "pvalue": 1e-06,
+  "references": [],
+  "rsid": "rs10445407",
+  "source": "GWAS",
+  "source_url": null
+}

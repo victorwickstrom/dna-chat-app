@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "PDE8B",
+  "id": "GWAS_2596",
+  "last_updated": "2025-12-24T00:26:49.609368",
+  "odds_ratio": 0.25,
+  "phenotype": "GWAS association for rs4704397",
+  "pvalue": 2e-20,
+  "references": [],
+  "rsid": "rs4704397",
+  "source": "GWAS",
+  "source_url": null
+}

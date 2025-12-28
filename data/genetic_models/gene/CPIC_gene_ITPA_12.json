@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "gene",
+  "drug": null,
+  "effect": "Chromosome: chr20",
+  "evidence_level": "unknown",
+  "gene": "ITPA",
+  "id": "CPIC_gene_ITPA_12",
+  "last_updated": "2025-12-24T00:26:50.459023",
+  "odds_ratio": null,
+  "phenotype": null,
+  "pvalue": null,
+  "references": [],
+  "rsid": null,
+  "source": "CPIC",
+  "source_url": null
+}

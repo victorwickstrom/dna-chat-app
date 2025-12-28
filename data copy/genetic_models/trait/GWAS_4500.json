@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "DSCAM",
+  "id": "GWAS_4500",
+  "last_updated": "2025-12-24T00:26:49.628145",
+  "odds_ratio": 1.33,
+  "phenotype": "GWAS association for rs9981861",
+  "pvalue": 4e-06,
+  "references": [],
+  "rsid": "rs9981861",
+  "source": "GWAS",
+  "source_url": null
+}

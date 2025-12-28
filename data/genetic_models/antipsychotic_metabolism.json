@@ -1,0 +1,35 @@
+{
+  "id": "antipsychotic_metabolism",
+  "category": "pharmacogenomic",
+  "snps": [
+    {
+      "rsid": "rs16947",
+      "riskAllele": "A",
+      "weight": -1.3
+    },
+    {
+      "rsid": "rs762551",
+      "riskAllele": "C",
+      "weight": -1.2
+    },
+    {
+      "rsid": "rs1135840",
+      "riskAllele": "A",
+      "weight": -1.0
+    }
+  ],
+  "population": "ALL",
+  "interpretation": {
+    "low": "L\u00e5g genetisk risk f\u00f6r antipsychotic metabolism.",
+    "medium": "M\u00e5ttlig risk f\u00f6r antipsychotic metabolism.",
+    "high": "H\u00f6g genetisk risk f\u00f6r antipsychotic metabolism; flera riskalleler p\u00e5tr\u00e4ffade."
+  },
+  "evidence": [
+    {
+      "source": "CPIC",
+      "pubmed": "25501432"
+    }
+  ],
+  "severity": "pharma",
+  "confidence": "moderate"
+}

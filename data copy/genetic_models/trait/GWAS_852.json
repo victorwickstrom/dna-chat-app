@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "TBX3",
+  "id": "GWAS_852",
+  "last_updated": "2025-12-24T00:26:49.592330",
+  "odds_ratio": 0.085,
+  "phenotype": "(women)",
+  "pvalue": 2e-06,
+  "references": [],
+  "rsid": "rs11067278",
+  "source": "GWAS",
+  "source_url": null
+}

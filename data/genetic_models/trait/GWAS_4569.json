@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "IL12RB2",
+  "id": "GWAS_4569",
+  "last_updated": "2025-12-24T00:26:49.628769",
+  "odds_ratio": 1.28,
+  "phenotype": "GWAS association for rs924080",
+  "pvalue": 7.000000000000001e-09,
+  "references": [],
+  "rsid": "rs924080",
+  "source": "GWAS",
+  "source_url": null
+}

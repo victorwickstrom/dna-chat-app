@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "COX10",
+  "id": "GWAS_4679",
+  "last_updated": "2025-12-24T00:26:49.629799",
+  "odds_ratio": 0.094,
+  "phenotype": "(Persistence)",
+  "pvalue": 3e-07,
+  "references": [],
+  "rsid": "rs17608059",
+  "source": "GWAS",
+  "source_url": null
+}

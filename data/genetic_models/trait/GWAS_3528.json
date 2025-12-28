@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "LDLR",
+  "id": "GWAS_3528",
+  "last_updated": "2025-12-24T00:26:49.618303",
+  "odds_ratio": 0.14,
+  "phenotype": "GWAS association for rs2228671",
+  "pvalue": 4e-14,
+  "references": [],
+  "rsid": "rs2228671",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "congenital_glaucoma",
+  "category": "eye",
+  "snps": [
+    {
+      "rsid": "rs560099",
+      "riskAllele": "T",
+      "weight": 1.5
+    },
+    {
+      "rsid": "rs9547848",
+      "riskAllele": "A",
+      "weight": 1.3
+    },
+    {
+      "rsid": "rs1000000",
+      "riskAllele": "C",
+      "weight": 1.1
+    }
+  ],
+  "population": "ALL",
+  "interpretation": {
+    "low": "L\u00e5g genetisk risk f\u00f6r congenital glaucoma.",
+    "medium": "M\u00e5ttlig risk f\u00f6r congenital glaucoma.",
+    "high": "H\u00f6g genetisk risk f\u00f6r congenital glaucoma; flera riskalleler p\u00e5tr\u00e4ffade."
+  },
+  "evidence": [
+    {
+      "source": "GWAS",
+      "pubmed": "21980296"
+    }
+  ],
+  "severity": "medical",
+  "confidence": "moderate"
+}

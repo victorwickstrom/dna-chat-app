@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "FREM1",
+  "id": "GWAS_3377",
+  "last_updated": "2025-12-24T00:26:49.616951",
+  "odds_ratio": 0.4,
+  "phenotype": "GWAS association for rs10961780",
+  "pvalue": 2e-06,
+  "references": [],
+  "rsid": "rs10961780",
+  "source": "GWAS",
+  "source_url": null
+}

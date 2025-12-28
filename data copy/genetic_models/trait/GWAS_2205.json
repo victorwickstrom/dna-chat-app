@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "NFKBIL1",
+  "id": "GWAS_2205",
+  "last_updated": "2025-12-24T00:26:49.605652",
+  "odds_ratio": 3.34,
+  "phenotype": "GWAS association for rs3099844",
+  "pvalue": 5e-10,
+  "references": [],
+  "rsid": "rs3099844",
+  "source": "GWAS",
+  "source_url": null
+}

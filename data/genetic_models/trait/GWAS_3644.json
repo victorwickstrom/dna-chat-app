@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "MUC19",
+  "id": "GWAS_3644",
+  "last_updated": "2025-12-24T00:26:49.619581",
+  "odds_ratio": 1.54,
+  "phenotype": "GWAS association for rs11175593",
+  "pvalue": 3e-10,
+  "references": [],
+  "rsid": "rs11175593",
+  "source": "GWAS",
+  "source_url": null
+}

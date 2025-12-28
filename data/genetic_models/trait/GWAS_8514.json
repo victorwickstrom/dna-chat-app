@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "G6PC2",
+  "id": "GWAS_8514",
+  "last_updated": "2025-12-24T00:12:31.739571",
+  "odds_ratio": 1.29,
+  "phenotype": "(fasting glucose)",
+  "pvalue": 2e-06,
+  "references": [],
+  "rsid": "rs560887",
+  "source": "GWAS",
+  "source_url": null
+}

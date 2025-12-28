@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "C20ORF82",
+  "id": "GWAS_999",
+  "last_updated": "2025-12-24T00:26:49.593620",
+  "odds_ratio": 1.18,
+  "phenotype": "GWAS association for rs1223271",
+  "pvalue": 4.9999999999999996e-06,
+  "references": [],
+  "rsid": "rs1223271",
+  "source": "GWAS",
+  "source_url": null
+}

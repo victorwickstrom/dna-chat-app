@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "OLFM4",
+  "id": "GWAS_8451",
+  "last_updated": "2025-12-24T00:12:31.738256",
+  "odds_ratio": 0.018,
+  "phenotype": "(age 8)",
+  "pvalue": 1e-08,
+  "references": [],
+  "rsid": "rs12429545",
+  "source": "GWAS",
+  "source_url": null
+}

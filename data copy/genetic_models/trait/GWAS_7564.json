@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "LCE3E",
+  "id": "GWAS_7564",
+  "last_updated": "2025-12-24T00:12:31.715966",
+  "odds_ratio": 0.13,
+  "phenotype": "(hair curl)",
+  "pvalue": 1e-10,
+  "references": [],
+  "rsid": "rs499697",
+  "source": "GWAS",
+  "source_url": null
+}

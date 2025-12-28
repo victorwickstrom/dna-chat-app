@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "BUD13",
+  "id": "GWAS_2448",
+  "last_updated": "2025-12-24T00:26:49.607977",
+  "odds_ratio": null,
+  "phenotype": "GWAS association for rs1240773",
+  "pvalue": 8e-06,
+  "references": [],
+  "rsid": "rs1240773",
+  "source": "GWAS",
+  "source_url": null
+}

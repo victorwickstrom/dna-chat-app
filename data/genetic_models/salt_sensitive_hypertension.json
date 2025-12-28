@@ -1,0 +1,35 @@
+{
+  "id": "salt_sensitive_hypertension",
+  "category": "trait",
+  "snps": [
+    {
+      "rsid": "rs699",
+      "riskAllele": "T",
+      "weight": 1.5
+    },
+    {
+      "rsid": "rs4961",
+      "riskAllele": "C",
+      "weight": 1.4
+    },
+    {
+      "rsid": "rs61719868",
+      "riskAllele": "G",
+      "weight": 1.2
+    }
+  ],
+  "population": "ALL",
+  "interpretation": {
+    "low": "L\u00e5g genetisk risk f\u00f6r salt sensitive hypertension.",
+    "medium": "M\u00e5ttlig risk f\u00f6r salt sensitive hypertension.",
+    "high": "H\u00f6g genetisk risk f\u00f6r salt sensitive hypertension; flera riskalleler p\u00e5tr\u00e4ffade."
+  },
+  "evidence": [
+    {
+      "source": "GWAS",
+      "pubmed": "22955572"
+    }
+  ],
+  "severity": "trait",
+  "confidence": "moderate"
+}

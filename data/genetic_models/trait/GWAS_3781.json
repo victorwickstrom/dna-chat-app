@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "GABBR1",
+  "id": "GWAS_3781",
+  "last_updated": "2025-12-24T00:26:49.621407",
+  "odds_ratio": 1.67,
+  "phenotype": "GWAS association for rs29232",
+  "pvalue": 9.000000000000001e-17,
+  "references": [],
+  "rsid": "rs29232",
+  "source": "GWAS",
+  "source_url": null
+}

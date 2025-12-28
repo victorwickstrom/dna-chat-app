@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "gene",
+  "drug": null,
+  "effect": "Chromosome: chr13",
+  "evidence_level": "unknown",
+  "gene": "ABCC4",
+  "id": "CPIC_gene_ABCC4_65",
+  "last_updated": "2025-12-24T00:26:50.459186",
+  "odds_ratio": null,
+  "phenotype": null,
+  "pvalue": null,
+  "references": [],
+  "rsid": null,
+  "source": "CPIC",
+  "source_url": null
+}

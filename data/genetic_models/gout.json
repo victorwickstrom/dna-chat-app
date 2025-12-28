@@ -1,0 +1,35 @@
+{
+  "id": "gout",
+  "category": "metabolic",
+  "snps": [
+    {
+      "rsid": "rs16890979",
+      "riskAllele": "T",
+      "weight": 1.7
+    },
+    {
+      "rsid": "rs2231142",
+      "riskAllele": "T",
+      "weight": 2.0
+    },
+    {
+      "rsid": "rs3825017",
+      "riskAllele": "C",
+      "weight": 1.2
+    }
+  ],
+  "population": "ALL",
+  "interpretation": {
+    "low": "L\u00e5g genetisk risk f\u00f6r gout.",
+    "medium": "M\u00e5ttlig risk f\u00f6r gout.",
+    "high": "H\u00f6g genetisk risk f\u00f6r gout; flera riskalleler p\u00e5tr\u00e4ffade."
+  },
+  "evidence": [
+    {
+      "source": "GWAS",
+      "pubmed": "19147616"
+    }
+  ],
+  "severity": "medical",
+  "confidence": "moderate"
+}

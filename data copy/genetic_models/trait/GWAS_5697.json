@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "NCAM1",
+  "id": "GWAS_5697",
+  "last_updated": "2025-12-24T00:12:31.669965",
+  "odds_ratio": null,
+  "phenotype": "(Relative wall thickness)",
+  "pvalue": 4e-09,
+  "references": [],
+  "rsid": "rs1436109",
+  "source": "GWAS",
+  "source_url": null
+}

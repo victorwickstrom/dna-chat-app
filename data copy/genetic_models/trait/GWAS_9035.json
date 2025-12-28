@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "AP3B1",
+  "id": "GWAS_9035",
+  "last_updated": "2025-12-24T00:12:31.752423",
+  "odds_ratio": 40.0,
+  "phenotype": "(Insulin)",
+  "pvalue": 6e-07,
+  "references": [],
+  "rsid": "rs12655917",
+  "source": "GWAS",
+  "source_url": null
+}

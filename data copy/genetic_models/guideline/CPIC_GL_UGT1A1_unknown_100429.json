@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "guideline",
+  "drug": null,
+  "effect": "UGT1A1 and Atazanavir",
+  "evidence_level": "unknown",
+  "gene": "UGT1A1",
+  "id": "CPIC_GL_UGT1A1_unknown_100429",
+  "last_updated": "2025-12-24T00:26:50.460970",
+  "odds_ratio": null,
+  "phenotype": null,
+  "pvalue": null,
+  "references": [],
+  "rsid": null,
+  "source": "CPIC",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "guideline",
+  "drug": null,
+  "effect": "RYR1, CACNA1S and Volatile anesthetic agents and Succinylcholine",
+  "evidence_level": "unknown",
+  "gene": "CACNA1S",
+  "id": "CPIC_GL_CACNA1S_unknown_100427",
+  "last_updated": "2025-12-24T00:26:50.460959",
+  "odds_ratio": null,
+  "phenotype": null,
+  "pvalue": null,
+  "references": [],
+  "rsid": null,
+  "source": "CPIC",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "SFXN2",
+  "id": "GWAS_2576",
+  "last_updated": "2025-12-24T00:26:49.609175",
+  "odds_ratio": 1.25,
+  "phenotype": "GWAS association for rs17115100",
+  "pvalue": 7e-08,
+  "references": [],
+  "rsid": "rs17115100",
+  "source": "GWAS",
+  "source_url": null
+}

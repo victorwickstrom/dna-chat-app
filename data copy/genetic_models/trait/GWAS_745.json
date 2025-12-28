@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "BYSL",
+  "id": "GWAS_745",
+  "last_updated": "2025-12-24T00:26:49.591338",
+  "odds_ratio": 0.01,
+  "phenotype": "GWAS association for rs9349205",
+  "pvalue": 8e-20,
+  "references": [],
+  "rsid": "rs9349205",
+  "source": "GWAS",
+  "source_url": null
+}

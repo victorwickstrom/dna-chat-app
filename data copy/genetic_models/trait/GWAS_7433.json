@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "ITPA",
+  "id": "GWAS_7433",
+  "last_updated": "2025-12-24T00:12:31.712748",
+  "odds_ratio": 25.0,
+  "phenotype": "(Change of Hb)",
+  "pvalue": 2e-25,
+  "references": [],
+  "rsid": "rs6139030",
+  "source": "GWAS",
+  "source_url": null
+}

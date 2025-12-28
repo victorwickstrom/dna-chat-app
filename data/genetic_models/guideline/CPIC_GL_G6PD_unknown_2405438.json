@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "guideline",
+  "drug": null,
+  "effect": "G6PD",
+  "evidence_level": "unknown",
+  "gene": "G6PD",
+  "id": "CPIC_GL_G6PD_unknown_2405438",
+  "last_updated": "2025-12-24T00:26:50.460939",
+  "odds_ratio": null,
+  "phenotype": null,
+  "pvalue": null,
+  "references": [],
+  "rsid": null,
+  "source": "CPIC",
+  "source_url": null
+}

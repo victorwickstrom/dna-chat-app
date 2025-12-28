@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "AIPL1",
+  "id": "GWAS_2498",
+  "last_updated": "2025-12-24T00:26:49.608426",
+  "odds_ratio": 0.207,
+  "phenotype": "GWAS association for rs3892315",
+  "pvalue": 9e-07,
+  "references": [],
+  "rsid": "rs3892315",
+  "source": "GWAS",
+  "source_url": null
+}

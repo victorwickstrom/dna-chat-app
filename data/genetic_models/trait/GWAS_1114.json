@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "MYH6",
+  "id": "GWAS_1114",
+  "last_updated": "2025-12-24T00:26:49.594815",
+  "odds_ratio": 5.25,
+  "phenotype": "(HR)",
+  "pvalue": 9e-11,
+  "references": [],
+  "rsid": "rs365990",
+  "source": "GWAS",
+  "source_url": null
+}

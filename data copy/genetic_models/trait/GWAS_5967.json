@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "APOC1",
+  "id": "GWAS_5967",
+  "last_updated": "2025-12-24T00:12:31.676207",
+  "odds_ratio": 8.0,
+  "phenotype": "(activity)",
+  "pvalue": 5.999999999999999e-24,
+  "references": [],
+  "rsid": "rs4420638",
+  "source": "GWAS",
+  "source_url": null
+}

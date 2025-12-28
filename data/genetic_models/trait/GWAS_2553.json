@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "ICAM",
+  "id": "GWAS_2553",
+  "last_updated": "2025-12-24T00:26:49.608972",
+  "odds_ratio": 4.15,
+  "phenotype": "(ICAM)",
+  "pvalue": 4e-23,
+  "references": [],
+  "rsid": "rs3093030",
+  "source": "GWAS",
+  "source_url": null
+}

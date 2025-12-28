@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "LTBP3",
+  "id": "GWAS_4077",
+  "last_updated": "2025-12-24T00:26:49.624208",
+  "odds_ratio": 0.54,
+  "phenotype": "GWAS association for rs6591182",
+  "pvalue": 9e-07,
+  "references": [],
+  "rsid": "rs6591182",
+  "source": "GWAS",
+  "source_url": null
+}

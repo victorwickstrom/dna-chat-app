@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "CNTN6",
+  "id": "GWAS_1598",
+  "last_updated": "2025-12-24T00:26:49.599380",
+  "odds_ratio": null,
+  "phenotype": "(LDL, sum)",
+  "pvalue": 9e-07,
+  "references": [],
+  "rsid": "rs4684585",
+  "source": "GWAS",
+  "source_url": null
+}

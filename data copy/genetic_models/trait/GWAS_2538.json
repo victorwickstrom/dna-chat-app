@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "CCR6",
+  "id": "GWAS_2538",
+  "last_updated": "2025-12-24T00:26:49.608842",
+  "odds_ratio": 1.21,
+  "phenotype": "GWAS association for rs2301436",
+  "pvalue": 1e-12,
+  "references": [],
+  "rsid": "rs2301436",
+  "source": "GWAS",
+  "source_url": null
+}

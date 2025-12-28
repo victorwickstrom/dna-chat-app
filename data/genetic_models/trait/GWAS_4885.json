@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "GNPDA2",
+  "id": "GWAS_4885",
+  "last_updated": "2025-12-24T00:26:49.631644",
+  "odds_ratio": 0.19,
+  "phenotype": "GWAS association for rs10938397",
+  "pvalue": 3e-16,
+  "references": [],
+  "rsid": "rs10938397",
+  "source": "GWAS",
+  "source_url": null
+}

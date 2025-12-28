@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "G6PC2",
+  "id": "GWAS_5776",
+  "last_updated": "2025-12-24T00:12:31.671491",
+  "odds_ratio": 0.15,
+  "phenotype": "(GLU)",
+  "pvalue": 5e-26,
+  "references": [],
+  "rsid": "rs560887",
+  "source": "GWAS",
+  "source_url": null
+}

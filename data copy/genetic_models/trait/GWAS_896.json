@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "TCHH",
+  "id": "GWAS_896",
+  "last_updated": "2025-12-24T00:26:49.592727",
+  "odds_ratio": 0.29,
+  "phenotype": "(hair curl)",
+  "pvalue": 2e-42,
+  "references": [],
+  "rsid": "rs17646946",
+  "source": "GWAS",
+  "source_url": null
+}

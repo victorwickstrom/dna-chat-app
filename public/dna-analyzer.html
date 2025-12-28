@@ -1,0 +1,901 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DNA Riskanalys</title>
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      min-height: 100vh;
+      padding: 20px;
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    header {
+      text-align: center;
+      color: white;
+      margin-bottom: 30px;
+    }
+
+    header h1 {
+      font-size: 2.5rem;
+      margin-bottom: 10px;
+      text-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    }
+
+    header p {
+      opacity: 0.9;
+      font-size: 1.1rem;
+    }
+
+    .upload-section {
+      background: white;
+      border-radius: 16px;
+      padding: 40px;
+      text-align: center;
+      box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+      margin-bottom: 30px;
+    }
+
+    .upload-zone {
+      border: 3px dashed #ddd;
+      border-radius: 12px;
+      padding: 60px 40px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      background: #fafafa;
+    }
+
+    .upload-zone:hover {
+      border-color: #667eea;
+      background: #f0f4ff;
+    }
+
+    .upload-zone.dragover {
+      border-color: #667eea;
+      background: #e8edff;
+      transform: scale(1.02);
+    }
+
+    .upload-icon {
+      font-size: 4rem;
+      margin-bottom: 20px;
+    }
+
+    .upload-zone h3 {
+      color: #333;
+      margin-bottom: 10px;
+    }
+
+    .upload-zone p {
+      color: #666;
+      font-size: 0.95rem;
+    }
+
+    #fileInput {
+      display: none;
+    }
+
+    .btn {
+      display: inline-block;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+      padding: 14px 32px;
+      border-radius: 30px;
+      font-size: 1rem;
+      font-weight: 600;
+      border: none;
+      cursor: pointer;
+      margin-top: 20px;
+      transition: transform 0.2s, box-shadow 0.2s;
+    }
+
+    .btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 20px rgba(102, 126, 234, 0.4);
+    }
+
+    .progress-section {
+      display: none;
+      background: white;
+      border-radius: 16px;
+      padding: 30px;
+      margin-bottom: 30px;
+      box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+    }
+
+    .progress-section.active {
+      display: block;
+    }
+
+    .progress-bar-container {
+      background: #e0e0e0;
+      border-radius: 10px;
+      overflow: hidden;
+      height: 20px;
+      margin: 20px 0;
+    }
+
+    .progress-bar {
+      height: 100%;
+      background: linear-gradient(90deg, #667eea, #764ba2);
+      width: 0%;
+      transition: width 0.3s ease;
+      border-radius: 10px;
+    }
+
+    .progress-text {
+      text-align: center;
+      color: #666;
+      font-size: 0.95rem;
+    }
+
+    .stats-bar {
+      display: flex;
+      justify-content: center;
+      gap: 40px;
+      margin-top: 20px;
+      flex-wrap: wrap;
+    }
+
+    .stat-item {
+      text-align: center;
+    }
+
+    .stat-value {
+      font-size: 2rem;
+      font-weight: 700;
+      color: #333;
+    }
+
+    .stat-label {
+      color: #666;
+      font-size: 0.85rem;
+      margin-top: 4px;
+    }
+
+    .results-section {
+      display: none;
+    }
+
+    .results-section.active {
+      display: block;
+    }
+
+    .results-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 20px;
+      flex-wrap: wrap;
+      gap: 15px;
+    }
+
+    .results-header h2 {
+      color: white;
+      font-size: 1.8rem;
+    }
+
+    .filter-buttons {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+
+    .filter-btn {
+      padding: 10px 20px;
+      border-radius: 20px;
+      border: 2px solid white;
+      background: transparent;
+      color: white;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .filter-btn:hover, .filter-btn.active {
+      background: white;
+      color: #667eea;
+    }
+
+    .results-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+      gap: 20px;
+    }
+
+    .result-card {
+      background: white;
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+      transition: transform 0.2s, box-shadow 0.2s;
+    }
+
+    .result-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 8px 30px rgba(0,0,0,0.2);
+    }
+
+    .card-header {
+      padding: 20px;
+      color: white;
+      position: relative;
+    }
+
+    .card-header.low {
+      background: linear-gradient(135deg, #56ab2f, #a8e063);
+    }
+
+    .card-header.medium {
+      background: linear-gradient(135deg, #f7971e, #ffd200);
+    }
+
+    .card-header.high {
+      background: linear-gradient(135deg, #cb2d3e, #ef473a);
+    }
+
+    .card-category {
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      opacity: 0.9;
+      margin-bottom: 6px;
+    }
+
+    .card-title {
+      font-size: 1.2rem;
+      font-weight: 700;
+      margin-bottom: 8px;
+    }
+
+    .card-risk-badge {
+      display: inline-block;
+      background: rgba(255,255,255,0.25);
+      padding: 4px 12px;
+      border-radius: 12px;
+      font-size: 0.8rem;
+      font-weight: 600;
+    }
+
+    .card-score {
+      position: absolute;
+      top: 20px;
+      right: 20px;
+      background: rgba(255,255,255,0.2);
+      width: 50px;
+      height: 50px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 700;
+      font-size: 1.1rem;
+    }
+
+    .card-body {
+      padding: 20px;
+    }
+
+    .card-explanation {
+      color: #555;
+      line-height: 1.6;
+      font-size: 0.95rem;
+      margin-bottom: 15px;
+    }
+
+    .expand-btn {
+      width: 100%;
+      padding: 12px;
+      background: #f5f5f5;
+      border: none;
+      border-radius: 8px;
+      color: #666;
+      font-weight: 600;
+      cursor: pointer;
+      transition: background 0.2s;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+    }
+
+    .expand-btn:hover {
+      background: #eee;
+    }
+
+    .expand-icon {
+      transition: transform 0.3s;
+    }
+
+    .expand-btn.expanded .expand-icon {
+      transform: rotate(180deg);
+    }
+
+    .card-details {
+      display: none;
+      padding: 0 20px 20px;
+    }
+
+    .card-details.visible {
+      display: block;
+    }
+
+    .snp-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.85rem;
+    }
+
+    .snp-table th {
+      background: #f5f5f5;
+      padding: 10px;
+      text-align: left;
+      font-weight: 600;
+      color: #333;
+    }
+
+    .snp-table td {
+      padding: 10px;
+      border-bottom: 1px solid #eee;
+      color: #555;
+    }
+
+    .snp-table tr:last-child td {
+      border-bottom: none;
+    }
+
+    .match-yes {
+      color: #e74c3c;
+      font-weight: 600;
+    }
+
+    .match-no {
+      color: #27ae60;
+    }
+
+    .no-results {
+      text-align: center;
+      padding: 60px;
+      color: white;
+    }
+
+    .no-results h3 {
+      font-size: 1.5rem;
+      margin-bottom: 10px;
+    }
+
+    @media (max-width: 768px) {
+      header h1 {
+        font-size: 1.8rem;
+      }
+
+      .upload-section {
+        padding: 20px;
+      }
+
+      .upload-zone {
+        padding: 40px 20px;
+      }
+
+      .results-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .stats-bar {
+        gap: 20px;
+      }
+
+      .stat-value {
+        font-size: 1.5rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>🧬 DNA Riskanalys</h1>
+      <p>Ladda upp din DNA-fil för att analysera genetiska riskfaktorer</p>
+    </header>
+
+    <section class="upload-section" id="uploadSection">
+      <div class="upload-zone" id="uploadZone">
+        <div class="upload-icon">📁</div>
+        <h3>Släpp din DNA-fil här</h3>
+        <p>Stödjer 23andMe, AncestryDNA, MyHeritage (txt/csv format)</p>
+        <button class="btn" onclick="document.getElementById('fileInput').click()">Välj fil</button>
+        <input type="file" id="fileInput" accept=".txt,.csv,.zip">
+      </div>
+    </section>
+
+    <section class="progress-section" id="progressSection">
+      <h3 style="text-align: center; margin-bottom: 10px;">🔬 Analyserar din DNA...</h3>
+      <div class="progress-bar-container">
+        <div class="progress-bar" id="progressBar"></div>
+      </div>
+      <p class="progress-text" id="progressText">Läser in DNA-fil...</p>
+      <div class="stats-bar" id="statsBar" style="display: none;">
+        <div class="stat-item">
+          <div class="stat-value" id="snpCount">0</div>
+          <div class="stat-label">SNP:er inlästa</div>
+        </div>
+        <div class="stat-item">
+          <div class="stat-value" id="modelCount">0</div>
+          <div class="stat-label">Modeller analyserade</div>
+        </div>
+        <div class="stat-item">
+          <div class="stat-value" id="riskCount">0</div>
+          <div class="stat-label">Risker identifierade</div>
+        </div>
+      </div>
+    </section>
+
+    <section class="results-section" id="resultsSection">
+      <div class="results-header">
+        <h2>📊 Analysresultat</h2>
+        <div class="filter-buttons">
+          <button class="filter-btn active" data-filter="all">Alla</button>
+          <button class="filter-btn" data-filter="high">🔴 Hög risk</button>
+          <button class="filter-btn" data-filter="medium">🟠 Medel</button>
+          <button class="filter-btn" data-filter="low">🟢 Låg</button>
+        </div>
+      </div>
+      <div class="results-grid" id="resultsGrid"></div>
+    </section>
+  </div>
+
+  <script>
+    // ============================================
+    // EXAMPLE GENETIC MODELS (replace with your 100 JSON files)
+    // ============================================
+    const models = [
+      {
+        id: "glaucoma_primary_open_angle",
+        name: "Primärt öppenvinkelglaukom",
+        category: "eye",
+        snps: [
+          { rsid: "rs1063192", riskAllele: "C", weight: 1.2 },
+          { rsid: "rs2165241", riskAllele: "T", weight: 0.8 },
+          { rsid: "rs4977756", riskAllele: "A", weight: 1.0 }
+        ],
+        thresholds: { low: 1.5, medium: 2.5 },
+        interpretation: {
+          low: "Din genetiska risk för primärt öppenvinkelglaukom verkar vara låg baserat på de analyserade varianterna.",
+          medium: "Du har några genetiska markörer associerade med ökad risk för glaukom. Regelbundna ögonundersökningar rekommenderas.",
+          high: "Flera riskalleler för glaukom hittades. Konsultera en ögonläkare för regelbunden screening."
+        }
+      },
+      {
+        id: "celiac_disease",
+        name: "Celiaki (Glutenintolerans)",
+        category: "autoimmune",
+        snps: [
+          { rsid: "rs2187668", riskAllele: "T", weight: 2.0 },
+          { rsid: "rs7454108", riskAllele: "C", weight: 1.5 },
+          { rsid: "rs2395182", riskAllele: "T", weight: 1.0 }
+        ],
+        thresholds: { low: 2.0, medium: 3.5 },
+        interpretation: {
+          low: "Låg genetisk predisposition för celiaki. HLA-DQ2/DQ8-markörer verkar frånvarande.",
+          medium: "Måttlig genetisk risk för celiaki. Om du upplever symptom vid glutenintag, överväg att testa dig.",
+          high: "Du bär på HLA-gener starkt kopplade till celiaki. Detta betyder inte att du har celiaki, men risken är förhöjd."
+        }
+      },
+      {
+        id: "lactose_intolerance",
+        name: "Laktosintolerans",
+        category: "metabolism",
+        snps: [
+          { rsid: "rs4988235", riskAllele: "G", weight: 3.0 },
+          { rsid: "rs182549", riskAllele: "C", weight: 2.0 }
+        ],
+        thresholds: { low: 2.0, medium: 4.0 },
+        interpretation: {
+          low: "Du har sannolikt laktaspersistens (kan smälta laktos som vuxen).",
+          medium: "Viss genetisk indikation på nedsatt laktasproduktion. Du kan vara delvis laktosintolerant.",
+          high: "Starkt genetiskt stöd för laktosintolerans. Överväg laktosfria alternativ."
+        }
+      },
+      {
+        id: "caffeine_metabolism",
+        name: "Koffeinmetabolism",
+        category: "metabolism",
+        snps: [
+          { rsid: "rs762551", riskAllele: "C", weight: 2.0 },
+          { rsid: "rs2472297", riskAllele: "T", weight: 1.0 }
+        ],
+        thresholds: { low: 1.0, medium: 2.0 },
+        interpretation: {
+          low: "Du är sannolikt en snabb koffeinmetaboliserare. Kaffe påverkar dig mindre.",
+          medium: "Normal koffeinmetabolism. Måttligt koffeintag rekommenderas.",
+          high: "Du metaboliserar koffein långsamt. Kaffe sent på dagen kan påverka din sömn mer."
+        }
+      },
+      {
+        id: "vitamin_d_deficiency",
+        name: "Vitamin D-brist",
+        category: "nutrition",
+        snps: [
+          { rsid: "rs2282679", riskAllele: "C", weight: 1.5 },
+          { rsid: "rs12785878", riskAllele: "T", weight: 1.2 },
+          { rsid: "rs10741657", riskAllele: "A", weight: 1.0 }
+        ],
+        thresholds: { low: 1.5, medium: 3.0 },
+        interpretation: {
+          low: "Låg genetisk risk för vitamin D-brist. Normal sol-exponering bör räcka.",
+          medium: "Måttlig genetisk predisposition för låga D-vitaminnivåer. Överväg tillskott vintertid.",
+          high: "Genetiska varianter indikerar risk för D-vitaminbrist. Regelbunden testning och tillskott rekommenderas."
+        }
+      },
+      {
+        id: "type2_diabetes",
+        name: "Typ 2-diabetes",
+        category: "metabolic",
+        snps: [
+          { rsid: "rs7903146", riskAllele: "T", weight: 1.4 },
+          { rsid: "rs1801282", riskAllele: "C", weight: 1.2 },
+          { rsid: "rs5219", riskAllele: "T", weight: 1.0 }
+        ],
+        thresholds: { low: 1.5, medium: 2.8 },
+        interpretation: {
+          low: "Låg genetisk risk för typ 2-diabetes. Bibehåll en hälsosam livsstil.",
+          medium: "Vissa riskalleler för diabetes finns. Motion och balanserad kost minskar risken.",
+          high: "Förhöjd genetisk risk för typ 2-diabetes. Regelbunden blodsockerkontroll rekommenderas."
+        }
+      }
+    ];
+
+    // ============================================
+    // CATEGORY LABELS
+    // ============================================
+    const categoryLabels = {
+      eye: "👁️ Ögon",
+      autoimmune: "🛡️ Autoimmun",
+      metabolism: "⚡ Metabolism",
+      nutrition: "🥗 Näring",
+      metabolic: "🩺 Metabol",
+      cardiovascular: "❤️ Hjärta",
+      neurological: "🧠 Neurologisk",
+      skin: "🧴 Hud"
+    };
+
+    // ============================================
+    // DNA FILE PARSER
+    // ============================================
+    function parseDNAFile(content) {
+      const snpMap = new Map();
+      const lines = content.split(/\r?\n/);
+      
+      for (const line of lines) {
+        // Skip comments and headers
+        if (line.startsWith('#') || line.startsWith('rsid') || line.trim() === '') {
+          continue;
+        }
+        
+        // Split by tab, comma, or multiple spaces
+        const columns = line.split(/[\t,]+|\s{2,}/).map(c => c.trim().replace(/"/g, ''));
+        
+        if (columns.length >= 4) {
+          const rsid = columns[0].toLowerCase();
+          // Handle different formats: some have allele1, allele2 separate, some combined
+          let genotype = '';
+          
+          if (columns.length >= 5) {
+            // Format: rsid, chromosome, position, allele1, allele2
+            genotype = (columns[3] + columns[4]).toUpperCase();
+          } else {
+            // Format: rsid, chromosome, position, genotype
+            genotype = columns[3].toUpperCase();
+          }
+          
+          if (rsid.startsWith('rs') && genotype && genotype !== '--' && genotype !== '00') {
+            snpMap.set(rsid, genotype);
+          }
+        }
+      }
+      
+      return snpMap;
+    }
+
+    // ============================================
+    // RISK ANALYSIS ENGINE
+    // ============================================
+    function countRiskAlleles(genotype, riskAllele) {
+      if (!genotype) return 0;
+      let count = 0;
+      for (const allele of genotype) {
+        if (allele.toUpperCase() === riskAllele.toUpperCase()) {
+          count++;
+        }
+      }
+      return count;
+    }
+
+    function analyzeDNA(snpMap, models) {
+      const results = [];
+      
+      for (const model of models) {
+        let totalScore = 0;
+        const snpDetails = [];
+        let matchedSnps = 0;
+        
+        for (const snp of model.snps) {
+          const rsidLower = snp.rsid.toLowerCase();
+          const genotype = snpMap.get(rsidLower);
+          const riskCount = countRiskAlleles(genotype, snp.riskAllele);
+          const snpScore = riskCount * snp.weight;
+          totalScore += snpScore;
+          
+          if (genotype) {
+            matchedSnps++;
+          }
+          
+          snpDetails.push({
+            rsid: snp.rsid,
+            riskAllele: snp.riskAllele,
+            weight: snp.weight,
+            yourGenotype: genotype || 'Ej hittad',
+            riskAlleleCount: riskCount,
+            contribution: snpScore.toFixed(2)
+          });
+        }
+        
+        // Determine risk level
+        const thresholds = model.thresholds || { low: 1.5, medium: 3.0 };
+        let riskLevel = 'low';
+        if (totalScore >= thresholds.medium) {
+          riskLevel = 'high';
+        } else if (totalScore >= thresholds.low) {
+          riskLevel = 'medium';
+        }
+        
+        results.push({
+          modelId: model.id,
+          name: model.name || formatModelId(model.id),
+          category: model.category,
+          categoryLabel: categoryLabels[model.category] || model.category,
+          riskLevel,
+          score: totalScore.toFixed(2),
+          explanation: model.interpretation[riskLevel],
+          snpDetails,
+          matchedSnps,
+          totalSnps: model.snps.length
+        });
+      }
+      
+      // Sort by risk level (high first), then by score
+      const riskOrder = { high: 0, medium: 1, low: 2 };
+      results.sort((a, b) => {
+        if (riskOrder[a.riskLevel] !== riskOrder[b.riskLevel]) {
+          return riskOrder[a.riskLevel] - riskOrder[b.riskLevel];
+        }
+        return parseFloat(b.score) - parseFloat(a.score);
+      });
+      
+      return results;
+    }
+
+    function formatModelId(id) {
+      return id
+        .split('_')
+        .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+        .join(' ');
+    }
+
+    // ============================================
+    // UI RENDERING
+    // ============================================
+    function renderResults(results) {
+      const grid = document.getElementById('resultsGrid');
+      grid.innerHTML = '';
+      
+      if (results.length === 0) {
+        grid.innerHTML = `
+          <div class="no-results">
+            <h3>Inga resultat att visa</h3>
+            <p>Prova ett annat filter</p>
+          </div>
+        `;
+        return;
+      }
+      
+      for (const result of results) {
+        const card = document.createElement('div');
+        card.className = 'result-card';
+        card.dataset.risk = result.riskLevel;
+        
+        const riskLabels = {
+          low: '🟢 Låg risk',
+          medium: '🟠 Medel risk',
+          high: '🔴 Hög risk'
+        };
+        
+        card.innerHTML = `
+          <div class="card-header ${result.riskLevel}">
+            <div class="card-category">${result.categoryLabel}</div>
+            <div class="card-title">${result.name}</div>
+            <div class="card-risk-badge">${riskLabels[result.riskLevel]}</div>
+            <div class="card-score">${result.score}</div>
+          </div>
+          <div class="card-body">
+            <p class="card-explanation">${result.explanation}</p>
+            <button class="expand-btn" onclick="toggleDetails(this)">
+              <span>Visa SNP-detaljer</span>
+              <span class="expand-icon">▼</span>
+            </button>
+          </div>
+          <div class="card-details">
+            <table class="snp-table">
+              <thead>
+                <tr>
+                  <th>RSID</th>
+                  <th>Din genotyp</th>
+                  <th>Riskallel</th>
+                  <th>Match</th>
+                  <th>Bidrag</th>
+                </tr>
+              </thead>
+              <tbody>
+                ${result.snpDetails.map(snp => `
+                  <tr>
+                    <td><code>${snp.rsid}</code></td>
+                    <td>${snp.yourGenotype}</td>
+                    <td>${snp.riskAllele}</td>
+                    <td class="${snp.riskAlleleCount > 0 ? 'match-yes' : 'match-no'}">
+                      ${snp.riskAlleleCount > 0 ? `Ja (${snp.riskAlleleCount}x)` : 'Nej'}
+                    </td>
+                    <td>${snp.contribution}</td>
+                  </tr>
+                `).join('')}
+              </tbody>
+            </table>
+          </div>
+        `;
+        
+        grid.appendChild(card);
+      }
+    }
+
+    function toggleDetails(btn) {
+      const details = btn.closest('.result-card').querySelector('.card-details');
+      details.classList.toggle('visible');
+      btn.classList.toggle('expanded');
+      btn.querySelector('span:first-child').textContent = 
+        details.classList.contains('visible') ? 'Dölj SNP-detaljer' : 'Visa SNP-detaljer';
+    }
+
+    // ============================================
+    // FILTER FUNCTIONALITY
+    // ============================================
+    let allResults = [];
+
+    function setupFilters() {
+      const filterBtns = document.querySelectorAll('.filter-btn');
+      filterBtns.forEach(btn => {
+        btn.addEventListener('click', () => {
+          filterBtns.forEach(b => b.classList.remove('active'));
+          btn.classList.add('active');
+          
+          const filter = btn.dataset.filter;
+          const filtered = filter === 'all' 
+            ? allResults 
+            : allResults.filter(r => r.riskLevel === filter);
+          
+          renderResults(filtered);
+        });
+      });
+    }
+
+    // ============================================
+    // FILE UPLOAD HANDLING
+    // ============================================
+    function updateProgress(percent, text) {
+      document.getElementById('progressBar').style.width = percent + '%';
+      document.getElementById('progressText').textContent = text;
+    }
+
+    async function handleFile(file) {
+      const uploadSection = document.getElementById('uploadSection');
+      const progressSection = document.getElementById('progressSection');
+      const resultsSection = document.getElementById('resultsSection');
+      
+      uploadSection.style.display = 'none';
+      progressSection.classList.add('active');
+      resultsSection.classList.remove('active');
+      
+      updateProgress(10, 'Läser fil...');
+      
+      try {
+        let content = await file.text();
+        
+        updateProgress(30, 'Parserar DNA-data...');
+        await sleep(300);
+        
+        const snpMap = parseDNAFile(content);
+        document.getElementById('snpCount').textContent = snpMap.size.toLocaleString();
+        
+        updateProgress(50, 'Kör riskanalyser...');
+        await sleep(300);
+        
+        allResults = analyzeDNA(snpMap, models);
+        
+        document.getElementById('modelCount').textContent = models.length;
+        document.getElementById('riskCount').textContent = 
+          allResults.filter(r => r.riskLevel !== 'low').length;
+        
+        updateProgress(80, 'Genererar rapport...');
+        await sleep(300);
+        
+        document.getElementById('statsBar').style.display = 'flex';
+        
+        updateProgress(100, 'Analys klar!');
+        await sleep(500);
+        
+        progressSection.classList.remove('active');
+        resultsSection.classList.add('active');
+        
+        renderResults(allResults);
+        
+      } catch (error) {
+        console.error('Error:', error);
+        alert('Kunde inte läsa filen. Kontrollera att det är en giltig DNA-fil.');
+        uploadSection.style.display = 'block';
+        progressSection.classList.remove('active');
+      }
+    }
+
+    function sleep(ms) {
+      return new Promise(resolve => setTimeout(resolve, ms));
+    }
+
+    // ============================================
+    // EVENT LISTENERS
+    // ============================================
+    document.addEventListener('DOMContentLoaded', () => {
+      const uploadZone = document.getElementById('uploadZone');
+      const fileInput = document.getElementById('fileInput');
+      
+      // File input change
+      fileInput.addEventListener('change', (e) => {
+        if (e.target.files.length > 0) {
+          handleFile(e.target.files[0]);
+        }
+      });
+      
+      // Drag and drop
+      uploadZone.addEventListener('dragover', (e) => {
+        e.preventDefault();
+        uploadZone.classList.add('dragover');
+      });
+      
+      uploadZone.addEventListener('dragleave', () => {
+        uploadZone.classList.remove('dragover');
+      });
+      
+      uploadZone.addEventListener('drop', (e) => {
+        e.preventDefault();
+        uploadZone.classList.remove('dragover');
+        if (e.dataTransfer.files.length > 0) {
+          handleFile(e.dataTransfer.files[0]);
+        }
+      });
+      
+      // Setup filters
+      setupFilters();
+    });
+  </script>
+</body>
+</html>

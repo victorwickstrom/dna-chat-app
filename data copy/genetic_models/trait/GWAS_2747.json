@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "NDRG4",
+  "id": "GWAS_2747",
+  "last_updated": "2025-12-24T00:26:49.611281",
+  "odds_ratio": 1.66,
+  "phenotype": "GWAS association for rs7188697",
+  "pvalue": 7e-25,
+  "references": [],
+  "rsid": "rs7188697",
+  "source": "GWAS",
+  "source_url": null
+}

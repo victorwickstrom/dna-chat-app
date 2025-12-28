@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "CAV1",
+  "id": "GWAS_1112",
+  "last_updated": "2025-12-24T00:26:49.594796",
+  "odds_ratio": 6.4,
+  "phenotype": "(PR interval)",
+  "pvalue": 7e-13,
+  "references": [],
+  "rsid": "rs3807989",
+  "source": "GWAS",
+  "source_url": null
+}

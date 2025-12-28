@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "LRRK2",
+  "id": "GWAS_7173",
+  "last_updated": "2025-12-24T00:12:31.706426",
+  "odds_ratio": 1.17,
+  "phenotype": "(EA)",
+  "pvalue": 6.0000000000000005e-15,
+  "references": [],
+  "rsid": "rs1491942",
+  "source": "GWAS",
+  "source_url": null
+}

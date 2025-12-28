@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "SLC14A2",
+  "id": "GWAS_2822",
+  "last_updated": "2025-12-24T00:26:49.612005",
+  "odds_ratio": 0.04,
+  "phenotype": "(albumin)",
+  "pvalue": 7e-06,
+  "references": [],
+  "rsid": "rs10502868",
+  "source": "GWAS",
+  "source_url": null
+}

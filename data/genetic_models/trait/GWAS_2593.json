@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "STAT4",
+  "id": "GWAS_2593",
+  "last_updated": "2025-12-24T00:26:49.609340",
+  "odds_ratio": 1.77,
+  "phenotype": "(anti-dsDNA +)",
+  "pvalue": 2e-20,
+  "references": [],
+  "rsid": "rs7574865",
+  "source": "GWAS",
+  "source_url": null
+}

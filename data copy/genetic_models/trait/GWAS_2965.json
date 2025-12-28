@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "FRMD6",
+  "id": "GWAS_2965",
+  "last_updated": "2025-12-24T00:26:49.613303",
+  "odds_ratio": null,
+  "phenotype": "GWAS association for rs11626056",
+  "pvalue": 1e-06,
+  "references": [],
+  "rsid": "rs11626056",
+  "source": "GWAS",
+  "source_url": null
+}

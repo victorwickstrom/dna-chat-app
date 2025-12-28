@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "GCKR",
+  "id": "GWAS_3790",
+  "last_updated": "2025-12-24T00:26:49.621499",
+  "odds_ratio": 0.05,
+  "phenotype": "GWAS association for rs780094",
+  "pvalue": 1e-09,
+  "references": [],
+  "rsid": "rs780094",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "MOV10",
+  "id": "GWAS_8503",
+  "last_updated": "2025-12-24T00:12:31.739336",
+  "odds_ratio": 0.252,
+  "phenotype": "(Mean Arterial Pressure)",
+  "pvalue": 8e-06,
+  "references": [],
+  "rsid": "rs2932538",
+  "source": "GWAS",
+  "source_url": null
+}

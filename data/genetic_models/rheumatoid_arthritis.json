@@ -1,0 +1,35 @@
+{
+  "id": "rheumatoid_arthritis",
+  "category": "autoimmune",
+  "snps": [
+    {
+      "rsid": "rs660895",
+      "riskAllele": "G",
+      "weight": 2.0
+    },
+    {
+      "rsid": "rs2476601",
+      "riskAllele": "T",
+      "weight": 1.8
+    },
+    {
+      "rsid": "rs540386",
+      "riskAllele": "C",
+      "weight": 1.3
+    }
+  ],
+  "population": "ALL",
+  "interpretation": {
+    "low": "L\u00e5g genetisk risk f\u00f6r rheumatoid arthritis.",
+    "medium": "M\u00e5ttlig risk f\u00f6r rheumatoid arthritis.",
+    "high": "H\u00f6g genetisk risk f\u00f6r rheumatoid arthritis; flera riskalleler p\u00e5tr\u00e4ffade."
+  },
+  "evidence": [
+    {
+      "source": "GWAS",
+      "pubmed": "19381304"
+    }
+  ],
+  "severity": "medical",
+  "confidence": "high"
+}

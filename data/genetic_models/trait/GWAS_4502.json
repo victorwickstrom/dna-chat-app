@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "UGT1A",
+  "id": "GWAS_4502",
+  "last_updated": "2025-12-24T00:26:49.628162",
+  "odds_ratio": 1.19,
+  "phenotype": "GWAS association for rs11892031",
+  "pvalue": 1e-07,
+  "references": [],
+  "rsid": "rs11892031",
+  "source": "GWAS",
+  "source_url": null
+}

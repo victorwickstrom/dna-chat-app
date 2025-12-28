@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "C5ORF23",
+  "id": "GWAS_8509",
+  "last_updated": "2025-12-24T00:12:31.739468",
+  "odds_ratio": 0.276,
+  "phenotype": "(Pulse Pressure)",
+  "pvalue": 5e-09,
+  "references": [],
+  "rsid": "rs1173771",
+  "source": "GWAS",
+  "source_url": null
+}

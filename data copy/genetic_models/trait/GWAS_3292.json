@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "PDGFD",
+  "id": "GWAS_3292",
+  "last_updated": "2025-12-24T00:26:49.616190",
+  "odds_ratio": 1.07,
+  "phenotype": "GWAS association for rs974819",
+  "pvalue": 2e-09,
+  "references": [],
+  "rsid": "rs974819",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "DEFA",
+  "id": "GWAS_864",
+  "last_updated": "2025-12-24T00:26:49.592433",
+  "odds_ratio": 1.257,
+  "phenotype": "GWAS association for rs9314614",
+  "pvalue": 5.0000000000000005e-22,
+  "references": [],
+  "rsid": "rs9314614",
+  "source": "GWAS",
+  "source_url": null
+}

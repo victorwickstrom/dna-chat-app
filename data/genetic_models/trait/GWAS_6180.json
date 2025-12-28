@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "GPR35",
+  "id": "GWAS_6180",
+  "last_updated": "2025-12-24T00:12:31.680423",
+  "odds_ratio": 1.38,
+  "phenotype": "(PSC)",
+  "pvalue": 2e-09,
+  "references": [],
+  "rsid": "rs4676410",
+  "source": "GWAS",
+  "source_url": null
+}

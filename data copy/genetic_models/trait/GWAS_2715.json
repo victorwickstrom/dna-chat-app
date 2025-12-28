@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "TGM5",
+  "id": "GWAS_2715",
+  "last_updated": "2025-12-24T00:26:49.610914",
+  "odds_ratio": 1.15,
+  "phenotype": "GWAS association for rs748404",
+  "pvalue": 1e-06,
+  "references": [],
+  "rsid": "rs748404",
+  "source": "GWAS",
+  "source_url": null
+}

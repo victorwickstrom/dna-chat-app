@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "SCN5A",
+  "id": "GWAS_728",
+  "last_updated": "2025-12-24T00:26:49.591121",
+  "odds_ratio": 1.23,
+  "phenotype": "GWAS association for rs12053903",
+  "pvalue": 1e-14,
+  "references": [],
+  "rsid": "rs12053903",
+  "source": "GWAS",
+  "source_url": null
+}

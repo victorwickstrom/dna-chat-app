@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "AK3",
+  "id": "GWAS_366",
+  "last_updated": "2025-12-24T00:26:49.586144",
+  "odds_ratio": 6.26,
+  "phenotype": "(PLT)",
+  "pvalue": 9.000000000000001e-17,
+  "references": [],
+  "rsid": "rs385893",
+  "source": "GWAS",
+  "source_url": null
+}

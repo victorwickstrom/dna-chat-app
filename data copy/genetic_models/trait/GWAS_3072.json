@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "RUFY1",
+  "id": "GWAS_3072",
+  "last_updated": "2025-12-24T00:26:49.614215",
+  "odds_ratio": 1.439,
+  "phenotype": "(Body Dissatisfaction)",
+  "pvalue": 3e-06,
+  "references": [],
+  "rsid": "rs6894268",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "GRIN2B",
+  "id": "GWAS_7369",
+  "last_updated": "2025-12-24T00:12:31.711391",
+  "odds_ratio": null,
+  "phenotype": "(FSH levels - EA)",
+  "pvalue": 9e-07,
+  "references": [],
+  "rsid": "rs6488619",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "CNTNAP2",
+  "id": "GWAS_1539",
+  "last_updated": "2025-12-24T00:26:49.598853",
+  "odds_ratio": 0.36,
+  "phenotype": "GWAS association for rs6960319",
+  "pvalue": 7e-06,
+  "references": [],
+  "rsid": "rs6960319",
+  "source": "GWAS",
+  "source_url": null
+}

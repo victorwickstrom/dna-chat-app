@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "KIAA1804",
+  "id": "GWAS_1667",
+  "last_updated": "2025-12-24T00:26:49.600028",
+  "odds_ratio": 12.3,
+  "phenotype": "(Red)",
+  "pvalue": 3e-07,
+  "references": [],
+  "rsid": "rs11800854",
+  "source": "GWAS",
+  "source_url": null
+}

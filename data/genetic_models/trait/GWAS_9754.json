@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "C9ORF72",
+  "id": "GWAS_9754",
+  "last_updated": "2025-12-24T00:12:31.766526",
+  "odds_ratio": 1.21,
+  "phenotype": "(Joint)",
+  "pvalue": 4e-07,
+  "references": [],
+  "rsid": "rs3849942",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "PCDH9",
+  "id": "GWAS_8834",
+  "last_updated": "2025-12-24T00:12:31.747294",
+  "odds_ratio": 0.5048,
+  "phenotype": "(FEV1/FVC decline in non-asthmatics)",
+  "pvalue": 4e-06,
+  "references": [],
+  "rsid": "rs17077331",
+  "source": "GWAS",
+  "source_url": null
+}

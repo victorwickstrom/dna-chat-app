@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "TERT",
+  "id": "GWAS_3449",
+  "last_updated": "2025-12-24T00:26:49.617619",
+  "odds_ratio": 1.21,
+  "phenotype": "GWAS association for rs401681",
+  "pvalue": 9e-13,
+  "references": [],
+  "rsid": "rs401681",
+  "source": "GWAS",
+  "source_url": null
+}

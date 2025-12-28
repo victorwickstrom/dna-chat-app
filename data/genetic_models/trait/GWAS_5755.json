@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "CACNA1D",
+  "id": "GWAS_5755",
+  "last_updated": "2025-12-24T00:12:31.671067",
+  "odds_ratio": 16.0,
+  "phenotype": "(HOMA-IR)",
+  "pvalue": 4.9999999999999996e-06,
+  "references": [],
+  "rsid": "rs1401492",
+  "source": "GWAS",
+  "source_url": null
+}

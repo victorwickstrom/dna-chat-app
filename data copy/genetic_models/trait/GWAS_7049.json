@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "PAQR9",
+  "id": "GWAS_7049",
+  "last_updated": "2025-12-24T00:12:31.704015",
+  "odds_ratio": null,
+  "phenotype": "(proportions)",
+  "pvalue": 5.999999999999999e-29,
+  "references": [],
+  "rsid": "rs9832727",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "NOTCH4",
+  "id": "GWAS_6535",
+  "last_updated": "2025-12-24T00:12:31.690231",
+  "odds_ratio": 1.82,
+  "phenotype": "(ACA positive)",
+  "pvalue": 9e-21,
+  "references": [],
+  "rsid": "rs443198",
+  "source": "GWAS",
+  "source_url": null
+}

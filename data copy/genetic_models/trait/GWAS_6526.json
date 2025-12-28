@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "CHRNB4",
+  "id": "GWAS_6526",
+  "last_updated": "2025-12-24T00:12:31.690037",
+  "odds_ratio": 1.09,
+  "phenotype": "(Additive)",
+  "pvalue": 4e-07,
+  "references": [],
+  "rsid": "rs950776",
+  "source": "GWAS",
+  "source_url": null
+}

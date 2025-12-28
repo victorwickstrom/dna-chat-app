@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "MHC",
+  "id": "GWAS_1146",
+  "last_updated": "2025-12-24T00:26:49.595076",
+  "odds_ratio": null,
+  "phenotype": "GWAS association for rs7743761",
+  "pvalue": 5e-304,
+  "references": [],
+  "rsid": "rs7743761",
+  "source": "GWAS",
+  "source_url": null
+}

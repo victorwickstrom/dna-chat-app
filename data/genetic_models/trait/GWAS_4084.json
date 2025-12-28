@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "ATP5SL",
+  "id": "GWAS_4084",
+  "last_updated": "2025-12-24T00:26:49.624264",
+  "odds_ratio": 1.11,
+  "phenotype": "(Aggressive)",
+  "pvalue": 1e-08,
+  "references": [],
+  "rsid": "rs11672691",
+  "source": "GWAS",
+  "source_url": null
+}

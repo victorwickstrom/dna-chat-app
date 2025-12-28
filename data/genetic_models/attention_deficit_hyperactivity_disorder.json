@@ -1,0 +1,35 @@
+{
+  "id": "attention_deficit_hyperactivity_disorder",
+  "category": "neurodevelopmental",
+  "snps": [
+    {
+      "rsid": "rs1800955",
+      "riskAllele": "C",
+      "weight": 1.5
+    },
+    {
+      "rsid": "rs28363170",
+      "riskAllele": "R",
+      "weight": 1.4
+    },
+    {
+      "rsid": "rs2275523",
+      "riskAllele": "A",
+      "weight": 1.2
+    }
+  ],
+  "population": "ALL",
+  "interpretation": {
+    "low": "L\u00e5g genetisk risk f\u00f6r attention deficit hyperactivity disorder.",
+    "medium": "M\u00e5ttlig risk f\u00f6r attention deficit hyperactivity disorder.",
+    "high": "H\u00f6g genetisk risk f\u00f6r attention deficit hyperactivity disorder; flera riskalleler p\u00e5tr\u00e4ffade."
+  },
+  "evidence": [
+    {
+      "source": "GWAS",
+      "pubmed": "20445560"
+    }
+  ],
+  "severity": "medical",
+  "confidence": "moderate"
+}

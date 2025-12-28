@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "STARD3NL",
+  "id": "GWAS_6749",
+  "last_updated": "2025-12-24T00:12:31.696488",
+  "odds_ratio": null,
+  "phenotype": "(AG vs. not AG)",
+  "pvalue": 6e-06,
+  "references": [],
+  "rsid": "rs4723738",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "PARD6A",
+  "id": "GWAS_9070",
+  "last_updated": "2025-12-24T00:12:31.752914",
+  "odds_ratio": 0.04,
+  "phenotype": "(MCP1 )",
+  "pvalue": 4e-06,
+  "references": [],
+  "rsid": "rs7204371",
+  "source": "GWAS",
+  "source_url": null
+}

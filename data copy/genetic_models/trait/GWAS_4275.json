@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "MTNR1B",
+  "id": "GWAS_4275",
+  "last_updated": "2025-12-24T00:26:49.626016",
+  "odds_ratio": 0.03,
+  "phenotype": "GWAS association for rs1387153",
+  "pvalue": 4e-11,
+  "references": [],
+  "rsid": "rs1387153",
+  "source": "GWAS",
+  "source_url": null
+}

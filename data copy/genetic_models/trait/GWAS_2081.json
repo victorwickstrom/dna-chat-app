@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "ULBP3",
+  "id": "GWAS_2081",
+  "last_updated": "2025-12-24T00:26:49.604548",
+  "odds_ratio": 1.65,
+  "phenotype": "GWAS association for rs9479482",
+  "pvalue": 4e-19,
+  "references": [],
+  "rsid": "rs9479482",
+  "source": "GWAS",
+  "source_url": null
+}

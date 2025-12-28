@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "ETFDH",
+  "id": "GWAS_1073",
+  "last_updated": "2025-12-24T00:26:49.594424",
+  "odds_ratio": 0.102,
+  "phenotype": "(C14:1-OH/C10)",
+  "pvalue": 4e-24,
+  "references": [],
+  "rsid": "rs8396",
+  "source": "GWAS",
+  "source_url": null
+}

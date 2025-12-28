@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "KCNQ1",
+  "id": "GWAS_388",
+  "last_updated": "2025-12-24T00:26:49.586466",
+  "odds_ratio": 1.33,
+  "phenotype": "GWAS association for rs2237892",
+  "pvalue": 1e-26,
+  "references": [],
+  "rsid": "rs2237892",
+  "source": "GWAS",
+  "source_url": null
+}

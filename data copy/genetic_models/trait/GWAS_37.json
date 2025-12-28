@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "MGC45800",
+  "id": "GWAS_37",
+  "last_updated": "2025-12-24T00:26:49.583249",
+  "odds_ratio": 1.37,
+  "phenotype": "GWAS association for rs7672826",
+  "pvalue": 8e-06,
+  "references": [],
+  "rsid": "rs7672826",
+  "source": "GWAS",
+  "source_url": null
+}

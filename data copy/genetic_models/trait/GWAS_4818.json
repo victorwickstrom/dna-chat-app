@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "SLC22A1",
+  "id": "GWAS_4818",
+  "last_updated": "2025-12-24T00:26:49.631053",
+  "odds_ratio": 0.155,
+  "phenotype": "(isobutyrylcarnitine + 3 other traits)",
+  "pvalue": 7e-25,
+  "references": [],
+  "rsid": "rs662138",
+  "source": "GWAS",
+  "source_url": null
+}

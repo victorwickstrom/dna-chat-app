@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "SPATA5L1",
+  "id": "GWAS_1047",
+  "last_updated": "2025-12-24T00:26:49.594196",
+  "odds_ratio": 0.01,
+  "phenotype": "(eGFRcrea)",
+  "pvalue": 6e-14,
+  "references": [],
+  "rsid": "rs2467853",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "gene",
+  "drug": null,
+  "effect": "Chromosome: chrX",
+  "evidence_level": "unknown",
+  "gene": "HPRT1",
+  "id": "CPIC_gene_HPRT1_31",
+  "last_updated": "2025-12-24T00:26:50.459091",
+  "odds_ratio": null,
+  "phenotype": null,
+  "pvalue": null,
+  "references": [],
+  "rsid": null,
+  "source": "CPIC",
+  "source_url": null
+}

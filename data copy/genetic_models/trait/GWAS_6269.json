@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "HLA",
+  "id": "GWAS_6269",
+  "last_updated": "2025-12-24T00:12:31.682211",
+  "odds_ratio": 2.17,
+  "phenotype": "(ATA positive)",
+  "pvalue": 2e-27,
+  "references": [],
+  "rsid": "rs3129882",
+  "source": "GWAS",
+  "source_url": null
+}

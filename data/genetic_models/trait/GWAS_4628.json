@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "LIPG",
+  "id": "GWAS_4628",
+  "last_updated": "2025-12-24T00:26:49.629347",
+  "odds_ratio": 0.11,
+  "phenotype": "(XL-HDL-TG)",
+  "pvalue": 6.999999999999999e-11,
+  "references": [],
+  "rsid": "rs7228085",
+  "source": "GWAS",
+  "source_url": null
+}

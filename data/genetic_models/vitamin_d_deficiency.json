@@ -1,0 +1,35 @@
+{
+  "id": "vitamin_d_deficiency",
+  "category": "trait",
+  "snps": [
+    {
+      "rsid": "rs7041",
+      "riskAllele": "T",
+      "weight": 1.4
+    },
+    {
+      "rsid": "rs12785878",
+      "riskAllele": "G",
+      "weight": 1.5
+    },
+    {
+      "rsid": "rs2282679",
+      "riskAllele": "C",
+      "weight": 1.3
+    }
+  ],
+  "population": "ALL",
+  "interpretation": {
+    "low": "L\u00e5g genetisk risk f\u00f6r vitamin d deficiency.",
+    "medium": "M\u00e5ttlig risk f\u00f6r vitamin d deficiency.",
+    "high": "H\u00f6g genetisk risk f\u00f6r vitamin d deficiency; flera riskalleler p\u00e5tr\u00e4ffade."
+  },
+  "evidence": [
+    {
+      "source": "GWAS",
+      "pubmed": "20661253"
+    }
+  ],
+  "severity": "trait",
+  "confidence": "moderate"
+}

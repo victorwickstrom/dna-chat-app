@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "NEK6",
+  "id": "GWAS_2681",
+  "last_updated": "2025-12-24T00:26:49.610150",
+  "odds_ratio": null,
+  "phenotype": "(Digit Symbol)",
+  "pvalue": 3e-06,
+  "references": [],
+  "rsid": "rs2807580",
+  "source": "GWAS",
+  "source_url": null
+}

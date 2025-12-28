@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "guideline",
+  "drug": null,
+  "effect": "DPYD and Fluoropyrimidines",
+  "evidence_level": "unknown",
+  "gene": "DPYD",
+  "id": "CPIC_GL_DPYD_unknown_100419",
+  "last_updated": "2025-12-24T00:26:50.460935",
+  "odds_ratio": null,
+  "phenotype": null,
+  "pvalue": null,
+  "references": [],
+  "rsid": null,
+  "source": "CPIC",
+  "source_url": null
+}

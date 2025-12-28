@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "PITX2",
+  "id": "GWAS_1816",
+  "last_updated": "2025-12-24T00:26:49.601344",
+  "odds_ratio": 1.18,
+  "phenotype": "GWAS association for rs138311480",
+  "pvalue": 3.0000000000000004e-09,
+  "references": [],
+  "rsid": "rs138311480",
+  "source": "GWAS",
+  "source_url": null
+}

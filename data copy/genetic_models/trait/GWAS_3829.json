@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "HLA",
+  "id": "GWAS_3829",
+  "last_updated": "2025-12-24T00:26:49.621866",
+  "odds_ratio": 3.43,
+  "phenotype": "GWAS association for rs3135338",
+  "pvalue": 2e-25,
+  "references": [],
+  "rsid": "rs3135338",
+  "source": "GWAS",
+  "source_url": null
+}

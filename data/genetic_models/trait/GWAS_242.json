@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "ADAMTS7",
+  "id": "GWAS_242",
+  "last_updated": "2025-12-24T00:26:49.584997",
+  "odds_ratio": 1.07,
+  "phenotype": "GWAS association for rs4380028",
+  "pvalue": 4e-09,
+  "references": [],
+  "rsid": "rs4380028",
+  "source": "GWAS",
+  "source_url": null
+}

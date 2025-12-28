@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "gene",
+  "drug": null,
+  "effect": "Chromosome: chr11",
+  "evidence_level": "unknown",
+  "gene": "ANKK1",
+  "id": "CPIC_gene_ANKK1_32",
+  "last_updated": "2025-12-24T00:26:50.459094",
+  "odds_ratio": null,
+  "phenotype": null,
+  "pvalue": null,
+  "references": [],
+  "rsid": null,
+  "source": "CPIC",
+  "source_url": null
+}

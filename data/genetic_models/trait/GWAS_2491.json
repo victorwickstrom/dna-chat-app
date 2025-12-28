@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "DNAH5",
+  "id": "GWAS_2491",
+  "last_updated": "2025-12-24T00:26:49.608371",
+  "odds_ratio": null,
+  "phenotype": "(ABI)",
+  "pvalue": 4.9999999999999996e-06,
+  "references": [],
+  "rsid": "rs2896103",
+  "source": "GWAS",
+  "source_url": null
+}

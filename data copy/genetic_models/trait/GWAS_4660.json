@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "TAS1R1",
+  "id": "GWAS_4660",
+  "last_updated": "2025-12-24T00:26:49.629636",
+  "odds_ratio": 0.075,
+  "phenotype": "(basophil count)",
+  "pvalue": 4e-06,
+  "references": [],
+  "rsid": "rs11587438",
+  "source": "GWAS",
+  "source_url": null
+}

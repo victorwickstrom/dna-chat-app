@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "BMP2",
+  "id": "GWAS_9100",
+  "last_updated": "2025-12-24T00:12:31.753443",
+  "odds_ratio": 0.03,
+  "phenotype": "(IGFBP-3 )",
+  "pvalue": 1e-06,
+  "references": [],
+  "rsid": "rs2273074",
+  "source": "GWAS",
+  "source_url": null
+}

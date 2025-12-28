@@ -1,0 +1,35 @@
+{
+  "id": "g6pd_deficiency",
+  "category": "pharmacogenomic",
+  "snps": [
+    {
+      "rsid": "rs1050828",
+      "riskAllele": "T",
+      "weight": -4.0
+    },
+    {
+      "rsid": "rs5030868",
+      "riskAllele": "A",
+      "weight": -3.0
+    },
+    {
+      "rsid": "rs2515885",
+      "riskAllele": "G",
+      "weight": -1.5
+    }
+  ],
+  "population": "ALL",
+  "interpretation": {
+    "low": "L\u00e5g genetisk risk f\u00f6r g6pd deficiency.",
+    "medium": "M\u00e5ttlig risk f\u00f6r g6pd deficiency.",
+    "high": "H\u00f6g genetisk risk f\u00f6r g6pd deficiency; flera riskalleler p\u00e5tr\u00e4ffade."
+  },
+  "evidence": [
+    {
+      "source": "ClinVar",
+      "pubmed": "21845822"
+    }
+  ],
+  "severity": "pharma",
+  "confidence": "high"
+}

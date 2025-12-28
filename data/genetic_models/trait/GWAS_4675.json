@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "BDNF",
+  "id": "GWAS_4675",
+  "last_updated": "2025-12-24T00:26:49.629766",
+  "odds_ratio": 0.046,
+  "phenotype": "GWAS association for rs2030323",
+  "pvalue": 4e-16,
+  "references": [],
+  "rsid": "rs2030323",
+  "source": "GWAS",
+  "source_url": null
+}

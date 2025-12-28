@@ -1,0 +1,35 @@
+{
+  "id": "celiac_disease",
+  "category": "autoimmune",
+  "snps": [
+    {
+      "rsid": "rs2187668",
+      "riskAllele": "A",
+      "weight": 2.5
+    },
+    {
+      "rsid": "rs6822844",
+      "riskAllele": "T",
+      "weight": 1.8
+    },
+    {
+      "rsid": "rs7454108",
+      "riskAllele": "C",
+      "weight": 1.3
+    }
+  ],
+  "population": "EUR",
+  "interpretation": {
+    "low": "L\u00e5g genetisk risk f\u00f6r celiac disease.",
+    "medium": "M\u00e5ttlig risk f\u00f6r celiac disease.",
+    "high": "H\u00f6g genetisk risk f\u00f6r celiac disease; flera riskalleler p\u00e5tr\u00e4ffade."
+  },
+  "evidence": [
+    {
+      "source": "GWAS",
+      "pubmed": "18604217"
+    }
+  ],
+  "severity": "medical",
+  "confidence": "high"
+}

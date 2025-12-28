@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "RBFOX1",
+  "id": "GWAS_9695",
+  "last_updated": "2025-12-24T00:12:31.765383",
+  "odds_ratio": 0.03,
+  "phenotype": "(Fat mass )",
+  "pvalue": 9e-06,
+  "references": [],
+  "rsid": "rs7403856",
+  "source": "GWAS",
+  "source_url": null
+}

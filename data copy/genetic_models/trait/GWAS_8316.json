@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "PLCE1",
+  "id": "GWAS_8316",
+  "last_updated": "2025-12-24T00:12:31.735094",
+  "odds_ratio": 1.79,
+  "phenotype": "(Recessive)",
+  "pvalue": 4e-07,
+  "references": [],
+  "rsid": "rs11187837",
+  "source": "GWAS",
+  "source_url": null
+}

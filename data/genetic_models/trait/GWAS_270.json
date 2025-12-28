@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "LSP1",
+  "id": "GWAS_270",
+  "last_updated": "2025-12-24T00:26:49.585296",
+  "odds_ratio": 1.08,
+  "phenotype": "GWAS association for rs907611",
+  "pvalue": 1e-10,
+  "references": [],
+  "rsid": "rs907611",
+  "source": "GWAS",
+  "source_url": null
+}

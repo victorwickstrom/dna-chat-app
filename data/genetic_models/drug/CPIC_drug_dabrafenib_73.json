@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "drug",
+  "drug": "dabrafenib",
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": null,
+  "id": "CPIC_drug_dabrafenib_73",
+  "last_updated": "2025-12-24T00:26:50.459853",
+  "odds_ratio": null,
+  "phenotype": null,
+  "pvalue": null,
+  "references": [],
+  "rsid": null,
+  "source": "CPIC",
+  "source_url": null
+}

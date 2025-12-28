@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": null,
+  "id": "GWAS_7086",
+  "last_updated": "2025-12-24T00:12:31.704355",
+  "odds_ratio": 0.63,
+  "phenotype": "(CHAQ , EA, RF-)",
+  "pvalue": 6e-07,
+  "references": [],
+  "rsid": "rs6026990",
+  "source": "GWAS",
+  "source_url": null
+}

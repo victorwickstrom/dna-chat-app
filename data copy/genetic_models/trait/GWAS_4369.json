@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "ECGF1",
+  "id": "GWAS_4369",
+  "last_updated": "2025-12-24T00:26:49.626847",
+  "odds_ratio": null,
+  "phenotype": "GWAS association for rs131794",
+  "pvalue": 1e-15,
+  "references": [],
+  "rsid": "rs131794",
+  "source": "GWAS",
+  "source_url": null
+}

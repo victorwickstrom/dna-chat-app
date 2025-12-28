@@ -1,0 +1,3502 @@
+[
+  {
+    "id": "abacavir_hypersensitivity",
+    "category": "pharmacogenomic",
+    "snps": [
+      {
+        "rsid": "rs2395029",
+        "riskAllele": "G",
+        "weight": 4.0
+      },
+      {
+        "rsid": "rs3135388",
+        "riskAllele": "A",
+        "weight": 2.5
+      },
+      {
+        "rsid": "rs13601",
+        "riskAllele": "C",
+        "weight": 1.2
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för abacavir hypersensitivity.",
+      "medium": "Måttlig risk för abacavir hypersensitivity.",
+      "high": "Hög genetisk risk för abacavir hypersensitivity; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "CPIC",
+        "pubmed": "25501432"
+      }
+    ],
+    "severity": "pharma",
+    "confidence": "high"
+  },
+  {
+    "id": "abdominal_aortic_aneurysm",
+    "category": "cardiovascular",
+    "snps": [
+      {
+        "rsid": "rs7025486",
+        "riskAllele": "T",
+        "weight": 1.6
+      },
+      {
+        "rsid": "rs1466535",
+        "riskAllele": "C",
+        "weight": 1.5
+      },
+      {
+        "rsid": "rs3828324",
+        "riskAllele": "G",
+        "weight": 1.2
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för abdominal aortic aneurysm.",
+      "medium": "Måttlig risk för abdominal aortic aneurysm.",
+      "high": "Hög genetisk risk för abdominal aortic aneurysm; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "20622883"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "moderate"
+  },
+  {
+    "id": "addisons_disease",
+    "category": "autoimmune",
+    "snps": [
+      {
+        "rsid": "rs179247",
+        "riskAllele": "A",
+        "weight": 2.2
+      },
+      {
+        "rsid": "rs6471",
+        "riskAllele": "T",
+        "weight": 1.7
+      },
+      {
+        "rsid": "rs9333184",
+        "riskAllele": "C",
+        "weight": 1.3
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för addisons disease.",
+      "medium": "Måttlig risk för addisons disease.",
+      "high": "Hög genetisk risk för addisons disease; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "19887512"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "high"
+  },
+  {
+    "id": "age_related_macular_degeneration",
+    "category": "eye",
+    "snps": [
+      {
+        "rsid": "rs1061170",
+        "riskAllele": "C",
+        "weight": 1.4
+      },
+      {
+        "rsid": "rs10490924",
+        "riskAllele": "T",
+        "weight": 1.5
+      },
+      {
+        "rsid": "rs201300",
+        "riskAllele": "G",
+        "weight": 1.2
+      }
+    ],
+    "population": "EUR",
+    "interpretation": {
+      "low": "Låg genetisk risk för age related macular degeneration.",
+      "medium": "Måttlig risk för age related macular degeneration.",
+      "high": "Hög genetisk risk för age related macular degeneration; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "21787761"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "high"
+  },
+  {
+    "id": "alcohol_flush",
+    "category": "trait",
+    "snps": [
+      {
+        "rsid": "rs671",
+        "riskAllele": "A",
+        "weight": 3.0
+      },
+      {
+        "rsid": "rs1229984",
+        "riskAllele": "C",
+        "weight": 2.0
+      },
+      {
+        "rsid": "rs2074356",
+        "riskAllele": "G",
+        "weight": 1.3
+      }
+    ],
+    "population": "EAS",
+    "interpretation": {
+      "low": "Låg genetisk risk för alcohol flush.",
+      "medium": "Måttlig risk för alcohol flush.",
+      "high": "Hög genetisk risk för alcohol flush; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "17590571"
+      }
+    ],
+    "severity": "trait",
+    "confidence": "high"
+  },
+  {
+    "id": "allopurinol_hypersensitivity",
+    "category": "pharmacogenomic",
+    "snps": [
+      {
+        "rsid": "rs9263726",
+        "riskAllele": "C",
+        "weight": 3.0
+      },
+      {
+        "rsid": "rs2231142",
+        "riskAllele": "T",
+        "weight": 2.0
+      },
+      {
+        "rsid": "rs4890764",
+        "riskAllele": "A",
+        "weight": 1.3
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för allopurinol hypersensitivity.",
+      "medium": "Måttlig risk för allopurinol hypersensitivity.",
+      "high": "Hög genetisk risk för allopurinol hypersensitivity; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "CPIC",
+        "pubmed": "25501432"
+      }
+    ],
+    "severity": "pharma",
+    "confidence": "high"
+  },
+  {
+    "id": "alopecia_areata",
+    "category": "autoimmune",
+    "snps": [
+      {
+        "rsid": "rs28362491",
+        "riskAllele": "D",
+        "weight": 1.7
+      },
+      {
+        "rsid": "rs2476601",
+        "riskAllele": "T",
+        "weight": 1.5
+      },
+      {
+        "rsid": "rs1805010",
+        "riskAllele": "C",
+        "weight": 1.3
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för alopecia areata.",
+      "medium": "Måttlig risk för alopecia areata.",
+      "high": "Hög genetisk risk för alopecia areata; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "20410581"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "moderate"
+  },
+  {
+    "id": "alzheimers_early_onset",
+    "category": "neurological",
+    "snps": [
+      {
+        "rsid": "rs63750082",
+        "riskAllele": "A",
+        "weight": 4.0
+      },
+      {
+        "rsid": "rs63751273",
+        "riskAllele": "C",
+        "weight": 4.5
+      },
+      {
+        "rsid": "rs63751199",
+        "riskAllele": "G",
+        "weight": 3.5
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för alzheimers early onset.",
+      "medium": "Måttlig risk för alzheimers early onset.",
+      "high": "Hög genetisk risk för alzheimers early onset; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "ClinVar",
+        "pubmed": "23980173"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "high"
+  },
+  {
+    "id": "alzheimers_late_onset",
+    "category": "neurological",
+    "snps": [
+      {
+        "rsid": "rs429358",
+        "riskAllele": "C",
+        "weight": 3.0
+      },
+      {
+        "rsid": "rs2075650",
+        "riskAllele": "G",
+        "weight": 1.2
+      },
+      {
+        "rsid": "rs7412",
+        "riskAllele": "C",
+        "weight": 1.1
+      }
+    ],
+    "population": "EUR",
+    "interpretation": {
+      "low": "Låg genetisk risk för alzheimers late onset.",
+      "medium": "Måttlig risk för alzheimers late onset.",
+      "high": "Hög genetisk risk för alzheimers late onset; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "21504899"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "high"
+  },
+  {
+    "id": "amyotrophic_lateral_sclerosis",
+    "category": "neurological",
+    "snps": [
+      {
+        "rsid": "rs3849942",
+        "riskAllele": "A",
+        "weight": 2.0
+      },
+      {
+        "rsid": "rs121912445",
+        "riskAllele": "C",
+        "weight": 3.5
+      },
+      {
+        "rsid": "rs13076732",
+        "riskAllele": "G",
+        "weight": 1.3
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för amyotrophic lateral sclerosis.",
+      "medium": "Måttlig risk för amyotrophic lateral sclerosis.",
+      "high": "Hög genetisk risk för amyotrophic lateral sclerosis; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "ClinVar",
+        "pubmed": "23455423"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "high"
+  },
+  {
+    "id": "ankylosing_spondylitis",
+    "category": "autoimmune",
+    "snps": [
+      {
+        "rsid": "rs116488202",
+        "riskAllele": "C",
+        "weight": 3.0
+      },
+      {
+        "rsid": "rs30187",
+        "riskAllele": "T",
+        "weight": 2.0
+      },
+      {
+        "rsid": "rs6759298",
+        "riskAllele": "A",
+        "weight": 1.3
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för ankylosing spondylitis.",
+      "medium": "Måttlig risk för ankylosing spondylitis.",
+      "high": "Hög genetisk risk för ankylosing spondylitis; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "21458926"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "high"
+  },
+  {
+    "id": "antipsychotic_metabolism",
+    "category": "pharmacogenomic",
+    "snps": [
+      {
+        "rsid": "rs16947",
+        "riskAllele": "A",
+        "weight": -1.3
+      },
+      {
+        "rsid": "rs762551",
+        "riskAllele": "C",
+        "weight": -1.2
+      },
+      {
+        "rsid": "rs1135840",
+        "riskAllele": "A",
+        "weight": -1.0
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för antipsychotic metabolism.",
+      "medium": "Måttlig risk för antipsychotic metabolism.",
+      "high": "Hög genetisk risk för antipsychotic metabolism; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "CPIC",
+        "pubmed": "25501432"
+      }
+    ],
+    "severity": "pharma",
+    "confidence": "moderate"
+  },
+  {
+    "id": "arrhythmia_risk",
+    "category": "cardiovascular",
+    "snps": [
+      {
+        "rsid": "rs1805124",
+        "riskAllele": "A",
+        "weight": 2.0
+      },
+      {
+        "rsid": "rs1805128",
+        "riskAllele": "T",
+        "weight": 1.6
+      },
+      {
+        "rsid": "rs6795970",
+        "riskAllele": "G",
+        "weight": 1.3
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för arrhythmia risk.",
+      "medium": "Måttlig risk för arrhythmia risk.",
+      "high": "Hög genetisk risk för arrhythmia risk; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "20062043"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "moderate"
+  },
+  {
+    "id": "atrial_fibrillation",
+    "category": "cardiovascular",
+    "snps": [
+      {
+        "rsid": "rs2200733",
+        "riskAllele": "T",
+        "weight": 1.7
+      },
+      {
+        "rsid": "rs13376333",
+        "riskAllele": "C",
+        "weight": 1.6
+      },
+      {
+        "rsid": "rs6666258",
+        "riskAllele": "A",
+        "weight": 1.3
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för atrial fibrillation.",
+      "medium": "Måttlig risk för atrial fibrillation.",
+      "high": "Hög genetisk risk för atrial fibrillation; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "21393964"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "moderate"
+  },
+  {
+    "id": "attention_deficit_hyperactivity_disorder",
+    "category": "neurodevelopmental",
+    "snps": [
+      {
+        "rsid": "rs1800955",
+        "riskAllele": "C",
+        "weight": 1.5
+      },
+      {
+        "rsid": "rs28363170",
+        "riskAllele": "R",
+        "weight": 1.4
+      },
+      {
+        "rsid": "rs2275523",
+        "riskAllele": "A",
+        "weight": 1.2
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för attention deficit hyperactivity disorder.",
+      "medium": "Måttlig risk för attention deficit hyperactivity disorder.",
+      "high": "Hög genetisk risk för attention deficit hyperactivity disorder; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "20445560"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "moderate"
+  },
+  {
+    "id": "autism_spectrum_disorder",
+    "category": "neurodevelopmental",
+    "snps": [
+      {
+        "rsid": "rs7794745",
+        "riskAllele": "A",
+        "weight": 1.4
+      },
+      {
+        "rsid": "rs1858830",
+        "riskAllele": "G",
+        "weight": 1.3
+      },
+      {
+        "rsid": "rs4307059",
+        "riskAllele": "T",
+        "weight": 1.2
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för autism spectrum disorder.",
+      "medium": "Måttlig risk för autism spectrum disorder.",
+      "high": "Hög genetisk risk för autism spectrum disorder; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "21183067"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "moderate"
+  },
+  {
+    "id": "autoimmune_uveitis",
+    "category": "autoimmune",
+    "snps": [
+      {
+        "rsid": "rs11209026",
+        "riskAllele": "A",
+        "weight": 1.8
+      },
+      {
+        "rsid": "rs2075786",
+        "riskAllele": "G",
+        "weight": 1.5
+      },
+      {
+        "rsid": "rs2397084",
+        "riskAllele": "C",
+        "weight": 1.3
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för autoimmune uveitis.",
+      "medium": "Måttlig risk för autoimmune uveitis.",
+      "high": "Hög genetisk risk för autoimmune uveitis; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "20870142"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "moderate"
+  },
+  {
+    "id": "behcets_disease",
+    "category": "autoimmune",
+    "snps": [
+      {
+        "rsid": "rs1518111",
+        "riskAllele": "T",
+        "weight": 3.0
+      },
+      {
+        "rsid": "rs1518110",
+        "riskAllele": "G",
+        "weight": 2.0
+      },
+      {
+        "rsid": "rs1800871",
+        "riskAllele": "C",
+        "weight": 1.5
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för behcets disease.",
+      "medium": "Måttlig risk för behcets disease.",
+      "high": "Hög genetisk risk för behcets disease; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "20373220"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "high"
+  },
+  {
+    "id": "beta_blocker_metabolism",
+    "category": "pharmacogenomic",
+    "snps": [
+      {
+        "rsid": "rs1801253",
+        "riskAllele": "G",
+        "weight": -1.2
+      },
+      {
+        "rsid": "rs3892097",
+        "riskAllele": "A",
+        "weight": -1.0
+      },
+      {
+        "rsid": "rs1801252",
+        "riskAllele": "C",
+        "weight": -0.8
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för beta blocker metabolism.",
+      "medium": "Måttlig risk för beta blocker metabolism.",
+      "high": "Hög genetisk risk för beta blocker metabolism; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "CPIC",
+        "pubmed": "25501432"
+      }
+    ],
+    "severity": "pharma",
+    "confidence": "moderate"
+  },
+  {
+    "id": "bipolar_disorder",
+    "category": "psychiatric",
+    "snps": [
+      {
+        "rsid": "rs10994336",
+        "riskAllele": "T",
+        "weight": 1.6
+      },
+      {
+        "rsid": "rs12563333",
+        "riskAllele": "G",
+        "weight": 1.4
+      },
+      {
+        "rsid": "rs1076560",
+        "riskAllele": "C",
+        "weight": 1.2
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för bipolar disorder.",
+      "medium": "Måttlig risk för bipolar disorder.",
+      "high": "Hög genetisk risk för bipolar disorder; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "22169109"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "moderate"
+  },
+  {
+    "id": "bitter_taste",
+    "category": "trait",
+    "snps": [
+      {
+        "rsid": "rs713598",
+        "riskAllele": "C",
+        "weight": 2.0
+      },
+      {
+        "rsid": "rs10246939",
+        "riskAllele": "G",
+        "weight": 1.8
+      },
+      {
+        "rsid": "rs1726866",
+        "riskAllele": "A",
+        "weight": 1.5
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för bitter taste.",
+      "medium": "Måttlig risk för bitter taste.",
+      "high": "Hög genetisk risk för bitter taste; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "18776997"
+      }
+    ],
+    "severity": "trait",
+    "confidence": "moderate"
+  },
+  {
+    "id": "caffeine_metabolism",
+    "category": "trait",
+    "snps": [
+      {
+        "rsid": "rs762551",
+        "riskAllele": "C",
+        "weight": 1.5
+      },
+      {
+        "rsid": "rs4410790",
+        "riskAllele": "T",
+        "weight": 1.3
+      },
+      {
+        "rsid": "rs2472304",
+        "riskAllele": "A",
+        "weight": 1.2
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för caffeine metabolism.",
+      "medium": "Måttlig risk för caffeine metabolism.",
+      "high": "Hög genetisk risk för caffeine metabolism; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "20215791"
+      }
+    ],
+    "severity": "trait",
+    "confidence": "moderate"
+  },
+  {
+    "id": "carbamazepine_hypersensitivity",
+    "category": "pharmacogenomic",
+    "snps": [
+      {
+        "rsid": "rs3909184",
+        "riskAllele": "A",
+        "weight": 3.0
+      },
+      {
+        "rsid": "rs11649152",
+        "riskAllele": "G",
+        "weight": 2.5
+      },
+      {
+        "rsid": "rs1042602",
+        "riskAllele": "C",
+        "weight": 1.2
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för carbamazepine hypersensitivity.",
+      "medium": "Måttlig risk för carbamazepine hypersensitivity.",
+      "high": "Hög genetisk risk för carbamazepine hypersensitivity; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "CPIC",
+        "pubmed": "25501432"
+      }
+    ],
+    "severity": "pharma",
+    "confidence": "high"
+  },
+  {
+    "id": "celiac_disease",
+    "category": "autoimmune",
+    "snps": [
+      {
+        "rsid": "rs2187668",
+        "riskAllele": "A",
+        "weight": 2.5
+      },
+      {
+        "rsid": "rs6822844",
+        "riskAllele": "T",
+        "weight": 1.8
+      },
+      {
+        "rsid": "rs7454108",
+        "riskAllele": "C",
+        "weight": 1.3
+      }
+    ],
+    "population": "EUR",
+    "interpretation": {
+      "low": "Låg genetisk risk för celiac disease.",
+      "medium": "Måttlig risk för celiac disease.",
+      "high": "Hög genetisk risk för celiac disease; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "18604217"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "high"
+  },
+  {
+    "id": "chronotype",
+    "category": "trait",
+    "snps": [
+      {
+        "rsid": "rs10462020",
+        "riskAllele": "C",
+        "weight": 1.5
+      },
+      {
+        "rsid": "rs1801260",
+        "riskAllele": "A",
+        "weight": 1.4
+      },
+      {
+        "rsid": "rs6587219",
+        "riskAllele": "G",
+        "weight": 1.2
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för chronotype.",
+      "medium": "Måttlig risk för chronotype.",
+      "high": "Hög genetisk risk för chronotype; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "22158514"
+      }
+    ],
+    "severity": "trait",
+    "confidence": "moderate"
+  },
+  {
+    "id": "cilantro_aversion",
+    "category": "trait",
+    "snps": [
+      {
+        "rsid": "rs72921001",
+        "riskAllele": "A",
+        "weight": 1.6
+      },
+      {
+        "rsid": "rs11988795",
+        "riskAllele": "T",
+        "weight": 1.4
+      },
+      {
+        "rsid": "rs2221748",
+        "riskAllele": "C",
+        "weight": 1.2
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för cilantro aversion.",
+      "medium": "Måttlig risk för cilantro aversion.",
+      "high": "Hög genetisk risk för cilantro aversion; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "23624544"
+      }
+    ],
+    "severity": "trait",
+    "confidence": "moderate"
+  },
+  {
+    "id": "clopidogrel_metabolism",
+    "category": "pharmacogenomic",
+    "snps": [
+      {
+        "rsid": "rs4244285",
+        "riskAllele": "A",
+        "weight": -1.2
+      },
+      {
+        "rsid": "rs4986893",
+        "riskAllele": "A",
+        "weight": -1.1
+      },
+      {
+        "rsid": "rs12248560",
+        "riskAllele": "G",
+        "weight": 0.8
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för clopidogrel metabolism.",
+      "medium": "Måttlig risk för clopidogrel metabolism.",
+      "high": "Hög genetisk risk för clopidogrel metabolism; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "CPIC",
+        "pubmed": "25501432"
+      }
+    ],
+    "severity": "pharma",
+    "confidence": "high"
+  },
+  {
+    "id": "codeine_metabolism",
+    "category": "pharmacogenomic",
+    "snps": [
+      {
+        "rsid": "rs3892097",
+        "riskAllele": "A",
+        "weight": -2.0
+      },
+      {
+        "rsid": "rs1065852",
+        "riskAllele": "G",
+        "weight": -1.5
+      },
+      {
+        "rsid": "rs5030655",
+        "riskAllele": "T",
+        "weight": -1.0
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för codeine metabolism.",
+      "medium": "Måttlig risk för codeine metabolism.",
+      "high": "Hög genetisk risk för codeine metabolism; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "CPIC",
+        "pubmed": "25501432"
+      }
+    ],
+    "severity": "pharma",
+    "confidence": "high"
+  },
+  {
+    "id": "congenital_glaucoma",
+    "category": "eye",
+    "snps": [
+      {
+        "rsid": "rs560099",
+        "riskAllele": "T",
+        "weight": 1.5
+      },
+      {
+        "rsid": "rs9547848",
+        "riskAllele": "A",
+        "weight": 1.3
+      },
+      {
+        "rsid": "rs1000000",
+        "riskAllele": "C",
+        "weight": 1.1
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för congenital glaucoma.",
+      "medium": "Måttlig risk för congenital glaucoma.",
+      "high": "Hög genetisk risk för congenital glaucoma; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "21980296"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "moderate"
+  },
+  {
+    "id": "coronary_artery_disease",
+    "category": "cardiovascular",
+    "snps": [
+      {
+        "rsid": "rs1333049",
+        "riskAllele": "C",
+        "weight": 1.3
+      },
+      {
+        "rsid": "rs3798220",
+        "riskAllele": "G",
+        "weight": 1.5
+      },
+      {
+        "rsid": "rs11591147",
+        "riskAllele": "T",
+        "weight": 1.6
+      }
+    ],
+    "population": "EUR",
+    "interpretation": {
+      "low": "Låg genetisk risk för coronary artery disease.",
+      "medium": "Måttlig risk för coronary artery disease.",
+      "high": "Hög genetisk risk för coronary artery disease; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "17386146"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "high"
+  },
+  {
+    "id": "covid19_severity",
+    "category": "trait",
+    "snps": [
+      {
+        "rsid": "rs10774671",
+        "riskAllele": "A",
+        "weight": 1.8
+      },
+      {
+        "rsid": "rs2109069",
+        "riskAllele": "T",
+        "weight": 1.6
+      },
+      {
+        "rsid": "rs657152",
+        "riskAllele": "C",
+        "weight": 1.3
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för covid19 severity.",
+      "medium": "Måttlig risk för covid19 severity.",
+      "high": "Hög genetisk risk för covid19 severity; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "33299976"
+      }
+    ],
+    "severity": "trait",
+    "confidence": "moderate"
+  },
+  {
+    "id": "crohns_disease",
+    "category": "autoimmune",
+    "snps": [
+      {
+        "rsid": "rs2066844",
+        "riskAllele": "C",
+        "weight": 2.5
+      },
+      {
+        "rsid": "rs11209026",
+        "riskAllele": "A",
+        "weight": 1.8
+      },
+      {
+        "rsid": "rs7517847",
+        "riskAllele": "T",
+        "weight": 1.3
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för crohns disease.",
+      "medium": "Måttlig risk för crohns disease.",
+      "high": "Hög genetisk risk för crohns disease; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "17357026"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "high"
+  },
+  {
+    "id": "diabetic_retinopathy",
+    "category": "eye",
+    "snps": [
+      {
+        "rsid": "rs2010963",
+        "riskAllele": "G",
+        "weight": 1.2
+      },
+      {
+        "rsid": "rs759853",
+        "riskAllele": "T",
+        "weight": 1.4
+      },
+      {
+        "rsid": "rs3000002",
+        "riskAllele": "C",
+        "weight": 1.2
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för diabetic retinopathy.",
+      "medium": "Måttlig risk för diabetic retinopathy.",
+      "high": "Hög genetisk risk för diabetic retinopathy; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "21921592"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "moderate"
+  },
+  {
+    "id": "dilated_cardiomyopathy",
+    "category": "cardiovascular",
+    "snps": [
+      {
+        "rsid": "rs35518301",
+        "riskAllele": "T",
+        "weight": 2.0
+      },
+      {
+        "rsid": "rs61729907",
+        "riskAllele": "C",
+        "weight": 2.2
+      },
+      {
+        "rsid": "rs2238432",
+        "riskAllele": "A",
+        "weight": 1.3
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för dilated cardiomyopathy.",
+      "medium": "Måttlig risk för dilated cardiomyopathy.",
+      "high": "Hög genetisk risk för dilated cardiomyopathy; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "ClinVar",
+        "pubmed": "24852258"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "high"
+  },
+  {
+    "id": "dpyd_deficiency",
+    "category": "pharmacogenomic",
+    "snps": [
+      {
+        "rsid": "rs3918290",
+        "riskAllele": "C",
+        "weight": -3.0
+      },
+      {
+        "rsid": "rs55886062",
+        "riskAllele": "A",
+        "weight": -2.5
+      },
+      {
+        "rsid": "rs67376798",
+        "riskAllele": "T",
+        "weight": -1.5
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för dpyd deficiency.",
+      "medium": "Måttlig risk för dpyd deficiency.",
+      "high": "Hög genetisk risk för dpyd deficiency; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "CPIC",
+        "pubmed": "25501432"
+      }
+    ],
+    "severity": "pharma",
+    "confidence": "high"
+  },
+  {
+    "id": "epilepsy",
+    "category": "neurological",
+    "snps": [
+      {
+        "rsid": "rs7587026",
+        "riskAllele": "T",
+        "weight": 1.6
+      },
+      {
+        "rsid": "rs1969060",
+        "riskAllele": "A",
+        "weight": 1.4
+      },
+      {
+        "rsid": "rs2719684",
+        "riskAllele": "G",
+        "weight": 1.3
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för epilepsy.",
+      "medium": "Måttlig risk för epilepsy.",
+      "high": "Hög genetisk risk för epilepsy; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "ClinVar",
+        "pubmed": "21688578"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "moderate"
+  },
+  {
+    "id": "eye_color",
+    "category": "trait",
+    "snps": [
+      {
+        "rsid": "rs12913832",
+        "riskAllele": "A",
+        "weight": 2.5
+      },
+      {
+        "rsid": "rs1800407",
+        "riskAllele": "T",
+        "weight": 1.5
+      },
+      {
+        "rsid": "rs12896399",
+        "riskAllele": "G",
+        "weight": 1.2
+      }
+    ],
+    "population": "EUR",
+    "interpretation": {
+      "low": "Låg genetisk risk för eye color.",
+      "medium": "Måttlig risk för eye color.",
+      "high": "Hög genetisk risk för eye color; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "17392781"
+      }
+    ],
+    "severity": "trait",
+    "confidence": "high"
+  },
+  {
+    "id": "familial_hypercholesterolemia",
+    "category": "metabolic",
+    "snps": [
+      {
+        "rsid": "rs17248748",
+        "riskAllele": "T",
+        "weight": 4.0
+      },
+      {
+        "rsid": "rs562556",
+        "riskAllele": "G",
+        "weight": 3.0
+      },
+      {
+        "rsid": "rs688",
+        "riskAllele": "C",
+        "weight": 1.5
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för familial hypercholesterolemia.",
+      "medium": "Måttlig risk för familial hypercholesterolemia.",
+      "high": "Hög genetisk risk för familial hypercholesterolemia; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "ClinVar",
+        "pubmed": "25472992"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "high"
+  },
+  {
+    "id": "folate_metabolism",
+    "category": "trait",
+    "snps": [
+      {
+        "rsid": "rs1801133",
+        "riskAllele": "T",
+        "weight": 1.6
+      },
+      {
+        "rsid": "rs1801394",
+        "riskAllele": "G",
+        "weight": 1.5
+      },
+      {
+        "rsid": "rs651852",
+        "riskAllele": "A",
+        "weight": 1.3
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för folate metabolism.",
+      "medium": "Måttlig risk för folate metabolism.",
+      "high": "Hög genetisk risk för folate metabolism; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "19116898"
+      }
+    ],
+    "severity": "trait",
+    "confidence": "moderate"
+  },
+  {
+    "id": "g6pd_deficiency",
+    "category": "pharmacogenomic",
+    "snps": [
+      {
+        "rsid": "rs1050828",
+        "riskAllele": "T",
+        "weight": -4.0
+      },
+      {
+        "rsid": "rs5030868",
+        "riskAllele": "A",
+        "weight": -3.0
+      },
+      {
+        "rsid": "rs2515885",
+        "riskAllele": "G",
+        "weight": -1.5
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för g6pd deficiency.",
+      "medium": "Måttlig risk för g6pd deficiency.",
+      "high": "Hög genetisk risk för g6pd deficiency; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "ClinVar",
+        "pubmed": "21845822"
+      }
+    ],
+    "severity": "pharma",
+    "confidence": "high"
+  },
+  {
+    "id": "glaucoma_primary_open_angle",
+    "category": "eye",
+    "snps": [
+      {
+        "rsid": "rs1063192",
+        "riskAllele": "C",
+        "weight": 1.2
+      },
+      {
+        "rsid": "rs4236601",
+        "riskAllele": "A",
+        "weight": 1.3
+      },
+      {
+        "rsid": "rs2000000",
+        "riskAllele": "G",
+        "weight": 1.1
+      }
+    ],
+    "population": "EUR",
+    "interpretation": {
+      "low": "Låg genetisk risk för glaucoma primary open angle.",
+      "medium": "Måttlig risk för glaucoma primary open angle.",
+      "high": "Hög genetisk risk för glaucoma primary open angle; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "21654723"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "moderate"
+  },
+  {
+    "id": "gout",
+    "category": "metabolic",
+    "snps": [
+      {
+        "rsid": "rs16890979",
+        "riskAllele": "T",
+        "weight": 1.7
+      },
+      {
+        "rsid": "rs2231142",
+        "riskAllele": "T",
+        "weight": 2.0
+      },
+      {
+        "rsid": "rs3825017",
+        "riskAllele": "C",
+        "weight": 1.2
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för gout.",
+      "medium": "Måttlig risk för gout.",
+      "high": "Hög genetisk risk för gout; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "19147616"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "moderate"
+  },
+  {
+    "id": "graves_disease",
+    "category": "autoimmune",
+    "snps": [
+      {
+        "rsid": "rs179247",
+        "riskAllele": "A",
+        "weight": 2.0
+      },
+      {
+        "rsid": "rs2268458",
+        "riskAllele": "T",
+        "weight": 1.8
+      },
+      {
+        "rsid": "rs743572",
+        "riskAllele": "C",
+        "weight": 1.3
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för graves disease.",
+      "medium": "Måttlig risk för graves disease.",
+      "high": "Hög genetisk risk för graves disease; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "17965635"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "high"
+  },
+  {
+    "id": "hair_color",
+    "category": "trait",
+    "snps": [
+      {
+        "rsid": "rs1805007",
+        "riskAllele": "T",
+        "weight": 2.0
+      },
+      {
+        "rsid": "rs2733832",
+        "riskAllele": "C",
+        "weight": 1.5
+      },
+      {
+        "rsid": "rs237551",
+        "riskAllele": "A",
+        "weight": 1.2
+      }
+    ],
+    "population": "EUR",
+    "interpretation": {
+      "low": "Låg genetisk risk för hair color.",
+      "medium": "Måttlig risk för hair color.",
+      "high": "Hög genetisk risk för hair color; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "19266167"
+      }
+    ],
+    "severity": "trait",
+    "confidence": "moderate"
+  },
+  {
+    "id": "hashimotos_thyroiditis",
+    "category": "autoimmune",
+    "snps": [
+      {
+        "rsid": "rs179247",
+        "riskAllele": "A",
+        "weight": 1.8
+      },
+      {
+        "rsid": "rs231775",
+        "riskAllele": "G",
+        "weight": 1.5
+      },
+      {
+        "rsid": "rs199600",
+        "riskAllele": "C",
+        "weight": 1.2
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för hashimotos thyroiditis.",
+      "medium": "Måttlig risk för hashimotos thyroiditis.",
+      "high": "Hög genetisk risk för hashimotos thyroiditis; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "19398814"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "moderate"
+  },
+  {
+    "id": "hearing_loss",
+    "category": "trait",
+    "snps": [
+      {
+        "rsid": "rs80338939",
+        "riskAllele": "A",
+        "weight": 3.0
+      },
+      {
+        "rsid": "rs34456178",
+        "riskAllele": "T",
+        "weight": 2.0
+      },
+      {
+        "rsid": "rs185701",
+        "riskAllele": "G",
+        "weight": 1.3
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för hearing loss.",
+      "medium": "Måttlig risk för hearing loss.",
+      "high": "Hög genetisk risk för hearing loss; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "ClinVar",
+        "pubmed": "25463821"
+      }
+    ],
+    "severity": "trait",
+    "confidence": "high"
+  },
+  {
+    "id": "heart_failure",
+    "category": "cardiovascular",
+    "snps": [
+      {
+        "rsid": "rs2229129",
+        "riskAllele": "A",
+        "weight": 1.4
+      },
+      {
+        "rsid": "rs121913554",
+        "riskAllele": "G",
+        "weight": 1.8
+      },
+      {
+        "rsid": "rs415999",
+        "riskAllele": "T",
+        "weight": 1.3
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för heart failure.",
+      "medium": "Måttlig risk för heart failure.",
+      "high": "Hög genetisk risk för heart failure; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "ClinVar",
+        "pubmed": "24700145"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "moderate"
+  },
+  {
+    "id": "height",
+    "category": "trait",
+    "snps": [
+      {
+        "rsid": "rs1042725",
+        "riskAllele": "T",
+        "weight": 1.2
+      },
+      {
+        "rsid": "rs143384",
+        "riskAllele": "C",
+        "weight": 1.3
+      },
+      {
+        "rsid": "rs11107116",
+        "riskAllele": "G",
+        "weight": 1.1
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för height.",
+      "medium": "Måttlig risk för height.",
+      "high": "Hög genetisk risk för height; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "20881960"
+      }
+    ],
+    "severity": "trait",
+    "confidence": "moderate"
+  },
+  {
+    "id": "hemochromatosis",
+    "category": "metabolic",
+    "snps": [
+      {
+        "rsid": "rs1800562",
+        "riskAllele": "G",
+        "weight": 3.0
+      },
+      {
+        "rsid": "rs1799945",
+        "riskAllele": "C",
+        "weight": 2.0
+      },
+      {
+        "rsid": "rs3975221",
+        "riskAllele": "A",
+        "weight": 1.3
+      }
+    ],
+    "population": "EUR",
+    "interpretation": {
+      "low": "Låg genetisk risk för hemochromatosis.",
+      "medium": "Måttlig risk för hemochromatosis.",
+      "high": "Hög genetisk risk för hemochromatosis; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "ClinVar",
+        "pubmed": "25446688"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "high"
+  },
+  {
+    "id": "hepatitis_c_treatment_response",
+    "category": "trait",
+    "snps": [
+      {
+        "rsid": "rs12979860",
+        "riskAllele": "C",
+        "weight": 2.0
+      },
+      {
+        "rsid": "rs368234815",
+        "riskAllele": "T",
+        "weight": 1.8
+      },
+      {
+        "rsid": "rs8099917",
+        "riskAllele": "G",
+        "weight": 1.3
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för hepatitis c treatment response.",
+      "medium": "Måttlig risk för hepatitis c treatment response.",
+      "high": "Hög genetisk risk för hepatitis c treatment response; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "20038591"
+      }
+    ],
+    "severity": "trait",
+    "confidence": "moderate"
+  },
+  {
+    "id": "hiv_resistance",
+    "category": "trait",
+    "snps": [
+      {
+        "rsid": "rs333",
+        "riskAllele": "del",
+        "weight": 3.0
+      },
+      {
+        "rsid": "rs2227323",
+        "riskAllele": "C",
+        "weight": 1.5
+      },
+      {
+        "rsid": "rs10774671",
+        "riskAllele": "T",
+        "weight": 1.2
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för hiv resistance.",
+      "medium": "Måttlig risk för hiv resistance.",
+      "high": "Hög genetisk risk för hiv resistance; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "19381375"
+      }
+    ],
+    "severity": "trait",
+    "confidence": "moderate"
+  },
+  {
+    "id": "hypercholesterolemia",
+    "category": "metabolic",
+    "snps": [
+      {
+        "rsid": "rs429358",
+        "riskAllele": "C",
+        "weight": 1.5
+      },
+      {
+        "rsid": "rs688",
+        "riskAllele": "C",
+        "weight": 1.3
+      },
+      {
+        "rsid": "rs7412",
+        "riskAllele": "T",
+        "weight": 1.2
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för hypercholesterolemia.",
+      "medium": "Måttlig risk för hypercholesterolemia.",
+      "high": "Hög genetisk risk för hypercholesterolemia; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "22343859"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "moderate"
+  },
+  {
+    "id": "hypertension",
+    "category": "metabolic",
+    "snps": [
+      {
+        "rsid": "rs699",
+        "riskAllele": "T",
+        "weight": 1.3
+      },
+      {
+        "rsid": "rs5186",
+        "riskAllele": "C",
+        "weight": 1.2
+      },
+      {
+        "rsid": "rs2681492",
+        "riskAllele": "A",
+        "weight": 1.2
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för hypertension.",
+      "medium": "Måttlig risk för hypertension.",
+      "high": "Hög genetisk risk för hypertension; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "21909103"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "moderate"
+  },
+  {
+    "id": "hypertriglyceridemia",
+    "category": "metabolic",
+    "snps": [
+      {
+        "rsid": "rs662799",
+        "riskAllele": "G",
+        "weight": 1.6
+      },
+      {
+        "rsid": "rs328",
+        "riskAllele": "G",
+        "weight": 1.4
+      },
+      {
+        "rsid": "rs964184",
+        "riskAllele": "C",
+        "weight": 1.2
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för hypertriglyceridemia.",
+      "medium": "Måttlig risk för hypertriglyceridemia.",
+      "high": "Hög genetisk risk för hypertriglyceridemia; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "23222407"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "moderate"
+  },
+  {
+    "id": "hypertrophic_cardiomyopathy",
+    "category": "cardiovascular",
+    "snps": [
+      {
+        "rsid": "rs11570082",
+        "riskAllele": "T",
+        "weight": 2.5
+      },
+      {
+        "rsid": "rs190086921",
+        "riskAllele": "C",
+        "weight": 2.8
+      },
+      {
+        "rsid": "rs3729830",
+        "riskAllele": "G",
+        "weight": 1.3
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för hypertrophic cardiomyopathy.",
+      "medium": "Måttlig risk för hypertrophic cardiomyopathy.",
+      "high": "Hög genetisk risk för hypertrophic cardiomyopathy; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "ClinVar",
+        "pubmed": "21533983"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "high"
+  },
+  {
+    "id": "ischemic_stroke",
+    "category": "neurological",
+    "snps": [
+      {
+        "rsid": "rs6843082",
+        "riskAllele": "G",
+        "weight": 1.5
+      },
+      {
+        "rsid": "rs2106261",
+        "riskAllele": "A",
+        "weight": 1.4
+      },
+      {
+        "rsid": "rs2425535",
+        "riskAllele": "C",
+        "weight": 1.2
+      }
+    ],
+    "population": "EUR",
+    "interpretation": {
+      "low": "Låg genetisk risk för ischemic stroke.",
+      "medium": "Måttlig risk för ischemic stroke.",
+      "high": "Hög genetisk risk för ischemic stroke; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "21127399"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "moderate"
+  },
+  {
+    "id": "lactase_persistence",
+    "category": "trait",
+    "snps": [
+      {
+        "rsid": "rs4988235",
+        "riskAllele": "T",
+        "weight": 2.0
+      },
+      {
+        "rsid": "rs182549",
+        "riskAllele": "A",
+        "weight": 1.5
+      },
+      {
+        "rsid": "rs145946881",
+        "riskAllele": "C",
+        "weight": 1.3
+      }
+    ],
+    "population": "EUR",
+    "interpretation": {
+      "low": "Låg genetisk risk för lactase persistence.",
+      "medium": "Måttlig risk för lactase persistence.",
+      "high": "Hög genetisk risk för lactase persistence; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "18665194"
+      }
+    ],
+    "severity": "trait",
+    "confidence": "high"
+  },
+  {
+    "id": "long_qt_syndrome",
+    "category": "cardiovascular",
+    "snps": [
+      {
+        "rsid": "rs199472724",
+        "riskAllele": "A",
+        "weight": 3.0
+      },
+      {
+        "rsid": "rs199472679",
+        "riskAllele": "C",
+        "weight": 2.8
+      },
+      {
+        "rsid": "rs1805127",
+        "riskAllele": "G",
+        "weight": 1.5
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för long qt syndrome.",
+      "medium": "Måttlig risk för long qt syndrome.",
+      "high": "Hög genetisk risk för long qt syndrome; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "ClinVar",
+        "pubmed": "24690028"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "high"
+  },
+  {
+    "id": "major_depressive_disorder",
+    "category": "psychiatric",
+    "snps": [
+      {
+        "rsid": "rs25531",
+        "riskAllele": "G",
+        "weight": 1.2
+      },
+      {
+        "rsid": "rs6265",
+        "riskAllele": "A",
+        "weight": 1.3
+      },
+      {
+        "rsid": "rs10514299",
+        "riskAllele": "T",
+        "weight": 1.2
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för major depressive disorder.",
+      "medium": "Måttlig risk för major depressive disorder.",
+      "high": "Hög genetisk risk för major depressive disorder; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "24369111"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "moderate"
+  },
+  {
+    "id": "malaria_resistance",
+    "category": "trait",
+    "snps": [
+      {
+        "rsid": "rs334",
+        "riskAllele": "T",
+        "weight": 3.5
+      },
+      {
+        "rsid": "rs1050828",
+        "riskAllele": "T",
+        "weight": 2.5
+      },
+      {
+        "rsid": "rs1805008",
+        "riskAllele": "C",
+        "weight": 1.2
+      }
+    ],
+    "population": "AFR",
+    "interpretation": {
+      "low": "Låg genetisk risk för malaria resistance.",
+      "medium": "Måttlig risk för malaria resistance.",
+      "high": "Hög genetisk risk för malaria resistance; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "18228213"
+      }
+    ],
+    "severity": "trait",
+    "confidence": "high"
+  },
+  {
+    "id": "male_pattern_baldness",
+    "category": "trait",
+    "snps": [
+      {
+        "rsid": "rs6625163",
+        "riskAllele": "G",
+        "weight": 2.0
+      },
+      {
+        "rsid": "rs1385699",
+        "riskAllele": "A",
+        "weight": 1.6
+      },
+      {
+        "rsid": "rs10969274",
+        "riskAllele": "C",
+        "weight": 1.3
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för male pattern baldness.",
+      "medium": "Måttlig risk för male pattern baldness.",
+      "high": "Hög genetisk risk för male pattern baldness; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "19429997"
+      }
+    ],
+    "severity": "trait",
+    "confidence": "moderate"
+  },
+  {
+    "id": "metabolic_syndrome",
+    "category": "metabolic",
+    "snps": [
+      {
+        "rsid": "rs780094",
+        "riskAllele": "C",
+        "weight": 1.4
+      },
+      {
+        "rsid": "rs662799",
+        "riskAllele": "G",
+        "weight": 1.3
+      },
+      {
+        "rsid": "rs10401969",
+        "riskAllele": "T",
+        "weight": 1.2
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för metabolic syndrome.",
+      "medium": "Måttlig risk för metabolic syndrome.",
+      "high": "Hög genetisk risk för metabolic syndrome; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "18766283"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "moderate"
+  },
+  {
+    "id": "migraine",
+    "category": "neurological",
+    "snps": [
+      {
+        "rsid": "rs10166942",
+        "riskAllele": "C",
+        "weight": 1.5
+      },
+      {
+        "rsid": "rs728047",
+        "riskAllele": "A",
+        "weight": 1.2
+      },
+      {
+        "rsid": "rs1801133",
+        "riskAllele": "T",
+        "weight": 1.3
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för migraine.",
+      "medium": "Måttlig risk för migraine.",
+      "high": "Hög genetisk risk för migraine; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "22750254"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "moderate"
+  },
+  {
+    "id": "multiple_sclerosis",
+    "category": "neurological",
+    "snps": [
+      {
+        "rsid": "rs3135388",
+        "riskAllele": "A",
+        "weight": 2.5
+      },
+      {
+        "rsid": "rs2104286",
+        "riskAllele": "T",
+        "weight": 1.3
+      },
+      {
+        "rsid": "rs17445836",
+        "riskAllele": "G",
+        "weight": 1.2
+      }
+    ],
+    "population": "EUR",
+    "interpretation": {
+      "low": "Låg genetisk risk för multiple sclerosis.",
+      "medium": "Måttlig risk för multiple sclerosis.",
+      "high": "Hög genetisk risk för multiple sclerosis; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "21725310"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "high"
+  },
+  {
+    "id": "muscle_composition",
+    "category": "trait",
+    "snps": [
+      {
+        "rsid": "rs1815739",
+        "riskAllele": "T",
+        "weight": 1.8
+      },
+      {
+        "rsid": "rs4343",
+        "riskAllele": "D",
+        "weight": 1.5
+      },
+      {
+        "rsid": "rs1042714",
+        "riskAllele": "G",
+        "weight": 1.2
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för muscle composition.",
+      "medium": "Måttlig risk för muscle composition.",
+      "high": "Hög genetisk risk för muscle composition; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "18263875"
+      }
+    ],
+    "severity": "trait",
+    "confidence": "moderate"
+  },
+  {
+    "id": "myasthenia_gravis",
+    "category": "autoimmune",
+    "snps": [
+      {
+        "rsid": "rs2470952",
+        "riskAllele": "T",
+        "weight": 1.8
+      },
+      {
+        "rsid": "rs2516049",
+        "riskAllele": "A",
+        "weight": 1.6
+      },
+      {
+        "rsid": "rs10427255",
+        "riskAllele": "C",
+        "weight": 1.3
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för myasthenia gravis.",
+      "medium": "Måttlig risk för myasthenia gravis.",
+      "high": "Hög genetisk risk för myasthenia gravis; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "21217737"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "moderate"
+  },
+  {
+    "id": "narcolepsy",
+    "category": "neurological",
+    "snps": [
+      {
+        "rsid": "rs2040410",
+        "riskAllele": "A",
+        "weight": 3.0
+      },
+      {
+        "rsid": "rs1154155",
+        "riskAllele": "T",
+        "weight": 1.5
+      },
+      {
+        "rsid": "rs41474345",
+        "riskAllele": "G",
+        "weight": 1.3
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för narcolepsy.",
+      "medium": "Måttlig risk för narcolepsy.",
+      "high": "Hög genetisk risk för narcolepsy; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "21217753"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "high"
+  },
+  {
+    "id": "nicotine_dependence",
+    "category": "pharmacogenomic",
+    "snps": [
+      {
+        "rsid": "rs16969968",
+        "riskAllele": "A",
+        "weight": 1.6
+      },
+      {
+        "rsid": "rs2273500",
+        "riskAllele": "G",
+        "weight": 1.4
+      },
+      {
+        "rsid": "rs1051730",
+        "riskAllele": "A",
+        "weight": 1.3
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för nicotine dependence.",
+      "medium": "Måttlig risk för nicotine dependence.",
+      "high": "Hög genetisk risk för nicotine dependence; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "20418890"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "moderate"
+  },
+  {
+    "id": "norovirus_susceptibility",
+    "category": "trait",
+    "snps": [
+      {
+        "rsid": "rs601338",
+        "riskAllele": "A",
+        "weight": 2.5
+      },
+      {
+        "rsid": "rs4072037",
+        "riskAllele": "C",
+        "weight": 1.5
+      },
+      {
+        "rsid": "rs601229",
+        "riskAllele": "G",
+        "weight": 1.2
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för norovirus susceptibility.",
+      "medium": "Måttlig risk för norovirus susceptibility.",
+      "high": "Hög genetisk risk för norovirus susceptibility; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "23319571"
+      }
+    ],
+    "severity": "trait",
+    "confidence": "moderate"
+  },
+  {
+    "id": "obesity",
+    "category": "metabolic",
+    "snps": [
+      {
+        "rsid": "rs9939609",
+        "riskAllele": "A",
+        "weight": 1.6
+      },
+      {
+        "rsid": "rs17782313",
+        "riskAllele": "C",
+        "weight": 1.4
+      },
+      {
+        "rsid": "rs7498665",
+        "riskAllele": "G",
+        "weight": 1.2
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för obesity.",
+      "medium": "Måttlig risk för obesity.",
+      "high": "Hög genetisk risk för obesity; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "18946424"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "moderate"
+  },
+  {
+    "id": "opioid_dependency_risk",
+    "category": "pharmacogenomic",
+    "snps": [
+      {
+        "rsid": "rs1799971",
+        "riskAllele": "G",
+        "weight": 1.4
+      },
+      {
+        "rsid": "rs4680",
+        "riskAllele": "A",
+        "weight": 1.3
+      },
+      {
+        "rsid": "rs1056575",
+        "riskAllele": "C",
+        "weight": 1.2
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för opioid dependency risk.",
+      "medium": "Måttlig risk för opioid dependency risk.",
+      "high": "Hög genetisk risk för opioid dependency risk; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "20699696"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "moderate"
+  },
+  {
+    "id": "osteoarthritis",
+    "category": "metabolic",
+    "snps": [
+      {
+        "rsid": "rs143383",
+        "riskAllele": "T",
+        "weight": 1.3
+      },
+      {
+        "rsid": "rs12901499",
+        "riskAllele": "A",
+        "weight": 1.2
+      },
+      {
+        "rsid": "rs11177",
+        "riskAllele": "G",
+        "weight": 1.2
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för osteoarthritis.",
+      "medium": "Måttlig risk för osteoarthritis.",
+      "high": "Hög genetisk risk för osteoarthritis; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "17694063"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "moderate"
+  },
+  {
+    "id": "osteoporosis",
+    "category": "metabolic",
+    "snps": [
+      {
+        "rsid": "rs3736228",
+        "riskAllele": "T",
+        "weight": 1.5
+      },
+      {
+        "rsid": "rs1800012",
+        "riskAllele": "T",
+        "weight": 1.4
+      },
+      {
+        "rsid": "rs6025",
+        "riskAllele": "A",
+        "weight": 1.2
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för osteoporosis.",
+      "medium": "Måttlig risk för osteoporosis.",
+      "high": "Hög genetisk risk för osteoporosis; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "19387491"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "moderate"
+  },
+  {
+    "id": "parkinsons_disease",
+    "category": "neurological",
+    "snps": [
+      {
+        "rsid": "rs34637584",
+        "riskAllele": "G",
+        "weight": 2.0
+      },
+      {
+        "rsid": "rs356219",
+        "riskAllele": "A",
+        "weight": 1.3
+      },
+      {
+        "rsid": "rs2736990",
+        "riskAllele": "C",
+        "weight": 1.2
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för parkinsons disease.",
+      "medium": "Måttlig risk för parkinsons disease.",
+      "high": "Hög genetisk risk för parkinsons disease; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "21477869"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "high"
+  },
+  {
+    "id": "peripheral_arterial_disease",
+    "category": "cardiovascular",
+    "snps": [
+      {
+        "rsid": "rs10811661",
+        "riskAllele": "C",
+        "weight": 1.3
+      },
+      {
+        "rsid": "rs328",
+        "riskAllele": "G",
+        "weight": 1.2
+      },
+      {
+        "rsid": "rs10911021",
+        "riskAllele": "T",
+        "weight": 1.2
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för peripheral arterial disease.",
+      "medium": "Måttlig risk för peripheral arterial disease.",
+      "high": "Hög genetisk risk för peripheral arterial disease; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "20801556"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "moderate"
+  },
+  {
+    "id": "ppi_metabolism",
+    "category": "pharmacogenomic",
+    "snps": [
+      {
+        "rsid": "rs4244285",
+        "riskAllele": "A",
+        "weight": -1.2
+      },
+      {
+        "rsid": "rs28399504",
+        "riskAllele": "C",
+        "weight": -1.0
+      },
+      {
+        "rsid": "rs12248560",
+        "riskAllele": "G",
+        "weight": 0.8
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för ppi metabolism.",
+      "medium": "Måttlig risk för ppi metabolism.",
+      "high": "Hög genetisk risk för ppi metabolism; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "CPIC",
+        "pubmed": "25501432"
+      }
+    ],
+    "severity": "pharma",
+    "confidence": "high"
+  },
+  {
+    "id": "psoriasis",
+    "category": "autoimmune",
+    "snps": [
+      {
+        "rsid": "rs12191877",
+        "riskAllele": "C",
+        "weight": 3.0
+      },
+      {
+        "rsid": "rs11209026",
+        "riskAllele": "A",
+        "weight": 1.8
+      },
+      {
+        "rsid": "rs849142",
+        "riskAllele": "T",
+        "weight": 1.3
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för psoriasis.",
+      "medium": "Måttlig risk för psoriasis.",
+      "high": "Hög genetisk risk för psoriasis; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "18987775"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "high"
+  },
+  {
+    "id": "pulmonary_embolism",
+    "category": "cardiovascular",
+    "snps": [
+      {
+        "rsid": "rs6025",
+        "riskAllele": "A",
+        "weight": 3.0
+      },
+      {
+        "rsid": "rs1799963",
+        "riskAllele": "A",
+        "weight": 2.2
+      },
+      {
+        "rsid": "rs8176719",
+        "riskAllele": "G",
+        "weight": 1.3
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för pulmonary embolism.",
+      "medium": "Måttlig risk för pulmonary embolism.",
+      "high": "Hög genetisk risk för pulmonary embolism; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "ClinVar",
+        "pubmed": "25224376"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "high"
+  },
+  {
+    "id": "retinitis_pigmentosa",
+    "category": "eye",
+    "snps": [
+      {
+        "rsid": "rs61756674",
+        "riskAllele": "T",
+        "weight": 2.0
+      },
+      {
+        "rsid": "rs104893775",
+        "riskAllele": "G",
+        "weight": 1.8
+      },
+      {
+        "rsid": "rs2000001",
+        "riskAllele": "A",
+        "weight": 1.5
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för retinitis pigmentosa.",
+      "medium": "Måttlig risk för retinitis pigmentosa.",
+      "high": "Hög genetisk risk för retinitis pigmentosa; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "ClinVar",
+        "pubmed": "25055807"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "high"
+  },
+  {
+    "id": "rheumatoid_arthritis",
+    "category": "autoimmune",
+    "snps": [
+      {
+        "rsid": "rs660895",
+        "riskAllele": "G",
+        "weight": 2.0
+      },
+      {
+        "rsid": "rs2476601",
+        "riskAllele": "T",
+        "weight": 1.8
+      },
+      {
+        "rsid": "rs540386",
+        "riskAllele": "C",
+        "weight": 1.3
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för rheumatoid arthritis.",
+      "medium": "Måttlig risk för rheumatoid arthritis.",
+      "high": "Hög genetisk risk för rheumatoid arthritis; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "19381304"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "high"
+  },
+  {
+    "id": "salbutamol_response",
+    "category": "pharmacogenomic",
+    "snps": [
+      {
+        "rsid": "rs1042713",
+        "riskAllele": "A",
+        "weight": -1.2
+      },
+      {
+        "rsid": "rs10795550",
+        "riskAllele": "G",
+        "weight": -1.0
+      },
+      {
+        "rsid": "rs1042714",
+        "riskAllele": "G",
+        "weight": -0.9
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för salbutamol response.",
+      "medium": "Måttlig risk för salbutamol response.",
+      "high": "Hög genetisk risk för salbutamol response; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "CPIC",
+        "pubmed": "25501432"
+      }
+    ],
+    "severity": "pharma",
+    "confidence": "moderate"
+  },
+  {
+    "id": "salt_sensitive_hypertension",
+    "category": "trait",
+    "snps": [
+      {
+        "rsid": "rs699",
+        "riskAllele": "T",
+        "weight": 1.5
+      },
+      {
+        "rsid": "rs4961",
+        "riskAllele": "C",
+        "weight": 1.4
+      },
+      {
+        "rsid": "rs61719868",
+        "riskAllele": "G",
+        "weight": 1.2
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för salt sensitive hypertension.",
+      "medium": "Måttlig risk för salt sensitive hypertension.",
+      "high": "Hög genetisk risk för salt sensitive hypertension; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "22955572"
+      }
+    ],
+    "severity": "trait",
+    "confidence": "moderate"
+  },
+  {
+    "id": "schizophrenia",
+    "category": "psychiatric",
+    "snps": [
+      {
+        "rsid": "rs1344706",
+        "riskAllele": "T",
+        "weight": 1.5
+      },
+      {
+        "rsid": "rs1006737",
+        "riskAllele": "A",
+        "weight": 1.3
+      },
+      {
+        "rsid": "rs1625579",
+        "riskAllele": "C",
+        "weight": 1.2
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för schizophrenia.",
+      "medium": "Måttlig risk för schizophrenia.",
+      "high": "Hög genetisk risk för schizophrenia; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "23042191"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "moderate"
+  },
+  {
+    "id": "scleroderma",
+    "category": "autoimmune",
+    "snps": [
+      {
+        "rsid": "rs10488631",
+        "riskAllele": "A",
+        "weight": 2.0
+      },
+      {
+        "rsid": "rs7574865",
+        "riskAllele": "T",
+        "weight": 1.8
+      },
+      {
+        "rsid": "rs9273363",
+        "riskAllele": "G",
+        "weight": 1.4
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för scleroderma.",
+      "medium": "Måttlig risk för scleroderma.",
+      "high": "Hög genetisk risk för scleroderma; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "20697189"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "high"
+  },
+  {
+    "id": "sjogrens_syndrome",
+    "category": "autoimmune",
+    "snps": [
+      {
+        "rsid": "rs2004640",
+        "riskAllele": "T",
+        "weight": 2.0
+      },
+      {
+        "rsid": "rs7574865",
+        "riskAllele": "T",
+        "weight": 1.8
+      },
+      {
+        "rsid": "rs11570120",
+        "riskAllele": "G",
+        "weight": 1.3
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för sjogrens syndrome.",
+      "medium": "Måttlig risk för sjogrens syndrome.",
+      "high": "Hög genetisk risk för sjogrens syndrome; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "19381306"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "high"
+  },
+  {
+    "id": "skin_pigmentation",
+    "category": "trait",
+    "snps": [
+      {
+        "rsid": "rs1426654",
+        "riskAllele": "A",
+        "weight": 3.0
+      },
+      {
+        "rsid": "rs12821256",
+        "riskAllele": "T",
+        "weight": 2.0
+      },
+      {
+        "rsid": "rs2402130",
+        "riskAllele": "G",
+        "weight": 1.3
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för skin pigmentation.",
+      "medium": "Måttlig risk för skin pigmentation.",
+      "high": "Hög genetisk risk för skin pigmentation; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "18252221"
+      }
+    ],
+    "severity": "trait",
+    "confidence": "high"
+  },
+  {
+    "id": "ssri_metabolism",
+    "category": "pharmacogenomic",
+    "snps": [
+      {
+        "rsid": "rs4244285",
+        "riskAllele": "A",
+        "weight": -1.2
+      },
+      {
+        "rsid": "rs12248560",
+        "riskAllele": "G",
+        "weight": -1.0
+      },
+      {
+        "rsid": "rs28399504",
+        "riskAllele": "C",
+        "weight": -1.0
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för ssri metabolism.",
+      "medium": "Måttlig risk för ssri metabolism.",
+      "high": "Hög genetisk risk för ssri metabolism; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "CPIC",
+        "pubmed": "25501432"
+      }
+    ],
+    "severity": "pharma",
+    "confidence": "high"
+  },
+  {
+    "id": "statin_myopathy",
+    "category": "pharmacogenomic",
+    "snps": [
+      {
+        "rsid": "rs4149056",
+        "riskAllele": "C",
+        "weight": -2.0
+      },
+      {
+        "rsid": "rs1800566",
+        "riskAllele": "T",
+        "weight": -1.2
+      },
+      {
+        "rsid": "rs2229742",
+        "riskAllele": "A",
+        "weight": -1.0
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för statin myopathy.",
+      "medium": "Måttlig risk för statin myopathy.",
+      "high": "Hög genetisk risk för statin myopathy; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "CPIC",
+        "pubmed": "25501432"
+      }
+    ],
+    "severity": "pharma",
+    "confidence": "high"
+  },
+  {
+    "id": "systemic_lupus_erythematosus",
+    "category": "autoimmune",
+    "snps": [
+      {
+        "rsid": "rs9271366",
+        "riskAllele": "T",
+        "weight": 2.5
+      },
+      {
+        "rsid": "rs1143679",
+        "riskAllele": "A",
+        "weight": 2.0
+      },
+      {
+        "rsid": "rs7574865",
+        "riskAllele": "T",
+        "weight": 1.5
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för systemic lupus erythematosus.",
+      "medium": "Måttlig risk för systemic lupus erythematosus.",
+      "high": "Hög genetisk risk för systemic lupus erythematosus; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "19387485"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "high"
+  },
+  {
+    "id": "tacrolimus_metabolism",
+    "category": "pharmacogenomic",
+    "snps": [
+      {
+        "rsid": "rs776746",
+        "riskAllele": "A",
+        "weight": -2.5
+      },
+      {
+        "rsid": "rs2740574",
+        "riskAllele": "C",
+        "weight": -1.5
+      },
+      {
+        "rsid": "rs4646450",
+        "riskAllele": "G",
+        "weight": -1.2
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för tacrolimus metabolism.",
+      "medium": "Måttlig risk för tacrolimus metabolism.",
+      "high": "Hög genetisk risk för tacrolimus metabolism; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "CPIC",
+        "pubmed": "25501432"
+      }
+    ],
+    "severity": "pharma",
+    "confidence": "high"
+  },
+  {
+    "id": "tca_metabolism",
+    "category": "pharmacogenomic",
+    "snps": [
+      {
+        "rsid": "rs1135840",
+        "riskAllele": "A",
+        "weight": -1.5
+      },
+      {
+        "rsid": "rs4244285",
+        "riskAllele": "A",
+        "weight": -1.2
+      },
+      {
+        "rsid": "rs16947",
+        "riskAllele": "T",
+        "weight": -1.0
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för tca metabolism.",
+      "medium": "Måttlig risk för tca metabolism.",
+      "high": "Hög genetisk risk för tca metabolism; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "CPIC",
+        "pubmed": "25501432"
+      }
+    ],
+    "severity": "pharma",
+    "confidence": "high"
+  },
+  {
+    "id": "tpmt_deficiency",
+    "category": "pharmacogenomic",
+    "snps": [
+      {
+        "rsid": "rs1142345",
+        "riskAllele": "C",
+        "weight": -2.5
+      },
+      {
+        "rsid": "rs1800460",
+        "riskAllele": "A",
+        "weight": -2.0
+      },
+      {
+        "rsid": "rs1800462",
+        "riskAllele": "T",
+        "weight": -1.5
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för tpmt deficiency.",
+      "medium": "Måttlig risk för tpmt deficiency.",
+      "high": "Hög genetisk risk för tpmt deficiency; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "CPIC",
+        "pubmed": "25501432"
+      }
+    ],
+    "severity": "pharma",
+    "confidence": "high"
+  },
+  {
+    "id": "type_1_diabetes",
+    "category": "autoimmune",
+    "snps": [
+      {
+        "rsid": "rs2476601",
+        "riskAllele": "T",
+        "weight": 2.5
+      },
+      {
+        "rsid": "rs689",
+        "riskAllele": "C",
+        "weight": 1.5
+      },
+      {
+        "rsid": "rs2816316",
+        "riskAllele": "G",
+        "weight": 1.3
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för type 1 diabetes.",
+      "medium": "Måttlig risk för type 1 diabetes.",
+      "high": "Hög genetisk risk för type 1 diabetes; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "18381565"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "high"
+  },
+  {
+    "id": "type_2_diabetes",
+    "category": "metabolic",
+    "snps": [
+      {
+        "rsid": "rs7903146",
+        "riskAllele": "T",
+        "weight": 1.5
+      },
+      {
+        "rsid": "rs13266634",
+        "riskAllele": "C",
+        "weight": 1.3
+      },
+      {
+        "rsid": "rs4402960",
+        "riskAllele": "A",
+        "weight": 1.2
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för type 2 diabetes.",
+      "medium": "Måttlig risk för type 2 diabetes.",
+      "high": "Hög genetisk risk för type 2 diabetes; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "19293871"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "moderate"
+  },
+  {
+    "id": "ugt1a1_deficiency",
+    "category": "pharmacogenomic",
+    "snps": [
+      {
+        "rsid": "rs3064744",
+        "riskAllele": "U",
+        "weight": -2.0
+      },
+      {
+        "rsid": "rs887829",
+        "riskAllele": "T",
+        "weight": -1.5
+      },
+      {
+        "rsid": "rs4148323",
+        "riskAllele": "C",
+        "weight": -1.2
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för ugt1a1 deficiency.",
+      "medium": "Måttlig risk för ugt1a1 deficiency.",
+      "high": "Hög genetisk risk för ugt1a1 deficiency; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "CPIC",
+        "pubmed": "25501432"
+      }
+    ],
+    "severity": "pharma",
+    "confidence": "high"
+  },
+  {
+    "id": "ulcerative_colitis",
+    "category": "autoimmune",
+    "snps": [
+      {
+        "rsid": "rs6017342",
+        "riskAllele": "C",
+        "weight": 1.6
+      },
+      {
+        "rsid": "rs11205387",
+        "riskAllele": "T",
+        "weight": 1.4
+      },
+      {
+        "rsid": "rs11209026",
+        "riskAllele": "A",
+        "weight": 1.3
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för ulcerative colitis.",
+      "medium": "Måttlig risk för ulcerative colitis.",
+      "high": "Hög genetisk risk för ulcerative colitis; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "17554300"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "moderate"
+  },
+  {
+    "id": "venous_thromboembolism",
+    "category": "cardiovascular",
+    "snps": [
+      {
+        "rsid": "rs6025",
+        "riskAllele": "A",
+        "weight": 3.5
+      },
+      {
+        "rsid": "rs1799963",
+        "riskAllele": "A",
+        "weight": 2.5
+      },
+      {
+        "rsid": "rs8176719",
+        "riskAllele": "G",
+        "weight": 1.3
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för venous thromboembolism.",
+      "medium": "Måttlig risk för venous thromboembolism.",
+      "high": "Hög genetisk risk för venous thromboembolism; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "ClinVar",
+        "pubmed": "25224376"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "high"
+  },
+  {
+    "id": "vitamin_d_deficiency",
+    "category": "trait",
+    "snps": [
+      {
+        "rsid": "rs7041",
+        "riskAllele": "T",
+        "weight": 1.4
+      },
+      {
+        "rsid": "rs12785878",
+        "riskAllele": "G",
+        "weight": 1.5
+      },
+      {
+        "rsid": "rs2282679",
+        "riskAllele": "C",
+        "weight": 1.3
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för vitamin d deficiency.",
+      "medium": "Måttlig risk för vitamin d deficiency.",
+      "high": "Hög genetisk risk för vitamin d deficiency; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "20661253"
+      }
+    ],
+    "severity": "trait",
+    "confidence": "moderate"
+  },
+  {
+    "id": "vitiligo",
+    "category": "autoimmune",
+    "snps": [
+      {
+        "rsid": "rs75029484",
+        "riskAllele": "T",
+        "weight": 1.8
+      },
+      {
+        "rsid": "rs1393350",
+        "riskAllele": "C",
+        "weight": 1.5
+      },
+      {
+        "rsid": "rs1126809",
+        "riskAllele": "A",
+        "weight": 1.2
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för vitiligo.",
+      "medium": "Måttlig risk för vitiligo.",
+      "high": "Hög genetisk risk för vitiligo; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "GWAS",
+        "pubmed": "20107131"
+      }
+    ],
+    "severity": "medical",
+    "confidence": "moderate"
+  },
+  {
+    "id": "warfarin_dosing",
+    "category": "pharmacogenomic",
+    "snps": [
+      {
+        "rsid": "rs9923231",
+        "riskAllele": "T",
+        "weight": -1.5
+      },
+      {
+        "rsid": "rs1057910",
+        "riskAllele": "A",
+        "weight": -1.2
+      },
+      {
+        "rsid": "rs1799853",
+        "riskAllele": "C",
+        "weight": -1.0
+      }
+    ],
+    "population": "ALL",
+    "interpretation": {
+      "low": "Låg genetisk risk för warfarin dosing.",
+      "medium": "Måttlig risk för warfarin dosing.",
+      "high": "Hög genetisk risk för warfarin dosing; flera riskalleler påträffade."
+    },
+    "evidence": [
+      {
+        "source": "CPIC",
+        "pubmed": "25501432"
+      }
+    ],
+    "severity": "pharma",
+    "confidence": "high"
+  }
+]

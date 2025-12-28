@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": null,
+  "id": "GWAS_1648",
+  "last_updated": "2025-12-24T00:26:49.599841",
+  "odds_ratio": 1.2155,
+  "phenotype": "(African)",
+  "pvalue": 1e-06,
+  "references": [],
+  "rsid": "rs191817094",
+  "source": "GWAS",
+  "source_url": null
+}

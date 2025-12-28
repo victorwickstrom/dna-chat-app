@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "KIRREL3",
+  "id": "GWAS_3674",
+  "last_updated": "2025-12-24T00:26:49.619849",
+  "odds_ratio": null,
+  "phenotype": "(Total IGF-1)",
+  "pvalue": 1e-06,
+  "references": [],
+  "rsid": "rs1939992",
+  "source": "GWAS",
+  "source_url": null
+}

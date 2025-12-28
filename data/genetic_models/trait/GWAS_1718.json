@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "EPGN",
+  "id": "GWAS_1718",
+  "last_updated": "2025-12-24T00:26:49.600471",
+  "odds_ratio": null,
+  "phenotype": "(EA)",
+  "pvalue": 7.000000000000001e-09,
+  "references": [],
+  "rsid": "rs16850885",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "metabolic_syndrome",
+  "category": "metabolic",
+  "snps": [
+    {
+      "rsid": "rs780094",
+      "riskAllele": "C",
+      "weight": 1.4
+    },
+    {
+      "rsid": "rs662799",
+      "riskAllele": "G",
+      "weight": 1.3
+    },
+    {
+      "rsid": "rs10401969",
+      "riskAllele": "T",
+      "weight": 1.2
+    }
+  ],
+  "population": "ALL",
+  "interpretation": {
+    "low": "L\u00e5g genetisk risk f\u00f6r metabolic syndrome.",
+    "medium": "M\u00e5ttlig risk f\u00f6r metabolic syndrome.",
+    "high": "H\u00f6g genetisk risk f\u00f6r metabolic syndrome; flera riskalleler p\u00e5tr\u00e4ffade."
+  },
+  "evidence": [
+    {
+      "source": "GWAS",
+      "pubmed": "18766283"
+    }
+  ],
+  "severity": "medical",
+  "confidence": "moderate"
+}

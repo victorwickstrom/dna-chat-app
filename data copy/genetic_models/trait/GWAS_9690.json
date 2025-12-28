@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "SNX29",
+  "id": "GWAS_9690",
+  "last_updated": "2025-12-24T00:12:31.765340",
+  "odds_ratio": 0.03,
+  "phenotype": "(Height z-score change )",
+  "pvalue": 4e-06,
+  "references": [],
+  "rsid": "rs1560104",
+  "source": "GWAS",
+  "source_url": null
+}

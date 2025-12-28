@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "PTPN22",
+  "id": "GWAS_1526",
+  "last_updated": "2025-12-24T00:26:49.598743",
+  "odds_ratio": 1.82,
+  "phenotype": "GWAS association for rs6679677",
+  "pvalue": 5e-26,
+  "references": [],
+  "rsid": "rs6679677",
+  "source": "GWAS",
+  "source_url": null
+}

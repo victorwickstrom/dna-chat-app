@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "LAMA5",
+  "id": "GWAS_1789",
+  "last_updated": "2025-12-24T00:26:49.601097",
+  "odds_ratio": 1.08,
+  "phenotype": "GWAS association for rs4925386",
+  "pvalue": 2e-10,
+  "references": [],
+  "rsid": "rs4925386",
+  "source": "GWAS",
+  "source_url": null
+}

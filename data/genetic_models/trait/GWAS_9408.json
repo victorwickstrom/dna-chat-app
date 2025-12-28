@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "LINC00290",
+  "id": "GWAS_9408",
+  "last_updated": "2025-12-24T00:12:31.759626",
+  "odds_ratio": null,
+  "phenotype": "(AA)",
+  "pvalue": 2e-06,
+  "references": [],
+  "rsid": "rs13138395",
+  "source": "GWAS",
+  "source_url": null
+}

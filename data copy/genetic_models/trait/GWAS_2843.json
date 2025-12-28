@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "C12ORF51",
+  "id": "GWAS_2843",
+  "last_updated": "2025-12-24T00:26:49.612200",
+  "odds_ratio": 1.06,
+  "phenotype": "GWAS association for rs2074356",
+  "pvalue": 9e-59,
+  "references": [],
+  "rsid": "rs2074356",
+  "source": "GWAS",
+  "source_url": null
+}

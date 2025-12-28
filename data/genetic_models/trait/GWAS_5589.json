@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "UGT1A",
+  "id": "GWAS_5589",
+  "last_updated": "2025-12-24T00:12:31.666977",
+  "odds_ratio": 0.293,
+  "phenotype": "(SM-4 + 74 other traits)",
+  "pvalue": 2.9999999999999997e-74,
+  "references": [],
+  "rsid": "rs887829",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "MAP4K2",
+  "id": "GWAS_4004",
+  "last_updated": "2025-12-24T00:26:49.623509",
+  "odds_ratio": 0.8,
+  "phenotype": "(AA)",
+  "pvalue": 2e-17,
+  "references": [],
+  "rsid": "rs493573",
+  "source": "GWAS",
+  "source_url": null
+}

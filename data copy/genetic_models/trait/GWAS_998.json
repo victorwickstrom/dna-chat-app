@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "SNCA",
+  "id": "GWAS_998",
+  "last_updated": "2025-12-24T00:26:49.593610",
+  "odds_ratio": 1.37,
+  "phenotype": "GWAS association for rs11931074",
+  "pvalue": 7e-17,
+  "references": [],
+  "rsid": "rs11931074",
+  "source": "GWAS",
+  "source_url": null
+}

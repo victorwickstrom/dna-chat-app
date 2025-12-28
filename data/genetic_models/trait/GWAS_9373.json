@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "A2MP1",
+  "id": "GWAS_9373",
+  "last_updated": "2025-12-24T00:12:31.759266",
+  "odds_ratio": null,
+  "phenotype": "(EA)",
+  "pvalue": 2e-06,
+  "references": [],
+  "rsid": "rs7298108",
+  "source": "GWAS",
+  "source_url": null
+}

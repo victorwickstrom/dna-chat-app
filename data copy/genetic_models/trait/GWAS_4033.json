@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "FGF5",
+  "id": "GWAS_4033",
+  "last_updated": "2025-12-24T00:26:49.623771",
+  "odds_ratio": 0.457,
+  "phenotype": "GWAS association for rs1458038",
+  "pvalue": 9e-25,
+  "references": [],
+  "rsid": "rs1458038",
+  "source": "GWAS",
+  "source_url": null
+}

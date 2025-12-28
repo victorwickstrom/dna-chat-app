@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "NEDD8",
+  "id": "GWAS_4399",
+  "last_updated": "2025-12-24T00:26:49.627102",
+  "odds_ratio": null,
+  "phenotype": "GWAS association for rs11158609",
+  "pvalue": 3.0000000000000004e-08,
+  "references": [],
+  "rsid": "rs11158609",
+  "source": "GWAS",
+  "source_url": null
+}

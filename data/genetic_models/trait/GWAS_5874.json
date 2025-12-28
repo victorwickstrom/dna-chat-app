@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "SGPP1",
+  "id": "GWAS_5874",
+  "last_updated": "2025-12-24T00:12:31.673498",
+  "odds_ratio": null,
+  "phenotype": "(levels)",
+  "pvalue": 3e-57,
+  "references": [],
+  "rsid": "rs17101394",
+  "source": "GWAS",
+  "source_url": null
+}

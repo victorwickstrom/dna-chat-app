@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "SLC24A4",
+  "id": "GWAS_1169",
+  "last_updated": "2025-12-24T00:26:49.595405",
+  "odds_ratio": 2.06,
+  "phenotype": "GWAS association for rs12896399",
+  "pvalue": 4e-38,
+  "references": [],
+  "rsid": "rs12896399",
+  "source": "GWAS",
+  "source_url": null
+}

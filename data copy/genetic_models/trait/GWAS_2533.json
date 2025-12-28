@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "SPATA2",
+  "id": "GWAS_2533",
+  "last_updated": "2025-12-24T00:26:49.608790",
+  "odds_ratio": 1.25,
+  "phenotype": "GWAS association for rs495337",
+  "pvalue": 1e-08,
+  "references": [],
+  "rsid": "rs495337",
+  "source": "GWAS",
+  "source_url": null
+}

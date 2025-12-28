@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "ZNF536",
+  "id": "GWAS_4093",
+  "last_updated": "2025-12-24T00:26:49.624342",
+  "odds_ratio": null,
+  "phenotype": "(CRP6)",
+  "pvalue": 8e-07,
+  "references": [],
+  "rsid": "rs746961",
+  "source": "GWAS",
+  "source_url": null
+}

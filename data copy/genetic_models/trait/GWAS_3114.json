@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "PROX1",
+  "id": "GWAS_3114",
+  "last_updated": "2025-12-24T00:26:49.614579",
+  "odds_ratio": 1.45,
+  "phenotype": "GWAS association for rs17762192",
+  "pvalue": 2e-06,
+  "references": [],
+  "rsid": "rs17762192",
+  "source": "GWAS",
+  "source_url": null
+}

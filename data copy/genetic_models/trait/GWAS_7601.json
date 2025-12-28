@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "SEMA5A",
+  "id": "GWAS_7601",
+  "last_updated": "2025-12-24T00:12:31.716810",
+  "odds_ratio": 1.74,
+  "phenotype": null,
+  "pvalue": 8e-06,
+  "references": [],
+  "rsid": "rs7702187",
+  "source": "GWAS",
+  "source_url": null
+}

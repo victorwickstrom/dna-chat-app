@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "drug",
+  "drug": "irinotecan",
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": null,
+  "id": "CPIC_drug_irinotecan_138",
+  "last_updated": "2025-12-24T00:26:50.460021",
+  "odds_ratio": null,
+  "phenotype": null,
+  "pvalue": null,
+  "references": [],
+  "rsid": null,
+  "source": "CPIC",
+  "source_url": null
+}

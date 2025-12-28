@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "ALPL",
+  "id": "GWAS_7454",
+  "last_updated": "2025-12-24T00:12:31.713207",
+  "odds_ratio": 0.163,
+  "phenotype": "(ALP)",
+  "pvalue": 5e-13,
+  "references": [],
+  "rsid": "rs2242420",
+  "source": "GWAS",
+  "source_url": null
+}

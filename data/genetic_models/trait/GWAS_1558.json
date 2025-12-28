@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "SEMA3C",
+  "id": "GWAS_1558",
+  "last_updated": "2025-12-24T00:26:49.599026",
+  "odds_ratio": 0.02,
+  "phenotype": "GWAS association for rs4236644",
+  "pvalue": 2e-06,
+  "references": [],
+  "rsid": "rs4236644",
+  "source": "GWAS",
+  "source_url": null
+}

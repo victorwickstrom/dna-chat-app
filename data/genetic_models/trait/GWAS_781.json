@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "LGR5",
+  "id": "GWAS_781",
+  "last_updated": "2025-12-24T00:26:49.591672",
+  "odds_ratio": 1.09,
+  "phenotype": "GWAS association for rs7961581",
+  "pvalue": 1e-09,
+  "references": [],
+  "rsid": "rs7961581",
+  "source": "GWAS",
+  "source_url": null
+}

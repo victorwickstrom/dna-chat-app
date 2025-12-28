@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "SHBG",
+  "id": "GWAS_7249",
+  "last_updated": "2025-12-24T00:12:31.708721",
+  "odds_ratio": 82.3,
+  "phenotype": "(Testosterone)",
+  "pvalue": 2e-22,
+  "references": [],
+  "rsid": "rs6258",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "PIK3C2A",
+  "id": "GWAS_5259",
+  "last_updated": "2025-12-24T00:12:31.659846",
+  "odds_ratio": null,
+  "phenotype": "(SCZ or BP vs. controls)",
+  "pvalue": 6.000000000000001e-09,
+  "references": [],
+  "rsid": "rs4356203",
+  "source": "GWAS",
+  "source_url": null
+}

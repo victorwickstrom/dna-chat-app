@@ -1,0 +1,35 @@
+{
+  "id": "folate_metabolism",
+  "category": "trait",
+  "snps": [
+    {
+      "rsid": "rs1801133",
+      "riskAllele": "T",
+      "weight": 1.6
+    },
+    {
+      "rsid": "rs1801394",
+      "riskAllele": "G",
+      "weight": 1.5
+    },
+    {
+      "rsid": "rs651852",
+      "riskAllele": "A",
+      "weight": 1.3
+    }
+  ],
+  "population": "ALL",
+  "interpretation": {
+    "low": "L\u00e5g genetisk risk f\u00f6r folate metabolism.",
+    "medium": "M\u00e5ttlig risk f\u00f6r folate metabolism.",
+    "high": "H\u00f6g genetisk risk f\u00f6r folate metabolism; flera riskalleler p\u00e5tr\u00e4ffade."
+  },
+  "evidence": [
+    {
+      "source": "GWAS",
+      "pubmed": "19116898"
+    }
+  ],
+  "severity": "trait",
+  "confidence": "moderate"
+}

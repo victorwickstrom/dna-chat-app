@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "FOXP2",
+  "id": "GWAS_233",
+  "last_updated": "2025-12-24T00:26:49.584917",
+  "odds_ratio": 0.095,
+  "phenotype": "(women)",
+  "pvalue": 7e-06,
+  "references": [],
+  "rsid": "rs13226763",
+  "source": "GWAS",
+  "source_url": null
+}

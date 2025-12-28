@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "CDH9",
+  "id": "GWAS_9416",
+  "last_updated": "2025-12-24T00:12:31.759737",
+  "odds_ratio": null,
+  "phenotype": "(men)",
+  "pvalue": 3e-06,
+  "references": [],
+  "rsid": "rs4701523",
+  "source": "GWAS",
+  "source_url": null
+}

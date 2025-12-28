@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "CHMP4C",
+  "id": "GWAS_3079",
+  "last_updated": "2025-12-24T00:26:49.614276",
+  "odds_ratio": null,
+  "phenotype": "GWAS association for rs11782652",
+  "pvalue": 3e-10,
+  "references": [],
+  "rsid": "rs11782652",
+  "source": "GWAS",
+  "source_url": null
+}

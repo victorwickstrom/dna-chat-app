@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "ATP2B1",
+  "id": "GWAS_6290",
+  "last_updated": "2025-12-24T00:12:31.682633",
+  "odds_ratio": 0.557,
+  "phenotype": "(Mean Arterial Pressure)",
+  "pvalue": 1e-17,
+  "references": [],
+  "rsid": "rs17249754",
+  "source": "GWAS",
+  "source_url": null
+}

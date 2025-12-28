@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "ZPLD1",
+  "id": "GWAS_8308",
+  "last_updated": "2025-12-24T00:12:31.735014",
+  "odds_ratio": 1.23,
+  "phenotype": "(Chinese+Malay+Indian)",
+  "pvalue": 3e-06,
+  "references": [],
+  "rsid": "rs2063640",
+  "source": "GWAS",
+  "source_url": null
+}

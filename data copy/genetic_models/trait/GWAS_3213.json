@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "TMPRSS6",
+  "id": "GWAS_3213",
+  "last_updated": "2025-12-24T00:26:49.615471",
+  "odds_ratio": 0.13,
+  "phenotype": "GWAS association for rs855791",
+  "pvalue": 2e-13,
+  "references": [],
+  "rsid": "rs855791",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "HHEX",
+  "id": "GWAS_2253",
+  "last_updated": "2025-12-24T00:26:49.606145",
+  "odds_ratio": 1.17,
+  "phenotype": "GWAS association for rs5015480",
+  "pvalue": 7e-08,
+  "references": [],
+  "rsid": "rs5015480",
+  "source": "GWAS",
+  "source_url": null
+}

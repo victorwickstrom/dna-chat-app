@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "STK36",
+  "id": "GWAS_9748",
+  "last_updated": "2025-12-24T00:12:31.766472",
+  "odds_ratio": 1.17,
+  "phenotype": "(Meta)",
+  "pvalue": 6e-07,
+  "references": [],
+  "rsid": "rs2303565",
+  "source": "GWAS",
+  "source_url": null
+}

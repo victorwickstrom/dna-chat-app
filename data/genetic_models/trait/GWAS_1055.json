@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "MTHFD2L",
+  "id": "GWAS_1055",
+  "last_updated": "2025-12-24T00:26:49.594264",
+  "odds_ratio": null,
+  "phenotype": "(EA)",
+  "pvalue": 7.000000000000001e-09,
+  "references": [],
+  "rsid": "rs16850864",
+  "source": "GWAS",
+  "source_url": null
+}

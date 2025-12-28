@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "SLC24A3",
+  "id": "GWAS_8832",
+  "last_updated": "2025-12-24T00:12:31.747279",
+  "odds_ratio": 0.2113,
+  "phenotype": "(FEV1/FVC decline in non-asthmatics)",
+  "pvalue": 3e-06,
+  "references": [],
+  "rsid": "rs2424234",
+  "source": "GWAS",
+  "source_url": null
+}

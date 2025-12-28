@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "GOSR2",
+  "id": "GWAS_8501",
+  "last_updated": "2025-12-24T00:12:31.739308",
+  "odds_ratio": 0.364,
+  "phenotype": "(Mean Arterial Pressure)",
+  "pvalue": 2e-07,
+  "references": [],
+  "rsid": "rs17608766",
+  "source": "GWAS",
+  "source_url": null
+}

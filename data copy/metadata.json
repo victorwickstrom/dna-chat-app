@@ -1,0 +1,47 @@
+{
+  "errors": null,
+  "indexes": {
+    "domain": 5,
+    "drug": 323,
+    "gene": 2234,
+    "rsid": 4299
+  },
+  "models": {
+    "by_domain": {
+      "drug": 323,
+      "gene": 132,
+      "guideline": 31,
+      "trait": 4955,
+      "variant": 12
+    },
+    "total": 5453
+  },
+  "run_info": {
+    "duration_seconds": 141.514491,
+    "end_time": "2025-12-24T00:26:50.572733",
+    "platform": "macOS-15.6.1-arm64-arm-64bit",
+    "python_version": "3.9.6",
+    "start_time": "2025-12-24T00:24:29.058242"
+  },
+  "sources": {
+    "cpic": {
+      "errors": 0,
+      "processed": 486
+    },
+    "gwas": {
+      "errors": 45,
+      "processed": 4955
+    },
+    "pharmgkb": {
+      "errors": 0,
+      "processed": 12
+    }
+  },
+  "status": {
+    "error_count": 0,
+    "success": true,
+    "warning_count": 0
+  },
+  "version": "0.1.0",
+  "warnings": null
+}

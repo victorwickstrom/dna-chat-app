@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "BTNL2",
+  "id": "GWAS_2602",
+  "last_updated": "2025-12-24T00:26:49.609422",
+  "odds_ratio": null,
+  "phenotype": "GWAS association for rs7758128",
+  "pvalue": 8e-11,
+  "references": [],
+  "rsid": "rs7758128",
+  "source": "GWAS",
+  "source_url": null
+}

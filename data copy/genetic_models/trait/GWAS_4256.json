@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "KLHL29",
+  "id": "GWAS_4256",
+  "last_updated": "2025-12-24T00:26:49.625816",
+  "odds_ratio": 1.2135922,
+  "phenotype": "GWAS association for rs4665630",
+  "pvalue": 1e-07,
+  "references": [],
+  "rsid": "rs4665630",
+  "source": "GWAS",
+  "source_url": null
+}

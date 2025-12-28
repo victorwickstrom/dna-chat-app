@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "CHST11",
+  "id": "GWAS_4017",
+  "last_updated": "2025-12-24T00:26:49.623626",
+  "odds_ratio": 1.74,
+  "phenotype": "GWAS association for rs12811699",
+  "pvalue": 8e-06,
+  "references": [],
+  "rsid": "rs12811699",
+  "source": "GWAS",
+  "source_url": null
+}

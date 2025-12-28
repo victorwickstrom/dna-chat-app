@@ -1,0 +1,35 @@
+{
+  "id": "chronotype",
+  "category": "trait",
+  "snps": [
+    {
+      "rsid": "rs10462020",
+      "riskAllele": "C",
+      "weight": 1.5
+    },
+    {
+      "rsid": "rs1801260",
+      "riskAllele": "A",
+      "weight": 1.4
+    },
+    {
+      "rsid": "rs6587219",
+      "riskAllele": "G",
+      "weight": 1.2
+    }
+  ],
+  "population": "ALL",
+  "interpretation": {
+    "low": "L\u00e5g genetisk risk f\u00f6r chronotype.",
+    "medium": "M\u00e5ttlig risk f\u00f6r chronotype.",
+    "high": "H\u00f6g genetisk risk f\u00f6r chronotype; flera riskalleler p\u00e5tr\u00e4ffade."
+  },
+  "evidence": [
+    {
+      "source": "GWAS",
+      "pubmed": "22158514"
+    }
+  ],
+  "severity": "trait",
+  "confidence": "moderate"
+}

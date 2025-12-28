@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "CD226",
+  "id": "GWAS_4691",
+  "last_updated": "2025-12-24T00:26:49.629917",
+  "odds_ratio": 1.077,
+  "phenotype": "GWAS association for rs727088",
+  "pvalue": 5e-09,
+  "references": [],
+  "rsid": "rs727088",
+  "source": "GWAS",
+  "source_url": null
+}

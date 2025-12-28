@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "SCHIP1",
+  "id": "GWAS_1967",
+  "last_updated": "2025-12-24T00:26:49.602908",
+  "odds_ratio": 0.22,
+  "phenotype": "(WC)",
+  "pvalue": 8e-07,
+  "references": [],
+  "rsid": "rs2222328",
+  "source": "GWAS",
+  "source_url": null
+}

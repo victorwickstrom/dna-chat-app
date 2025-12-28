@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "NOLA1",
+  "id": "GWAS_2509",
+  "last_updated": "2025-12-24T00:26:49.608561",
+  "odds_ratio": null,
+  "phenotype": "(S2EHR)",
+  "pvalue": 3e-06,
+  "references": [],
+  "rsid": "rs6847149",
+  "source": "GWAS",
+  "source_url": null
+}

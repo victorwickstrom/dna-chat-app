@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "MEF2C",
+  "id": "GWAS_1209",
+  "last_updated": "2025-12-24T00:26:49.595765",
+  "odds_ratio": 0.09,
+  "phenotype": "GWAS association for rs1366594",
+  "pvalue": 1e-13,
+  "references": [],
+  "rsid": "rs1366594",
+  "source": "GWAS",
+  "source_url": null
+}

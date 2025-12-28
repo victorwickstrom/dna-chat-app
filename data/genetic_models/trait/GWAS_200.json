@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "ZBED3",
+  "id": "GWAS_200",
+  "last_updated": "2025-12-24T00:26:49.584621",
+  "odds_ratio": 1.08,
+  "phenotype": "GWAS association for rs4457053",
+  "pvalue": 3e-12,
+  "references": [],
+  "rsid": "rs4457053",
+  "source": "GWAS",
+  "source_url": null
+}

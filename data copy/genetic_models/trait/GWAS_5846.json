@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "LAMA1",
+  "id": "GWAS_5846",
+  "last_updated": "2025-12-24T00:12:31.672842",
+  "odds_ratio": null,
+  "phenotype": "(EA + AA - Overall tolerability)",
+  "pvalue": 5e-07,
+  "references": [],
+  "rsid": "rs3810046",
+  "source": "GWAS",
+  "source_url": null
+}

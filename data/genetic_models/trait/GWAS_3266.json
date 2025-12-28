@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "LASS4",
+  "id": "GWAS_3266",
+  "last_updated": "2025-12-24T00:26:49.615927",
+  "odds_ratio": null,
+  "phenotype": "(SM 18:1Mol%)",
+  "pvalue": 2e-27,
+  "references": [],
+  "rsid": "rs7258249",
+  "source": "GWAS",
+  "source_url": null
+}

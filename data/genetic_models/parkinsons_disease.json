@@ -1,0 +1,35 @@
+{
+  "id": "parkinsons_disease",
+  "category": "neurological",
+  "snps": [
+    {
+      "rsid": "rs34637584",
+      "riskAllele": "G",
+      "weight": 2.0
+    },
+    {
+      "rsid": "rs356219",
+      "riskAllele": "A",
+      "weight": 1.3
+    },
+    {
+      "rsid": "rs2736990",
+      "riskAllele": "C",
+      "weight": 1.2
+    }
+  ],
+  "population": "ALL",
+  "interpretation": {
+    "low": "L\u00e5g genetisk risk f\u00f6r parkinsons disease.",
+    "medium": "M\u00e5ttlig risk f\u00f6r parkinsons disease.",
+    "high": "H\u00f6g genetisk risk f\u00f6r parkinsons disease; flera riskalleler p\u00e5tr\u00e4ffade."
+  },
+  "evidence": [
+    {
+      "source": "GWAS",
+      "pubmed": "21477869"
+    }
+  ],
+  "severity": "medical",
+  "confidence": "high"
+}

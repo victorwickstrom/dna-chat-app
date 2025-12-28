@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "CDAN1",
+  "id": "GWAS_3676",
+  "last_updated": "2025-12-24T00:26:49.619866",
+  "odds_ratio": null,
+  "phenotype": "(Ft4)",
+  "pvalue": 5e-07,
+  "references": [],
+  "rsid": "rs16957063",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "PKNOX1",
+  "id": "GWAS_2947",
+  "last_updated": "2025-12-24T00:26:49.613139",
+  "odds_ratio": null,
+  "phenotype": "(Digit Span Forward)",
+  "pvalue": 2e-07,
+  "references": [],
+  "rsid": "rs234720",
+  "source": "GWAS",
+  "source_url": null
+}

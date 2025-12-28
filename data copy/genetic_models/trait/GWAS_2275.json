@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "UBASH3A",
+  "id": "GWAS_2275",
+  "last_updated": "2025-12-24T00:26:49.606376",
+  "odds_ratio": 1.16,
+  "phenotype": "GWAS association for rs9976767",
+  "pvalue": 2e-08,
+  "references": [],
+  "rsid": "rs9976767",
+  "source": "GWAS",
+  "source_url": null
+}

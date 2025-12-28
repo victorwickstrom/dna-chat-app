@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "ARNT2",
+  "id": "GWAS_1828",
+  "last_updated": "2025-12-24T00:26:49.601445",
+  "odds_ratio": 1.04,
+  "phenotype": "GWAS association for rs2759301",
+  "pvalue": 9.000000000000001e-09,
+  "references": [],
+  "rsid": "rs2759301",
+  "source": "GWAS",
+  "source_url": null
+}

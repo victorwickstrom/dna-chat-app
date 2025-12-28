@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "EYA4",
+  "id": "GWAS_3670",
+  "last_updated": "2025-12-24T00:26:49.619812",
+  "odds_ratio": null,
+  "phenotype": "(Alpha-2 macroglobulin)",
+  "pvalue": 1e-06,
+  "references": [],
+  "rsid": "rs9402515",
+  "source": "GWAS",
+  "source_url": null
+}

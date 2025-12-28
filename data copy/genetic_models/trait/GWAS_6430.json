@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": null,
+  "id": "GWAS_6430",
+  "last_updated": "2025-12-24T00:12:31.687582",
+  "odds_ratio": null,
+  "phenotype": "(MCP1-TNF-a pattern prefenofibrate)",
+  "pvalue": 7e-07,
+  "references": [],
+  "rsid": "rs17564315",
+  "source": "GWAS",
+  "source_url": null
+}

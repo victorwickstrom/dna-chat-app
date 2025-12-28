@@ -1,0 +1,35 @@
+{
+  "id": "covid19_severity",
+  "category": "trait",
+  "snps": [
+    {
+      "rsid": "rs10774671",
+      "riskAllele": "A",
+      "weight": 1.8
+    },
+    {
+      "rsid": "rs2109069",
+      "riskAllele": "T",
+      "weight": 1.6
+    },
+    {
+      "rsid": "rs657152",
+      "riskAllele": "C",
+      "weight": 1.3
+    }
+  ],
+  "population": "ALL",
+  "interpretation": {
+    "low": "L\u00e5g genetisk risk f\u00f6r covid19 severity.",
+    "medium": "M\u00e5ttlig risk f\u00f6r covid19 severity.",
+    "high": "H\u00f6g genetisk risk f\u00f6r covid19 severity; flera riskalleler p\u00e5tr\u00e4ffade."
+  },
+  "evidence": [
+    {
+      "source": "GWAS",
+      "pubmed": "33299976"
+    }
+  ],
+  "severity": "trait",
+  "confidence": "moderate"
+}

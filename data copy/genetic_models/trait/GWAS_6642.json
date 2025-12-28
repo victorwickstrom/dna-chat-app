@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "BRAF",
+  "id": "GWAS_6642",
+  "last_updated": "2025-12-24T00:12:31.693517",
+  "odds_ratio": 0.78,
+  "phenotype": "(change in alpha-TOH)",
+  "pvalue": 4e-06,
+  "references": [],
+  "rsid": "rs17623382",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "NT5C2",
+  "id": "GWAS_5147",
+  "last_updated": "2025-12-24T00:12:31.656610",
+  "odds_ratio": 1.18,
+  "phenotype": "(Systolic)",
+  "pvalue": 4e-17,
+  "references": [],
+  "rsid": "rs11191548",
+  "source": "GWAS",
+  "source_url": null
+}

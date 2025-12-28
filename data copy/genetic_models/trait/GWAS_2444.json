@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "BARD1",
+  "id": "GWAS_2444",
+  "last_updated": "2025-12-24T00:26:49.607938",
+  "odds_ratio": 1.386,
+  "phenotype": "GWAS association for rs3768716",
+  "pvalue": 5e-13,
+  "references": [],
+  "rsid": "rs3768716",
+  "source": "GWAS",
+  "source_url": null
+}

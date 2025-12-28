@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "PKD2",
+  "id": "GWAS_9893",
+  "last_updated": "2025-12-24T00:12:31.770701",
+  "odds_ratio": null,
+  "phenotype": "(DMFS5mand,DMFS5)",
+  "pvalue": 7e-08,
+  "references": [],
+  "rsid": "rs3114018",
+  "source": "GWAS",
+  "source_url": null
+}

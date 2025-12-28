@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "RPS12P4",
+  "id": "GWAS_1251",
+  "last_updated": "2025-12-24T00:26:49.596164",
+  "odds_ratio": 1.45,
+  "phenotype": "(ACPA-negative RA vs controls)",
+  "pvalue": 2e-06,
+  "references": [],
+  "rsid": "rs4305317",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "SLC25A36",
+  "id": "GWAS_36",
+  "last_updated": "2025-12-24T00:26:49.583239",
+  "odds_ratio": 1.37,
+  "phenotype": "GWAS association for rs908821",
+  "pvalue": 3e-06,
+  "references": [],
+  "rsid": "rs908821",
+  "source": "GWAS",
+  "source_url": null
+}

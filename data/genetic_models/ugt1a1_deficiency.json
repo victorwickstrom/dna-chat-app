@@ -1,0 +1,35 @@
+{
+  "id": "ugt1a1_deficiency",
+  "category": "pharmacogenomic",
+  "snps": [
+    {
+      "rsid": "rs3064744",
+      "riskAllele": "U",
+      "weight": -2.0
+    },
+    {
+      "rsid": "rs887829",
+      "riskAllele": "T",
+      "weight": -1.5
+    },
+    {
+      "rsid": "rs4148323",
+      "riskAllele": "C",
+      "weight": -1.2
+    }
+  ],
+  "population": "ALL",
+  "interpretation": {
+    "low": "L\u00e5g genetisk risk f\u00f6r ugt1a1 deficiency.",
+    "medium": "M\u00e5ttlig risk f\u00f6r ugt1a1 deficiency.",
+    "high": "H\u00f6g genetisk risk f\u00f6r ugt1a1 deficiency; flera riskalleler p\u00e5tr\u00e4ffade."
+  },
+  "evidence": [
+    {
+      "source": "CPIC",
+      "pubmed": "25501432"
+    }
+  ],
+  "severity": "pharma",
+  "confidence": "high"
+}

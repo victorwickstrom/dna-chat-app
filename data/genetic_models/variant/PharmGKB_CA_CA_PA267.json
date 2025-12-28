@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "variant",
+  "drug": null,
+  "effect": "<p>ABCB1, also known as multi-drug resistance protein 1 (MDRP1), is one of forty-nine putative members in the superfamily of human adenosine triphosphate (ATP)-binding cassette (ABC) transporters that encode transporter and channel proteins that function as efflux pumps.</p>\n",
+  "evidence_level": "3",
+  "gene": "ABCB1",
+  "id": "PharmGKB_CA_CA_PA267",
+  "last_updated": "2025-12-24T00:26:50.447412",
+  "odds_ratio": null,
+  "phenotype": null,
+  "pvalue": null,
+  "references": [],
+  "rsid": null,
+  "source": "PharmGKB",
+  "source_url": null
+}

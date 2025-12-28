@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "EXOC2",
+  "id": "GWAS_9698",
+  "last_updated": "2025-12-24T00:12:31.765425",
+  "odds_ratio": 1.197,
+  "phenotype": "(EA)",
+  "pvalue": 3e-06,
+  "references": [],
+  "rsid": "rs12210050",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "DEPDC5",
+  "id": "GWAS_7170",
+  "last_updated": "2025-12-24T00:12:31.706391",
+  "odds_ratio": 6.29,
+  "phenotype": "(Average Intelligence)",
+  "pvalue": 5e-07,
+  "references": [],
+  "rsid": "rs5994434",
+  "source": "GWAS",
+  "source_url": null
+}

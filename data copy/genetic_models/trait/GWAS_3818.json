@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "SORL1",
+  "id": "GWAS_3818",
+  "last_updated": "2025-12-24T00:26:49.621765",
+  "odds_ratio": 7.6,
+  "phenotype": "GWAS association for rs1219407",
+  "pvalue": 4e-06,
+  "references": [],
+  "rsid": "rs1219407",
+  "source": "GWAS",
+  "source_url": null
+}

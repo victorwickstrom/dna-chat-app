@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "AGXT2",
+  "id": "GWAS_5956",
+  "last_updated": "2025-12-24T00:12:31.675958",
+  "odds_ratio": null,
+  "phenotype": "(3-Aminoisobutyrate concentration)",
+  "pvalue": 2e-182,
+  "references": [],
+  "rsid": "rs37369",
+  "source": "GWAS",
+  "source_url": null
+}

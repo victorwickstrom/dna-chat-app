@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "FBX07",
+  "id": "GWAS_1940",
+  "last_updated": "2025-12-24T00:26:49.602651",
+  "odds_ratio": 0.37,
+  "phenotype": "(MCV)",
+  "pvalue": 4e-10,
+  "references": [],
+  "rsid": "rs9609565",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "PHF21A",
+  "id": "GWAS_290",
+  "last_updated": "2025-12-24T00:26:49.585491",
+  "odds_ratio": 3.7,
+  "phenotype": "GWAS association for rs16938437",
+  "pvalue": 6.000000000000001e-08,
+  "references": [],
+  "rsid": "rs16938437",
+  "source": "GWAS",
+  "source_url": null
+}

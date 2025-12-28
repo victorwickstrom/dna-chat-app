@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "TYW5",
+  "id": "GWAS_866",
+  "last_updated": "2025-12-24T00:26:49.592451",
+  "odds_ratio": 0.34,
+  "phenotype": "GWAS association for rs75260059",
+  "pvalue": 9e-07,
+  "references": [],
+  "rsid": "rs75260059",
+  "source": "GWAS",
+  "source_url": null
+}

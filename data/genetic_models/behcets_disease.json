@@ -1,0 +1,35 @@
+{
+  "id": "behcets_disease",
+  "category": "autoimmune",
+  "snps": [
+    {
+      "rsid": "rs1518111",
+      "riskAllele": "T",
+      "weight": 3.0
+    },
+    {
+      "rsid": "rs1518110",
+      "riskAllele": "G",
+      "weight": 2.0
+    },
+    {
+      "rsid": "rs1800871",
+      "riskAllele": "C",
+      "weight": 1.5
+    }
+  ],
+  "population": "ALL",
+  "interpretation": {
+    "low": "L\u00e5g genetisk risk f\u00f6r behcets disease.",
+    "medium": "M\u00e5ttlig risk f\u00f6r behcets disease.",
+    "high": "H\u00f6g genetisk risk f\u00f6r behcets disease; flera riskalleler p\u00e5tr\u00e4ffade."
+  },
+  "evidence": [
+    {
+      "source": "GWAS",
+      "pubmed": "20373220"
+    }
+  ],
+  "severity": "medical",
+  "confidence": "high"
+}

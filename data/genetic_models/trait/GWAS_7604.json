@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "ELSPBP1",
+  "id": "GWAS_7604",
+  "last_updated": "2025-12-24T00:12:31.716845",
+  "odds_ratio": 6.8,
+  "phenotype": "(High intelligence)",
+  "pvalue": 2e-06,
+  "references": [],
+  "rsid": "rs3936340",
+  "source": "GWAS",
+  "source_url": null
+}

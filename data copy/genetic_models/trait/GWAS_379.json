@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "AKAP11",
+  "id": "GWAS_379",
+  "last_updated": "2025-12-24T00:26:49.586326",
+  "odds_ratio": 0.12,
+  "phenotype": "GWAS association for rs9533090",
+  "pvalue": 5.0000000000000005e-25,
+  "references": [],
+  "rsid": "rs9533090",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "HNF4A",
+  "id": "GWAS_3936",
+  "last_updated": "2025-12-24T00:26:49.622873",
+  "odds_ratio": 0.268,
+  "phenotype": "(HA women)",
+  "pvalue": 8e-06,
+  "references": [],
+  "rsid": "rs1800961",
+  "source": "GWAS",
+  "source_url": null
+}

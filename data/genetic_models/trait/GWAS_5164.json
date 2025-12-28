@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "SLC17A1",
+  "id": "GWAS_5164",
+  "last_updated": "2025-12-24T00:12:31.656978",
+  "odds_ratio": 36.5,
+  "phenotype": "(ferritin)",
+  "pvalue": 5e-09,
+  "references": [],
+  "rsid": "rs17342717",
+  "source": "GWAS",
+  "source_url": null
+}

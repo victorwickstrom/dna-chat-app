@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "DSC3",
+  "id": "GWAS_2241",
+  "last_updated": "2025-12-24T00:26:49.606021",
+  "odds_ratio": null,
+  "phenotype": "(Parathyroid hormone)",
+  "pvalue": 3e-06,
+  "references": [],
+  "rsid": "rs2729409",
+  "source": "GWAS",
+  "source_url": null
+}

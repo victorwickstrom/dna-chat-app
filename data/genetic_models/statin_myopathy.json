@@ -1,0 +1,35 @@
+{
+  "id": "statin_myopathy",
+  "category": "pharmacogenomic",
+  "snps": [
+    {
+      "rsid": "rs4149056",
+      "riskAllele": "C",
+      "weight": -2.0
+    },
+    {
+      "rsid": "rs1800566",
+      "riskAllele": "T",
+      "weight": -1.2
+    },
+    {
+      "rsid": "rs2229742",
+      "riskAllele": "A",
+      "weight": -1.0
+    }
+  ],
+  "population": "ALL",
+  "interpretation": {
+    "low": "L\u00e5g genetisk risk f\u00f6r statin myopathy.",
+    "medium": "M\u00e5ttlig risk f\u00f6r statin myopathy.",
+    "high": "H\u00f6g genetisk risk f\u00f6r statin myopathy; flera riskalleler p\u00e5tr\u00e4ffade."
+  },
+  "evidence": [
+    {
+      "source": "CPIC",
+      "pubmed": "25501432"
+    }
+  ],
+  "severity": "pharma",
+  "confidence": "high"
+}

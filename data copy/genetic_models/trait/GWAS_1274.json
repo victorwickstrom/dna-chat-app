@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "FAM155A",
+  "id": "GWAS_1274",
+  "last_updated": "2025-12-24T00:26:49.596560",
+  "odds_ratio": 0.16,
+  "phenotype": "GWAS association for rs1927745",
+  "pvalue": 4.9999999999999996e-06,
+  "references": [],
+  "rsid": "rs1927745",
+  "source": "GWAS",
+  "source_url": null
+}

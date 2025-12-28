@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "POU5FIP1",
+  "id": "GWAS_776",
+  "last_updated": "2025-12-24T00:26:49.591629",
+  "odds_ratio": 1.19,
+  "phenotype": "GWAS association for rs7014346",
+  "pvalue": 9e-26,
+  "references": [],
+  "rsid": "rs7014346",
+  "source": "GWAS",
+  "source_url": null
+}

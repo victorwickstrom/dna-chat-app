@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "HDAC4",
+  "id": "GWAS_6252",
+  "last_updated": "2025-12-24T00:12:31.681999",
+  "odds_ratio": 0.028,
+  "phenotype": "(FEV1)",
+  "pvalue": 1e-07,
+  "references": [],
+  "rsid": "rs12477314",
+  "source": "GWAS",
+  "source_url": null
+}

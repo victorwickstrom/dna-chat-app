@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "variant",
+  "drug": null,
+  "effect": "<p>CYP2C9 is one of the key pharmacogenes involved in implementation of pharmacogenomics.</p>\n<ul>\n<li>It is involved in guidelines for <a href=\"/guidelineAnnotation/PA166104949\">warfarin</a>, <a href=\"/guidelineAnnotation/PA166122806\">phenytoin</a> and <a href=\"/guidelineAnnotation/PA166191841\">NSAIDs</a>, (<a href=\"/gene/PA126/prescribingInfo\">go to list of all guidelines with CYP2C9</a>).</li>\n<li>the nomenclature has been set by <a rel=\"noopener noreferrer\" href=\"https://www.pharmvar.org/gene/CYP2C9\" target=\"_blank\">PharmVar</a></li>\n<li>the AMP tier 1 alleles are <a href=\"/haplotype/PA165816543\">CYP2C9*2</a>, <a href=\"/haplotype/PA165816544\">CYP2C9*3</a>, <a href=\"/haplotype/PA165816546\">CYP2C9*5</a>, <a href=\"/haplotype/PA165816547\">CYP2C9*6</a>, <a href=\"/haplotype/PA165816549\">CYP2C9*8</a>, and <a href=\"/haplotype/PA165816552\">CYP2C9*11</a>, <a href=\"/ampAllelesToTest\">see all alleles on the AMP recommended to test list</a></li>\n<li>key variant pages include <a href=\"/variant/PA166153972\">rs1799853</a> and <a href=\"/variant/PA166153959\">rs1057910</a></li>\n<li>See the <a href=\"/page/cyp2c9RefMaterials\">Gene-specific Information Tables</a> for Allele Definitions (for which variants comprise which star alleles), Allele function assignments (normal function, no function, decreased or increased function etc) and Diplotype-Phenotype Table (for how the alleles combine to form metabolizer phenotypes for PM, NM, UM)</li>\n</ul>\n",
+  "evidence_level": "2A",
+  "gene": "CYP2C9",
+  "id": "PharmGKB_CA_CA_PA126",
+  "last_updated": "2025-12-24T00:26:50.447429",
+  "odds_ratio": null,
+  "phenotype": null,
+  "pvalue": null,
+  "references": [],
+  "rsid": null,
+  "source": "PharmGKB",
+  "source_url": null
+}

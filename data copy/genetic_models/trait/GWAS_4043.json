@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "DLG2",
+  "id": "GWAS_4043",
+  "last_updated": "2025-12-24T00:26:49.623907",
+  "odds_ratio": 5.0,
+  "phenotype": "GWAS association for rs10501570",
+  "pvalue": 7e-06,
+  "references": [],
+  "rsid": "rs10501570",
+  "source": "GWAS",
+  "source_url": null
+}

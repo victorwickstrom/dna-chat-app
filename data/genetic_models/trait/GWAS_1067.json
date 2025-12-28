@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "PSMG1",
+  "id": "GWAS_1067",
+  "last_updated": "2025-12-24T00:26:49.594370",
+  "odds_ratio": 1.39,
+  "phenotype": "GWAS association for rs2242944",
+  "pvalue": 8e-20,
+  "references": [],
+  "rsid": "rs2242944",
+  "source": "GWAS",
+  "source_url": null
+}

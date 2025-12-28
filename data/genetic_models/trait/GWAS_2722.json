@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "HNF1A",
+  "id": "GWAS_2722",
+  "last_updated": "2025-12-24T00:26:49.611019",
+  "odds_ratio": 13.8,
+  "phenotype": "GWAS association for rs1183910",
+  "pvalue": 1e-30,
+  "references": [],
+  "rsid": "rs1183910",
+  "source": "GWAS",
+  "source_url": null
+}

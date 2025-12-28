@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "gene",
+  "drug": null,
+  "effect": "Chromosome: chr16",
+  "evidence_level": "unknown",
+  "gene": "CES1",
+  "id": "CPIC_gene_CES1_36",
+  "last_updated": "2025-12-24T00:26:50.459105",
+  "odds_ratio": null,
+  "phenotype": null,
+  "pvalue": null,
+  "references": [],
+  "rsid": null,
+  "source": "CPIC",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "IQCH",
+  "id": "GWAS_4535",
+  "last_updated": "2025-12-24T00:26:49.628468",
+  "odds_ratio": 1.7,
+  "phenotype": "GWAS association for rs7359257",
+  "pvalue": 2e-06,
+  "references": [],
+  "rsid": "rs7359257",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "KLF14",
+  "id": "GWAS_3452",
+  "last_updated": "2025-12-24T00:26:49.617644",
+  "odds_ratio": 1.21,
+  "phenotype": "GWAS association for rs157935",
+  "pvalue": 4e-20,
+  "references": [],
+  "rsid": "rs157935",
+  "source": "GWAS",
+  "source_url": null
+}

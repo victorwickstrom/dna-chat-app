@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "HFE",
+  "id": "GWAS_5489",
+  "last_updated": "2025-12-24T00:12:31.664706",
+  "odds_ratio": 0.038,
+  "phenotype": "(sTfR)",
+  "pvalue": 9.000000000000001e-09,
+  "references": [],
+  "rsid": "rs1408272",
+  "source": "GWAS",
+  "source_url": null
+}

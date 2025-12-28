@@ -1,0 +1,35 @@
+{
+  "id": "obesity",
+  "category": "metabolic",
+  "snps": [
+    {
+      "rsid": "rs9939609",
+      "riskAllele": "A",
+      "weight": 1.6
+    },
+    {
+      "rsid": "rs17782313",
+      "riskAllele": "C",
+      "weight": 1.4
+    },
+    {
+      "rsid": "rs7498665",
+      "riskAllele": "G",
+      "weight": 1.2
+    }
+  ],
+  "population": "ALL",
+  "interpretation": {
+    "low": "L\u00e5g genetisk risk f\u00f6r obesity.",
+    "medium": "M\u00e5ttlig risk f\u00f6r obesity.",
+    "high": "H\u00f6g genetisk risk f\u00f6r obesity; flera riskalleler p\u00e5tr\u00e4ffade."
+  },
+  "evidence": [
+    {
+      "source": "GWAS",
+      "pubmed": "18946424"
+    }
+  ],
+  "severity": "medical",
+  "confidence": "moderate"
+}

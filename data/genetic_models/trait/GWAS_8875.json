@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "CYP2C9",
+  "id": "GWAS_8875",
+  "last_updated": "2025-12-24T00:12:31.748236",
+  "odds_ratio": null,
+  "phenotype": "(Hispanic)",
+  "pvalue": 2e-07,
+  "references": [],
+  "rsid": "rs2860975",
+  "source": "GWAS",
+  "source_url": null
+}

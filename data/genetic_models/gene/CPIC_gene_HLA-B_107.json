@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "gene",
+  "drug": null,
+  "effect": "Chromosome: chr6",
+  "evidence_level": "unknown",
+  "gene": "HLA-B",
+  "id": "CPIC_gene_HLA-B_107",
+  "last_updated": "2025-12-24T00:26:50.459314",
+  "odds_ratio": null,
+  "phenotype": null,
+  "pvalue": null,
+  "references": [],
+  "rsid": null,
+  "source": "CPIC",
+  "source_url": null
+}

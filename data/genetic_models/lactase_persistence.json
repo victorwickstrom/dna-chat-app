@@ -1,0 +1,35 @@
+{
+  "id": "lactase_persistence",
+  "category": "trait",
+  "snps": [
+    {
+      "rsid": "rs4988235",
+      "riskAllele": "T",
+      "weight": 2.0
+    },
+    {
+      "rsid": "rs182549",
+      "riskAllele": "A",
+      "weight": 1.5
+    },
+    {
+      "rsid": "rs145946881",
+      "riskAllele": "C",
+      "weight": 1.3
+    }
+  ],
+  "population": "EUR",
+  "interpretation": {
+    "low": "L\u00e5g genetisk risk f\u00f6r lactase persistence.",
+    "medium": "M\u00e5ttlig risk f\u00f6r lactase persistence.",
+    "high": "H\u00f6g genetisk risk f\u00f6r lactase persistence; flera riskalleler p\u00e5tr\u00e4ffade."
+  },
+  "evidence": [
+    {
+      "source": "GWAS",
+      "pubmed": "18665194"
+    }
+  ],
+  "severity": "trait",
+  "confidence": "high"
+}

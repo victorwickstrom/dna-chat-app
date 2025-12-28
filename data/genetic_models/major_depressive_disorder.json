@@ -1,0 +1,35 @@
+{
+  "id": "major_depressive_disorder",
+  "category": "psychiatric",
+  "snps": [
+    {
+      "rsid": "rs25531",
+      "riskAllele": "G",
+      "weight": 1.2
+    },
+    {
+      "rsid": "rs6265",
+      "riskAllele": "A",
+      "weight": 1.3
+    },
+    {
+      "rsid": "rs10514299",
+      "riskAllele": "T",
+      "weight": 1.2
+    }
+  ],
+  "population": "ALL",
+  "interpretation": {
+    "low": "L\u00e5g genetisk risk f\u00f6r major depressive disorder.",
+    "medium": "M\u00e5ttlig risk f\u00f6r major depressive disorder.",
+    "high": "H\u00f6g genetisk risk f\u00f6r major depressive disorder; flera riskalleler p\u00e5tr\u00e4ffade."
+  },
+  "evidence": [
+    {
+      "source": "GWAS",
+      "pubmed": "24369111"
+    }
+  ],
+  "severity": "medical",
+  "confidence": "moderate"
+}

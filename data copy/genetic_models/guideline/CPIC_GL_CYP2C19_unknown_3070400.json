@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "guideline",
+  "drug": null,
+  "effect": "CYP2D6, CYP2C19 and Selective Serotonin Reuptake Inhibitors",
+  "evidence_level": "unknown",
+  "gene": "CYP2C19",
+  "id": "CPIC_GL_CYP2C19_unknown_3070400",
+  "last_updated": "2025-12-24T00:26:50.460920",
+  "odds_ratio": null,
+  "phenotype": null,
+  "pvalue": null,
+  "references": [],
+  "rsid": null,
+  "source": "CPIC",
+  "source_url": null
+}

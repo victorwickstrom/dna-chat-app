@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "PROM1",
+  "id": "GWAS_9888",
+  "last_updated": "2025-12-24T00:12:31.770638",
+  "odds_ratio": null,
+  "phenotype": "(DMFS5max)",
+  "pvalue": 9e-07,
+  "references": [],
+  "rsid": "rs2531154",
+  "source": "GWAS",
+  "source_url": null
+}

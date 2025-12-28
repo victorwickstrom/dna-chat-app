@@ -1,0 +1,35 @@
+{
+  "id": "psoriasis",
+  "category": "autoimmune",
+  "snps": [
+    {
+      "rsid": "rs12191877",
+      "riskAllele": "C",
+      "weight": 3.0
+    },
+    {
+      "rsid": "rs11209026",
+      "riskAllele": "A",
+      "weight": 1.8
+    },
+    {
+      "rsid": "rs849142",
+      "riskAllele": "T",
+      "weight": 1.3
+    }
+  ],
+  "population": "ALL",
+  "interpretation": {
+    "low": "L\u00e5g genetisk risk f\u00f6r psoriasis.",
+    "medium": "M\u00e5ttlig risk f\u00f6r psoriasis.",
+    "high": "H\u00f6g genetisk risk f\u00f6r psoriasis; flera riskalleler p\u00e5tr\u00e4ffade."
+  },
+  "evidence": [
+    {
+      "source": "GWAS",
+      "pubmed": "18987775"
+    }
+  ],
+  "severity": "medical",
+  "confidence": "high"
+}

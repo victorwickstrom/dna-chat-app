@@ -1,0 +1,35 @@
+{
+  "id": "skin_pigmentation",
+  "category": "trait",
+  "snps": [
+    {
+      "rsid": "rs1426654",
+      "riskAllele": "A",
+      "weight": 3.0
+    },
+    {
+      "rsid": "rs12821256",
+      "riskAllele": "T",
+      "weight": 2.0
+    },
+    {
+      "rsid": "rs2402130",
+      "riskAllele": "G",
+      "weight": 1.3
+    }
+  ],
+  "population": "ALL",
+  "interpretation": {
+    "low": "L\u00e5g genetisk risk f\u00f6r skin pigmentation.",
+    "medium": "M\u00e5ttlig risk f\u00f6r skin pigmentation.",
+    "high": "H\u00f6g genetisk risk f\u00f6r skin pigmentation; flera riskalleler p\u00e5tr\u00e4ffade."
+  },
+  "evidence": [
+    {
+      "source": "GWAS",
+      "pubmed": "18252221"
+    }
+  ],
+  "severity": "trait",
+  "confidence": "high"
+}

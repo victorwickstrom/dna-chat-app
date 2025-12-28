@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "HMGA2",
+  "id": "GWAS_1431",
+  "last_updated": "2025-12-24T00:26:49.597940",
+  "odds_ratio": 0.03,
+  "phenotype": "GWAS association for rs4026608",
+  "pvalue": 2e-09,
+  "references": [],
+  "rsid": "rs4026608",
+  "source": "GWAS",
+  "source_url": null
+}

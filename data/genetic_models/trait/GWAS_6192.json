@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "MSX1",
+  "id": "GWAS_6192",
+  "last_updated": "2025-12-24T00:12:31.680586",
+  "odds_ratio": null,
+  "phenotype": "(PR segment)",
+  "pvalue": 3e-06,
+  "references": [],
+  "rsid": "rs2008242",
+  "source": "GWAS",
+  "source_url": null
+}

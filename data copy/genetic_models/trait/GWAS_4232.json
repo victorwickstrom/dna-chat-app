@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "SPRY2",
+  "id": "GWAS_4232",
+  "last_updated": "2025-12-24T00:26:49.625614",
+  "odds_ratio": 1.15,
+  "phenotype": "GWAS association for rs1359790",
+  "pvalue": 6.000000000000001e-09,
+  "references": [],
+  "rsid": "rs1359790",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "FTH1",
+  "id": "GWAS_9336",
+  "last_updated": "2025-12-24T00:12:31.758644",
+  "odds_ratio": 0.69,
+  "phenotype": "(Conditioned on rs174547)",
+  "pvalue": 2.9999999999999995e-21,
+  "references": [],
+  "rsid": "rs2727270",
+  "source": "GWAS",
+  "source_url": null
+}

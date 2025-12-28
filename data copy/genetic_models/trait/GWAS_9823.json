@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "CD109",
+  "id": "GWAS_9823",
+  "last_updated": "2025-12-24T00:12:31.768324",
+  "odds_ratio": 0.02,
+  "phenotype": "(Free T3 )",
+  "pvalue": 9e-06,
+  "references": [],
+  "rsid": "rs6912405",
+  "source": "GWAS",
+  "source_url": null
+}

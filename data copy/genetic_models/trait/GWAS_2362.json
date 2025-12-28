@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "CMKLR1",
+  "id": "GWAS_2362",
+  "last_updated": "2025-12-24T00:26:49.607225",
+  "odds_ratio": 33.95,
+  "phenotype": "GWAS association for rs10861905",
+  "pvalue": 8e-07,
+  "references": [],
+  "rsid": "rs10861905",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "GSS",
+  "id": "GWAS_9441",
+  "last_updated": "2025-12-24T00:12:31.760039",
+  "odds_ratio": 19.273,
+  "phenotype": "(PC levels)",
+  "pvalue": 4e-34,
+  "references": [],
+  "rsid": "rs6088735",
+  "source": "GWAS",
+  "source_url": null
+}

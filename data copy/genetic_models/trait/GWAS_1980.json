@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "TNPO3",
+  "id": "GWAS_1980",
+  "last_updated": "2025-12-24T00:26:49.603060",
+  "odds_ratio": null,
+  "phenotype": "GWAS association for rs10488631",
+  "pvalue": 2e-11,
+  "references": [],
+  "rsid": "rs10488631",
+  "source": "GWAS",
+  "source_url": null
+}

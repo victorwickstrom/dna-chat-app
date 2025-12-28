@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "LPL",
+  "id": "GWAS_6208",
+  "last_updated": "2025-12-24T00:12:31.680920",
+  "odds_ratio": 0.04,
+  "phenotype": "(HDL)",
+  "pvalue": 2e-10,
+  "references": [],
+  "rsid": "rs2083637",
+  "source": "GWAS",
+  "source_url": null
+}

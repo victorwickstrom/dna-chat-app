@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "ALDH1A2",
+  "id": "GWAS_3395",
+  "last_updated": "2025-12-24T00:26:49.617131",
+  "odds_ratio": 1.92,
+  "phenotype": "GWAS association for rs1550576",
+  "pvalue": 3e-06,
+  "references": [],
+  "rsid": "rs1550576",
+  "source": "GWAS",
+  "source_url": null
+}

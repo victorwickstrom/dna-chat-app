@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "CDH13",
+  "id": "GWAS_4019",
+  "last_updated": "2025-12-24T00:26:49.623646",
+  "odds_ratio": 0.044,
+  "phenotype": "GWAS association for rs1991867",
+  "pvalue": 4e-06,
+  "references": [],
+  "rsid": "rs1991867",
+  "source": "GWAS",
+  "source_url": null
+}

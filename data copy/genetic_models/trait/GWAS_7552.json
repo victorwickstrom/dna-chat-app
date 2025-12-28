@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "VAV2",
+  "id": "GWAS_7552",
+  "last_updated": "2025-12-24T00:12:31.715619",
+  "odds_ratio": 0.2,
+  "phenotype": "(FVIII activity)",
+  "pvalue": 8e-06,
+  "references": [],
+  "rsid": "rs12344583",
+  "source": "GWAS",
+  "source_url": null
+}

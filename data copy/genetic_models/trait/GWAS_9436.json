@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "PKNOX2",
+  "id": "GWAS_9436",
+  "last_updated": "2025-12-24T00:12:31.759971",
+  "odds_ratio": 1.77,
+  "phenotype": "(EA women)",
+  "pvalue": 7e-08,
+  "references": [],
+  "rsid": "rs12284594",
+  "source": "GWAS",
+  "source_url": null
+}

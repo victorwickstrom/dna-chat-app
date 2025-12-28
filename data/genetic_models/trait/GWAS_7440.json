@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "MAPT",
+  "id": "GWAS_7440",
+  "last_updated": "2025-12-24T00:12:31.712875",
+  "odds_ratio": 1.43,
+  "phenotype": "(controlling for rs8070723)",
+  "pvalue": 9.000000000000001e-18,
+  "references": [],
+  "rsid": "rs242557",
+  "source": "GWAS",
+  "source_url": null
+}

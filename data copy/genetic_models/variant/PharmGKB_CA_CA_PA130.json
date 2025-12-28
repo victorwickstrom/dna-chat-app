@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "variant",
+  "drug": null,
+  "effect": "<p>CYP3A4 is one of the key pharmacogenes involved in implementation of pharmacogenomics.</p>\n<ul>\n<li>It is involved in guidelines for quetiapine (<a href=\"/gene/PA131/prescribingInfo\">go to list of all guidelines with CYP3A4</a>).</li>\n<li>the nomenclature has been set by <a rel=\"noopener noreferrer\" href=\"https://www.pharmvar.org/gene/CYP3A4\" target=\"_blank\">PharmVar</a></li>\n<li>the AMP tier 1 allele is <a href=\"/haplotype/PA166048680\">CYP3A4*22</a> and tier 2 allele is <a href=\"/haplotype/PA165819244\">CYP3A4*20</a> <a href=\"/page/ampAllelesToTest\">see all alleles on the AMP recommended to test list</a>.</li>\n<li>key variant pages are <a href=\"/variant/PA166157487\">rs35599367</a> (defining for *22) and <a href=\"/variant/PA166157502\">rs67666821</a> (defining for *20).</li>\n<li>it is involved in many <a href=\"/gene/PA130/labelAnnotation\">drug label annotations</a> with a larger number of cautions for drug-drug interactions with CYP3A4 inhibitors (such as <a href=\"/chemical/PA450146\">ketoconazole</a>) and inducers (such as <a href=\"/chemical/PA448785\">carbamazepine</a>), see the <a rel=\"noopener noreferrer\" href=\"https://drug-interactions.medicine.iu.edu/MainTable.aspx\" target=\"_blank\">Flockhart table</a> for more CYP3A4 inhibitors, inducers and substrates.</li>\n</ul>\n",
+  "evidence_level": "3",
+  "gene": "CYP3A4",
+  "id": "PharmGKB_CA_CA_PA130",
+  "last_updated": "2025-12-24T00:26:50.447438",
+  "odds_ratio": null,
+  "phenotype": null,
+  "pvalue": null,
+  "references": [],
+  "rsid": null,
+  "source": "PharmGKB",
+  "source_url": null
+}

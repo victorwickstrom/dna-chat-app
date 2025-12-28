@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "VTCN1",
+  "id": "GWAS_3918",
+  "last_updated": "2025-12-24T00:26:49.622706",
+  "odds_ratio": 1.58,
+  "phenotype": "GWAS association for rs12046117",
+  "pvalue": 1e-06,
+  "references": [],
+  "rsid": "rs12046117",
+  "source": "GWAS",
+  "source_url": null
+}

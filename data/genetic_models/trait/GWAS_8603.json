@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "CDK6",
+  "id": "GWAS_8603",
+  "last_updated": "2025-12-24T00:12:31.741496",
+  "odds_ratio": 0.076,
+  "phenotype": "(neutrophil count)",
+  "pvalue": 7.000000000000001e-10,
+  "references": [],
+  "rsid": "rs445",
+  "source": "GWAS",
+  "source_url": null
+}

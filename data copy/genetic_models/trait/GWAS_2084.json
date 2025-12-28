@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "PRDX5",
+  "id": "GWAS_2084",
+  "last_updated": "2025-12-24T00:26:49.604573",
+  "odds_ratio": 1.33,
+  "phenotype": "GWAS association for rs694739",
+  "pvalue": 4e-07,
+  "references": [],
+  "rsid": "rs694739",
+  "source": "GWAS",
+  "source_url": null
+}

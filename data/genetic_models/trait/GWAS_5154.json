@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "APOA1",
+  "id": "GWAS_5154",
+  "last_updated": "2025-12-24T00:12:31.656764",
+  "odds_ratio": 0.124,
+  "phenotype": "(HDL)",
+  "pvalue": 9e-10,
+  "references": [],
+  "rsid": "rs7350481",
+  "source": "GWAS",
+  "source_url": null
+}

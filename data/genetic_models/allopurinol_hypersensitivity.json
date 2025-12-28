@@ -1,0 +1,35 @@
+{
+  "id": "allopurinol_hypersensitivity",
+  "category": "pharmacogenomic",
+  "snps": [
+    {
+      "rsid": "rs9263726",
+      "riskAllele": "C",
+      "weight": 3.0
+    },
+    {
+      "rsid": "rs2231142",
+      "riskAllele": "T",
+      "weight": 2.0
+    },
+    {
+      "rsid": "rs4890764",
+      "riskAllele": "A",
+      "weight": 1.3
+    }
+  ],
+  "population": "ALL",
+  "interpretation": {
+    "low": "L\u00e5g genetisk risk f\u00f6r allopurinol hypersensitivity.",
+    "medium": "M\u00e5ttlig risk f\u00f6r allopurinol hypersensitivity.",
+    "high": "H\u00f6g genetisk risk f\u00f6r allopurinol hypersensitivity; flera riskalleler p\u00e5tr\u00e4ffade."
+  },
+  "evidence": [
+    {
+      "source": "CPIC",
+      "pubmed": "25501432"
+    }
+  ],
+  "severity": "pharma",
+  "confidence": "high"
+}

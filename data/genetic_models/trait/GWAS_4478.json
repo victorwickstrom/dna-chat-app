@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "SLC22A3",
+  "id": "GWAS_4478",
+  "last_updated": "2025-12-24T00:26:49.627911",
+  "odds_ratio": 1.82,
+  "phenotype": "GWAS association for rs10755578",
+  "pvalue": 4e-15,
+  "references": [],
+  "rsid": "rs10755578",
+  "source": "GWAS",
+  "source_url": null
+}

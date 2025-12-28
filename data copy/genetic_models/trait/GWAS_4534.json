@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "KDM3B",
+  "id": "GWAS_4534",
+  "last_updated": "2025-12-24T00:26:49.628458",
+  "odds_ratio": 2.4,
+  "phenotype": "GWAS association for rs757647",
+  "pvalue": 5e-08,
+  "references": [],
+  "rsid": "rs757647",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "drug",
+  "drug": "Selective serotonin reuptake inhibitors",
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": null,
+  "id": "CPIC_drug_Selective_serotonin_reuptake_inhibitors_155",
+  "last_updated": "2025-12-24T00:26:50.460064",
+  "odds_ratio": null,
+  "phenotype": null,
+  "pvalue": null,
+  "references": [],
+  "rsid": null,
+  "source": "CPIC",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "C6ORF57",
+  "id": "GWAS_8099",
+  "last_updated": "2025-12-24T00:12:31.730140",
+  "odds_ratio": 1.54,
+  "phenotype": "(Indian)",
+  "pvalue": 3.0000000000000004e-08,
+  "references": [],
+  "rsid": "rs1048886",
+  "source": "GWAS",
+  "source_url": null
+}

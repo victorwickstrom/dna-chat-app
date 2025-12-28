@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "ROPN1L",
+  "id": "GWAS_4487",
+  "last_updated": "2025-12-24T00:26:49.628027",
+  "odds_ratio": 1.45,
+  "phenotype": "GWAS association for rs1092913",
+  "pvalue": 2e-06,
+  "references": [],
+  "rsid": "rs1092913",
+  "source": "GWAS",
+  "source_url": null
+}

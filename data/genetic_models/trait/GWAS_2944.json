@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "THRB",
+  "id": "GWAS_2944",
+  "last_updated": "2025-12-24T00:26:49.613111",
+  "odds_ratio": 0.074,
+  "phenotype": "GWAS association for rs9310736",
+  "pvalue": 3.0000000000000004e-08,
+  "references": [],
+  "rsid": "rs9310736",
+  "source": "GWAS",
+  "source_url": null
+}

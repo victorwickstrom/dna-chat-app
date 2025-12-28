@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "HLA",
+  "id": "GWAS_2284",
+  "last_updated": "2025-12-24T00:26:49.606457",
+  "odds_ratio": 2.78,
+  "phenotype": "GWAS association for rs9271366",
+  "pvalue": 7.000000000000001e-184,
+  "references": [],
+  "rsid": "rs9271366",
+  "source": "GWAS",
+  "source_url": null
+}

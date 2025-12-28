@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "GPLD1",
+  "id": "GWAS_7455",
+  "last_updated": "2025-12-24T00:12:31.713217",
+  "odds_ratio": 0.235,
+  "phenotype": "(ALP)",
+  "pvalue": 2e-11,
+  "references": [],
+  "rsid": "rs6911965",
+  "source": "GWAS",
+  "source_url": null
+}

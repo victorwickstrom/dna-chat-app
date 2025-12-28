@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "PLEK",
+  "id": "GWAS_3500",
+  "last_updated": "2025-12-24T00:26:49.618069",
+  "odds_ratio": 1.14,
+  "phenotype": "GWAS association for rs17035378",
+  "pvalue": 8e-09,
+  "references": [],
+  "rsid": "rs17035378",
+  "source": "GWAS",
+  "source_url": null
+}

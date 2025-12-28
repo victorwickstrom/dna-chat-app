@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "DIS3L2",
+  "id": "GWAS_3101",
+  "last_updated": "2025-12-24T00:26:49.614467",
+  "odds_ratio": 0.06,
+  "phenotype": "GWAS association for rs7571816",
+  "pvalue": 9.000000000000001e-09,
+  "references": [],
+  "rsid": "rs7571816",
+  "source": "GWAS",
+  "source_url": null
+}

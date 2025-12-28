@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "CYP1A1",
+  "id": "GWAS_1229",
+  "last_updated": "2025-12-24T00:26:49.595939",
+  "odds_ratio": 0.31,
+  "phenotype": "GWAS association for rs2472297",
+  "pvalue": 5e-14,
+  "references": [],
+  "rsid": "rs2472297",
+  "source": "GWAS",
+  "source_url": null
+}

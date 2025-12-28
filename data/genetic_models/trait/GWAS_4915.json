@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "OSBPL10",
+  "id": "GWAS_4915",
+  "last_updated": "2025-12-24T00:26:49.631919",
+  "odds_ratio": 1.31,
+  "phenotype": "GWAS association for rs1902341",
+  "pvalue": 5e-07,
+  "references": [],
+  "rsid": "rs1902341",
+  "source": "GWAS",
+  "source_url": null
+}

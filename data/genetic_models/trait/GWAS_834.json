@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "MTRR",
+  "id": "GWAS_834",
+  "last_updated": "2025-12-24T00:26:49.592185",
+  "odds_ratio": null,
+  "phenotype": "GWAS association for rs4702484",
+  "pvalue": 6e-07,
+  "references": [],
+  "rsid": "rs4702484",
+  "source": "GWAS",
+  "source_url": null
+}

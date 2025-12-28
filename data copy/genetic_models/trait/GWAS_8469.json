@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "SLC7A6",
+  "id": "GWAS_8469",
+  "last_updated": "2025-12-24T00:12:31.738584",
+  "odds_ratio": 0.11,
+  "phenotype": "(glutaroyl carnitine/lysine + 3 other traits)",
+  "pvalue": 1e-18,
+  "references": [],
+  "rsid": "rs6499165",
+  "source": "GWAS",
+  "source_url": null
+}

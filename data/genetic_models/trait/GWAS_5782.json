@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "APOB",
+  "id": "GWAS_5782",
+  "last_updated": "2025-12-24T00:12:31.671551",
+  "odds_ratio": 0.11,
+  "phenotype": "(HDL)",
+  "pvalue": 1e-10,
+  "references": [],
+  "rsid": "rs673548",
+  "source": "GWAS",
+  "source_url": null
+}

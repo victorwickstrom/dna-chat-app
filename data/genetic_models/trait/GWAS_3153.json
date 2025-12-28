@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "CLSTN2",
+  "id": "GWAS_3153",
+  "last_updated": "2025-12-24T00:26:49.614918",
+  "odds_ratio": null,
+  "phenotype": "GWAS association for rs4683505",
+  "pvalue": 4e-07,
+  "references": [],
+  "rsid": "rs4683505",
+  "source": "GWAS",
+  "source_url": null
+}

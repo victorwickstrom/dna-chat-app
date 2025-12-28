@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "gene",
+  "drug": null,
+  "effect": "Chromosome: chr17",
+  "evidence_level": "unknown",
+  "gene": "SLC6A4",
+  "id": "CPIC_gene_SLC6A4_122",
+  "last_updated": "2025-12-24T00:26:50.459359",
+  "odds_ratio": null,
+  "phenotype": null,
+  "pvalue": null,
+  "references": [],
+  "rsid": null,
+  "source": "CPIC",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "NRTN",
+  "id": "GWAS_7181",
+  "last_updated": "2025-12-24T00:12:31.706632",
+  "odds_ratio": 0.34,
+  "phenotype": "(DG7)",
+  "pvalue": 3e-12,
+  "references": [],
+  "rsid": "rs3760776",
+  "source": "GWAS",
+  "source_url": null
+}

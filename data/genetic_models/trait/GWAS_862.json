@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "CTAGE1",
+  "id": "GWAS_862",
+  "last_updated": "2025-12-24T00:26:49.592414",
+  "odds_ratio": 0.087,
+  "phenotype": "(men)",
+  "pvalue": 2e-06,
+  "references": [],
+  "rsid": "rs10502431",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "IFNK",
+  "id": "GWAS_1696",
+  "last_updated": "2025-12-24T00:26:49.600288",
+  "odds_ratio": 1.23,
+  "phenotype": "GWAS association for rs3849942",
+  "pvalue": 1e-08,
+  "references": [],
+  "rsid": "rs3849942",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "MTMR12",
+  "id": "GWAS_3955",
+  "last_updated": "2025-12-24T00:26:49.623055",
+  "odds_ratio": 0.44,
+  "phenotype": "(% Change in score)",
+  "pvalue": 8e-07,
+  "references": [],
+  "rsid": "rs73069924",
+  "source": "GWAS",
+  "source_url": null
+}

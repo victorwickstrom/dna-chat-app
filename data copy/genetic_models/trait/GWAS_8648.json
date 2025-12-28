@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "TCF7L2",
+  "id": "GWAS_8648",
+  "last_updated": "2025-12-24T00:12:31.742694",
+  "odds_ratio": 1.31,
+  "phenotype": "(obese)",
+  "pvalue": 6e-16,
+  "references": [],
+  "rsid": "rs7903146",
+  "source": "GWAS",
+  "source_url": null
+}

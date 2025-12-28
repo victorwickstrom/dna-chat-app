@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "CDKAL1",
+  "id": "GWAS_3653",
+  "last_updated": "2025-12-24T00:26:49.619664",
+  "odds_ratio": 1.21,
+  "phenotype": "GWAS association for rs6908425",
+  "pvalue": 9e-10,
+  "references": [],
+  "rsid": "rs6908425",
+  "source": "GWAS",
+  "source_url": null
+}

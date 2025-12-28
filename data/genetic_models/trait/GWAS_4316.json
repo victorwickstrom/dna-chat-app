@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "KCNJ11",
+  "id": "GWAS_4316",
+  "last_updated": "2025-12-24T00:26:49.626352",
+  "odds_ratio": 1.14,
+  "phenotype": "(DGI+FUSION+WTCCC)",
+  "pvalue": 4.9999999999999995e-11,
+  "references": [],
+  "rsid": "rs5215",
+  "source": "GWAS",
+  "source_url": null
+}

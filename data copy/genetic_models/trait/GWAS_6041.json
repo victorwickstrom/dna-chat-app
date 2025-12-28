@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "IFI44L",
+  "id": "GWAS_6041",
+  "last_updated": "2025-12-24T00:12:31.677717",
+  "odds_ratio": null,
+  "phenotype": "(SCZ or BP vs. controls)",
+  "pvalue": 8e-09,
+  "references": [],
+  "rsid": "rs4650608",
+  "source": "GWAS",
+  "source_url": null
+}

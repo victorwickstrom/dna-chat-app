@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "AGER",
+  "id": "GWAS_1691",
+  "last_updated": "2025-12-24T00:26:49.600249",
+  "odds_ratio": 1.0,
+  "phenotype": "(FEV1/FVC)",
+  "pvalue": 3e-14,
+  "references": [],
+  "rsid": "rs2070600",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "BACE1",
+  "id": "GWAS_6533",
+  "last_updated": "2025-12-24T00:12:31.690208",
+  "odds_ratio": 4.67,
+  "phenotype": "(any migraine - CVD death)",
+  "pvalue": 8e-07,
+  "references": [],
+  "rsid": "rs1047964",
+  "source": "GWAS",
+  "source_url": null
+}

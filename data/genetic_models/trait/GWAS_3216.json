@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "TCL6",
+  "id": "GWAS_3216",
+  "last_updated": "2025-12-24T00:26:49.615498",
+  "odds_ratio": 0.18,
+  "phenotype": "GWAS association for rs8015016",
+  "pvalue": 5e-07,
+  "references": [],
+  "rsid": "rs8015016",
+  "source": "GWAS",
+  "source_url": null
+}

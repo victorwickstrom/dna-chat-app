@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "ZNF577",
+  "id": "GWAS_4491",
+  "last_updated": "2025-12-24T00:26:49.628060",
+  "odds_ratio": 1.42,
+  "phenotype": "GWAS association for rs10411161",
+  "pvalue": 7e-06,
+  "references": [],
+  "rsid": "rs10411161",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "gene",
+  "drug": null,
+  "effect": "Chromosome: chr11",
+  "evidence_level": "unknown",
+  "gene": "GSTP1",
+  "id": "CPIC_gene_GSTP1_115",
+  "last_updated": "2025-12-24T00:26:50.459339",
+  "odds_ratio": null,
+  "phenotype": null,
+  "pvalue": null,
+  "references": [],
+  "rsid": null,
+  "source": "CPIC",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "CDH4",
+  "id": "GWAS_9610",
+  "last_updated": "2025-12-24T00:12:31.763916",
+  "odds_ratio": 0.03,
+  "phenotype": "(LDL )",
+  "pvalue": 7e-06,
+  "references": [],
+  "rsid": "rs4925325",
+  "source": "GWAS",
+  "source_url": null
+}

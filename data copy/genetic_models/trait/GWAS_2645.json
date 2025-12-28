@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "CUBN",
+  "id": "GWAS_2645",
+  "last_updated": "2025-12-24T00:26:49.609838",
+  "odds_ratio": 0.05,
+  "phenotype": "(Plasma Vitamin B12)",
+  "pvalue": 3.0000000000000004e-09,
+  "references": [],
+  "rsid": "rs1801222",
+  "source": "GWAS",
+  "source_url": null
+}

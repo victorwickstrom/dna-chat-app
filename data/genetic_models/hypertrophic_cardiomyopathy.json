@@ -1,0 +1,35 @@
+{
+  "id": "hypertrophic_cardiomyopathy",
+  "category": "cardiovascular",
+  "snps": [
+    {
+      "rsid": "rs11570082",
+      "riskAllele": "T",
+      "weight": 2.5
+    },
+    {
+      "rsid": "rs190086921",
+      "riskAllele": "C",
+      "weight": 2.8
+    },
+    {
+      "rsid": "rs3729830",
+      "riskAllele": "G",
+      "weight": 1.3
+    }
+  ],
+  "population": "ALL",
+  "interpretation": {
+    "low": "L\u00e5g genetisk risk f\u00f6r hypertrophic cardiomyopathy.",
+    "medium": "M\u00e5ttlig risk f\u00f6r hypertrophic cardiomyopathy.",
+    "high": "H\u00f6g genetisk risk f\u00f6r hypertrophic cardiomyopathy; flera riskalleler p\u00e5tr\u00e4ffade."
+  },
+  "evidence": [
+    {
+      "source": "ClinVar",
+      "pubmed": "21533983"
+    }
+  ],
+  "severity": "medical",
+  "confidence": "high"
+}

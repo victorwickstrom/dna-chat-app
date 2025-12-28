@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "CSPG3",
+  "id": "GWAS_4833",
+  "last_updated": "2025-12-24T00:26:49.631191",
+  "odds_ratio": 7.83,
+  "phenotype": "GWAS association for rs10401969",
+  "pvalue": 2e-29,
+  "references": [],
+  "rsid": "rs10401969",
+  "source": "GWAS",
+  "source_url": null
+}

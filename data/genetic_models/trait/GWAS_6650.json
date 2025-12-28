@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "SC4MOL",
+  "id": "GWAS_6650",
+  "last_updated": "2025-12-24T00:12:31.693958",
+  "odds_ratio": 0.18,
+  "phenotype": "(FI)",
+  "pvalue": 2e-08,
+  "references": [],
+  "rsid": "rs17046216",
+  "source": "GWAS",
+  "source_url": null
+}

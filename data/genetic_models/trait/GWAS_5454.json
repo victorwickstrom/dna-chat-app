@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "MHC",
+  "id": "GWAS_5454",
+  "last_updated": "2025-12-24T00:12:31.663905",
+  "odds_ratio": 0.074,
+  "phenotype": "(monocyte count)",
+  "pvalue": 6e-11,
+  "references": [],
+  "rsid": "rs3095254",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "retinitis_pigmentosa",
+  "category": "eye",
+  "snps": [
+    {
+      "rsid": "rs61756674",
+      "riskAllele": "T",
+      "weight": 2.0
+    },
+    {
+      "rsid": "rs104893775",
+      "riskAllele": "G",
+      "weight": 1.8
+    },
+    {
+      "rsid": "rs2000001",
+      "riskAllele": "A",
+      "weight": 1.5
+    }
+  ],
+  "population": "ALL",
+  "interpretation": {
+    "low": "L\u00e5g genetisk risk f\u00f6r retinitis pigmentosa.",
+    "medium": "M\u00e5ttlig risk f\u00f6r retinitis pigmentosa.",
+    "high": "H\u00f6g genetisk risk f\u00f6r retinitis pigmentosa; flera riskalleler p\u00e5tr\u00e4ffade."
+  },
+  "evidence": [
+    {
+      "source": "ClinVar",
+      "pubmed": "25055807"
+    }
+  ],
+  "severity": "medical",
+  "confidence": "high"
+}

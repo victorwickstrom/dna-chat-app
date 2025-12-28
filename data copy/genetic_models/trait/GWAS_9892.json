@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "PCDH9",
+  "id": "GWAS_9892",
+  "last_updated": "2025-12-24T00:12:31.770689",
+  "odds_ratio": null,
+  "phenotype": "(DMFS3)",
+  "pvalue": 3e-06,
+  "references": [],
+  "rsid": "rs2875517",
+  "source": "GWAS",
+  "source_url": null
+}

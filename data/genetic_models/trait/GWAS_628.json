@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "UBE2Q2",
+  "id": "GWAS_628",
+  "last_updated": "2025-12-24T00:26:49.589901",
+  "odds_ratio": 0.094,
+  "phenotype": "(men)",
+  "pvalue": 8e-06,
+  "references": [],
+  "rsid": "rs4886755",
+  "source": "GWAS",
+  "source_url": null
+}

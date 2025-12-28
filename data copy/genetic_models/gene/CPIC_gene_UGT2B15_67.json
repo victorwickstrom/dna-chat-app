@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "gene",
+  "drug": null,
+  "effect": "Chromosome: chr4",
+  "evidence_level": "unknown",
+  "gene": "UGT2B15",
+  "id": "CPIC_gene_UGT2B15_67",
+  "last_updated": "2025-12-24T00:26:50.459192",
+  "odds_ratio": null,
+  "phenotype": null,
+  "pvalue": null,
+  "references": [],
+  "rsid": null,
+  "source": "CPIC",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "CEP110",
+  "id": "GWAS_6392",
+  "last_updated": "2025-12-24T00:12:31.686729",
+  "odds_ratio": null,
+  "phenotype": "(AA)",
+  "pvalue": 4e-08,
+  "references": [],
+  "rsid": "rs9408926",
+  "source": "GWAS",
+  "source_url": null
+}

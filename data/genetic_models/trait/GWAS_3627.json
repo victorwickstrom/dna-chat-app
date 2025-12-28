@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "SLCO1B3",
+  "id": "GWAS_3627",
+  "last_updated": "2025-12-24T00:26:49.619406",
+  "odds_ratio": 0.048,
+  "phenotype": "GWAS association for rs2417940",
+  "pvalue": 2e-17,
+  "references": [],
+  "rsid": "rs2417940",
+  "source": "GWAS",
+  "source_url": null
+}

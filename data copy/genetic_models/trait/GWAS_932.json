@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "NLGN1",
+  "id": "GWAS_932",
+  "last_updated": "2025-12-24T00:26:49.593035",
+  "odds_ratio": 1.18,
+  "phenotype": "GWAS association for rs13074924",
+  "pvalue": 9e-06,
+  "references": [],
+  "rsid": "rs13074924",
+  "source": "GWAS",
+  "source_url": null
+}

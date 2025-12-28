@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "SUPT3H",
+  "id": "GWAS_2813",
+  "last_updated": "2025-12-24T00:26:49.611923",
+  "odds_ratio": null,
+  "phenotype": "GWAS association for rs3799977",
+  "pvalue": 4.9999999999999996e-06,
+  "references": [],
+  "rsid": "rs3799977",
+  "source": "GWAS",
+  "source_url": null
+}

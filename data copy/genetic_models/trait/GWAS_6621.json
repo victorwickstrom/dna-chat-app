@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "ADAMTS",
+  "id": "GWAS_6621",
+  "last_updated": "2025-12-24T00:12:31.693151",
+  "odds_ratio": 0.337,
+  "phenotype": "(Pulse Pressure)",
+  "pvalue": 2e-11,
+  "references": [],
+  "rsid": "rs11222084",
+  "source": "GWAS",
+  "source_url": null
+}

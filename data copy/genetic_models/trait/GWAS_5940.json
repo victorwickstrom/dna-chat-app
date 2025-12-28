@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "RNF5P1",
+  "id": "GWAS_5940",
+  "last_updated": "2025-12-24T00:12:31.675680",
+  "odds_ratio": 1.45,
+  "phenotype": "(recessive)",
+  "pvalue": 4.9999999999999996e-06,
+  "references": [],
+  "rsid": "rs7832232",
+  "source": "GWAS",
+  "source_url": null
+}

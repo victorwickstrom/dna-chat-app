@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "UBE3C",
+  "id": "GWAS_3048",
+  "last_updated": "2025-12-24T00:26:49.613987",
+  "odds_ratio": 1.64,
+  "phenotype": "(response)",
+  "pvalue": 5e-07,
+  "references": [],
+  "rsid": "rs6966038",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "MGAT1",
+  "id": "GWAS_1201",
+  "last_updated": "2025-12-24T00:26:49.595686",
+  "odds_ratio": 0.23,
+  "phenotype": "(HDL-C)",
+  "pvalue": 4.9999999999999996e-06,
+  "references": [],
+  "rsid": "rs655601",
+  "source": "GWAS",
+  "source_url": null
+}

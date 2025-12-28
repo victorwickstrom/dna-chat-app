@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "CPS1",
+  "id": "GWAS_231",
+  "last_updated": "2025-12-24T00:26:49.584900",
+  "odds_ratio": 0.099,
+  "phenotype": "(women)",
+  "pvalue": 3e-06,
+  "references": [],
+  "rsid": "rs4673553",
+  "source": "GWAS",
+  "source_url": null
+}

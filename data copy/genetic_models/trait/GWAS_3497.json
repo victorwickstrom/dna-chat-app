@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": null,
+  "id": "GWAS_3497",
+  "last_updated": "2025-12-24T00:26:49.618043",
+  "odds_ratio": 1.12,
+  "phenotype": "GWAS association for rs296547",
+  "pvalue": 4e-09,
+  "references": [],
+  "rsid": "rs296547",
+  "source": "GWAS",
+  "source_url": null
+}

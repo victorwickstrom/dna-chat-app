@@ -1,0 +1,35 @@
+{
+  "id": "tacrolimus_metabolism",
+  "category": "pharmacogenomic",
+  "snps": [
+    {
+      "rsid": "rs776746",
+      "riskAllele": "A",
+      "weight": -2.5
+    },
+    {
+      "rsid": "rs2740574",
+      "riskAllele": "C",
+      "weight": -1.5
+    },
+    {
+      "rsid": "rs4646450",
+      "riskAllele": "G",
+      "weight": -1.2
+    }
+  ],
+  "population": "ALL",
+  "interpretation": {
+    "low": "L\u00e5g genetisk risk f\u00f6r tacrolimus metabolism.",
+    "medium": "M\u00e5ttlig risk f\u00f6r tacrolimus metabolism.",
+    "high": "H\u00f6g genetisk risk f\u00f6r tacrolimus metabolism; flera riskalleler p\u00e5tr\u00e4ffade."
+  },
+  "evidence": [
+    {
+      "source": "CPIC",
+      "pubmed": "25501432"
+    }
+  ],
+  "severity": "pharma",
+  "confidence": "high"
+}

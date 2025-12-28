@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "UBE2E3",
+  "id": "GWAS_9508",
+  "last_updated": "2025-12-24T00:12:31.761650",
+  "odds_ratio": null,
+  "phenotype": "(obesity)",
+  "pvalue": 2e-06,
+  "references": [],
+  "rsid": "rs16867321",
+  "source": "GWAS",
+  "source_url": null
+}

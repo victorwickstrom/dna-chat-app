@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "SCARB1",
+  "id": "GWAS_5968",
+  "last_updated": "2025-12-24T00:12:31.676219",
+  "odds_ratio": 4.6,
+  "phenotype": "(activity)",
+  "pvalue": 1e-08,
+  "references": [],
+  "rsid": "rs10846744",
+  "source": "GWAS",
+  "source_url": null
+}

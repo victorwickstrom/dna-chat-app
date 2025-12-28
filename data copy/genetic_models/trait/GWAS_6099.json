@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "DDX54",
+  "id": "GWAS_6099",
+  "last_updated": "2025-12-24T00:12:31.678902",
+  "odds_ratio": 0.06,
+  "phenotype": "(Response)",
+  "pvalue": 5e-08,
+  "references": [],
+  "rsid": "rs2384207",
+  "source": "GWAS",
+  "source_url": null
+}

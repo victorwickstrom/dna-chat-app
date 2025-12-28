@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "OSBPL1A",
+  "id": "GWAS_5117",
+  "last_updated": "2025-12-24T00:12:31.656082",
+  "odds_ratio": null,
+  "phenotype": "(SHBG)",
+  "pvalue": 2e-07,
+  "references": [],
+  "rsid": "rs9635963",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "FAM5C",
+  "id": "GWAS_3725",
+  "last_updated": "2025-12-24T00:26:49.620318",
+  "odds_ratio": null,
+  "phenotype": "(chol, sum)",
+  "pvalue": 4e-06,
+  "references": [],
+  "rsid": "rs2053302",
+  "source": "GWAS",
+  "source_url": null
+}

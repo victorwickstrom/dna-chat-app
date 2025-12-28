@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "CYP4F2",
+  "id": "GWAS_6361",
+  "last_updated": "2025-12-24T00:12:31.686309",
+  "odds_ratio": 0.04,
+  "phenotype": "(alpha-TOH)",
+  "pvalue": 2e-07,
+  "references": [],
+  "rsid": "rs2108622",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "type_1_diabetes",
+  "category": "autoimmune",
+  "snps": [
+    {
+      "rsid": "rs2476601",
+      "riskAllele": "T",
+      "weight": 2.5
+    },
+    {
+      "rsid": "rs689",
+      "riskAllele": "C",
+      "weight": 1.5
+    },
+    {
+      "rsid": "rs2816316",
+      "riskAllele": "G",
+      "weight": 1.3
+    }
+  ],
+  "population": "ALL",
+  "interpretation": {
+    "low": "L\u00e5g genetisk risk f\u00f6r type 1 diabetes.",
+    "medium": "M\u00e5ttlig risk f\u00f6r type 1 diabetes.",
+    "high": "H\u00f6g genetisk risk f\u00f6r type 1 diabetes; flera riskalleler p\u00e5tr\u00e4ffade."
+  },
+  "evidence": [
+    {
+      "source": "GWAS",
+      "pubmed": "18381565"
+    }
+  ],
+  "severity": "medical",
+  "confidence": "high"
+}

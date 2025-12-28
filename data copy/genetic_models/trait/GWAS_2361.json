@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "CADM2",
+  "id": "GWAS_2361",
+  "last_updated": "2025-12-24T00:26:49.607188",
+  "odds_ratio": 0.1,
+  "phenotype": "GWAS association for rs13078807",
+  "pvalue": 4e-11,
+  "references": [],
+  "rsid": "rs13078807",
+  "source": "GWAS",
+  "source_url": null
+}

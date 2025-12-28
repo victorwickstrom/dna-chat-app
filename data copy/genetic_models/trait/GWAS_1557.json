@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "ORMDL3",
+  "id": "GWAS_1557",
+  "last_updated": "2025-12-24T00:26:49.599016",
+  "odds_ratio": 1.15,
+  "phenotype": "GWAS association for rs2290400",
+  "pvalue": 6.000000000000001e-13,
+  "references": [],
+  "rsid": "rs2290400",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "CHIC2",
+  "id": "GWAS_6618",
+  "last_updated": "2025-12-24T00:12:31.693122",
+  "odds_ratio": 0.429,
+  "phenotype": "(Pulse Pressure)",
+  "pvalue": 1e-08,
+  "references": [],
+  "rsid": "rs871606",
+  "source": "GWAS",
+  "source_url": null
+}

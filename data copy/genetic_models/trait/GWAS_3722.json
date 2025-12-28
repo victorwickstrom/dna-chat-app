@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "SLC7A9",
+  "id": "GWAS_3722",
+  "last_updated": "2025-12-24T00:26:49.620290",
+  "odds_ratio": 1.0,
+  "phenotype": "GWAS association for rs4805834",
+  "pvalue": 4.9999999999999995e-11,
+  "references": [],
+  "rsid": "rs4805834",
+  "source": "GWAS",
+  "source_url": null
+}

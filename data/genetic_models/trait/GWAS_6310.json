@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "ELAC1",
+  "id": "GWAS_6310",
+  "last_updated": "2025-12-24T00:12:31.683574",
+  "odds_ratio": null,
+  "phenotype": "(AA)",
+  "pvalue": 2e-07,
+  "references": [],
+  "rsid": "rs9807334",
+  "source": "GWAS",
+  "source_url": null
+}

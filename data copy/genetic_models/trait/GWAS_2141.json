@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "FGFR2",
+  "id": "GWAS_2141",
+  "last_updated": "2025-12-24T00:26:49.605099",
+  "odds_ratio": 1.302,
+  "phenotype": "GWAS association for rs2912780",
+  "pvalue": 4e-06,
+  "references": [],
+  "rsid": "rs2912780",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "TYW1B",
+  "id": "GWAS_4844",
+  "last_updated": "2025-12-24T00:26:49.631301",
+  "odds_ratio": 7.91,
+  "phenotype": "GWAS association for rs13238203",
+  "pvalue": 1e-09,
+  "references": [],
+  "rsid": "rs13238203",
+  "source": "GWAS",
+  "source_url": null
+}

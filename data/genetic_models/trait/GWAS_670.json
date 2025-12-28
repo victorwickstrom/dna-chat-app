@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "ASPH",
+  "id": "GWAS_670",
+  "last_updated": "2025-12-24T00:26:49.590276",
+  "odds_ratio": 0.08,
+  "phenotype": "(women)",
+  "pvalue": 4e-06,
+  "references": [],
+  "rsid": "rs344235",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": null,
+  "id": "GWAS_4247",
+  "last_updated": "2025-12-24T00:26:49.625744",
+  "odds_ratio": null,
+  "phenotype": "(perphenazine-HDL)",
+  "pvalue": 9e-07,
+  "references": [],
+  "rsid": "rs11163585",
+  "source": "GWAS",
+  "source_url": null
+}

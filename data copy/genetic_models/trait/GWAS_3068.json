@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "ADIPOQ",
+  "id": "GWAS_3068",
+  "last_updated": "2025-12-24T00:26:49.614178",
+  "odds_ratio": 0.13,
+  "phenotype": "GWAS association for rs17366568",
+  "pvalue": 1e-41,
+  "references": [],
+  "rsid": "rs17366568",
+  "source": "GWAS",
+  "source_url": null
+}

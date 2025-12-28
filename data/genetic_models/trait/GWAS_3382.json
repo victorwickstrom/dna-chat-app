@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "SLC39A1",
+  "id": "GWAS_3382",
+  "last_updated": "2025-12-24T00:26:49.617001",
+  "odds_ratio": 98.69,
+  "phenotype": "GWAS association for rs11264736",
+  "pvalue": 4e-06,
+  "references": [],
+  "rsid": "rs11264736",
+  "source": "GWAS",
+  "source_url": null
+}

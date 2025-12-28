@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "GRB14",
+  "id": "GWAS_5954",
+  "last_updated": "2025-12-24T00:12:31.675918",
+  "odds_ratio": 0.75,
+  "phenotype": "(Systolic)",
+  "pvalue": 4e-11,
+  "references": [],
+  "rsid": "rs16849225",
+  "source": "GWAS",
+  "source_url": null
+}

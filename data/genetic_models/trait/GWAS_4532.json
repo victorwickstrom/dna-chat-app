@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "IL23R",
+  "id": "GWAS_4532",
+  "last_updated": "2025-12-24T00:26:49.628440",
+  "odds_ratio": 1.39,
+  "phenotype": "GWAS association for rs11805303",
+  "pvalue": 6e-12,
+  "references": [],
+  "rsid": "rs11805303",
+  "source": "GWAS",
+  "source_url": null
+}

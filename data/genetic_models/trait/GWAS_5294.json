@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "SELP",
+  "id": "GWAS_5294",
+  "last_updated": "2025-12-24T00:12:31.660644",
+  "odds_ratio": null,
+  "phenotype": "(Hippocampal volume)",
+  "pvalue": 1e-09,
+  "references": [],
+  "rsid": "rs6703865",
+  "source": "GWAS",
+  "source_url": null
+}

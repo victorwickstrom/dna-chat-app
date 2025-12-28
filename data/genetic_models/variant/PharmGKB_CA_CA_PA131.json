@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "variant",
+  "drug": null,
+  "effect": "<p>CYP3A5 is one of the key pharmacogenes involved in implementation of pharmacogenomics.</p>\n<ul>\n<li>It is involved in guidelines for tacrolimus (<a href=\"/gene/PA131/prescribingInfo\">go to list of all guidelines with CYP3A5</a>).</li>\n<li>the nomenclature has been set by <a rel=\"noopener noreferrer\" href=\"https://www.pharmvar.org/gene/CYP3A5\" target=\"_blank\">PharmVar</a></li>\n<li>the AMP tier 1 alleles are <a href=\"/haplotype/PA166128219\">CYP3A5*3</a>, <a href=\"/haplotype/PA166128233\">CYP3A5*6</a>, and <a href=\"/haplotype/PA166128234\">CYP3A5*7</a> <a href=\"/page/ampAllelesToTest\">see all alleles on the AMP recommended to test list</a>.</li>\n<li>key variant pages are <a href=\"/variant/PA166157267\">rs776746</a> (defining for CYP3A5*3), <a href=\"/variant/PA166157441\">rs10264272</a> (defining for CYP3A5*6), <a href=\"/variant/PA166157490\">rs41303343</a> (defining for CYP3A5*7).</li>\n<li>See the <a href=\"/page/cyp3a5RefMaterials\">Gene-specific Information Tables</a> for Allele Definitions (for which variants comprise which star alleles), Allele function assignments (normal function, no function, decreased or increased function etc) and Diplotype-Phenotype Table (for how the alleles combine to form metabolizer phenotypes for PM, NM, UM).</li>\n</ul>\n",
+  "evidence_level": "2A",
+  "gene": "CYP3A5",
+  "id": "PharmGKB_CA_CA_PA131",
+  "last_updated": "2025-12-24T00:26:50.447408",
+  "odds_ratio": null,
+  "phenotype": null,
+  "pvalue": null,
+  "references": [],
+  "rsid": null,
+  "source": "PharmGKB",
+  "source_url": null
+}

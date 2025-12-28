@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "SMCHD1",
+  "id": "GWAS_3693",
+  "last_updated": "2025-12-24T00:26:49.620035",
+  "odds_ratio": 4.08,
+  "phenotype": "(EA, Inherited)",
+  "pvalue": 4e-06,
+  "references": [],
+  "rsid": "rs11872184",
+  "source": "GWAS",
+  "source_url": null
+}

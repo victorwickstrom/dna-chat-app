@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "PARD3B",
+  "id": "GWAS_4352",
+  "last_updated": "2025-12-24T00:26:49.626696",
+  "odds_ratio": 1.46,
+  "phenotype": "GWAS association for rs1207421",
+  "pvalue": 6e-06,
+  "references": [],
+  "rsid": "rs1207421",
+  "source": "GWAS",
+  "source_url": null
+}

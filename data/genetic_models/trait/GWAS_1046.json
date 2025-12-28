@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "UMOD",
+  "id": "GWAS_1046",
+  "last_updated": "2025-12-24T00:26:49.594186",
+  "odds_ratio": 0.02,
+  "phenotype": "(eGFRcrea)",
+  "pvalue": 5e-16,
+  "references": [],
+  "rsid": "rs12917707",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "WDR72",
+  "id": "GWAS_6865",
+  "last_updated": "2025-12-24T00:12:31.699075",
+  "odds_ratio": 0.068,
+  "phenotype": "(sCr)",
+  "pvalue": 2e-08,
+  "references": [],
+  "rsid": "rs10518733",
+  "source": "GWAS",
+  "source_url": null
+}

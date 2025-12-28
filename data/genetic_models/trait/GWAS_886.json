@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "ITLN1",
+  "id": "GWAS_886",
+  "last_updated": "2025-12-24T00:26:49.592636",
+  "odds_ratio": 1.14,
+  "phenotype": "GWAS association for rs2274910",
+  "pvalue": 1e-09,
+  "references": [],
+  "rsid": "rs2274910",
+  "source": "GWAS",
+  "source_url": null
+}

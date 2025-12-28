@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "FCGR2A",
+  "id": "GWAS_8176",
+  "last_updated": "2025-12-24T00:12:31.731688",
+  "odds_ratio": 0.19,
+  "phenotype": "(XL-HDL-CE)",
+  "pvalue": 1e-10,
+  "references": [],
+  "rsid": "rs67418890",
+  "source": "GWAS",
+  "source_url": null
+}

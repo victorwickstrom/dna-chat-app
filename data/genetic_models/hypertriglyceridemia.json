@@ -1,0 +1,35 @@
+{
+  "id": "hypertriglyceridemia",
+  "category": "metabolic",
+  "snps": [
+    {
+      "rsid": "rs662799",
+      "riskAllele": "G",
+      "weight": 1.6
+    },
+    {
+      "rsid": "rs328",
+      "riskAllele": "G",
+      "weight": 1.4
+    },
+    {
+      "rsid": "rs964184",
+      "riskAllele": "C",
+      "weight": 1.2
+    }
+  ],
+  "population": "ALL",
+  "interpretation": {
+    "low": "L\u00e5g genetisk risk f\u00f6r hypertriglyceridemia.",
+    "medium": "M\u00e5ttlig risk f\u00f6r hypertriglyceridemia.",
+    "high": "H\u00f6g genetisk risk f\u00f6r hypertriglyceridemia; flera riskalleler p\u00e5tr\u00e4ffade."
+  },
+  "evidence": [
+    {
+      "source": "GWAS",
+      "pubmed": "23222407"
+    }
+  ],
+  "severity": "medical",
+  "confidence": "moderate"
+}

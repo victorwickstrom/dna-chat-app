@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "CFH",
+  "id": "GWAS_2237",
+  "last_updated": "2025-12-24T00:26:49.605984",
+  "odds_ratio": 4.6,
+  "phenotype": "GWAS association for rs380390",
+  "pvalue": 4e-08,
+  "references": [],
+  "rsid": "rs380390",
+  "source": "GWAS",
+  "source_url": null
+}

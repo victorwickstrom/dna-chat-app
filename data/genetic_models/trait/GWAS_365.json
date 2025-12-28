@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "TFR2",
+  "id": "GWAS_365",
+  "last_updated": "2025-12-24T00:26:49.586135",
+  "odds_ratio": 0.01,
+  "phenotype": "(RBC)",
+  "pvalue": 5e-10,
+  "references": [],
+  "rsid": "rs7385804",
+  "source": "GWAS",
+  "source_url": null
+}

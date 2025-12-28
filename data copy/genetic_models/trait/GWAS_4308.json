@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "TRIM66",
+  "id": "GWAS_4308",
+  "last_updated": "2025-12-24T00:26:49.626286",
+  "odds_ratio": 2.3,
+  "phenotype": "GWAS association for rs4929923",
+  "pvalue": 1e-08,
+  "references": [],
+  "rsid": "rs4929923",
+  "source": "GWAS",
+  "source_url": null
+}

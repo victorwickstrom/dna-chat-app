@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "FLJ11017",
+  "id": "GWAS_560",
+  "last_updated": "2025-12-24T00:26:49.589199",
+  "odds_ratio": null,
+  "phenotype": "GWAS association for rs13117816",
+  "pvalue": 7e-06,
+  "references": [],
+  "rsid": "rs13117816",
+  "source": "GWAS",
+  "source_url": null
+}

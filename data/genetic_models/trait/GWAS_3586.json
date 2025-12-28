@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "CBS",
+  "id": "GWAS_3586",
+  "last_updated": "2025-12-24T00:26:49.618992",
+  "odds_ratio": 0.03,
+  "phenotype": "(WGHS)",
+  "pvalue": 3e-10,
+  "references": [],
+  "rsid": "rs6586282",
+  "source": "GWAS",
+  "source_url": null
+}

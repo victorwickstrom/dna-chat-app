@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "ASTN2",
+  "id": "GWAS_8996",
+  "last_updated": "2025-12-24T00:12:31.751680",
+  "odds_ratio": null,
+  "phenotype": "(perphenazine-triglycerides)",
+  "pvalue": 3e-07,
+  "references": [],
+  "rsid": "rs4838255",
+  "source": "GWAS",
+  "source_url": null
+}

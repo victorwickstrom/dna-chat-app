@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "ADAMTS13",
+  "id": "GWAS_1413",
+  "last_updated": "2025-12-24T00:26:49.597780",
+  "odds_ratio": 0.06,
+  "phenotype": "(ALP)",
+  "pvalue": 8e-21,
+  "references": [],
+  "rsid": "rs4962153",
+  "source": "GWAS",
+  "source_url": null
+}

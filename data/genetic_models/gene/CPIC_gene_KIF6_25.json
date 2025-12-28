@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "gene",
+  "drug": null,
+  "effect": "Chromosome: chr6",
+  "evidence_level": "unknown",
+  "gene": "KIF6",
+  "id": "CPIC_gene_KIF6_25",
+  "last_updated": "2025-12-24T00:26:50.459060",
+  "odds_ratio": null,
+  "phenotype": null,
+  "pvalue": null,
+  "references": [],
+  "rsid": null,
+  "source": "CPIC",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "ZNF804B",
+  "id": "GWAS_4538",
+  "last_updated": "2025-12-24T00:26:49.628495",
+  "odds_ratio": 0.07,
+  "phenotype": "GWAS association for rs1406503",
+  "pvalue": 9e-06,
+  "references": [],
+  "rsid": "rs1406503",
+  "source": "GWAS",
+  "source_url": null
+}

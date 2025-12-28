@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "ADAMTSL3",
+  "id": "GWAS_3274",
+  "last_updated": "2025-12-24T00:26:49.616001",
+  "odds_ratio": 0.07,
+  "phenotype": "GWAS association for rs7183263",
+  "pvalue": 4e-07,
+  "references": [],
+  "rsid": "rs7183263",
+  "source": "GWAS",
+  "source_url": null
+}

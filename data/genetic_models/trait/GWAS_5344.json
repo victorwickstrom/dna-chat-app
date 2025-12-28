@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "AOX1",
+  "id": "GWAS_5344",
+  "last_updated": "2025-12-24T00:12:31.661320",
+  "odds_ratio": null,
+  "phenotype": "(Amyotrophic Lateral Sclerosis)",
+  "pvalue": 6.000000000000001e-08,
+  "references": [],
+  "rsid": "rs2540051",
+  "source": "GWAS",
+  "source_url": null
+}

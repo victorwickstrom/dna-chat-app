@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "MCM8",
+  "id": "GWAS_450",
+  "last_updated": "2025-12-24T00:26:49.588250",
+  "odds_ratio": 1.07,
+  "phenotype": "(age at natural menopause)",
+  "pvalue": 1e-21,
+  "references": [],
+  "rsid": "rs16991615",
+  "source": "GWAS",
+  "source_url": null
+}

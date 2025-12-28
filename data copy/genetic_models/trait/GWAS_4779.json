@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "PYGM",
+  "id": "GWAS_4779",
+  "last_updated": "2025-12-24T00:26:49.630705",
+  "odds_ratio": 0.18,
+  "phenotype": "(AA)",
+  "pvalue": 6e-11,
+  "references": [],
+  "rsid": "rs606458",
+  "source": "GWAS",
+  "source_url": null
+}

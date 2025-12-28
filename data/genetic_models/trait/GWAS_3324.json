@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "RELN",
+  "id": "GWAS_3324",
+  "last_updated": "2025-12-24T00:26:49.616458",
+  "odds_ratio": 1.58,
+  "phenotype": "GWAS association for rs7341475",
+  "pvalue": 9e-07,
+  "references": [],
+  "rsid": "rs7341475",
+  "source": "GWAS",
+  "source_url": null
+}

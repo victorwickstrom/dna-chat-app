@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "JAG1",
+  "id": "GWAS_1642",
+  "last_updated": "2025-12-24T00:26:49.599793",
+  "odds_ratio": 0.07,
+  "phenotype": "(lumbar spine)",
+  "pvalue": 5e-08,
+  "references": [],
+  "rsid": "rs2273061",
+  "source": "GWAS",
+  "source_url": null
+}

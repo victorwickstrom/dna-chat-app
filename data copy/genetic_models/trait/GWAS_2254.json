@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "KCNJ11",
+  "id": "GWAS_2254",
+  "last_updated": "2025-12-24T00:26:49.606155",
+  "odds_ratio": 1.16,
+  "phenotype": "GWAS association for rs5215",
+  "pvalue": 4e-07,
+  "references": [],
+  "rsid": "rs5215",
+  "source": "GWAS",
+  "source_url": null
+}

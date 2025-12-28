@@ -1,0 +1,35 @@
+{
+  "id": "muscle_composition",
+  "category": "trait",
+  "snps": [
+    {
+      "rsid": "rs1815739",
+      "riskAllele": "T",
+      "weight": 1.8
+    },
+    {
+      "rsid": "rs4343",
+      "riskAllele": "D",
+      "weight": 1.5
+    },
+    {
+      "rsid": "rs1042714",
+      "riskAllele": "G",
+      "weight": 1.2
+    }
+  ],
+  "population": "ALL",
+  "interpretation": {
+    "low": "L\u00e5g genetisk risk f\u00f6r muscle composition.",
+    "medium": "M\u00e5ttlig risk f\u00f6r muscle composition.",
+    "high": "H\u00f6g genetisk risk f\u00f6r muscle composition; flera riskalleler p\u00e5tr\u00e4ffade."
+  },
+  "evidence": [
+    {
+      "source": "GWAS",
+      "pubmed": "18263875"
+    }
+  ],
+  "severity": "trait",
+  "confidence": "moderate"
+}

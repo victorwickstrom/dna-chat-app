@@ -1,0 +1,35 @@
+{
+  "id": "systemic_lupus_erythematosus",
+  "category": "autoimmune",
+  "snps": [
+    {
+      "rsid": "rs9271366",
+      "riskAllele": "T",
+      "weight": 2.5
+    },
+    {
+      "rsid": "rs1143679",
+      "riskAllele": "A",
+      "weight": 2.0
+    },
+    {
+      "rsid": "rs7574865",
+      "riskAllele": "T",
+      "weight": 1.5
+    }
+  ],
+  "population": "ALL",
+  "interpretation": {
+    "low": "L\u00e5g genetisk risk f\u00f6r systemic lupus erythematosus.",
+    "medium": "M\u00e5ttlig risk f\u00f6r systemic lupus erythematosus.",
+    "high": "H\u00f6g genetisk risk f\u00f6r systemic lupus erythematosus; flera riskalleler p\u00e5tr\u00e4ffade."
+  },
+  "evidence": [
+    {
+      "source": "GWAS",
+      "pubmed": "19387485"
+    }
+  ],
+  "severity": "medical",
+  "confidence": "high"
+}

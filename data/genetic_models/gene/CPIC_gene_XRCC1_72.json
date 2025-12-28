@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "gene",
+  "drug": null,
+  "effect": "Chromosome: chr19",
+  "evidence_level": "unknown",
+  "gene": "XRCC1",
+  "id": "CPIC_gene_XRCC1_72",
+  "last_updated": "2025-12-24T00:26:50.459210",
+  "odds_ratio": null,
+  "phenotype": null,
+  "pvalue": null,
+  "references": [],
+  "rsid": null,
+  "source": "CPIC",
+  "source_url": null
+}

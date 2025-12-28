@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "ARID5B",
+  "id": "GWAS_8783",
+  "last_updated": "2025-12-24T00:12:31.746428",
+  "odds_ratio": 0.036,
+  "phenotype": "(Japanese)",
+  "pvalue": 2e-06,
+  "references": [],
+  "rsid": "rs2675609",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "age_related_macular_degeneration",
+  "category": "eye",
+  "snps": [
+    {
+      "rsid": "rs1061170",
+      "riskAllele": "C",
+      "weight": 1.4
+    },
+    {
+      "rsid": "rs10490924",
+      "riskAllele": "T",
+      "weight": 1.5
+    },
+    {
+      "rsid": "rs201300",
+      "riskAllele": "G",
+      "weight": 1.2
+    }
+  ],
+  "population": "EUR",
+  "interpretation": {
+    "low": "L\u00e5g genetisk risk f\u00f6r age related macular degeneration.",
+    "medium": "M\u00e5ttlig risk f\u00f6r age related macular degeneration.",
+    "high": "H\u00f6g genetisk risk f\u00f6r age related macular degeneration; flera riskalleler p\u00e5tr\u00e4ffade."
+  },
+  "evidence": [
+    {
+      "source": "GWAS",
+      "pubmed": "21787761"
+    }
+  ],
+  "severity": "medical",
+  "confidence": "high"
+}

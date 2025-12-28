@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "FAS",
+  "id": "GWAS_9843",
+  "last_updated": "2025-12-24T00:12:31.768778",
+  "odds_ratio": 0.03,
+  "phenotype": "(Weight z-score )",
+  "pvalue": 7e-06,
+  "references": [],
+  "rsid": "rs7920888",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "CETP",
+  "id": "GWAS_2868",
+  "last_updated": "2025-12-24T00:26:49.612428",
+  "odds_ratio": 0.16,
+  "phenotype": "GWAS association for rs173539",
+  "pvalue": 9.000000000000001e-09,
+  "references": [],
+  "rsid": "rs173539",
+  "source": "GWAS",
+  "source_url": null
+}

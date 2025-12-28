@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "NOS1AP",
+  "id": "GWAS_756",
+  "last_updated": "2025-12-24T00:26:49.591453",
+  "odds_ratio": 2.88,
+  "phenotype": "GWAS association for rs12143842",
+  "pvalue": 2e-78,
+  "references": [],
+  "rsid": "rs12143842",
+  "source": "GWAS",
+  "source_url": null
+}

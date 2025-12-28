@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "LPPR5",
+  "id": "GWAS_9611",
+  "last_updated": "2025-12-24T00:12:31.763929",
+  "odds_ratio": 0.04,
+  "phenotype": "(LDL )",
+  "pvalue": 9e-06,
+  "references": [],
+  "rsid": "rs10443196",
+  "source": "GWAS",
+  "source_url": null
+}

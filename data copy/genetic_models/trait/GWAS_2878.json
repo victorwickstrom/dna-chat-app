@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "FTO",
+  "id": "GWAS_2878",
+  "last_updated": "2025-12-24T00:26:49.612514",
+  "odds_ratio": 0.06,
+  "phenotype": "GWAS association for rs1121980",
+  "pvalue": 4e-08,
+  "references": [],
+  "rsid": "rs1121980",
+  "source": "GWAS",
+  "source_url": null
+}

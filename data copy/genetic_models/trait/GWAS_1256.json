@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "PTPN22",
+  "id": "GWAS_1256",
+  "last_updated": "2025-12-24T00:26:49.596208",
+  "odds_ratio": null,
+  "phenotype": "(ACPA-positive RA vs controls)",
+  "pvalue": 1e-08,
+  "references": [],
+  "rsid": "rs2476601",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "CYP2C9",
+  "id": "GWAS_2749",
+  "last_updated": "2025-12-24T00:26:49.611299",
+  "odds_ratio": 0.54,
+  "phenotype": "GWAS association for rs1799853",
+  "pvalue": 1e-31,
+  "references": [],
+  "rsid": "rs1799853",
+  "source": "GWAS",
+  "source_url": null
+}

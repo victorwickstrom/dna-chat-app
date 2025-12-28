@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "LEPR",
+  "id": "GWAS_1532",
+  "last_updated": "2025-12-24T00:26:49.598793",
+  "odds_ratio": 0.09,
+  "phenotype": "GWAS association for rs4420065",
+  "pvalue": 4e-62,
+  "references": [],
+  "rsid": "rs4420065",
+  "source": "GWAS",
+  "source_url": null
+}

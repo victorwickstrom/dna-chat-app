@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "LTA4H",
+  "id": "GWAS_4542",
+  "last_updated": "2025-12-24T00:26:49.628531",
+  "odds_ratio": 4.39,
+  "phenotype": "GWAS association for rs2660869",
+  "pvalue": 3e-06,
+  "references": [],
+  "rsid": "rs2660869",
+  "source": "GWAS",
+  "source_url": null
+}

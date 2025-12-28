@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "DGKH",
+  "id": "GWAS_2280",
+  "last_updated": "2025-12-24T00:26:49.606420",
+  "odds_ratio": 1.59,
+  "phenotype": "GWAS association for rs1012053",
+  "pvalue": 2e-08,
+  "references": [],
+  "rsid": "rs1012053",
+  "source": "GWAS",
+  "source_url": null
+}

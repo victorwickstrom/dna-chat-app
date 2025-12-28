@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "PLA2G7",
+  "id": "GWAS_8944",
+  "last_updated": "2025-12-24T00:12:31.749881",
+  "odds_ratio": 0.027,
+  "phenotype": "(Activity concentrations)",
+  "pvalue": 1e-10,
+  "references": [],
+  "rsid": "rs7756935",
+  "source": "GWAS",
+  "source_url": null
+}

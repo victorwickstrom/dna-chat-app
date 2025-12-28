@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "CCL2",
+  "id": "GWAS_4791",
+  "last_updated": "2025-12-24T00:26:49.630811",
+  "odds_ratio": 1.122,
+  "phenotype": "GWAS association for rs3091316",
+  "pvalue": 1e-26,
+  "references": [],
+  "rsid": "rs3091316",
+  "source": "GWAS",
+  "source_url": null
+}

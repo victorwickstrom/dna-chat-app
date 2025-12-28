@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "C10ORF107",
+  "id": "GWAS_5427",
+  "last_updated": "2025-12-24T00:12:31.663342",
+  "odds_ratio": 0.576,
+  "phenotype": "(Mean Arterial Pressure)",
+  "pvalue": 2e-18,
+  "references": [],
+  "rsid": "rs4590817",
+  "source": "GWAS",
+  "source_url": null
+}

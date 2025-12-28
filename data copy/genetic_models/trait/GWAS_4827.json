@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "APOA1",
+  "id": "GWAS_4827",
+  "last_updated": "2025-12-24T00:26:49.631134",
+  "odds_ratio": 16.95,
+  "phenotype": "GWAS association for rs964184",
+  "pvalue": 6.999999999999999e-240,
+  "references": [],
+  "rsid": "rs964184",
+  "source": "GWAS",
+  "source_url": null
+}

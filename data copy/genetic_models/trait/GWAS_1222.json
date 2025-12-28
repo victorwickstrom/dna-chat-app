@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "HLA",
+  "id": "GWAS_1222",
+  "last_updated": "2025-12-24T00:26:49.595881",
+  "odds_ratio": 0.09,
+  "phenotype": "(Serum level of C4)",
+  "pvalue": 3e-22,
+  "references": [],
+  "rsid": "rs9276606",
+  "source": "GWAS",
+  "source_url": null
+}

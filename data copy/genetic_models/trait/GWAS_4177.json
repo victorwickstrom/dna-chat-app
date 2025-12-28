@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "RSPO2",
+  "id": "GWAS_4177",
+  "last_updated": "2025-12-24T00:26:49.625094",
+  "odds_ratio": 1.33,
+  "phenotype": "GWAS association for rs611744",
+  "pvalue": 8e-15,
+  "references": [],
+  "rsid": "rs611744",
+  "source": "GWAS",
+  "source_url": null
+}

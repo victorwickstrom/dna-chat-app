@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "TBX5",
+  "id": "GWAS_2940",
+  "last_updated": "2025-12-24T00:26:49.613076",
+  "odds_ratio": 1.95,
+  "phenotype": "GWAS association for rs1896312",
+  "pvalue": 3e-17,
+  "references": [],
+  "rsid": "rs1896312",
+  "source": "GWAS",
+  "source_url": null
+}

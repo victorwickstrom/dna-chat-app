@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "SOX17",
+  "id": "GWAS_3561",
+  "last_updated": "2025-12-24T00:26:49.618594",
+  "odds_ratio": 1.36,
+  "phenotype": "GWAS association for rs10958409",
+  "pvalue": 1e-10,
+  "references": [],
+  "rsid": "rs10958409",
+  "source": "GWAS",
+  "source_url": null
+}

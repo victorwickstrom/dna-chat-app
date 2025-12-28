@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "NPR3",
+  "id": "GWAS_6511",
+  "last_updated": "2025-12-24T00:12:31.689802",
+  "odds_ratio": 0.63,
+  "phenotype": "(Systolic)",
+  "pvalue": 2e-08,
+  "references": [],
+  "rsid": "rs1173766",
+  "source": "GWAS",
+  "source_url": null
+}

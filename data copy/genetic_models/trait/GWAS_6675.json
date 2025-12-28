@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "TCERG1L",
+  "id": "GWAS_6675",
+  "last_updated": "2025-12-24T00:12:31.694871",
+  "odds_ratio": 0.3,
+  "phenotype": "(IR)",
+  "pvalue": 3.0000000000000004e-08,
+  "references": [],
+  "rsid": "rs10829848",
+  "source": "GWAS",
+  "source_url": null
+}

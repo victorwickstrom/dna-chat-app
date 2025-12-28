@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "guideline",
+  "drug": null,
+  "effect": "MT-RNR1 and Aminoglycosides",
+  "evidence_level": "unknown",
+  "gene": "MT-RNR1",
+  "id": "CPIC_GL_MT-RNR1_unknown_826283",
+  "last_updated": "2025-12-24T00:26:50.460955",
+  "odds_ratio": null,
+  "phenotype": null,
+  "pvalue": null,
+  "references": [],
+  "rsid": null,
+  "source": "CPIC",
+  "source_url": null
+}

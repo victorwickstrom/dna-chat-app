@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "ZBTB24",
+  "id": "GWAS_9394",
+  "last_updated": "2025-12-24T00:12:31.759503",
+  "odds_ratio": null,
+  "phenotype": "(AA)",
+  "pvalue": 3e-07,
+  "references": [],
+  "rsid": "rs9487114",
+  "source": "GWAS",
+  "source_url": null
+}

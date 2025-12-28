@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "TNFSF15",
+  "id": "GWAS_5555",
+  "last_updated": "2025-12-24T00:12:31.666246",
+  "odds_ratio": 1.67,
+  "phenotype": "(UC vs. CD)",
+  "pvalue": 4e-13,
+  "references": [],
+  "rsid": "rs2006996",
+  "source": "GWAS",
+  "source_url": null
+}

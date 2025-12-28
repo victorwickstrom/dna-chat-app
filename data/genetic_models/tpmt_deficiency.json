@@ -1,0 +1,35 @@
+{
+  "id": "tpmt_deficiency",
+  "category": "pharmacogenomic",
+  "snps": [
+    {
+      "rsid": "rs1142345",
+      "riskAllele": "C",
+      "weight": -2.5
+    },
+    {
+      "rsid": "rs1800460",
+      "riskAllele": "A",
+      "weight": -2.0
+    },
+    {
+      "rsid": "rs1800462",
+      "riskAllele": "T",
+      "weight": -1.5
+    }
+  ],
+  "population": "ALL",
+  "interpretation": {
+    "low": "L\u00e5g genetisk risk f\u00f6r tpmt deficiency.",
+    "medium": "M\u00e5ttlig risk f\u00f6r tpmt deficiency.",
+    "high": "H\u00f6g genetisk risk f\u00f6r tpmt deficiency; flera riskalleler p\u00e5tr\u00e4ffade."
+  },
+  "evidence": [
+    {
+      "source": "CPIC",
+      "pubmed": "25501432"
+    }
+  ],
+  "severity": "pharma",
+  "confidence": "high"
+}

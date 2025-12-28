@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "guideline",
+  "drug": null,
+  "effect": "HLA-B and Allopurinol",
+  "evidence_level": "unknown",
+  "gene": "HLA-B",
+  "id": "CPIC_GL_HLA-B_unknown_100422",
+  "last_updated": "2025-12-24T00:26:50.460951",
+  "odds_ratio": null,
+  "phenotype": null,
+  "pvalue": null,
+  "references": [],
+  "rsid": null,
+  "source": "CPIC",
+  "source_url": null
+}

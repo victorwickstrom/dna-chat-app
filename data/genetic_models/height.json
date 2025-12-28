@@ -1,0 +1,35 @@
+{
+  "id": "height",
+  "category": "trait",
+  "snps": [
+    {
+      "rsid": "rs1042725",
+      "riskAllele": "T",
+      "weight": 1.2
+    },
+    {
+      "rsid": "rs143384",
+      "riskAllele": "C",
+      "weight": 1.3
+    },
+    {
+      "rsid": "rs11107116",
+      "riskAllele": "G",
+      "weight": 1.1
+    }
+  ],
+  "population": "ALL",
+  "interpretation": {
+    "low": "L\u00e5g genetisk risk f\u00f6r height.",
+    "medium": "M\u00e5ttlig risk f\u00f6r height.",
+    "high": "H\u00f6g genetisk risk f\u00f6r height; flera riskalleler p\u00e5tr\u00e4ffade."
+  },
+  "evidence": [
+    {
+      "source": "GWAS",
+      "pubmed": "20881960"
+    }
+  ],
+  "severity": "trait",
+  "confidence": "moderate"
+}

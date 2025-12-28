@@ -1,0 +1,35 @@
+{
+  "id": "abdominal_aortic_aneurysm",
+  "category": "cardiovascular",
+  "snps": [
+    {
+      "rsid": "rs7025486",
+      "riskAllele": "T",
+      "weight": 1.6
+    },
+    {
+      "rsid": "rs1466535",
+      "riskAllele": "C",
+      "weight": 1.5
+    },
+    {
+      "rsid": "rs3828324",
+      "riskAllele": "G",
+      "weight": 1.2
+    }
+  ],
+  "population": "ALL",
+  "interpretation": {
+    "low": "L\u00e5g genetisk risk f\u00f6r abdominal aortic aneurysm.",
+    "medium": "M\u00e5ttlig risk f\u00f6r abdominal aortic aneurysm.",
+    "high": "H\u00f6g genetisk risk f\u00f6r abdominal aortic aneurysm; flera riskalleler p\u00e5tr\u00e4ffade."
+  },
+  "evidence": [
+    {
+      "source": "GWAS",
+      "pubmed": "20622883"
+    }
+  ],
+  "severity": "medical",
+  "confidence": "moderate"
+}

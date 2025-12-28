@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "ABCG8",
+  "id": "GWAS_4733",
+  "last_updated": "2025-12-24T00:26:49.630275",
+  "odds_ratio": 12.0,
+  "phenotype": "(campesterol)",
+  "pvalue": 2e-50,
+  "references": [],
+  "rsid": "rs4245791",
+  "source": "GWAS",
+  "source_url": null
+}

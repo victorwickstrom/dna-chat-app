@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "PCSK7",
+  "id": "GWAS_7410",
+  "last_updated": "2025-12-24T00:12:31.712184",
+  "odds_ratio": 0.235,
+  "phenotype": "(TRIG)",
+  "pvalue": 2e-10,
+  "references": [],
+  "rsid": "rs508487",
+  "source": "GWAS",
+  "source_url": null
+}

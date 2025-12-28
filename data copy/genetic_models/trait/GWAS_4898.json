@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "CSMD2",
+  "id": "GWAS_4898",
+  "last_updated": "2025-12-24T00:26:49.631751",
+  "odds_ratio": null,
+  "phenotype": "GWAS association for rs2281597",
+  "pvalue": 5e-07,
+  "references": [],
+  "rsid": "rs2281597",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "LOC342994",
+  "id": "GWAS_8870",
+  "last_updated": "2025-12-24T00:12:31.748110",
+  "odds_ratio": 4.2,
+  "phenotype": "(absolute LDL-C reduction)",
+  "pvalue": 3e-07,
+  "references": [],
+  "rsid": "rs931608",
+  "source": "GWAS",
+  "source_url": null
+}

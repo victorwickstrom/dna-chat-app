@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "FAM3C",
+  "id": "GWAS_8964",
+  "last_updated": "2025-12-24T00:12:31.750916",
+  "odds_ratio": null,
+  "phenotype": "(BD-RT)",
+  "pvalue": 1e-11,
+  "references": [],
+  "rsid": "rs7776725",
+  "source": "GWAS",
+  "source_url": null
+}

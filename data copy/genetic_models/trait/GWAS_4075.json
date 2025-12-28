@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "CHRNA5",
+  "id": "GWAS_4075",
+  "last_updated": "2025-12-24T00:26:49.624187",
+  "odds_ratio": 1.29,
+  "phenotype": "GWAS association for rs11858836",
+  "pvalue": 1e-06,
+  "references": [],
+  "rsid": "rs11858836",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "ATOH7",
+  "id": "GWAS_920",
+  "last_updated": "2025-12-24T00:26:49.592928",
+  "odds_ratio": 0.295,
+  "phenotype": "GWAS association for rs3858145",
+  "pvalue": 3e-10,
+  "references": [],
+  "rsid": "rs3858145",
+  "source": "GWAS",
+  "source_url": null
+}

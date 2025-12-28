@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "DUXA",
+  "id": "GWAS_4182",
+  "last_updated": "2025-12-24T00:26:49.625143",
+  "odds_ratio": 1.34,
+  "phenotype": "GWAS association for rs11672517",
+  "pvalue": 7e-14,
+  "references": [],
+  "rsid": "rs11672517",
+  "source": "GWAS",
+  "source_url": null
+}

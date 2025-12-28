@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "gene",
+  "drug": null,
+  "effect": "Chromosome: chr3",
+  "evidence_level": "unknown",
+  "gene": "UMPS",
+  "id": "CPIC_gene_UMPS_102",
+  "last_updated": "2025-12-24T00:26:50.459300",
+  "odds_ratio": null,
+  "phenotype": null,
+  "pvalue": null,
+  "references": [],
+  "rsid": null,
+  "source": "CPIC",
+  "source_url": null
+}

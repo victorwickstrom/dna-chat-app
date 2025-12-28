@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "NUBPL",
+  "id": "GWAS_3569",
+  "last_updated": "2025-12-24T00:26:49.618674",
+  "odds_ratio": null,
+  "phenotype": "GWAS association for rs2039485",
+  "pvalue": 6e-06,
+  "references": [],
+  "rsid": "rs2039485",
+  "source": "GWAS",
+  "source_url": null
+}

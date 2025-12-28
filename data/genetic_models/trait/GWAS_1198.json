@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "TRIM24",
+  "id": "GWAS_1198",
+  "last_updated": "2025-12-24T00:26:49.595658",
+  "odds_ratio": 0.22,
+  "phenotype": "(weight)",
+  "pvalue": 9e-06,
+  "references": [],
+  "rsid": "rs1874326",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "SLC7A9",
+  "id": "GWAS_2670",
+  "last_updated": "2025-12-24T00:26:49.610060",
+  "odds_ratio": null,
+  "phenotype": "(Lysine/valine ratio)",
+  "pvalue": 6e-27,
+  "references": [],
+  "rsid": "rs8101881",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "PTPN2",
+  "id": "GWAS_3741",
+  "last_updated": "2025-12-24T00:26:49.620460",
+  "odds_ratio": null,
+  "phenotype": "GWAS association for rs1893217",
+  "pvalue": 5e-12,
+  "references": [],
+  "rsid": "rs1893217",
+  "source": "GWAS",
+  "source_url": null
+}

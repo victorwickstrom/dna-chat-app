@@ -1,0 +1,35 @@
+{
+  "id": "beta_blocker_metabolism",
+  "category": "pharmacogenomic",
+  "snps": [
+    {
+      "rsid": "rs1801253",
+      "riskAllele": "G",
+      "weight": -1.2
+    },
+    {
+      "rsid": "rs3892097",
+      "riskAllele": "A",
+      "weight": -1.0
+    },
+    {
+      "rsid": "rs1801252",
+      "riskAllele": "C",
+      "weight": -0.8
+    }
+  ],
+  "population": "ALL",
+  "interpretation": {
+    "low": "L\u00e5g genetisk risk f\u00f6r beta blocker metabolism.",
+    "medium": "M\u00e5ttlig risk f\u00f6r beta blocker metabolism.",
+    "high": "H\u00f6g genetisk risk f\u00f6r beta blocker metabolism; flera riskalleler p\u00e5tr\u00e4ffade."
+  },
+  "evidence": [
+    {
+      "source": "CPIC",
+      "pubmed": "25501432"
+    }
+  ],
+  "severity": "pharma",
+  "confidence": "moderate"
+}

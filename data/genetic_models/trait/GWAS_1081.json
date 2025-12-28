@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "KITLG",
+  "id": "GWAS_1081",
+  "last_updated": "2025-12-24T00:26:49.594495",
+  "odds_ratio": 2.55,
+  "phenotype": "GWAS association for rs995030",
+  "pvalue": 1e-31,
+  "references": [],
+  "rsid": "rs995030",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "FUT6",
+  "id": "GWAS_9624",
+  "last_updated": "2025-12-24T00:12:31.764039",
+  "odds_ratio": 0.073,
+  "phenotype": "(CEA)",
+  "pvalue": 1e-35,
+  "references": [],
+  "rsid": "rs3760775",
+  "source": "GWAS",
+  "source_url": null
+}

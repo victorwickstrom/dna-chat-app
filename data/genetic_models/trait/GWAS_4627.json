@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "CETP",
+  "id": "GWAS_4627",
+  "last_updated": "2025-12-24T00:26:49.629337",
+  "odds_ratio": 0.22,
+  "phenotype": "(HDL-C)",
+  "pvalue": 1e-36,
+  "references": [],
+  "rsid": "rs3764261",
+  "source": "GWAS",
+  "source_url": null
+}

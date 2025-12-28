@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "FBLN1",
+  "id": "GWAS_7297",
+  "last_updated": "2025-12-24T00:12:31.709968",
+  "odds_ratio": 1.06,
+  "phenotype": "(Hyperthymic)",
+  "pvalue": 2e-08,
+  "references": [],
+  "rsid": "rs1985671",
+  "source": "GWAS",
+  "source_url": null
+}

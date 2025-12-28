@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "BACH2",
+  "id": "GWAS_4457",
+  "last_updated": "2025-12-24T00:26:49.627713",
+  "odds_ratio": null,
+  "phenotype": "(Animals)",
+  "pvalue": 9e-06,
+  "references": [],
+  "rsid": "rs2289577",
+  "source": "GWAS",
+  "source_url": null
+}

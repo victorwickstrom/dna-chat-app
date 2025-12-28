@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "PPARGC1B",
+  "id": "GWAS_469",
+  "last_updated": "2025-12-24T00:26:49.588434",
+  "odds_ratio": 0.11,
+  "phenotype": "GWAS association for rs32579",
+  "pvalue": 4e-06,
+  "references": [],
+  "rsid": "rs32579",
+  "source": "GWAS",
+  "source_url": null
+}

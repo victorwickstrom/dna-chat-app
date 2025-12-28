@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "PLEKHA7",
+  "id": "GWAS_1750",
+  "last_updated": "2025-12-24T00:26:49.600751",
+  "odds_ratio": 0.65,
+  "phenotype": "GWAS association for rs381815",
+  "pvalue": 2e-09,
+  "references": [],
+  "rsid": "rs381815",
+  "source": "GWAS",
+  "source_url": null
+}

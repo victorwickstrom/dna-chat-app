@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "ASAH2B",
+  "id": "GWAS_2692",
+  "last_updated": "2025-12-24T00:26:49.610286",
+  "odds_ratio": 0.08,
+  "phenotype": "GWAS association for rs4256922",
+  "pvalue": 1e-06,
+  "references": [],
+  "rsid": "rs4256922",
+  "source": "GWAS",
+  "source_url": null
+}

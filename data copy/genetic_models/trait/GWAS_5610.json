@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "PPM1K",
+  "id": "GWAS_5610",
+  "last_updated": "2025-12-24T00:12:31.667754",
+  "odds_ratio": 0.13,
+  "phenotype": "(Fischer's ratio)",
+  "pvalue": 2e-16,
+  "references": [],
+  "rsid": "rs1440581",
+  "source": "GWAS",
+  "source_url": null
+}

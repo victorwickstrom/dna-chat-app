@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": null,
+  "id": "GWAS_5631",
+  "last_updated": "2025-12-24T00:12:31.668243",
+  "odds_ratio": null,
+  "phenotype": "(Interleukin-2 soluble receptor-a)",
+  "pvalue": 7e-07,
+  "references": [],
+  "rsid": "rs6517147",
+  "source": "GWAS",
+  "source_url": null
+}

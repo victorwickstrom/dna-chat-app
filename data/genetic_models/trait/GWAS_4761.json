@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "TNIK",
+  "id": "GWAS_4761",
+  "last_updated": "2025-12-24T00:26:49.630510",
+  "odds_ratio": null,
+  "phenotype": "GWAS association for rs2088885",
+  "pvalue": 6e-06,
+  "references": [],
+  "rsid": "rs2088885",
+  "source": "GWAS",
+  "source_url": null
+}

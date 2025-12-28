@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "gene",
+  "drug": null,
+  "effect": "Chromosome: chr2",
+  "evidence_level": "unknown",
+  "gene": "ATIC",
+  "id": "CPIC_gene_ATIC_4",
+  "last_updated": "2025-12-24T00:26:50.459000",
+  "odds_ratio": null,
+  "phenotype": null,
+  "pvalue": null,
+  "references": [],
+  "rsid": null,
+  "source": "CPIC",
+  "source_url": null
+}

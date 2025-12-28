@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "ODZ2",
+  "id": "GWAS_5132",
+  "last_updated": "2025-12-24T00:12:31.656325",
+  "odds_ratio": 2.57,
+  "phenotype": "(A. actino)",
+  "pvalue": 1e-06,
+  "references": [],
+  "rsid": "rs6885116",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "PRKAG2",
+  "id": "GWAS_2952",
+  "last_updated": "2025-12-24T00:26:49.613185",
+  "odds_ratio": 0.2,
+  "phenotype": "GWAS association for rs10224002",
+  "pvalue": 6.0000000000000005e-15,
+  "references": [],
+  "rsid": "rs10224002",
+  "source": "GWAS",
+  "source_url": null
+}

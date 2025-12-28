@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "SSBP2",
+  "id": "GWAS_2339",
+  "last_updated": "2025-12-24T00:26:49.606978",
+  "odds_ratio": null,
+  "phenotype": "GWAS association for rs410644",
+  "pvalue": 7e-06,
+  "references": [],
+  "rsid": "rs410644",
+  "source": "GWAS",
+  "source_url": null
+}

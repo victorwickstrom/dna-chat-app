@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "KLF12",
+  "id": "GWAS_1588",
+  "last_updated": "2025-12-24T00:26:49.599287",
+  "odds_ratio": 0.4,
+  "phenotype": "GWAS association for rs1886512",
+  "pvalue": 1e-08,
+  "references": [],
+  "rsid": "rs1886512",
+  "source": "GWAS",
+  "source_url": null
+}

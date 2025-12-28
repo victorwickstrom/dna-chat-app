@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "LYPLAL1",
+  "id": "GWAS_6161",
+  "last_updated": "2025-12-24T00:12:31.680174",
+  "odds_ratio": null,
+  "phenotype": "(overall)",
+  "pvalue": 3.0000000000000004e-09,
+  "references": [],
+  "rsid": "rs11118316",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "HCG26",
+  "id": "GWAS_5783",
+  "last_updated": "2025-12-24T00:12:31.671559",
+  "odds_ratio": 0.15,
+  "phenotype": "(HDL)",
+  "pvalue": 2e-08,
+  "references": [],
+  "rsid": "rs3099844",
+  "source": "GWAS",
+  "source_url": null
+}

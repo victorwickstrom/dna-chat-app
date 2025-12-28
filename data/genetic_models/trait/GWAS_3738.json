@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "COL5A1",
+  "id": "GWAS_3738",
+  "last_updated": "2025-12-24T00:26:49.620435",
+  "odds_ratio": 0.15,
+  "phenotype": "GWAS association for rs3132306",
+  "pvalue": 3e-10,
+  "references": [],
+  "rsid": "rs3132306",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "YWHAG",
+  "id": "GWAS_5438",
+  "last_updated": "2025-12-24T00:12:31.663602",
+  "odds_ratio": 1.87,
+  "phenotype": "(Extreme)",
+  "pvalue": 6e-06,
+  "references": [],
+  "rsid": "rs17149161",
+  "source": "GWAS",
+  "source_url": null
+}

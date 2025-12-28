@@ -1,0 +1,35 @@
+{
+  "id": "abacavir_hypersensitivity",
+  "category": "pharmacogenomic",
+  "snps": [
+    {
+      "rsid": "rs2395029",
+      "riskAllele": "G",
+      "weight": 4.0
+    },
+    {
+      "rsid": "rs3135388",
+      "riskAllele": "A",
+      "weight": 2.5
+    },
+    {
+      "rsid": "rs13601",
+      "riskAllele": "C",
+      "weight": 1.2
+    }
+  ],
+  "population": "ALL",
+  "interpretation": {
+    "low": "L\u00e5g genetisk risk f\u00f6r abacavir hypersensitivity.",
+    "medium": "M\u00e5ttlig risk f\u00f6r abacavir hypersensitivity.",
+    "high": "H\u00f6g genetisk risk f\u00f6r abacavir hypersensitivity; flera riskalleler p\u00e5tr\u00e4ffade."
+  },
+  "evidence": [
+    {
+      "source": "CPIC",
+      "pubmed": "25501432"
+    }
+  ],
+  "severity": "pharma",
+  "confidence": "high"
+}

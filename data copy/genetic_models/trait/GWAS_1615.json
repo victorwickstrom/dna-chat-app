@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "ACVR2A",
+  "id": "GWAS_1615",
+  "last_updated": "2025-12-24T00:26:49.599546",
+  "odds_ratio": null,
+  "phenotype": "(Triglyceride, diff)",
+  "pvalue": 5e-07,
+  "references": [],
+  "rsid": "rs7584099",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "ASB18",
+  "id": "GWAS_3727",
+  "last_updated": "2025-12-24T00:26:49.620334",
+  "odds_ratio": null,
+  "phenotype": "(LDL, diff)",
+  "pvalue": 2e-07,
+  "references": [],
+  "rsid": "rs13390159",
+  "source": "GWAS",
+  "source_url": null
+}

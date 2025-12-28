@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "FUNDC1",
+  "id": "GWAS_8657",
+  "last_updated": "2025-12-24T00:12:31.742821",
+  "odds_ratio": 0.15,
+  "phenotype": "(openness)",
+  "pvalue": 6e-06,
+  "references": [],
+  "rsid": "rs6610953",
+  "source": "GWAS",
+  "source_url": null
+}

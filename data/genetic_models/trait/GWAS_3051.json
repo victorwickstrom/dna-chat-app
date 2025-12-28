@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "APOM",
+  "id": "GWAS_3051",
+  "last_updated": "2025-12-24T00:26:49.614011",
+  "odds_ratio": 1.22,
+  "phenotype": "GWAS association for rs3117582",
+  "pvalue": 5e-12,
+  "references": [],
+  "rsid": "rs3117582",
+  "source": "GWAS",
+  "source_url": null
+}

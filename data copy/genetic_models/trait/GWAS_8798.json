@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "DCHS2",
+  "id": "GWAS_8798",
+  "last_updated": "2025-12-24T00:12:31.746754",
+  "odds_ratio": null,
+  "phenotype": "(EA)",
+  "pvalue": 3e-07,
+  "references": [],
+  "rsid": "rs902464",
+  "source": "GWAS",
+  "source_url": null
+}

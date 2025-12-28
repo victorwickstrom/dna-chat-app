@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "MAP4",
+  "id": "GWAS_9319",
+  "last_updated": "2025-12-24T00:12:31.758234",
+  "odds_ratio": 0.297,
+  "phenotype": "(Mean Arterial Pressure)",
+  "pvalue": 3.0000000000000004e-08,
+  "references": [],
+  "rsid": "rs319690",
+  "source": "GWAS",
+  "source_url": null
+}

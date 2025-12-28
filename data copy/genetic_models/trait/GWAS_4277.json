@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "FN3K",
+  "id": "GWAS_4277",
+  "last_updated": "2025-12-24T00:26:49.626033",
+  "odds_ratio": 0.04,
+  "phenotype": "GWAS association for rs1046896",
+  "pvalue": 2e-26,
+  "references": [],
+  "rsid": "rs1046896",
+  "source": "GWAS",
+  "source_url": null
+}

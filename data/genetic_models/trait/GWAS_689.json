@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "SLC46A3",
+  "id": "GWAS_689",
+  "last_updated": "2025-12-24T00:26:49.590493",
+  "odds_ratio": 0.58,
+  "phenotype": "(ALT)",
+  "pvalue": 9e-06,
+  "references": [],
+  "rsid": "rs1305088",
+  "source": "GWAS",
+  "source_url": null
+}

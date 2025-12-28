@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "PCDH18",
+  "id": "GWAS_8117",
+  "last_updated": "2025-12-24T00:12:31.730498",
+  "odds_ratio": 0.27,
+  "phenotype": "(Novelty seeking)",
+  "pvalue": 2e-06,
+  "references": [],
+  "rsid": "rs987360",
+  "source": "GWAS",
+  "source_url": null
+}

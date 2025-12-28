@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "guideline",
+  "drug": null,
+  "effect": "SLCO1B1, ABCG2, CYP2C9, and Statins",
+  "evidence_level": "unknown",
+  "gene": "SLCO1B1",
+  "id": "CPIC_GL_SLCO1B1_unknown_100426",
+  "last_updated": "2025-12-24T00:26:50.460962",
+  "odds_ratio": null,
+  "phenotype": null,
+  "pvalue": null,
+  "references": [],
+  "rsid": null,
+  "source": "CPIC",
+  "source_url": null
+}

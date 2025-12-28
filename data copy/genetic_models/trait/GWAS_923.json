@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "HSP90B3P",
+  "id": "GWAS_923",
+  "last_updated": "2025-12-24T00:26:49.592954",
+  "odds_ratio": 0.245,
+  "phenotype": "GWAS association for rs1192415",
+  "pvalue": 3e-07,
+  "references": [],
+  "rsid": "rs1192415",
+  "source": "GWAS",
+  "source_url": null
+}

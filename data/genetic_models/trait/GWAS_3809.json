@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "AGK",
+  "id": "GWAS_3809",
+  "last_updated": "2025-12-24T00:26:49.621671",
+  "odds_ratio": 4.6,
+  "phenotype": "GWAS association for rs7789850",
+  "pvalue": 2e-06,
+  "references": [],
+  "rsid": "rs7789850",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "ATP13A2",
+  "id": "GWAS_2734",
+  "last_updated": "2025-12-24T00:26:49.611136",
+  "odds_ratio": 0.06,
+  "phenotype": "GWAS association for rs3738814",
+  "pvalue": 2e-07,
+  "references": [],
+  "rsid": "rs3738814",
+  "source": "GWAS",
+  "source_url": null
+}

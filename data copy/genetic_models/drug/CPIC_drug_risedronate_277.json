@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "drug",
+  "drug": "risedronate",
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": null,
+  "id": "CPIC_drug_risedronate_277",
+  "last_updated": "2025-12-24T00:26:50.460409",
+  "odds_ratio": null,
+  "phenotype": null,
+  "pvalue": null,
+  "references": [],
+  "rsid": null,
+  "source": "CPIC",
+  "source_url": null
+}

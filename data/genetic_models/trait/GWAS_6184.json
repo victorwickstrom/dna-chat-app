@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "TMEM49",
+  "id": "GWAS_6184",
+  "last_updated": "2025-12-24T00:12:31.680513",
+  "odds_ratio": 0.0092,
+  "phenotype": "(activity)",
+  "pvalue": 3.0000000000000004e-09,
+  "references": [],
+  "rsid": "rs11650106",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "PSORS1C1",
+  "id": "GWAS_3238",
+  "last_updated": "2025-12-24T00:26:49.615684",
+  "odds_ratio": 1.145,
+  "phenotype": "GWAS association for rs9264942",
+  "pvalue": 5e-28,
+  "references": [],
+  "rsid": "rs9264942",
+  "source": "GWAS",
+  "source_url": null
+}

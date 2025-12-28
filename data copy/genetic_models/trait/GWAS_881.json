@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "PIEZO1",
+  "id": "GWAS_881",
+  "last_updated": "2025-12-24T00:26:49.592586",
+  "odds_ratio": 0.33,
+  "phenotype": "GWAS association for rs12597726",
+  "pvalue": 1e-06,
+  "references": [],
+  "rsid": "rs12597726",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,971 @@
+{
+  "abacavir": [
+    "drug/CPIC_drug_abacavir_2.json"
+  ],
+  "ace inhibitors, plain": [
+    "drug/CPIC_drug_Ace_Inhibitors,_Plain_151.json"
+  ],
+  "acebutolol": [
+    "drug/CPIC_drug_acebutolol_177.json"
+  ],
+  "aceclofenac": [
+    "drug/CPIC_drug_aceclofenac_305.json"
+  ],
+  "acenocoumarol": [
+    "drug/CPIC_drug_acenocoumarol_12.json"
+  ],
+  "adalimumab": [
+    "drug/CPIC_drug_adalimumab_127.json"
+  ],
+  "alendronate": [
+    "drug/CPIC_drug_alendronate_129.json"
+  ],
+  "alfentanil": [
+    "drug/CPIC_drug_alfentanil_50.json"
+  ],
+  "alkylating agents": [
+    "drug/CPIC_drug_Alkylating_Agents_154.json"
+  ],
+  "allopurinol": [
+    "drug/CPIC_drug_allopurinol_3.json"
+  ],
+  "amifampridine": [
+    "drug/CPIC_drug_amifampridine_84.json"
+  ],
+  "amifampridine phosphate": [
+    "drug/CPIC_drug_amifampridine_phosphate_132.json"
+  ],
+  "amikacin": [
+    "drug/CPIC_drug_amikacin_4.json"
+  ],
+  "aminoglycoside antibacterials": [
+    "drug/CPIC_drug_aminoglycoside_antibacterials_175.json"
+  ],
+  "aminosalicylic acid": [
+    "drug/CPIC_drug_aminosalicylic_acid_51.json"
+  ],
+  "amisulpride": [
+    "drug/CPIC_drug_amisulpride_179.json"
+  ],
+  "amitriptyline": [
+    "drug/CPIC_drug_amitriptyline_7.json"
+  ],
+  "amoxapine": [
+    "drug/CPIC_drug_amoxapine_85.json"
+  ],
+  "amphetamine": [
+    "drug/CPIC_drug_amphetamine_181.json"
+  ],
+  "anthracyclines and related substances": [
+    "drug/CPIC_drug_anthracyclines_and_related_substances_182.json"
+  ],
+  "antidepressants": [
+    "drug/CPIC_drug_antidepressants_183.json"
+  ],
+  "antipsychotics": [
+    "drug/CPIC_drug_antipsychotics_185.json"
+  ],
+  "aripiprazole": [
+    "drug/CPIC_drug_aripiprazole_187.json"
+  ],
+  "aripiprazole lauroxil": [
+    "drug/CPIC_drug_aripiprazole_lauroxil_186.json"
+  ],
+  "aspirin": [
+    "drug/CPIC_drug_aspirin_27.json"
+  ],
+  "ataluren": [
+    "drug/CPIC_drug_ataluren_188.json"
+  ],
+  "atazanavir": [
+    "drug/CPIC_drug_atazanavir_317.json"
+  ],
+  "atenolol": [
+    "drug/CPIC_drug_atenolol_180.json"
+  ],
+  "atomoxetine": [
+    "drug/CPIC_drug_atomoxetine_10.json"
+  ],
+  "atorvastatin": [
+    "drug/CPIC_drug_atorvastatin_31.json"
+  ],
+  "avatrombopag": [
+    "drug/CPIC_drug_avatrombopag_191.json"
+  ],
+  "azathioprine": [
+    "drug/CPIC_drug_azathioprine_318.json"
+  ],
+  "belinostat": [
+    "drug/CPIC_drug_belinostat_192.json"
+  ],
+  "betaxolol": [
+    "drug/CPIC_drug_betaxolol_189.json"
+  ],
+  "bisoprolol": [
+    "drug/CPIC_drug_bisoprolol_193.json"
+  ],
+  "bisphosphonates": [
+    "drug/CPIC_drug_Bisphosphonates_1.json"
+  ],
+  "brexpiprazole": [
+    "drug/CPIC_drug_brexpiprazole_194.json"
+  ],
+  "brivaracetam": [
+    "drug/CPIC_drug_brivaracetam_195.json"
+  ],
+  "bucindolol": [
+    "drug/CPIC_drug_bucindolol_196.json"
+  ],
+  "budesonide": [
+    "drug/CPIC_drug_budesonide_19.json"
+  ],
+  "buprenorphine": [
+    "drug/CPIC_drug_buprenorphine_36.json"
+  ],
+  "bupropion": [
+    "drug/CPIC_drug_bupropion_87.json"
+  ],
+  "caffeine": [
+    "drug/CPIC_drug_caffeine_134.json"
+  ],
+  "capecitabine": [
+    "drug/CPIC_drug_capecitabine_15.json"
+  ],
+  "captopril": [
+    "drug/CPIC_drug_captopril_226.json"
+  ],
+  "carbamazepine": [
+    "drug/CPIC_drug_carbamazepine_17.json"
+  ],
+  "carbimazole": [
+    "drug/CPIC_drug_carbimazole_23.json"
+  ],
+  "carboplatin": [
+    "drug/CPIC_drug_carboplatin_38.json"
+  ],
+  "carglumic acid": [
+    "drug/CPIC_drug_carglumic_acid_89.json"
+  ],
+  "carisoprodol": [
+    "drug/CPIC_drug_carisoprodol_203.json"
+  ],
+  "carvedilol": [
+    "drug/CPIC_drug_carvedilol_197.json"
+  ],
+  "celecoxib": [
+    "drug/CPIC_drug_celecoxib_289.json"
+  ],
+  "cerivastatin": [
+    "drug/CPIC_drug_cerivastatin_206.json"
+  ],
+  "cetuximab": [
+    "drug/CPIC_drug_cetuximab_207.json"
+  ],
+  "cevimeline": [
+    "drug/CPIC_drug_cevimeline_208.json"
+  ],
+  "chloramphenicol": [
+    "drug/CPIC_drug_chloramphenicol_76.json"
+  ],
+  "chloroquine": [
+    "drug/CPIC_drug_chloroquine_77.json"
+  ],
+  "chlorpropamide": [
+    "drug/CPIC_drug_chlorpropamide_78.json"
+  ],
+  "ciprofloxacin": [
+    "drug/CPIC_drug_ciprofloxacin_52.json"
+  ],
+  "cisplatin": [
+    "drug/CPIC_drug_cisplatin_209.json"
+  ],
+  "citalopram": [
+    "drug/CPIC_drug_citalopram_55.json"
+  ],
+  "clobazam": [
+    "drug/CPIC_drug_clobazam_210.json"
+  ],
+  "clomipramine": [
+    "drug/CPIC_drug_clomipramine_29.json"
+  ],
+  "clopidogrel": [
+    "drug/CPIC_drug_clopidogrel_290.json"
+  ],
+  "clozapine": [
+    "drug/CPIC_drug_clozapine_211.json"
+  ],
+  "codeine": [
+    "drug/CPIC_drug_codeine_71.json"
+  ],
+  "cyclophosphamide": [
+    "drug/CPIC_drug_cyclophosphamide_212.json"
+  ],
+  "cyclosporine": [
+    "drug/CPIC_drug_cyclosporine_213.json"
+  ],
+  "dabrafenib": [
+    "drug/CPIC_drug_dabrafenib_73.json"
+  ],
+  "dapsone": [
+    "drug/CPIC_drug_dapsone_21.json"
+  ],
+  "darifenacin": [
+    "drug/CPIC_drug_darifenacin_214.json"
+  ],
+  "daunorubicin": [
+    "drug/CPIC_drug_daunorubicin_215.json"
+  ],
+  "desflurane": [
+    "drug/CPIC_drug_desflurane_319.json"
+  ],
+  "desipramine": [
+    "drug/CPIC_drug_desipramine_30.json"
+  ],
+  "desvenlafaxine": [
+    "drug/CPIC_drug_desvenlafaxine_204.json"
+  ],
+  "deutetrabenazine": [
+    "drug/CPIC_drug_deutetrabenazine_216.json"
+  ],
+  "dexlansoprazole": [
+    "drug/CPIC_drug_dexlansoprazole_303.json"
+  ],
+  "dextromethorphan": [
+    "drug/CPIC_drug_dextromethorphan_217.json"
+  ],
+  "diazepam": [
+    "drug/CPIC_drug_diazepam_218.json"
+  ],
+  "dibekacin": [
+    "drug/CPIC_drug_dibekacin_202.json"
+  ],
+  "diclofenac": [
+    "drug/CPIC_drug_diclofenac_306.json"
+  ],
+  "digoxin": [
+    "drug/CPIC_drug_digoxin_219.json"
+  ],
+  "dimercaprol": [
+    "drug/CPIC_drug_dimercaprol_75.json"
+  ],
+  "divalproex sodium": [
+    "drug/CPIC_drug_divalproex_sodium_220.json"
+  ],
+  "dolasetron": [
+    "drug/CPIC_drug_dolasetron_221.json"
+  ],
+  "dolutegravir": [
+    "drug/CPIC_drug_dolutegravir_222.json"
+  ],
+  "donepezil": [
+    "drug/CPIC_drug_donepezil_223.json"
+  ],
+  "doxepin": [
+    "drug/CPIC_drug_doxepin_33.json"
+  ],
+  "doxorubicin": [
+    "drug/CPIC_drug_doxorubicin_79.json"
+  ],
+  "dronabinol": [
+    "drug/CPIC_drug_dronabinol_224.json"
+  ],
+  "duloxetine": [
+    "drug/CPIC_drug_duloxetine_205.json"
+  ],
+  "efavirenz": [
+    "drug/CPIC_drug_efavirenz_291.json"
+  ],
+  "elagolix": [
+    "drug/CPIC_drug_elagolix_157.json"
+  ],
+  "eliglustat": [
+    "drug/CPIC_drug_eliglustat_228.json"
+  ],
+  "eltrombopag": [
+    "drug/CPIC_drug_eltrombopag_26.json"
+  ],
+  "enflurane": [
+    "drug/CPIC_drug_enflurane_320.json"
+  ],
+  "epirubicin": [
+    "drug/CPIC_drug_epirubicin_43.json"
+  ],
+  "erdafitinib": [
+    "drug/CPIC_drug_erdafitinib_70.json"
+  ],
+  "erythromycin": [
+    "drug/CPIC_drug_erythromycin_93.json"
+  ],
+  "escitalopram": [
+    "drug/CPIC_drug_escitalopram_54.json"
+  ],
+  "esmolol": [
+    "drug/CPIC_drug_esmolol_199.json"
+  ],
+  "esomeprazole": [
+    "drug/CPIC_drug_esomeprazole_307.json"
+  ],
+  "etanercept": [
+    "drug/CPIC_drug_etanercept_136.json"
+  ],
+  "ethanol": [
+    "drug/CPIC_drug_ethanol_58.json"
+  ],
+  "etoposide": [
+    "drug/CPIC_drug_etoposide_158.json"
+  ],
+  "fentanyl": [
+    "drug/CPIC_drug_fentanyl_57.json"
+  ],
+  "fesoterodine": [
+    "drug/CPIC_drug_fesoterodine_229.json"
+  ],
+  "flecainide": [
+    "drug/CPIC_drug_flecainide_230.json"
+  ],
+  "flibanserin": [
+    "drug/CPIC_drug_flibanserin_231.json"
+  ],
+  "fluorouracil": [
+    "drug/CPIC_drug_fluorouracil_24.json"
+  ],
+  "fluoxetine": [
+    "drug/CPIC_drug_fluoxetine_227.json"
+  ],
+  "flurbiprofen": [
+    "drug/CPIC_drug_flurbiprofen_295.json"
+  ],
+  "fluticasone propionate": [
+    "drug/CPIC_drug_fluticasone_propionate_232.json"
+  ],
+  "fluticasone/salmeterol": [
+    "drug/CPIC_drug_fluticasone_salmeterol_44.json"
+  ],
+  "fluvastatin": [
+    "drug/CPIC_drug_fluvastatin_62.json"
+  ],
+  "fluvoxamine": [
+    "drug/CPIC_drug_fluvoxamine_69.json"
+  ],
+  "fosphenytoin": [
+    "drug/CPIC_drug_fosphenytoin_6.json"
+  ],
+  "furazolidone": [
+    "drug/CPIC_drug_furazolidone_81.json"
+  ],
+  "furosemide": [
+    "drug/CPIC_drug_furosemide_233.json"
+  ],
+  "galantamine": [
+    "drug/CPIC_drug_galantamine_234.json"
+  ],
+  "gefitinib": [
+    "drug/CPIC_drug_gefitinib_235.json"
+  ],
+  "gemcitabine": [
+    "drug/CPIC_drug_gemcitabine_236.json"
+  ],
+  "gentamicin": [
+    "drug/CPIC_drug_gentamicin_8.json"
+  ],
+  "gliclazide": [
+    "drug/CPIC_drug_gliclazide_53.json"
+  ],
+  "glimepiride": [
+    "drug/CPIC_drug_glimepiride_56.json"
+  ],
+  "glipizide": [
+    "drug/CPIC_drug_glipizide_59.json"
+  ],
+  "glyburide": [
+    "drug/CPIC_drug_glyburide_60.json"
+  ],
+  "haloperidol": [
+    "drug/CPIC_drug_haloperidol_237.json"
+  ],
+  "halothane": [
+    "drug/CPIC_drug_halothane_321.json"
+  ],
+  "hmg coa reductase inhibitors": [
+    "drug/CPIC_drug_hmg_coa_reductase_inhibitors_238.json"
+  ],
+  "hormonal contraceptives for systemic use": [
+    "drug/CPIC_drug_hormonal_contraceptives_for_systemic_use_239.json"
+  ],
+  "hydralazine": [
+    "drug/CPIC_drug_hydralazine_225.json"
+  ],
+  "hydrochlorothiazide": [
+    "drug/CPIC_drug_hydrochlorothiazide_240.json"
+  ],
+  "hydrocodone": [
+    "drug/CPIC_drug_hydrocodone_67.json"
+  ],
+  "hydromorphone": [
+    "drug/CPIC_drug_hydromorphone_72.json"
+  ],
+  "hydroxychloroquine": [
+    "drug/CPIC_drug_hydroxychloroquine_74.json"
+  ],
+  "ibuprofen": [
+    "drug/CPIC_drug_ibuprofen_308.json"
+  ],
+  "idarubicin": [
+    "drug/CPIC_drug_idarubicin_241.json"
+  ],
+  "iloperidone": [
+    "drug/CPIC_drug_iloperidone_137.json"
+  ],
+  "imipramine": [
+    "drug/CPIC_drug_imipramine_41.json"
+  ],
+  "indomethacin": [
+    "drug/CPIC_drug_indomethacin_80.json"
+  ],
+  "infliximab": [
+    "drug/CPIC_drug_infliximab_159.json"
+  ],
+  "interferon alfa-2b, recombinant": [
+    "drug/CPIC_drug_interferon_alfa-2b,_recombinant_95.json"
+  ],
+  "irinotecan": [
+    "drug/CPIC_drug_irinotecan_138.json"
+  ],
+  "isoflurane": [
+    "drug/CPIC_drug_isoflurane_13.json"
+  ],
+  "isoniazid": [
+    "drug/CPIC_drug_isoniazid_160.json"
+  ],
+  "isosorbide dinitrate": [
+    "drug/CPIC_drug_isosorbide_dinitrate_96.json"
+  ],
+  "ivacaftor": [
+    "drug/CPIC_drug_ivacaftor_299.json"
+  ],
+  "kanamycin": [
+    "drug/CPIC_drug_kanamycin_14.json"
+  ],
+  "l-methylfolate": [
+    "drug/CPIC_drug_l-methylfolate_105.json"
+  ],
+  "labetalol": [
+    "drug/CPIC_drug_labetalol_201.json"
+  ],
+  "lamotrigine": [
+    "drug/CPIC_drug_lamotrigine_139.json"
+  ],
+  "lansoprazole": [
+    "drug/CPIC_drug_lansoprazole_300.json"
+  ],
+  "lapatinib": [
+    "drug/CPIC_drug_lapatinib_161.json"
+  ],
+  "latanoprost": [
+    "drug/CPIC_drug_latanoprost_141.json"
+  ],
+  "lesinurad": [
+    "drug/CPIC_drug_lesinurad_9.json"
+  ],
+  "leucovorin": [
+    "drug/CPIC_drug_leucovorin_162.json"
+  ],
+  "levofloxacin": [
+    "drug/CPIC_drug_levofloxacin_108.json"
+  ],
+  "levomethadone": [
+    "drug/CPIC_drug_levomethadone_82.json"
+  ],
+  "levomilnacipran": [
+    "drug/CPIC_drug_levomilnacipran_152.json"
+  ],
+  "lidocaine": [
+    "drug/CPIC_drug_lidocaine_148.json"
+  ],
+  "lofexidine": [
+    "drug/CPIC_drug_lofexidine_110.json"
+  ],
+  "lornoxicam": [
+    "drug/CPIC_drug_lornoxicam_16.json"
+  ],
+  "lovastatin": [
+    "drug/CPIC_drug_lovastatin_86.json"
+  ],
+  "lumiracoxib": [
+    "drug/CPIC_drug_lumiracoxib_91.json"
+  ],
+  "mafenide": [
+    "drug/CPIC_drug_mafenide_92.json"
+  ],
+  "meclizine": [
+    "drug/CPIC_drug_meclizine_88.json"
+  ],
+  "mefloquine": [
+    "drug/CPIC_drug_mefloquine_149.json"
+  ],
+  "meloxicam": [
+    "drug/CPIC_drug_meloxicam_18.json"
+  ],
+  "mepacrine": [
+    "drug/CPIC_drug_mepacrine_94.json"
+  ],
+  "mercaptopurine": [
+    "drug/CPIC_drug_mercaptopurine_20.json"
+  ],
+  "mesalazine": [
+    "drug/CPIC_drug_mesalazine_97.json"
+  ],
+  "metamizole": [
+    "drug/CPIC_drug_metamizole_316.json"
+  ],
+  "metformin": [
+    "drug/CPIC_drug_metformin_163.json"
+  ],
+  "methadone": [
+    "drug/CPIC_drug_methadone_106.json"
+  ],
+  "methazolamide": [
+    "drug/CPIC_drug_methazolamide_164.json"
+  ],
+  "methimazole": [
+    "drug/CPIC_drug_methimazole_165.json"
+  ],
+  "methotrexate": [
+    "drug/CPIC_drug_methotrexate_166.json"
+  ],
+  "methoxyflurane": [
+    "drug/CPIC_drug_methoxyflurane_243.json"
+  ],
+  "methylene blue": [
+    "drug/CPIC_drug_methylene_blue_22.json"
+  ],
+  "methylphenidate": [
+    "drug/CPIC_drug_methylphenidate_242.json"
+  ],
+  "metoclopramide": [
+    "drug/CPIC_drug_metoclopramide_167.json"
+  ],
+  "metoprolol": [
+    "drug/CPIC_drug_metoprolol_176.json"
+  ],
+  "midazolam": [
+    "drug/CPIC_drug_midazolam_168.json"
+  ],
+  "milnacipran": [
+    "drug/CPIC_drug_milnacipran_153.json"
+  ],
+  "mirabegron": [
+    "drug/CPIC_drug_mirabegron_47.json"
+  ],
+  "mirtazapine": [
+    "drug/CPIC_drug_mirtazapine_169.json"
+  ],
+  "mivacurium": [
+    "drug/CPIC_drug_mivacurium_170.json"
+  ],
+  "modafinil": [
+    "drug/CPIC_drug_modafinil_171.json"
+  ],
+  "morphine": [
+    "drug/CPIC_drug_morphine_111.json"
+  ],
+  "moxifloxacin": [
+    "drug/CPIC_drug_moxifloxacin_113.json"
+  ],
+  "mycophenolic acid": [
+    "drug/CPIC_drug_mycophenolic_acid_172.json"
+  ],
+  "nabumetone": [
+    "drug/CPIC_drug_nabumetone_116.json"
+  ],
+  "nadolol": [
+    "drug/CPIC_drug_nadolol_178.json"
+  ],
+  "nalidixic acid": [
+    "drug/CPIC_drug_nalidixic_acid_117.json"
+  ],
+  "naloxone": [
+    "drug/CPIC_drug_naloxone_173.json"
+  ],
+  "naltrexone": [
+    "drug/CPIC_drug_naltrexone_99.json"
+  ],
+  "naproxen": [
+    "drug/CPIC_drug_naproxen_101.json"
+  ],
+  "nebivolol": [
+    "drug/CPIC_drug_nebivolol_184.json"
+  ],
+  "neomycin": [
+    "drug/CPIC_drug_neomycin_150.json"
+  ],
+  "netilmicin": [
+    "drug/CPIC_drug_netilmicin_244.json"
+  ],
+  "nevirapine": [
+    "drug/CPIC_drug_nevirapine_174.json"
+  ],
+  "nicorandil": [
+    "drug/CPIC_drug_nicorandil_103.json"
+  ],
+  "nicotine": [
+    "drug/CPIC_drug_nicotine_61.json"
+  ],
+  "nilotinib": [
+    "drug/CPIC_drug_nilotinib_245.json"
+  ],
+  "nitrofural": [
+    "drug/CPIC_drug_nitrofural_261.json"
+  ],
+  "nitrofurantoin": [
+    "drug/CPIC_drug_nitrofurantoin_246.json"
+  ],
+  "norfloxacin": [
+    "drug/CPIC_drug_norfloxacin_262.json"
+  ],
+  "nortriptyline": [
+    "drug/CPIC_drug_nortriptyline_247.json"
+  ],
+  "ofloxacin": [
+    "drug/CPIC_drug_ofloxacin_104.json"
+  ],
+  "olanzapine": [
+    "drug/CPIC_drug_olanzapine_250.json"
+  ],
+  "oliceridine": [
+    "drug/CPIC_drug_oliceridine_63.json"
+  ],
+  "omeprazole": [
+    "drug/CPIC_drug_omeprazole_248.json"
+  ],
+  "ondansetron": [
+    "drug/CPIC_drug_ondansetron_249.json"
+  ],
+  "oxaliplatin": [
+    "drug/CPIC_drug_oxaliplatin_252.json"
+  ],
+  "oxazepam": [
+    "drug/CPIC_drug_oxazepam_64.json"
+  ],
+  "oxcarbazepine": [
+    "drug/CPIC_drug_oxcarbazepine_107.json"
+  ],
+  "oxycodone": [
+    "drug/CPIC_drug_oxycodone_112.json"
+  ],
+  "paliperidone": [
+    "drug/CPIC_drug_paliperidone_65.json"
+  ],
+  "palonosetron": [
+    "drug/CPIC_drug_palonosetron_253.json"
+  ],
+  "pantoprazole": [
+    "drug/CPIC_drug_pantoprazole_251.json"
+  ],
+  "paromomycin": [
+    "drug/CPIC_drug_paromomycin_254.json"
+  ],
+  "paroxetine": [
+    "drug/CPIC_drug_paroxetine_115.json"
+  ],
+  "pazopanib": [
+    "drug/CPIC_drug_pazopanib_258.json"
+  ],
+  "peginterferon alfa-2a": [
+    "drug/CPIC_drug_peginterferon_alfa-2a_255.json"
+  ],
+  "peginterferon alfa-2b": [
+    "drug/CPIC_drug_peginterferon_alfa-2b_256.json"
+  ],
+  "pegloticase": [
+    "drug/CPIC_drug_pegloticase_257.json"
+  ],
+  "perphenazine": [
+    "drug/CPIC_drug_perphenazine_263.json"
+  ],
+  "phenazopyridine": [
+    "drug/CPIC_drug_phenazopyridine_83.json"
+  ],
+  "phenprocoumon": [
+    "drug/CPIC_drug_phenprocoumon_66.json"
+  ],
+  "phenytoin": [
+    "drug/CPIC_drug_phenytoin_259.json"
+  ],
+  "pimozide": [
+    "drug/CPIC_drug_pimozide_68.json"
+  ],
+  "pindolol": [
+    "drug/CPIC_drug_pindolol_190.json"
+  ],
+  "piroxicam": [
+    "drug/CPIC_drug_piroxicam_260.json"
+  ],
+  "pitavastatin": [
+    "drug/CPIC_drug_pitavastatin_98.json"
+  ],
+  "pitolisant": [
+    "drug/CPIC_drug_pitolisant_264.json"
+  ],
+  "platinum": [
+    "drug/CPIC_drug_platinum_266.json"
+  ],
+  "platinum compounds": [
+    "drug/CPIC_drug_Platinum_compounds_122.json"
+  ],
+  "plazomicin": [
+    "drug/CPIC_drug_plazomicin_322.json"
+  ],
+  "pravastatin": [
+    "drug/CPIC_drug_pravastatin_100.json"
+  ],
+  "primaquine": [
+    "drug/CPIC_drug_primaquine_25.json"
+  ],
+  "probenecid": [
+    "drug/CPIC_drug_probenecid_102.json"
+  ],
+  "procainamide": [
+    "drug/CPIC_drug_procainamide_268.json"
+  ],
+  "propafenone": [
+    "drug/CPIC_drug_propafenone_269.json"
+  ],
+  "propranolol": [
+    "drug/CPIC_drug_propranolol_198.json"
+  ],
+  "propylthiouracil": [
+    "drug/CPIC_drug_propylthiouracil_270.json"
+  ],
+  "protriptyline": [
+    "drug/CPIC_drug_protriptyline_271.json"
+  ],
+  "quetiapine": [
+    "drug/CPIC_drug_quetiapine_272.json"
+  ],
+  "quinidine": [
+    "drug/CPIC_drug_quinidine_273.json"
+  ],
+  "quinine": [
+    "drug/CPIC_drug_quinine_109.json"
+  ],
+  "rabeprazole": [
+    "drug/CPIC_drug_rabeprazole_309.json"
+  ],
+  "radiotherapy": [
+    "drug/CPIC_drug_radiotherapy_274.json"
+  ],
+  "raloxifene": [
+    "drug/CPIC_drug_raloxifene_275.json"
+  ],
+  "raltegravir": [
+    "drug/CPIC_drug_raltegravir_276.json"
+  ],
+  "rasburicase": [
+    "drug/CPIC_drug_rasburicase_0.json"
+  ],
+  "remifentanil": [
+    "drug/CPIC_drug_remifentanil_114.json"
+  ],
+  "ribavirin": [
+    "drug/CPIC_drug_ribavirin_5.json"
+  ],
+  "ribostamycin": [
+    "drug/CPIC_drug_ribostamycin_265.json"
+  ],
+  "risedronate": [
+    "drug/CPIC_drug_risedronate_277.json"
+  ],
+  "risperidone": [
+    "drug/CPIC_drug_risperidone_278.json"
+  ],
+  "rituximab": [
+    "drug/CPIC_drug_rituximab_279.json"
+  ],
+  "rosiglitazone": [
+    "drug/CPIC_drug_rosiglitazone_280.json"
+  ],
+  "rosuvastatin": [
+    "drug/CPIC_drug_rosuvastatin_90.json"
+  ],
+  "salbutamol": [
+    "drug/CPIC_drug_salbutamol_281.json"
+  ],
+  "salmeterol": [
+    "drug/CPIC_drug_salmeterol_282.json"
+  ],
+  "selective serotonin reuptake inhibitors": [
+    "drug/CPIC_drug_Selective_serotonin_reuptake_inhibitors_155.json"
+  ],
+  "sertraline": [
+    "drug/CPIC_drug_sertraline_146.json"
+  ],
+  "sevoflurane": [
+    "drug/CPIC_drug_sevoflurane_11.json"
+  ],
+  "sildenafil": [
+    "drug/CPIC_drug_sildenafil_283.json"
+  ],
+  "simvastatin": [
+    "drug/CPIC_drug_simvastatin_119.json"
+  ],
+  "siponimod": [
+    "drug/CPIC_drug_siponimod_284.json"
+  ],
+  "sirolimus": [
+    "drug/CPIC_drug_sirolimus_285.json"
+  ],
+  "sodium nitrite": [
+    "drug/CPIC_drug_sodium_nitrite_128.json"
+  ],
+  "sotalol": [
+    "drug/CPIC_drug_sotalol_200.json"
+  ],
+  "spironolactone": [
+    "drug/CPIC_drug_spironolactone_286.json"
+  ],
+  "streptomycin": [
+    "drug/CPIC_drug_streptomycin_32.json"
+  ],
+  "succinylcholine": [
+    "drug/CPIC_drug_succinylcholine_34.json"
+  ],
+  "sufentanil": [
+    "drug/CPIC_drug_sufentanil_267.json"
+  ],
+  "sulfacetamide": [
+    "drug/CPIC_drug_sulfacetamide_133.json"
+  ],
+  "sulfadiazine": [
+    "drug/CPIC_drug_sulfadiazine_135.json"
+  ],
+  "sulfadimidine": [
+    "drug/CPIC_drug_sulfadimidine_140.json"
+  ],
+  "sulfamethoxazole / trimethoprim": [
+    "drug/CPIC_drug_sulfamethoxazole_trimethoprim_143.json"
+  ],
+  "sulfanilamide": [
+    "drug/CPIC_drug_sulfanilamide_144.json"
+  ],
+  "sulfasalazine": [
+    "drug/CPIC_drug_sulfasalazine_145.json"
+  ],
+  "sulfisoxazole": [
+    "drug/CPIC_drug_sulfisoxazole_118.json"
+  ],
+  "sulfonamides": [
+    "drug/CPIC_drug_sulfonamides_287.json"
+  ],
+  "sunitinib": [
+    "drug/CPIC_drug_sunitinib_288.json"
+  ],
+  "tacrolimus": [
+    "drug/CPIC_drug_tacrolimus_35.json"
+  ],
+  "tafenoquine": [
+    "drug/CPIC_drug_tafenoquine_37.json"
+  ],
+  "tamoxifen": [
+    "drug/CPIC_drug_tamoxifen_39.json"
+  ],
+  "tamsulosin": [
+    "drug/CPIC_drug_tamsulosin_310.json"
+  ],
+  "tegafur": [
+    "drug/CPIC_drug_tegafur_120.json"
+  ],
+  "tenofovir": [
+    "drug/CPIC_drug_tenofovir_311.json"
+  ],
+  "tenoxicam": [
+    "drug/CPIC_drug_tenoxicam_40.json"
+  ],
+  "terbinafine": [
+    "drug/CPIC_drug_terbinafine_312.json"
+  ],
+  "tetrabenazine": [
+    "drug/CPIC_drug_tetrabenazine_313.json"
+  ],
+  "thioguanine": [
+    "drug/CPIC_drug_thioguanine_42.json"
+  ],
+  "thioridazine": [
+    "drug/CPIC_drug_thioridazine_314.json"
+  ],
+  "timolol": [
+    "drug/CPIC_drug_timolol_315.json"
+  ],
+  "tiotropium": [
+    "drug/CPIC_drug_tiotropium_292.json"
+  ],
+  "tobramycin": [
+    "drug/CPIC_drug_tobramycin_45.json"
+  ],
+  "tolazamide": [
+    "drug/CPIC_drug_tolazamide_121.json"
+  ],
+  "tolbutamide": [
+    "drug/CPIC_drug_tolbutamide_123.json"
+  ],
+  "tolterodine": [
+    "drug/CPIC_drug_tolterodine_293.json"
+  ],
+  "toluidine blue": [
+    "drug/CPIC_drug_toluidine_blue_48.json"
+  ],
+  "tramadol": [
+    "drug/CPIC_drug_tramadol_125.json"
+  ],
+  "trametinib": [
+    "drug/CPIC_drug_trametinib_126.json"
+  ],
+  "triamcinolone": [
+    "drug/CPIC_drug_triamcinolone_294.json"
+  ],
+  "trimipramine": [
+    "drug/CPIC_drug_trimipramine_46.json"
+  ],
+  "tropisetron": [
+    "drug/CPIC_drug_tropisetron_49.json"
+  ],
+  "tumor necrosis factor alpha (tnf-alpha) inhibitors": [
+    "drug/CPIC_drug_Tumor_necrosis_factor_alpha_(TNF-alpha)_inhibitors_156.json"
+  ],
+  "valbenazine": [
+    "drug/CPIC_drug_valbenazine_296.json"
+  ],
+  "valproic acid": [
+    "drug/CPIC_drug_valproic_acid_297.json"
+  ],
+  "velaglucerase alfa": [
+    "drug/CPIC_drug_velaglucerase_alfa_298.json"
+  ],
+  "venlafaxine": [
+    "drug/CPIC_drug_venlafaxine_147.json"
+  ],
+  "vilazodone": [
+    "drug/CPIC_drug_vilazodone_124.json"
+  ],
+  "vitamin c": [
+    "drug/CPIC_drug_vitamin_c_130.json"
+  ],
+  "vitamin k": [
+    "drug/CPIC_drug_vitamin_k_131.json"
+  ],
+  "voriconazole": [
+    "drug/CPIC_drug_voriconazole_302.json"
+  ],
+  "vortioxetine": [
+    "drug/CPIC_drug_vortioxetine_142.json"
+  ],
+  "warfarin": [
+    "drug/CPIC_drug_warfarin_28.json"
+  ],
+  "ziprasidone": [
+    "drug/CPIC_drug_ziprasidone_301.json"
+  ],
+  "zuclopenthixol": [
+    "drug/CPIC_drug_zuclopenthixol_304.json"
+  ]
+}

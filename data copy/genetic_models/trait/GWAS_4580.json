@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "ZFP36L1",
+  "id": "GWAS_4580",
+  "last_updated": "2025-12-24T00:26:49.628878",
+  "odds_ratio": 1.075,
+  "phenotype": "GWAS association for rs194749",
+  "pvalue": 3e-10,
+  "references": [],
+  "rsid": "rs194749",
+  "source": "GWAS",
+  "source_url": null
+}

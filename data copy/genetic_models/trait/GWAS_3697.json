@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "TNFAIP3",
+  "id": "GWAS_3697",
+  "last_updated": "2025-12-24T00:26:49.620071",
+  "odds_ratio": 1.22,
+  "phenotype": "GWAS association for rs610604",
+  "pvalue": 7e-07,
+  "references": [],
+  "rsid": "rs610604",
+  "source": "GWAS",
+  "source_url": null
+}

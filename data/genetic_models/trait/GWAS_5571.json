@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "HLA",
+  "id": "GWAS_5571",
+  "last_updated": "2025-12-24T00:12:31.666558",
+  "odds_ratio": 1.64,
+  "phenotype": "(Protective effects against CHB)",
+  "pvalue": 2e-21,
+  "references": [],
+  "rsid": "rs9277535",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "MC1R",
+  "id": "GWAS_3982",
+  "last_updated": "2025-12-24T00:26:49.623305",
+  "odds_ratio": 0.56,
+  "phenotype": "(red hair)",
+  "pvalue": 5e-87,
+  "references": [],
+  "rsid": "rs12931267",
+  "source": "GWAS",
+  "source_url": null
+}

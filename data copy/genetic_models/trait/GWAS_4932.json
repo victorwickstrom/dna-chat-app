@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "WNT16",
+  "id": "GWAS_4932",
+  "last_updated": "2025-12-24T00:26:49.632066",
+  "odds_ratio": 0.1289,
+  "phenotype": "GWAS association for rs917727",
+  "pvalue": 5.0000000000000005e-17,
+  "references": [],
+  "rsid": "rs917727",
+  "source": "GWAS",
+  "source_url": null
+}

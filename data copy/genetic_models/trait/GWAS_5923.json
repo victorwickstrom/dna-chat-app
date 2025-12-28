@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "DOK6",
+  "id": "GWAS_5923",
+  "last_updated": "2025-12-24T00:12:31.675004",
+  "odds_ratio": 0.13,
+  "phenotype": "(LS BMD, women)",
+  "pvalue": 9e-07,
+  "references": [],
+  "rsid": "rs17184557",
+  "source": "GWAS",
+  "source_url": null
+}

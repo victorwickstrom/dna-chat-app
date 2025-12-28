@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "AGPAT1",
+  "id": "GWAS_7383",
+  "last_updated": "2025-12-24T00:12:31.711668",
+  "odds_ratio": 0.9,
+  "phenotype": "(proportions)",
+  "pvalue": 8e-10,
+  "references": [],
+  "rsid": "rs1061808",
+  "source": "GWAS",
+  "source_url": null
+}

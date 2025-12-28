@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "MRPL14",
+  "id": "GWAS_4773",
+  "last_updated": "2025-12-24T00:26:49.630650",
+  "odds_ratio": null,
+  "phenotype": "GWAS association for rs4513773",
+  "pvalue": 0.0,
+  "references": [],
+  "rsid": "rs4513773",
+  "source": "GWAS",
+  "source_url": null
+}

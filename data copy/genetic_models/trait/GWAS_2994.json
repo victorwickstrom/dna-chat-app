@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "FUT2",
+  "id": "GWAS_2994",
+  "last_updated": "2025-12-24T00:26:49.613556",
+  "odds_ratio": 49.77,
+  "phenotype": "(vitamin B12)",
+  "pvalue": 2.9999999999999997e-20,
+  "references": [],
+  "rsid": "rs602662",
+  "source": "GWAS",
+  "source_url": null
+}

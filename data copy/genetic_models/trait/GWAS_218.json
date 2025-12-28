@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "ABCG2",
+  "id": "GWAS_218",
+  "last_updated": "2025-12-24T00:26:49.584782",
+  "odds_ratio": 0.136,
+  "phenotype": "GWAS association for rs1481012",
+  "pvalue": 9e-08,
+  "references": [],
+  "rsid": "rs1481012",
+  "source": "GWAS",
+  "source_url": null
+}

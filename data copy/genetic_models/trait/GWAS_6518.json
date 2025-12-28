@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "CHL1",
+  "id": "GWAS_6518",
+  "last_updated": "2025-12-24T00:12:31.689931",
+  "odds_ratio": 1.19,
+  "phenotype": "(Recessive)",
+  "pvalue": 6e-06,
+  "references": [],
+  "rsid": "rs6764363",
+  "source": "GWAS",
+  "source_url": null
+}

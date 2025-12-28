@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "NOG",
+  "id": "GWAS_3066",
+  "last_updated": "2025-12-24T00:26:49.614162",
+  "odds_ratio": 1.5,
+  "phenotype": "GWAS association for rs17760296",
+  "pvalue": 7e-06,
+  "references": [],
+  "rsid": "rs17760296",
+  "source": "GWAS",
+  "source_url": null
+}

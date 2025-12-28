@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "EPDR1",
+  "id": "GWAS_4175",
+  "last_updated": "2025-12-24T00:26:49.625076",
+  "odds_ratio": 1.98,
+  "phenotype": "GWAS association for rs16879765",
+  "pvalue": 5.999999999999999e-39,
+  "references": [],
+  "rsid": "rs16879765",
+  "source": "GWAS",
+  "source_url": null
+}

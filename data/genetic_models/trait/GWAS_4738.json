@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "FAM84A",
+  "id": "GWAS_4738",
+  "last_updated": "2025-12-24T00:26:49.630315",
+  "odds_ratio": null,
+  "phenotype": "(men)",
+  "pvalue": 7e-06,
+  "references": [],
+  "rsid": "rs7602441",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "male_pattern_baldness",
+  "category": "trait",
+  "snps": [
+    {
+      "rsid": "rs6625163",
+      "riskAllele": "G",
+      "weight": 2.0
+    },
+    {
+      "rsid": "rs1385699",
+      "riskAllele": "A",
+      "weight": 1.6
+    },
+    {
+      "rsid": "rs10969274",
+      "riskAllele": "C",
+      "weight": 1.3
+    }
+  ],
+  "population": "ALL",
+  "interpretation": {
+    "low": "L\u00e5g genetisk risk f\u00f6r male pattern baldness.",
+    "medium": "M\u00e5ttlig risk f\u00f6r male pattern baldness.",
+    "high": "H\u00f6g genetisk risk f\u00f6r male pattern baldness; flera riskalleler p\u00e5tr\u00e4ffade."
+  },
+  "evidence": [
+    {
+      "source": "GWAS",
+      "pubmed": "19429997"
+    }
+  ],
+  "severity": "trait",
+  "confidence": "moderate"
+}

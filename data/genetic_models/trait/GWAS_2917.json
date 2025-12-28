@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "FTO",
+  "id": "GWAS_2917",
+  "last_updated": "2025-12-24T00:26:49.612829",
+  "odds_ratio": 0.13,
+  "phenotype": "(BMI)",
+  "pvalue": 9e-07,
+  "references": [],
+  "rsid": "rs9930506",
+  "source": "GWAS",
+  "source_url": null
+}

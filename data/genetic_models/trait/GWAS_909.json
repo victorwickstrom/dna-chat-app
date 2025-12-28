@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "RORA",
+  "id": "GWAS_909",
+  "last_updated": "2025-12-24T00:26:49.592836",
+  "odds_ratio": 0.15,
+  "phenotype": "GWAS association for rs12912233",
+  "pvalue": 6e-07,
+  "references": [],
+  "rsid": "rs12912233",
+  "source": "GWAS",
+  "source_url": null
+}

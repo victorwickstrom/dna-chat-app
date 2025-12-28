@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "PLTP",
+  "id": "GWAS_4631",
+  "last_updated": "2025-12-24T00:26:49.629374",
+  "odds_ratio": 0.22,
+  "phenotype": "(L-HDL-L/M-HDL-L)",
+  "pvalue": 2e-31,
+  "references": [],
+  "rsid": "rs6065904",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "CLDN14",
+  "id": "GWAS_3607",
+  "last_updated": "2025-12-24T00:26:49.619176",
+  "odds_ratio": 1.25,
+  "phenotype": "GWAS association for rs219780",
+  "pvalue": 4e-12,
+  "references": [],
+  "rsid": "rs219780",
+  "source": "GWAS",
+  "source_url": null
+}

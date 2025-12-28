@@ -1,0 +1,35 @@
+{
+  "id": "addisons_disease",
+  "category": "autoimmune",
+  "snps": [
+    {
+      "rsid": "rs179247",
+      "riskAllele": "A",
+      "weight": 2.2
+    },
+    {
+      "rsid": "rs6471",
+      "riskAllele": "T",
+      "weight": 1.7
+    },
+    {
+      "rsid": "rs9333184",
+      "riskAllele": "C",
+      "weight": 1.3
+    }
+  ],
+  "population": "ALL",
+  "interpretation": {
+    "low": "L\u00e5g genetisk risk f\u00f6r addisons disease.",
+    "medium": "M\u00e5ttlig risk f\u00f6r addisons disease.",
+    "high": "H\u00f6g genetisk risk f\u00f6r addisons disease; flera riskalleler p\u00e5tr\u00e4ffade."
+  },
+  "evidence": [
+    {
+      "source": "GWAS",
+      "pubmed": "19887512"
+    }
+  ],
+  "severity": "medical",
+  "confidence": "high"
+}

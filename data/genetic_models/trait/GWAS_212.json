@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "TNFRSF1B",
+  "id": "GWAS_212",
+  "last_updated": "2025-12-24T00:26:49.584727",
+  "odds_ratio": 0.011,
+  "phenotype": "(Combined sex)",
+  "pvalue": 9e-06,
+  "references": [],
+  "rsid": "rs5746061",
+  "source": "GWAS",
+  "source_url": null
+}

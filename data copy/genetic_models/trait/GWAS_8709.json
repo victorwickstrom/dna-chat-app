@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "ABO",
+  "id": "GWAS_8709",
+  "last_updated": "2025-12-24T00:12:31.744406",
+  "odds_ratio": null,
+  "phenotype": "(IL-6)",
+  "pvalue": 9e-25,
+  "references": [],
+  "rsid": "rs643434",
+  "source": "GWAS",
+  "source_url": null
+}

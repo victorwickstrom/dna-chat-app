@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "LRP1",
+  "id": "GWAS_3169",
+  "last_updated": "2025-12-24T00:26:49.615052",
+  "odds_ratio": 1.16,
+  "phenotype": "GWAS association for rs11172113",
+  "pvalue": 3.0000000000000004e-08,
+  "references": [],
+  "rsid": "rs11172113",
+  "source": "GWAS",
+  "source_url": null
+}

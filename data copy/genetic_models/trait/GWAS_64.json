@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "COL8A1",
+  "id": "GWAS_64",
+  "last_updated": "2025-12-24T00:26:49.583467",
+  "odds_ratio": 1.24,
+  "phenotype": "GWAS association for rs13095226",
+  "pvalue": 3e-06,
+  "references": [],
+  "rsid": "rs13095226",
+  "source": "GWAS",
+  "source_url": null
+}

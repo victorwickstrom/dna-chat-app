@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "OR4A15",
+  "id": "GWAS_3925",
+  "last_updated": "2025-12-24T00:26:49.622766",
+  "odds_ratio": 1.92,
+  "phenotype": "(anti-dsDNA -)",
+  "pvalue": 7e-06,
+  "references": [],
+  "rsid": "rs7927370",
+  "source": "GWAS",
+  "source_url": null
+}

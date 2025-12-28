@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "CHD4",
+  "id": "GWAS_2191",
+  "last_updated": "2025-12-24T00:26:49.605509",
+  "odds_ratio": null,
+  "phenotype": "GWAS association for rs1057510",
+  "pvalue": 6e-06,
+  "references": [],
+  "rsid": "rs1057510",
+  "source": "GWAS",
+  "source_url": null
+}

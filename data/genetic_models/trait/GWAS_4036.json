@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": null,
+  "id": "GWAS_4036",
+  "last_updated": "2025-12-24T00:26:49.623793",
+  "odds_ratio": 12.0,
+  "phenotype": "(HOMA-IR)",
+  "pvalue": 3e-06,
+  "references": [],
+  "rsid": "rs7043482",
+  "source": "GWAS",
+  "source_url": null
+}

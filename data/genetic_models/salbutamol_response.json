@@ -1,0 +1,35 @@
+{
+  "id": "salbutamol_response",
+  "category": "pharmacogenomic",
+  "snps": [
+    {
+      "rsid": "rs1042713",
+      "riskAllele": "A",
+      "weight": -1.2
+    },
+    {
+      "rsid": "rs10795550",
+      "riskAllele": "G",
+      "weight": -1.0
+    },
+    {
+      "rsid": "rs1042714",
+      "riskAllele": "G",
+      "weight": -0.9
+    }
+  ],
+  "population": "ALL",
+  "interpretation": {
+    "low": "L\u00e5g genetisk risk f\u00f6r salbutamol response.",
+    "medium": "M\u00e5ttlig risk f\u00f6r salbutamol response.",
+    "high": "H\u00f6g genetisk risk f\u00f6r salbutamol response; flera riskalleler p\u00e5tr\u00e4ffade."
+  },
+  "evidence": [
+    {
+      "source": "CPIC",
+      "pubmed": "25501432"
+    }
+  ],
+  "severity": "pharma",
+  "confidence": "moderate"
+}

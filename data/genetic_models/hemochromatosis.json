@@ -1,0 +1,35 @@
+{
+  "id": "hemochromatosis",
+  "category": "metabolic",
+  "snps": [
+    {
+      "rsid": "rs1800562",
+      "riskAllele": "G",
+      "weight": 3.0
+    },
+    {
+      "rsid": "rs1799945",
+      "riskAllele": "C",
+      "weight": 2.0
+    },
+    {
+      "rsid": "rs3975221",
+      "riskAllele": "A",
+      "weight": 1.3
+    }
+  ],
+  "population": "EUR",
+  "interpretation": {
+    "low": "L\u00e5g genetisk risk f\u00f6r hemochromatosis.",
+    "medium": "M\u00e5ttlig risk f\u00f6r hemochromatosis.",
+    "high": "H\u00f6g genetisk risk f\u00f6r hemochromatosis; flera riskalleler p\u00e5tr\u00e4ffade."
+  },
+  "evidence": [
+    {
+      "source": "ClinVar",
+      "pubmed": "25446688"
+    }
+  ],
+  "severity": "medical",
+  "confidence": "high"
+}

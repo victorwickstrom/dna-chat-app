@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "SLC30A4",
+  "id": "GWAS_5336",
+  "last_updated": "2025-12-24T00:12:31.661133",
+  "odds_ratio": 0.04,
+  "phenotype": "(Response)",
+  "pvalue": 4.9999999999999996e-06,
+  "references": [],
+  "rsid": "rs950027",
+  "source": "GWAS",
+  "source_url": null
+}

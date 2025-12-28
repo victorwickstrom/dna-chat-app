@@ -1,0 +1,35 @@
+{
+  "id": "hepatitis_c_treatment_response",
+  "category": "trait",
+  "snps": [
+    {
+      "rsid": "rs12979860",
+      "riskAllele": "C",
+      "weight": 2.0
+    },
+    {
+      "rsid": "rs368234815",
+      "riskAllele": "T",
+      "weight": 1.8
+    },
+    {
+      "rsid": "rs8099917",
+      "riskAllele": "G",
+      "weight": 1.3
+    }
+  ],
+  "population": "ALL",
+  "interpretation": {
+    "low": "L\u00e5g genetisk risk f\u00f6r hepatitis c treatment response.",
+    "medium": "M\u00e5ttlig risk f\u00f6r hepatitis c treatment response.",
+    "high": "H\u00f6g genetisk risk f\u00f6r hepatitis c treatment response; flera riskalleler p\u00e5tr\u00e4ffade."
+  },
+  "evidence": [
+    {
+      "source": "GWAS",
+      "pubmed": "20038591"
+    }
+  ],
+  "severity": "trait",
+  "confidence": "moderate"
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": null,
+  "id": "GWAS_8328",
+  "last_updated": "2025-12-24T00:12:31.735292",
+  "odds_ratio": 9.78,
+  "phenotype": "(CTJC , EA, RF-)",
+  "pvalue": 2e-07,
+  "references": [],
+  "rsid": "rs800586",
+  "source": "GWAS",
+  "source_url": null
+}

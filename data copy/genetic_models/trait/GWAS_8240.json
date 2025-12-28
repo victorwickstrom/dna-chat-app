@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "IRF8",
+  "id": "GWAS_8240",
+  "last_updated": "2025-12-24T00:12:31.733099",
+  "odds_ratio": 1.33,
+  "phenotype": "(IcSSc)",
+  "pvalue": 2e-12,
+  "references": [],
+  "rsid": "rs11642873",
+  "source": "GWAS",
+  "source_url": null
+}

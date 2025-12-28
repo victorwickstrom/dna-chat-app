@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "BRWD1",
+  "id": "GWAS_8820",
+  "last_updated": "2025-12-24T00:12:31.747154",
+  "odds_ratio": 1.69,
+  "phenotype": "(Hyperthymic)",
+  "pvalue": 4e-06,
+  "references": [],
+  "rsid": "rs2150410",
+  "source": "GWAS",
+  "source_url": null
+}

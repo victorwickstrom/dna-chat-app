@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "ELMO1",
+  "id": "GWAS_2885",
+  "last_updated": "2025-12-24T00:26:49.612569",
+  "odds_ratio": 3.01,
+  "phenotype": "GWAS association for rs4723619",
+  "pvalue": 3e-06,
+  "references": [],
+  "rsid": "rs4723619",
+  "source": "GWAS",
+  "source_url": null
+}

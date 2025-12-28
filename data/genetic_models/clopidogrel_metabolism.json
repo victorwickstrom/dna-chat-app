@@ -1,0 +1,35 @@
+{
+  "id": "clopidogrel_metabolism",
+  "category": "pharmacogenomic",
+  "snps": [
+    {
+      "rsid": "rs4244285",
+      "riskAllele": "A",
+      "weight": -1.2
+    },
+    {
+      "rsid": "rs4986893",
+      "riskAllele": "A",
+      "weight": -1.1
+    },
+    {
+      "rsid": "rs12248560",
+      "riskAllele": "G",
+      "weight": 0.8
+    }
+  ],
+  "population": "ALL",
+  "interpretation": {
+    "low": "L\u00e5g genetisk risk f\u00f6r clopidogrel metabolism.",
+    "medium": "M\u00e5ttlig risk f\u00f6r clopidogrel metabolism.",
+    "high": "H\u00f6g genetisk risk f\u00f6r clopidogrel metabolism; flera riskalleler p\u00e5tr\u00e4ffade."
+  },
+  "evidence": [
+    {
+      "source": "CPIC",
+      "pubmed": "25501432"
+    }
+  ],
+  "severity": "pharma",
+  "confidence": "high"
+}

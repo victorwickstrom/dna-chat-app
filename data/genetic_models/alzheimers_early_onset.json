@@ -1,0 +1,35 @@
+{
+  "id": "alzheimers_early_onset",
+  "category": "neurological",
+  "snps": [
+    {
+      "rsid": "rs63750082",
+      "riskAllele": "A",
+      "weight": 4.0
+    },
+    {
+      "rsid": "rs63751273",
+      "riskAllele": "C",
+      "weight": 4.5
+    },
+    {
+      "rsid": "rs63751199",
+      "riskAllele": "G",
+      "weight": 3.5
+    }
+  ],
+  "population": "ALL",
+  "interpretation": {
+    "low": "L\u00e5g genetisk risk f\u00f6r alzheimers early onset.",
+    "medium": "M\u00e5ttlig risk f\u00f6r alzheimers early onset.",
+    "high": "H\u00f6g genetisk risk f\u00f6r alzheimers early onset; flera riskalleler p\u00e5tr\u00e4ffade."
+  },
+  "evidence": [
+    {
+      "source": "ClinVar",
+      "pubmed": "23980173"
+    }
+  ],
+  "severity": "medical",
+  "confidence": "high"
+}

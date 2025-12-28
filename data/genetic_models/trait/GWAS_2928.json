@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "IGDCC4",
+  "id": "GWAS_2928",
+  "last_updated": "2025-12-24T00:26:49.612957",
+  "odds_ratio": 0.078,
+  "phenotype": "GWAS association for rs6494537",
+  "pvalue": 3.0000000000000004e-09,
+  "references": [],
+  "rsid": "rs6494537",
+  "source": "GWAS",
+  "source_url": null
+}

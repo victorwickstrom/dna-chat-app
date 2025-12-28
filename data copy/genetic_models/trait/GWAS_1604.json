@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "KCNK13",
+  "id": "GWAS_1604",
+  "last_updated": "2025-12-24T00:26:49.599445",
+  "odds_ratio": 1.64,
+  "phenotype": "(AA)",
+  "pvalue": 7e-06,
+  "references": [],
+  "rsid": "rs8017423",
+  "source": "GWAS",
+  "source_url": null
+}

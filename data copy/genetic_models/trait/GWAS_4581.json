@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "GALC",
+  "id": "GWAS_4581",
+  "last_updated": "2025-12-24T00:26:49.628889",
+  "odds_ratio": 1.153,
+  "phenotype": "GWAS association for rs8005161",
+  "pvalue": 2e-14,
+  "references": [],
+  "rsid": "rs8005161",
+  "source": "GWAS",
+  "source_url": null
+}

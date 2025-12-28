@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "TBX3",
+  "id": "GWAS_6513",
+  "last_updated": "2025-12-24T00:12:31.689826",
+  "odds_ratio": 0.63,
+  "phenotype": "(Systolic)",
+  "pvalue": 8e-07,
+  "references": [],
+  "rsid": "rs35444",
+  "source": "GWAS",
+  "source_url": null
+}

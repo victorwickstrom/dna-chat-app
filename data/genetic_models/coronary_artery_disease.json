@@ -1,0 +1,35 @@
+{
+  "id": "coronary_artery_disease",
+  "category": "cardiovascular",
+  "snps": [
+    {
+      "rsid": "rs1333049",
+      "riskAllele": "C",
+      "weight": 1.3
+    },
+    {
+      "rsid": "rs3798220",
+      "riskAllele": "G",
+      "weight": 1.5
+    },
+    {
+      "rsid": "rs11591147",
+      "riskAllele": "T",
+      "weight": 1.6
+    }
+  ],
+  "population": "EUR",
+  "interpretation": {
+    "low": "L\u00e5g genetisk risk f\u00f6r coronary artery disease.",
+    "medium": "M\u00e5ttlig risk f\u00f6r coronary artery disease.",
+    "high": "H\u00f6g genetisk risk f\u00f6r coronary artery disease; flera riskalleler p\u00e5tr\u00e4ffade."
+  },
+  "evidence": [
+    {
+      "source": "GWAS",
+      "pubmed": "17386146"
+    }
+  ],
+  "severity": "medical",
+  "confidence": "high"
+}

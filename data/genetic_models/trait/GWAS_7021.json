@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "EIF4BP8",
+  "id": "GWAS_7021",
+  "last_updated": "2025-12-24T00:12:31.703613",
+  "odds_ratio": 1.07,
+  "phenotype": "(AA)",
+  "pvalue": 6e-06,
+  "references": [],
+  "rsid": "rs790123",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "SLC17A1",
+  "id": "GWAS_666",
+  "last_updated": "2025-12-24T00:26:49.590239",
+  "odds_ratio": 0.088,
+  "phenotype": "(women)",
+  "pvalue": 1e-07,
+  "references": [],
+  "rsid": "rs1165152",
+  "source": "GWAS",
+  "source_url": null
+}

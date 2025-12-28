@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "gene",
+  "drug": null,
+  "effect": "Chromosome: chr22",
+  "evidence_level": "unknown",
+  "gene": "CYB5R3",
+  "id": "CPIC_gene_CYB5R3_8",
+  "last_updated": "2025-12-24T00:26:50.459011",
+  "odds_ratio": null,
+  "phenotype": null,
+  "pvalue": null,
+  "references": [],
+  "rsid": null,
+  "source": "CPIC",
+  "source_url": null
+}

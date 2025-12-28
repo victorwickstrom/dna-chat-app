@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "KCNE1",
+  "id": "GWAS_2313",
+  "last_updated": "2025-12-24T00:26:49.606737",
+  "odds_ratio": 11.7,
+  "phenotype": "(QT interval)",
+  "pvalue": 2e-12,
+  "references": [],
+  "rsid": "rs727957",
+  "source": "GWAS",
+  "source_url": null
+}

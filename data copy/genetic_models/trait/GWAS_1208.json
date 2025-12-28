@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "TNFRSF11A",
+  "id": "GWAS_1208",
+  "last_updated": "2025-12-24T00:26:49.595756",
+  "odds_ratio": 0.08,
+  "phenotype": "GWAS association for rs884205",
+  "pvalue": 9.000000000000001e-09,
+  "references": [],
+  "rsid": "rs884205",
+  "source": "GWAS",
+  "source_url": null
+}

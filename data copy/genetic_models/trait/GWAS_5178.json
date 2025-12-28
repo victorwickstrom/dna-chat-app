@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": null,
+  "id": "GWAS_5178",
+  "last_updated": "2025-12-24T00:12:31.657251",
+  "odds_ratio": null,
+  "phenotype": "(hair color)",
+  "pvalue": 3e-07,
+  "references": [],
+  "rsid": "rs3750965",
+  "source": "GWAS",
+  "source_url": null
+}

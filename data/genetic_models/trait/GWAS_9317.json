@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "NT5C2",
+  "id": "GWAS_9317",
+  "last_updated": "2025-12-24T00:12:31.758213",
+  "odds_ratio": 0.66,
+  "phenotype": "(Mean Arterial Pressure)",
+  "pvalue": 1e-15,
+  "references": [],
+  "rsid": "rs11191593",
+  "source": "GWAS",
+  "source_url": null
+}

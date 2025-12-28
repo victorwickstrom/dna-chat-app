@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "ETFDH",
+  "id": "GWAS_4857",
+  "last_updated": "2025-12-24T00:26:49.631417",
+  "odds_ratio": 0.098,
+  "phenotype": "(decanoylcarnitine + 25 other traits)",
+  "pvalue": 6.0000000000000005e-15,
+  "references": [],
+  "rsid": "rs8396",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "MEG3",
+  "id": "GWAS_4554",
+  "last_updated": "2025-12-24T00:26:49.628629",
+  "odds_ratio": 0.134,
+  "phenotype": "GWAS association for rs1884537",
+  "pvalue": 2e-06,
+  "references": [],
+  "rsid": "rs1884537",
+  "source": "GWAS",
+  "source_url": null
+}

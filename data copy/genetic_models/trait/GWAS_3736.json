@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "XPNPEP1",
+  "id": "GWAS_3736",
+  "last_updated": "2025-12-24T00:26:49.620417",
+  "odds_ratio": 1.77,
+  "phenotype": "GWAS association for rs17095355",
+  "pvalue": 7.000000000000001e-09,
+  "references": [],
+  "rsid": "rs17095355",
+  "source": "GWAS",
+  "source_url": null
+}

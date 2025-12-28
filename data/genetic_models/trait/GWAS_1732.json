@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "FSHB",
+  "id": "GWAS_1732",
+  "last_updated": "2025-12-24T00:26:49.600594",
+  "odds_ratio": 0.16,
+  "phenotype": "GWAS association for rs564036233",
+  "pvalue": 1e-16,
+  "references": [],
+  "rsid": "rs564036233",
+  "source": "GWAS",
+  "source_url": null
+}

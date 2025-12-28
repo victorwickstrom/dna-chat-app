@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "CAMTA1",
+  "id": "GWAS_5130",
+  "last_updated": "2025-12-24T00:12:31.656304",
+  "odds_ratio": 1.85,
+  "phenotype": "(Orange)",
+  "pvalue": 4.9999999999999996e-06,
+  "references": [],
+  "rsid": "rs1616122",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "POLE",
+  "id": "GWAS_662",
+  "last_updated": "2025-12-24T00:26:49.590198",
+  "odds_ratio": 0.087,
+  "phenotype": "GWAS association for rs5744897",
+  "pvalue": 4e-06,
+  "references": [],
+  "rsid": "rs5744897",
+  "source": "GWAS",
+  "source_url": null
+}

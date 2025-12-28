@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "IVD",
+  "id": "GWAS_4859",
+  "last_updated": "2025-12-24T00:26:49.631435",
+  "odds_ratio": 0.092,
+  "phenotype": "(SM-17 + 8 other traits)",
+  "pvalue": 1e-13,
+  "references": [],
+  "rsid": "rs10518693",
+  "source": "GWAS",
+  "source_url": null
+}

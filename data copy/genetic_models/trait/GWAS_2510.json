@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "RYR2",
+  "id": "GWAS_2510",
+  "last_updated": "2025-12-24T00:26:49.608570",
+  "odds_ratio": null,
+  "phenotype": "(S2EHR)",
+  "pvalue": 4e-06,
+  "references": [],
+  "rsid": "rs2819770",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "MMP",
+  "id": "GWAS_2977",
+  "last_updated": "2025-12-24T00:26:49.613404",
+  "odds_ratio": 0.44,
+  "phenotype": "GWAS association for rs11226373",
+  "pvalue": 2e-18,
+  "references": [],
+  "rsid": "rs11226373",
+  "source": "GWAS",
+  "source_url": null
+}

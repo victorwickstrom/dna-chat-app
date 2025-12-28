@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "CCDC160",
+  "id": "GWAS_2590",
+  "last_updated": "2025-12-24T00:26:49.609314",
+  "odds_ratio": 0.7501,
+  "phenotype": "GWAS association for rs12850804",
+  "pvalue": 2e-06,
+  "references": [],
+  "rsid": "rs12850804",
+  "source": "GWAS",
+  "source_url": null
+}

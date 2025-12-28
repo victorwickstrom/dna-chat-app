@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "MDF1",
+  "id": "GWAS_6531",
+  "last_updated": "2025-12-24T00:12:31.690181",
+  "odds_ratio": 3.05,
+  "phenotype": "(migraineurs with aura - major CVD)",
+  "pvalue": 4e-07,
+  "references": [],
+  "rsid": "rs2143678",
+  "source": "GWAS",
+  "source_url": null
+}

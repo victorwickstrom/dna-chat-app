@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "IL13",
+  "id": "GWAS_1247",
+  "last_updated": "2025-12-24T00:26:49.596131",
+  "odds_ratio": 1.15,
+  "phenotype": "GWAS association for rs1295686",
+  "pvalue": 1e-07,
+  "references": [],
+  "rsid": "rs1295686",
+  "source": "GWAS",
+  "source_url": null
+}

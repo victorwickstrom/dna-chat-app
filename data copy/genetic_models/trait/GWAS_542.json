@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "RCC2",
+  "id": "GWAS_542",
+  "last_updated": "2025-12-24T00:26:49.589047",
+  "odds_ratio": 1.28,
+  "phenotype": "GWAS association for rs7538876",
+  "pvalue": 4e-12,
+  "references": [],
+  "rsid": "rs7538876",
+  "source": "GWAS",
+  "source_url": null
+}

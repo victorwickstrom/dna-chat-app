@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "RBM43",
+  "id": "GWAS_4132",
+  "last_updated": "2025-12-24T00:26:49.624703",
+  "odds_ratio": 1.33,
+  "phenotype": "GWAS association for rs7560163",
+  "pvalue": 7.000000000000001e-09,
+  "references": [],
+  "rsid": "rs7560163",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "SLC30A1",
+  "id": "GWAS_4260",
+  "last_updated": "2025-12-24T00:26:49.625850",
+  "odds_ratio": 1.1627907,
+  "phenotype": "GWAS association for rs7526425",
+  "pvalue": 1e-06,
+  "references": [],
+  "rsid": "rs7526425",
+  "source": "GWAS",
+  "source_url": null
+}

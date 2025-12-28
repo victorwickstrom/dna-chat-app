@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "EPS8",
+  "id": "GWAS_1149",
+  "last_updated": "2025-12-24T00:26:49.595103",
+  "odds_ratio": null,
+  "phenotype": "(Ferritin)",
+  "pvalue": 7e-07,
+  "references": [],
+  "rsid": "rs17415853",
+  "source": "GWAS",
+  "source_url": null
+}

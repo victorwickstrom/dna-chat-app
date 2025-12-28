@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "ALG14",
+  "id": "GWAS_7047",
+  "last_updated": "2025-12-24T00:12:31.703992",
+  "odds_ratio": 0.7,
+  "phenotype": "(proportions)",
+  "pvalue": 5e-08,
+  "references": [],
+  "rsid": "rs9437689",
+  "source": "GWAS",
+  "source_url": null
+}

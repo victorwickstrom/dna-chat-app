@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "RSPO3",
+  "id": "GWAS_2306",
+  "last_updated": "2025-12-24T00:26:49.606673",
+  "odds_ratio": null,
+  "phenotype": "(serum ferritin)",
+  "pvalue": 2e-06,
+  "references": [],
+  "rsid": "rs972275",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "ILKAP",
+  "id": "GWAS_5882",
+  "last_updated": "2025-12-24T00:12:31.674200",
+  "odds_ratio": 0.8,
+  "phenotype": "(levels)",
+  "pvalue": 2e-08,
+  "references": [],
+  "rsid": "rs12472274",
+  "source": "GWAS",
+  "source_url": null
+}

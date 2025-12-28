@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "NPR3",
+  "id": "GWAS_107",
+  "last_updated": "2025-12-24T00:26:49.583886",
+  "odds_ratio": null,
+  "phenotype": "(Conditioned on rs1173727)",
+  "pvalue": 7.000000000000001e-10,
+  "references": [],
+  "rsid": "rs3792752",
+  "source": "GWAS",
+  "source_url": null
+}

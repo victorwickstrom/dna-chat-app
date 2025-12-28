@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "CELSR2",
+  "id": "GWAS_8198",
+  "last_updated": "2025-12-24T00:12:31.732220",
+  "odds_ratio": 5.48,
+  "phenotype": null,
+  "pvalue": 6e-33,
+  "references": [],
+  "rsid": "rs599839",
+  "source": "GWAS",
+  "source_url": null
+}

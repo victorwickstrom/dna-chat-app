@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "BAK1",
+  "id": "GWAS_1892",
+  "last_updated": "2025-12-24T00:26:49.601999",
+  "odds_ratio": 0.09,
+  "phenotype": "GWAS association for rs5745568",
+  "pvalue": 6.999999999999999e-11,
+  "references": [],
+  "rsid": "rs5745568",
+  "source": "GWAS",
+  "source_url": null
+}

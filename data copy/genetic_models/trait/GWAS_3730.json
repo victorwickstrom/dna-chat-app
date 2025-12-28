@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "F11",
+  "id": "GWAS_3730",
+  "last_updated": "2025-12-24T00:26:49.620364",
+  "odds_ratio": null,
+  "phenotype": "(LDL, sum)",
+  "pvalue": 3e-06,
+  "references": [],
+  "rsid": "rs13148903",
+  "source": "GWAS",
+  "source_url": null
+}

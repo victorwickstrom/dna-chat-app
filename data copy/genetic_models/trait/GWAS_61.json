@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "LRRC16A",
+  "id": "GWAS_61",
+  "last_updated": "2025-12-24T00:26:49.583444",
+  "odds_ratio": null,
+  "phenotype": "(serum iron)",
+  "pvalue": 4.9999999999999996e-06,
+  "references": [],
+  "rsid": "rs2274089",
+  "source": "GWAS",
+  "source_url": null
+}

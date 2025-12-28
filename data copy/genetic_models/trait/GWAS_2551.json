@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "ABO",
+  "id": "GWAS_2551",
+  "last_updated": "2025-12-24T00:26:49.608954",
+  "odds_ratio": 17.23,
+  "phenotype": "GWAS association for rs651007",
+  "pvalue": 2e-82,
+  "references": [],
+  "rsid": "rs651007",
+  "source": "GWAS",
+  "source_url": null
+}

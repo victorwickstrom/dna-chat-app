@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "PTPRD",
+  "id": "GWAS_8122",
+  "last_updated": "2025-12-24T00:12:31.730546",
+  "odds_ratio": 0.2,
+  "phenotype": "(Persistence)",
+  "pvalue": 4.9999999999999996e-06,
+  "references": [],
+  "rsid": "rs291272",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "BCHE",
+  "id": "GWAS_6695",
+  "last_updated": "2025-12-24T00:12:31.695211",
+  "odds_ratio": 0.365,
+  "phenotype": "(BCHE)",
+  "pvalue": 5.9999999999999996e-92,
+  "references": [],
+  "rsid": "rs1803274",
+  "source": "GWAS",
+  "source_url": null
+}

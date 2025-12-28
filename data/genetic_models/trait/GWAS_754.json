@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "HMGCR",
+  "id": "GWAS_754",
+  "last_updated": "2025-12-24T00:26:49.591434",
+  "odds_ratio": 0.07,
+  "phenotype": "GWAS association for rs3846663",
+  "pvalue": 8e-12,
+  "references": [],
+  "rsid": "rs3846663",
+  "source": "GWAS",
+  "source_url": null
+}

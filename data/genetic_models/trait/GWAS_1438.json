@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "RANKL",
+  "id": "GWAS_1438",
+  "last_updated": "2025-12-24T00:26:49.598001",
+  "odds_ratio": 0.1,
+  "phenotype": "GWAS association for rs9594738",
+  "pvalue": 2e-08,
+  "references": [],
+  "rsid": "rs9594738",
+  "source": "GWAS",
+  "source_url": null
+}

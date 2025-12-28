@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "HMGA2",
+  "id": "GWAS_7353",
+  "last_updated": "2025-12-24T00:12:31.711149",
+  "odds_ratio": 9006.71,
+  "phenotype": "(Intracranial volume)",
+  "pvalue": 1e-12,
+  "references": [],
+  "rsid": "rs10784502",
+  "source": "GWAS",
+  "source_url": null
+}

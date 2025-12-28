@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "GJB5",
+  "id": "GWAS_8804",
+  "last_updated": "2025-12-24T00:12:31.746874",
+  "odds_ratio": null,
+  "phenotype": "(overall)",
+  "pvalue": 6e-06,
+  "references": [],
+  "rsid": "rs10914967",
+  "source": "GWAS",
+  "source_url": null
+}

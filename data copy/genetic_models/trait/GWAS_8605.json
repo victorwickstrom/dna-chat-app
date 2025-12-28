@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "ITGA4",
+  "id": "GWAS_8605",
+  "last_updated": "2025-12-24T00:12:31.741518",
+  "odds_ratio": 0.109,
+  "phenotype": "(monocyte count)",
+  "pvalue": 2e-14,
+  "references": [],
+  "rsid": "rs12988934",
+  "source": "GWAS",
+  "source_url": null
+}

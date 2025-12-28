@@ -1,0 +1,35 @@
+{
+  "id": "bitter_taste",
+  "category": "trait",
+  "snps": [
+    {
+      "rsid": "rs713598",
+      "riskAllele": "C",
+      "weight": 2.0
+    },
+    {
+      "rsid": "rs10246939",
+      "riskAllele": "G",
+      "weight": 1.8
+    },
+    {
+      "rsid": "rs1726866",
+      "riskAllele": "A",
+      "weight": 1.5
+    }
+  ],
+  "population": "ALL",
+  "interpretation": {
+    "low": "L\u00e5g genetisk risk f\u00f6r bitter taste.",
+    "medium": "M\u00e5ttlig risk f\u00f6r bitter taste.",
+    "high": "H\u00f6g genetisk risk f\u00f6r bitter taste; flera riskalleler p\u00e5tr\u00e4ffade."
+  },
+  "evidence": [
+    {
+      "source": "GWAS",
+      "pubmed": "18776997"
+    }
+  ],
+  "severity": "trait",
+  "confidence": "moderate"
+}

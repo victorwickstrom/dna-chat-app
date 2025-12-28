@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "DGKB",
+  "id": "GWAS_2826",
+  "last_updated": "2025-12-24T00:26:49.612039",
+  "odds_ratio": 13.91,
+  "phenotype": "GWAS association for rs6971925",
+  "pvalue": 3e-06,
+  "references": [],
+  "rsid": "rs6971925",
+  "source": "GWAS",
+  "source_url": null
+}

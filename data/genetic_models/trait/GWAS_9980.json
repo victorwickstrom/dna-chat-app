@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "CBLN2",
+  "id": "GWAS_9980",
+  "last_updated": "2025-12-24T00:12:31.773019",
+  "odds_ratio": null,
+  "phenotype": "(Relative change in DAS28)",
+  "pvalue": 4e-06,
+  "references": [],
+  "rsid": "rs1539909",
+  "source": "GWAS",
+  "source_url": null
+}

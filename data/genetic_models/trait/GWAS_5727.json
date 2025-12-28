@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "MEF2C",
+  "id": "GWAS_5727",
+  "last_updated": "2025-12-24T00:12:31.670631",
+  "odds_ratio": 0.14,
+  "phenotype": "(femoral neck)",
+  "pvalue": 8e-10,
+  "references": [],
+  "rsid": "rs1366594",
+  "source": "GWAS",
+  "source_url": null
+}

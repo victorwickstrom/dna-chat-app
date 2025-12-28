@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "LPL",
+  "id": "GWAS_3362",
+  "last_updated": "2025-12-24T00:26:49.616809",
+  "odds_ratio": 0.17,
+  "phenotype": "GWAS association for rs328",
+  "pvalue": 9e-23,
+  "references": [],
+  "rsid": "rs328",
+  "source": "GWAS",
+  "source_url": null
+}

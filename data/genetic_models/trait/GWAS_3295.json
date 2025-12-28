@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "BCO2",
+  "id": "GWAS_3295",
+  "last_updated": "2025-12-24T00:26:49.616216",
+  "odds_ratio": null,
+  "phenotype": "GWAS association for rs2115763",
+  "pvalue": 4e-09,
+  "references": [],
+  "rsid": "rs2115763",
+  "source": "GWAS",
+  "source_url": null
+}

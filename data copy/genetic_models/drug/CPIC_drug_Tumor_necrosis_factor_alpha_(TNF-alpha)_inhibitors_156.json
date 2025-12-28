@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "drug",
+  "drug": "Tumor necrosis factor alpha (TNF-alpha) inhibitors",
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": null,
+  "id": "CPIC_drug_Tumor_necrosis_factor_alpha_(TNF-alpha)_inhibitors_156",
+  "last_updated": "2025-12-24T00:26:50.460067",
+  "odds_ratio": null,
+  "phenotype": null,
+  "pvalue": null,
+  "references": [],
+  "rsid": null,
+  "source": "CPIC",
+  "source_url": null
+}

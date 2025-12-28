@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "DYNC2H1",
+  "id": "GWAS_6616",
+  "last_updated": "2025-12-24T00:12:31.693100",
+  "odds_ratio": 1.83,
+  "phenotype": "(AG genotype)",
+  "pvalue": 9e-08,
+  "references": [],
+  "rsid": "rs716274",
+  "source": "GWAS",
+  "source_url": null
+}

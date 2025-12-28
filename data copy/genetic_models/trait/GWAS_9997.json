@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "EFCAB4A",
+  "id": "GWAS_9997",
+  "last_updated": "2025-12-24T00:12:31.773454",
+  "odds_ratio": 0.03,
+  "phenotype": "(Head circumference )",
+  "pvalue": 3e-06,
+  "references": [],
+  "rsid": "rs35694355",
+  "source": "GWAS",
+  "source_url": null
+}

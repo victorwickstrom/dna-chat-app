@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "INTERGENIC",
+  "id": "GWAS_4864",
+  "last_updated": "2025-12-24T00:26:49.631481",
+  "odds_ratio": 0.0859,
+  "phenotype": "GWAS association for rs2110281",
+  "pvalue": 3.0000000000000004e-09,
+  "references": [],
+  "rsid": "rs2110281",
+  "source": "GWAS",
+  "source_url": null
+}

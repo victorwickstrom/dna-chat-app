@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "CYP4A",
+  "id": "GWAS_4815",
+  "last_updated": "2025-12-24T00:26:49.631028",
+  "odds_ratio": 0.159,
+  "phenotype": "(SM-9 + 17 other traits)",
+  "pvalue": 5e-32,
+  "references": [],
+  "rsid": "rs9332998",
+  "source": "GWAS",
+  "source_url": null
+}

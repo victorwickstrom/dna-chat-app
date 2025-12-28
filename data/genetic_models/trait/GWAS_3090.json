@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "RSPO1",
+  "id": "GWAS_3090",
+  "last_updated": "2025-12-24T00:26:49.614370",
+  "odds_ratio": 1.11,
+  "phenotype": "(Serous)",
+  "pvalue": 1e-11,
+  "references": [],
+  "rsid": "rs12039431",
+  "source": "GWAS",
+  "source_url": null
+}

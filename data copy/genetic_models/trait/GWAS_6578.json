@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "MCTP2",
+  "id": "GWAS_6578",
+  "last_updated": "2025-12-24T00:12:31.691730",
+  "odds_ratio": 1.36,
+  "phenotype": "(Recessive)",
+  "pvalue": 3e-06,
+  "references": [],
+  "rsid": "rs1014922",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "HSD17B6",
+  "id": "GWAS_616",
+  "last_updated": "2025-12-24T00:26:49.589751",
+  "odds_ratio": null,
+  "phenotype": "(collagen)",
+  "pvalue": 1e-06,
+  "references": [],
+  "rsid": "rs12367822",
+  "source": "GWAS",
+  "source_url": null
+}

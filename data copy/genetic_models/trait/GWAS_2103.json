@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "PDZK1",
+  "id": "GWAS_2103",
+  "last_updated": "2025-12-24T00:26:49.604732",
+  "odds_ratio": 3.33,
+  "phenotype": "(Urate)",
+  "pvalue": 4e-08,
+  "references": [],
+  "rsid": "rs1967017",
+  "source": "GWAS",
+  "source_url": null
+}

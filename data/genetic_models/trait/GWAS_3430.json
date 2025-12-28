@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "TOMM40",
+  "id": "GWAS_3430",
+  "last_updated": "2025-12-24T00:26:49.617451",
+  "odds_ratio": null,
+  "phenotype": "(p-tau181p/AB1-42, t-tau/AB1-42)",
+  "pvalue": 1e-06,
+  "references": [],
+  "rsid": "rs2075650",
+  "source": "GWAS",
+  "source_url": null
+}

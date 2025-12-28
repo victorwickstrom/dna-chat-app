@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "PRMT7",
+  "id": "GWAS_992",
+  "last_updated": "2025-12-24T00:26:49.593555",
+  "odds_ratio": 0.01,
+  "phenotype": "GWAS association for rs7197653",
+  "pvalue": 2e-06,
+  "references": [],
+  "rsid": "rs7197653",
+  "source": "GWAS",
+  "source_url": null
+}

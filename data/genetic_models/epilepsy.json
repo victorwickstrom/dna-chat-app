@@ -1,0 +1,35 @@
+{
+  "id": "epilepsy",
+  "category": "neurological",
+  "snps": [
+    {
+      "rsid": "rs7587026",
+      "riskAllele": "T",
+      "weight": 1.6
+    },
+    {
+      "rsid": "rs1969060",
+      "riskAllele": "A",
+      "weight": 1.4
+    },
+    {
+      "rsid": "rs2719684",
+      "riskAllele": "G",
+      "weight": 1.3
+    }
+  ],
+  "population": "ALL",
+  "interpretation": {
+    "low": "L\u00e5g genetisk risk f\u00f6r epilepsy.",
+    "medium": "M\u00e5ttlig risk f\u00f6r epilepsy.",
+    "high": "H\u00f6g genetisk risk f\u00f6r epilepsy; flera riskalleler p\u00e5tr\u00e4ffade."
+  },
+  "evidence": [
+    {
+      "source": "ClinVar",
+      "pubmed": "21688578"
+    }
+  ],
+  "severity": "medical",
+  "confidence": "moderate"
+}

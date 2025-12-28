@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "CACNA1D",
+  "id": "GWAS_9039",
+  "last_updated": "2025-12-24T00:12:31.752467",
+  "odds_ratio": 15.0,
+  "phenotype": "(Insulin)",
+  "pvalue": 3e-06,
+  "references": [],
+  "rsid": "rs1401492",
+  "source": "GWAS",
+  "source_url": null
+}

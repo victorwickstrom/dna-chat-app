@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "MATP",
+  "id": "GWAS_4354",
+  "last_updated": "2025-12-24T00:26:49.626713",
+  "odds_ratio": 0.46,
+  "phenotype": "GWAS association for rs28777",
+  "pvalue": 9e-14,
+  "references": [],
+  "rsid": "rs28777",
+  "source": "GWAS",
+  "source_url": null
+}

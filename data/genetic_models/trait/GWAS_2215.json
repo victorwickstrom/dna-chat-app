@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "SCN5A",
+  "id": "GWAS_2215",
+  "last_updated": "2025-12-24T00:26:49.605743",
+  "odds_ratio": 5.0,
+  "phenotype": "(PR interval)",
+  "pvalue": 4e-06,
+  "references": [],
+  "rsid": "rs2070488",
+  "source": "GWAS",
+  "source_url": null
+}

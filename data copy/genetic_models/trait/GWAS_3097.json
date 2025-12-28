@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "RIMBP2",
+  "id": "GWAS_3097",
+  "last_updated": "2025-12-24T00:26:49.614430",
+  "odds_ratio": 5.828,
+  "phenotype": "(females)",
+  "pvalue": 1e-08,
+  "references": [],
+  "rsid": "rs2292664",
+  "source": "GWAS",
+  "source_url": null
+}

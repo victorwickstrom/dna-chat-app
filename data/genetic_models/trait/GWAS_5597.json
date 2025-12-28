@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "SLC2A9",
+  "id": "GWAS_5597",
+  "last_updated": "2025-12-24T00:12:31.667298",
+  "odds_ratio": 0.074,
+  "phenotype": "(urate, histidine)",
+  "pvalue": 6e-34,
+  "references": [],
+  "rsid": "rs4481233",
+  "source": "GWAS",
+  "source_url": null
+}

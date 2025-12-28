@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "MUSK",
+  "id": "GWAS_6089",
+  "last_updated": "2025-12-24T00:12:31.678727",
+  "odds_ratio": 0.1501,
+  "phenotype": "(FEV1 decline in non-asthmatics)",
+  "pvalue": 7e-07,
+  "references": [],
+  "rsid": "rs1889321",
+  "source": "GWAS",
+  "source_url": null
+}

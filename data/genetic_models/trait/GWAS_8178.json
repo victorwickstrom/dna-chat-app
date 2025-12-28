@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "PPP1R11",
+  "id": "GWAS_8178",
+  "last_updated": "2025-12-24T00:12:31.731714",
+  "odds_ratio": 0.24,
+  "phenotype": "(XXL-VLDL-P)",
+  "pvalue": 2.9999999999999997e-29,
+  "references": [],
+  "rsid": "rs6917603",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "LMBRD2",
+  "id": "GWAS_3534",
+  "last_updated": "2025-12-24T00:26:49.618354",
+  "odds_ratio": 3.23,
+  "phenotype": "GWAS association for rs267759",
+  "pvalue": 7e-06,
+  "references": [],
+  "rsid": "rs267759",
+  "source": "GWAS",
+  "source_url": null
+}

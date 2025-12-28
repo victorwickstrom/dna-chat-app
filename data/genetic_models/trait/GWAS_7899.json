@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "MYO1D",
+  "id": "GWAS_7899",
+  "last_updated": "2025-12-24T00:12:31.724470",
+  "odds_ratio": 1.26,
+  "phenotype": "(allelic)",
+  "pvalue": 6e-06,
+  "references": [],
+  "rsid": "rs225190",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "TSHR",
+  "id": "GWAS_4556",
+  "last_updated": "2025-12-24T00:26:49.628646",
+  "odds_ratio": 0.216,
+  "phenotype": "GWAS association for rs17111394",
+  "pvalue": 4e-06,
+  "references": [],
+  "rsid": "rs17111394",
+  "source": "GWAS",
+  "source_url": null
+}

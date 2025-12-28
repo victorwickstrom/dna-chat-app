@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "MAML2",
+  "id": "GWAS_3536",
+  "last_updated": "2025-12-24T00:26:49.618374",
+  "odds_ratio": 1.86,
+  "phenotype": "GWAS association for rs7115578",
+  "pvalue": 8e-06,
+  "references": [],
+  "rsid": "rs7115578",
+  "source": "GWAS",
+  "source_url": null
+}

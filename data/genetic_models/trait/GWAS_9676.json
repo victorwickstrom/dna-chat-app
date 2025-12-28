@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "CEP152",
+  "id": "GWAS_9676",
+  "last_updated": "2025-12-24T00:12:31.765217",
+  "odds_ratio": 0.03,
+  "phenotype": "(Height )",
+  "pvalue": 4.9999999999999996e-06,
+  "references": [],
+  "rsid": "rs16961557",
+  "source": "GWAS",
+  "source_url": null
+}

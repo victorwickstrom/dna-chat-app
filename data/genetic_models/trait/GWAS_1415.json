@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "RHPN2",
+  "id": "GWAS_1415",
+  "last_updated": "2025-12-24T00:26:49.597798",
+  "odds_ratio": 1.15,
+  "phenotype": "GWAS association for rs10411210",
+  "pvalue": 5e-09,
+  "references": [],
+  "rsid": "rs10411210",
+  "source": "GWAS",
+  "source_url": null
+}

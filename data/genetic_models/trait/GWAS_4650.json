@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "AHSG",
+  "id": "GWAS_4650",
+  "last_updated": "2025-12-24T00:26:49.629540",
+  "odds_ratio": 1.0,
+  "phenotype": "GWAS association for rs9898",
+  "pvalue": 1e-111,
+  "references": [],
+  "rsid": "rs9898",
+  "source": "GWAS",
+  "source_url": null
+}

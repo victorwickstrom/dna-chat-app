@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "gene",
+  "drug": null,
+  "effect": "Chromosome: chr10",
+  "evidence_level": "unknown",
+  "gene": "NT5C2",
+  "id": "CPIC_gene_NT5C2_57",
+  "last_updated": "2025-12-24T00:26:50.459164",
+  "odds_ratio": null,
+  "phenotype": null,
+  "pvalue": null,
+  "references": [],
+  "rsid": null,
+  "source": "CPIC",
+  "source_url": null
+}

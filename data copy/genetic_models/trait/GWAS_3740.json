@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "GRM7",
+  "id": "GWAS_3740",
+  "last_updated": "2025-12-24T00:26:49.620450",
+  "odds_ratio": null,
+  "phenotype": "(ZKPQ-neuroticism anxiety)",
+  "pvalue": 8e-07,
+  "references": [],
+  "rsid": "rs13080594",
+  "source": "GWAS",
+  "source_url": null
+}

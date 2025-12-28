@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "MCTP2",
+  "id": "GWAS_9731",
+  "last_updated": "2025-12-24T00:12:31.766160",
+  "odds_ratio": 1.8,
+  "phenotype": "(ESRD vs. non-ESRD)",
+  "pvalue": 2e-09,
+  "references": [],
+  "rsid": "rs12437854",
+  "source": "GWAS",
+  "source_url": null
+}

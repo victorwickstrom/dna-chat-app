@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "ZBTB38",
+  "id": "GWAS_1452",
+  "last_updated": "2025-12-24T00:26:49.598127",
+  "odds_ratio": 0.61,
+  "phenotype": "GWAS association for rs724016",
+  "pvalue": 1e-06,
+  "references": [],
+  "rsid": "rs724016",
+  "source": "GWAS",
+  "source_url": null
+}

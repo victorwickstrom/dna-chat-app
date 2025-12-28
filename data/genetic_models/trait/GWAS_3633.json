@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "TCN1",
+  "id": "GWAS_3633",
+  "last_updated": "2025-12-24T00:26:49.619465",
+  "odds_ratio": 0.05,
+  "phenotype": "(Plasma Vitamin B12)",
+  "pvalue": 2e-10,
+  "references": [],
+  "rsid": "rs526934",
+  "source": "GWAS",
+  "source_url": null
+}

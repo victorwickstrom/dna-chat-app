@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "PDGFRA",
+  "id": "GWAS_4972",
+  "last_updated": "2025-12-24T00:26:49.632433",
+  "odds_ratio": 0.129,
+  "phenotype": "GWAS association for rs2114039",
+  "pvalue": 1e-09,
+  "references": [],
+  "rsid": "rs2114039",
+  "source": "GWAS",
+  "source_url": null
+}

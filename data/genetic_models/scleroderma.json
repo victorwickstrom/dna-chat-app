@@ -1,0 +1,35 @@
+{
+  "id": "scleroderma",
+  "category": "autoimmune",
+  "snps": [
+    {
+      "rsid": "rs10488631",
+      "riskAllele": "A",
+      "weight": 2.0
+    },
+    {
+      "rsid": "rs7574865",
+      "riskAllele": "T",
+      "weight": 1.8
+    },
+    {
+      "rsid": "rs9273363",
+      "riskAllele": "G",
+      "weight": 1.4
+    }
+  ],
+  "population": "ALL",
+  "interpretation": {
+    "low": "L\u00e5g genetisk risk f\u00f6r scleroderma.",
+    "medium": "M\u00e5ttlig risk f\u00f6r scleroderma.",
+    "high": "H\u00f6g genetisk risk f\u00f6r scleroderma; flera riskalleler p\u00e5tr\u00e4ffade."
+  },
+  "evidence": [
+    {
+      "source": "GWAS",
+      "pubmed": "20697189"
+    }
+  ],
+  "severity": "medical",
+  "confidence": "high"
+}

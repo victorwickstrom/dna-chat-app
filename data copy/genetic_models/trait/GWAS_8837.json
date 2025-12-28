@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": null,
+  "id": "GWAS_8837",
+  "last_updated": "2025-12-24T00:12:31.747317",
+  "odds_ratio": 0.1506,
+  "phenotype": "(FEV1/FVC decline in non-asthmatics)",
+  "pvalue": 9e-06,
+  "references": [],
+  "rsid": "rs10187654",
+  "source": "GWAS",
+  "source_url": null
+}

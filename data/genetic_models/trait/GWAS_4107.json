@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "FOXL2",
+  "id": "GWAS_4107",
+  "last_updated": "2025-12-24T00:26:49.624464",
+  "odds_ratio": 1.87,
+  "phenotype": "GWAS association for rs1511412",
+  "pvalue": 2e-13,
+  "references": [],
+  "rsid": "rs1511412",
+  "source": "GWAS",
+  "source_url": null
+}

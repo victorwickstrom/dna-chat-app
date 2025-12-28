@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "TMCO1",
+  "id": "GWAS_4994",
+  "last_updated": "2025-12-24T00:26:49.632620",
+  "odds_ratio": 1.51,
+  "phenotype": "GWAS association for rs4656461",
+  "pvalue": 6e-14,
+  "references": [],
+  "rsid": "rs4656461",
+  "source": "GWAS",
+  "source_url": null
+}

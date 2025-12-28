@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "ARHGAP22",
+  "id": "GWAS_4047",
+  "last_updated": "2025-12-24T00:26:49.623943",
+  "odds_ratio": 1.33,
+  "phenotype": "GWAS association for rs10776612",
+  "pvalue": 2e-06,
+  "references": [],
+  "rsid": "rs10776612",
+  "source": "GWAS",
+  "source_url": null
+}

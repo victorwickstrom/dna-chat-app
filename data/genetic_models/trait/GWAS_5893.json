@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "AKR1C",
+  "id": "GWAS_5893",
+  "last_updated": "2025-12-24T00:12:31.674292",
+  "odds_ratio": 0.07,
+  "phenotype": "(SM-13)",
+  "pvalue": 7e-13,
+  "references": [],
+  "rsid": "rs2518049",
+  "source": "GWAS",
+  "source_url": null
+}

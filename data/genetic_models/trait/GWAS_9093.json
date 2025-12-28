@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "BAIAP2L1",
+  "id": "GWAS_9093",
+  "last_updated": "2025-12-24T00:12:31.753382",
+  "odds_ratio": 0.04,
+  "phenotype": "(MCP1 )",
+  "pvalue": 8e-06,
+  "references": [],
+  "rsid": "rs77443149",
+  "source": "GWAS",
+  "source_url": null
+}

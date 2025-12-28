@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "SIA1L2",
+  "id": "GWAS_1596",
+  "last_updated": "2025-12-24T00:26:49.599358",
+  "odds_ratio": null,
+  "phenotype": "(LDL, sum)",
+  "pvalue": 1e-06,
+  "references": [],
+  "rsid": "rs10746514",
+  "source": "GWAS",
+  "source_url": null
+}

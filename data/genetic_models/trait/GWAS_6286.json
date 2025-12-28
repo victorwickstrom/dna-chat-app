@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "MLXIPL",
+  "id": "GWAS_6286",
+  "last_updated": "2025-12-24T00:12:31.682562",
+  "odds_ratio": 10.5,
+  "phenotype": null,
+  "pvalue": 1e-10,
+  "references": [],
+  "rsid": "rs3812316",
+  "source": "GWAS",
+  "source_url": null
+}

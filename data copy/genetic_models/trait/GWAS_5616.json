@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "IL13",
+  "id": "GWAS_5616",
+  "last_updated": "2025-12-24T00:12:31.667825",
+  "odds_ratio": 1.47,
+  "phenotype": "(EBV-negative cHL)",
+  "pvalue": 1e-08,
+  "references": [],
+  "rsid": "rs20541",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "ENPEP",
+  "id": "GWAS_5892",
+  "last_updated": "2025-12-24T00:12:31.674284",
+  "odds_ratio": 0.124,
+  "phenotype": "(SM-12 + 1 other trait)",
+  "pvalue": 7e-13,
+  "references": [],
+  "rsid": "rs2087160",
+  "source": "GWAS",
+  "source_url": null
+}

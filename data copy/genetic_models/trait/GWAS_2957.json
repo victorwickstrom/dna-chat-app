@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "CUBN",
+  "id": "GWAS_2957",
+  "last_updated": "2025-12-24T00:26:49.613233",
+  "odds_ratio": 0.18,
+  "phenotype": "(DBP)",
+  "pvalue": 6e-06,
+  "references": [],
+  "rsid": "rs10508517",
+  "source": "GWAS",
+  "source_url": null
+}

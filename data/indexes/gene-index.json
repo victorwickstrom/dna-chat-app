@@ -1,0 +1,8322 @@
+{
+  "23231": [
+    "trait/GWAS_913.json"
+  ],
+  "A2BP1": [
+    "trait/GWAS_3604.json",
+    "trait/GWAS_3903.json",
+    "trait/GWAS_4420.json",
+    "trait/GWAS_4703.json"
+  ],
+  "ABCA1": [
+    "trait/GWAS_1015.json",
+    "trait/GWAS_184.json",
+    "trait/GWAS_3359.json",
+    "trait/GWAS_4059.json",
+    "trait/GWAS_4622.json"
+  ],
+  "ABCB1": [
+    "gene/CPIC_gene_ABCB1_96.json",
+    "variant/PharmGKB_CA_CA_PA267.json"
+  ],
+  "ABCB9": [
+    "trait/GWAS_4976.json"
+  ],
+  "ABCC4": [
+    "gene/CPIC_gene_ABCC4_65.json"
+  ],
+  "ABCG2": [
+    "gene/CPIC_gene_ABCG2_100.json",
+    "trait/GWAS_2105.json",
+    "trait/GWAS_218.json",
+    "trait/GWAS_2209.json",
+    "trait/GWAS_3510.json",
+    "trait/GWAS_3792.json"
+  ],
+  "ABCG5": [
+    "trait/GWAS_3369.json",
+    "trait/GWAS_4769.json"
+  ],
+  "ABCG8": [
+    "trait/GWAS_3979.json",
+    "trait/GWAS_4328.json",
+    "trait/GWAS_4733.json",
+    "trait/GWAS_4768.json"
+  ],
+  "ABI2": [
+    "trait/GWAS_2489.json"
+  ],
+  "ABL2": [
+    "gene/CPIC_gene_ABL2_66.json"
+  ],
+  "ABO": [
+    "trait/GWAS_1394.json",
+    "trait/GWAS_2551.json",
+    "trait/GWAS_2554.json",
+    "trait/GWAS_2785.json",
+    "trait/GWAS_3011.json",
+    "trait/GWAS_4450.json",
+    "trait/GWAS_465.json",
+    "trait/GWAS_4734.json",
+    "trait/GWAS_4901.json",
+    "trait/GWAS_4967.json",
+    "trait/GWAS_533.json",
+    "trait/GWAS_722.json"
+  ],
+  "ACADM": [
+    "trait/GWAS_821.json"
+  ],
+  "ACADS": [
+    "trait/GWAS_3070.json"
+  ],
+  "ACAN": [
+    "trait/GWAS_907.json"
+  ],
+  "ACBD4": [
+    "trait/GWAS_2302.json"
+  ],
+  "ACE": [
+    "gene/CPIC_gene_ACE_39.json",
+    "trait/GWAS_2311.json"
+  ],
+  "ACMSD": [
+    "trait/GWAS_4212.json"
+  ],
+  "ACOXL": [
+    "trait/GWAS_1316.json"
+  ],
+  "ACP5": [
+    "trait/GWAS_3568.json"
+  ],
+  "ACPL2": [
+    "trait/GWAS_3372.json"
+  ],
+  "ACSBG1": [
+    "trait/GWAS_568.json"
+  ],
+  "ACSM1": [
+    "trait/GWAS_2070.json",
+    "trait/GWAS_3241.json"
+  ],
+  "ACSS1": [
+    "trait/GWAS_2308.json"
+  ],
+  "ACTA2": [
+    "trait/GWAS_829.json"
+  ],
+  "ACTRT3": [
+    "trait/GWAS_4471.json"
+  ],
+  "ACVR1B": [
+    "trait/GWAS_1728.json"
+  ],
+  "ACVR2A": [
+    "trait/GWAS_1615.json"
+  ],
+  "ACYP2": [
+    "gene/CPIC_gene_ACYP2_101.json"
+  ],
+  "ADAM30": [
+    "trait/GWAS_3584.json"
+  ],
+  "ADAMTS12": [
+    "trait/GWAS_4014.json"
+  ],
+  "ADAMTS13": [
+    "trait/GWAS_1413.json"
+  ],
+  "ADAMTS15": [
+    "trait/GWAS_211.json",
+    "trait/GWAS_2699.json"
+  ],
+  "ADAMTS17": [
+    "trait/GWAS_2697.json"
+  ],
+  "ADAMTS18": [
+    "trait/GWAS_697.json"
+  ],
+  "ADAMTS2": [
+    "trait/GWAS_4079.json"
+  ],
+  "ADAMTS20": [
+    "trait/GWAS_873.json"
+  ],
+  "ADAMTS7": [
+    "trait/GWAS_242.json",
+    "trait/GWAS_362.json",
+    "trait/GWAS_4969.json"
+  ],
+  "ADAMTS9": [
+    "trait/GWAS_2599.json"
+  ],
+  "ADAMTSL3": [
+    "trait/GWAS_2270.json",
+    "trait/GWAS_2733.json",
+    "trait/GWAS_3274.json"
+  ],
+  "ADARB1": [
+    "trait/GWAS_4300.json"
+  ],
+  "ADARB2": [
+    "trait/GWAS_1194.json",
+    "trait/GWAS_145.json",
+    "trait/GWAS_1969.json"
+  ],
+  "ADCY3": [
+    "trait/GWAS_3189.json",
+    "trait/GWAS_4804.json"
+  ],
+  "ADCY5": [
+    "trait/GWAS_4609.json"
+  ],
+  "ADCY9": [
+    "trait/GWAS_1801.json"
+  ],
+  "ADD1": [
+    "gene/CPIC_gene_ADD1_48.json"
+  ],
+  "ADH1C": [
+    "trait/GWAS_2597.json"
+  ],
+  "ADH6": [
+    "trait/GWAS_2728.json"
+  ],
+  "ADH7": [
+    "trait/GWAS_1188.json"
+  ],
+  "ADIPOQ": [
+    "trait/GWAS_2558.json",
+    "trait/GWAS_3063.json",
+    "trait/GWAS_3068.json",
+    "trait/GWAS_4281.json",
+    "trait/GWAS_458.json",
+    "trait/GWAS_4600.json"
+  ],
+  "ADIPOR2": [
+    "trait/GWAS_2701.json"
+  ],
+  "ADM": [
+    "trait/GWAS_2615.json"
+  ],
+  "ADORA2A": [
+    "gene/CPIC_gene_ADORA2A_76.json"
+  ],
+  "ADRA2C": [
+    "gene/CPIC_gene_ADRA2C_34.json"
+  ],
+  "ADRB1": [
+    "gene/CPIC_gene_ADRB1_77.json"
+  ],
+  "ADRB2": [
+    "gene/CPIC_gene_ADRB2_37.json"
+  ],
+  "AEBP2": [
+    "trait/GWAS_4028.json"
+  ],
+  "AFAP1L2": [
+    "trait/GWAS_4470.json"
+  ],
+  "AFF3": [
+    "trait/GWAS_2035.json"
+  ],
+  "AGBL1": [
+    "trait/GWAS_2179.json",
+    "trait/GWAS_358.json",
+    "trait/GWAS_4646.json"
+  ],
+  "AGER": [
+    "trait/GWAS_1691.json",
+    "trait/GWAS_3044.json"
+  ],
+  "AGK": [
+    "trait/GWAS_3809.json"
+  ],
+  "AGMO": [
+    "trait/GWAS_4409.json"
+  ],
+  "AHR": [
+    "trait/GWAS_2118.json"
+  ],
+  "AHSA2": [
+    "trait/GWAS_3498.json",
+    "trait/GWAS_4807.json"
+  ],
+  "AHSG": [
+    "trait/GWAS_4650.json"
+  ],
+  "AIF1": [
+    "trait/GWAS_918.json"
+  ],
+  "AIM1": [
+    "trait/GWAS_2281.json"
+  ],
+  "AIPL1": [
+    "trait/GWAS_2498.json"
+  ],
+  "AK023614": [
+    "trait/GWAS_1992.json"
+  ],
+  "AK094352": [
+    "trait/GWAS_3912.json"
+  ],
+  "AK127771": [
+    "trait/GWAS_1408.json"
+  ],
+  "AK294384": [
+    "trait/GWAS_4949.json"
+  ],
+  "AK3": [
+    "trait/GWAS_1600.json",
+    "trait/GWAS_366.json"
+  ],
+  "AKAP11": [
+    "trait/GWAS_379.json"
+  ],
+  "AKAP6": [
+    "trait/GWAS_1827.json",
+    "trait/GWAS_2338.json"
+  ],
+  "AKD2": [
+    "trait/GWAS_1682.json"
+  ],
+  "AKR1E2": [
+    "trait/GWAS_573.json"
+  ],
+  "AKT3": [
+    "trait/GWAS_3392.json"
+  ],
+  "AL139": [
+    "trait/GWAS_3177.json"
+  ],
+  "ALCAM": [
+    "trait/GWAS_4156.json"
+  ],
+  "ALDH1A2": [
+    "trait/GWAS_3395.json"
+  ],
+  "ALDH7A1": [
+    "trait/GWAS_3316.json"
+  ],
+  "ALG10B": [
+    "trait/GWAS_3788.json"
+  ],
+  "ALPL": [
+    "trait/GWAS_2751.json",
+    "trait/GWAS_464.json"
+  ],
+  "AMOTL1": [
+    "trait/GWAS_4412.json"
+  ],
+  "AMPA1": [
+    "trait/GWAS_721.json"
+  ],
+  "AMPD3": [
+    "trait/GWAS_4825.json"
+  ],
+  "ANGPTL3": [
+    "trait/GWAS_1457.json",
+    "trait/GWAS_4619.json"
+  ],
+  "ANGPTL6": [
+    "trait/GWAS_3664.json"
+  ],
+  "ANK1": [
+    "trait/GWAS_4276.json"
+  ],
+  "ANK3": [
+    "trait/GWAS_2257.json",
+    "trait/GWAS_3812.json"
+  ],
+  "ANKFN1": [
+    "trait/GWAS_2622.json"
+  ],
+  "ANKK1": [
+    "gene/CPIC_gene_ANKK1_32.json"
+  ],
+  "ANKLE1": [
+    "trait/GWAS_51.json"
+  ],
+  "ANKRD30A": [
+    "trait/GWAS_3884.json",
+    "trait/GWAS_79.json"
+  ],
+  "ANKRD33": [
+    "trait/GWAS_515.json"
+  ],
+  "ANKRD55": [
+    "trait/GWAS_2389.json"
+  ],
+  "ANKRD60": [
+    "trait/GWAS_1004.json"
+  ],
+  "ANKS1A": [
+    "trait/GWAS_4966.json"
+  ],
+  "ANKS1B": [
+    "trait/GWAS_2806.json",
+    "trait/GWAS_4539.json"
+  ],
+  "ANO6": [
+    "trait/GWAS_4145.json",
+    "trait/GWAS_622.json"
+  ],
+  "ANUBL1": [
+    "trait/GWAS_2935.json",
+    "trait/GWAS_3379.json"
+  ],
+  "ANXA1": [
+    "trait/GWAS_626.json"
+  ],
+  "ANXA13": [
+    "trait/GWAS_951.json"
+  ],
+  "ANXA5": [
+    "trait/GWAS_4751.json"
+  ],
+  "AOAH": [
+    "trait/GWAS_3282.json"
+  ],
+  "AP3B2": [
+    "trait/GWAS_4120.json"
+  ],
+  "APIP": [
+    "trait/GWAS_329.json"
+  ],
+  "APLF": [
+    "trait/GWAS_2694.json"
+  ],
+  "APO": [
+    "trait/GWAS_4758.json"
+  ],
+  "APOA": [
+    "trait/GWAS_2642.json"
+  ],
+  "APOA1": [
+    "trait/GWAS_1014.json",
+    "trait/GWAS_1017.json",
+    "trait/GWAS_4134.json",
+    "trait/GWAS_4624.json",
+    "trait/GWAS_4827.json",
+    "trait/GWAS_504.json",
+    "trait/GWAS_696.json"
+  ],
+  "APOA5": [
+    "trait/GWAS_2865.json",
+    "trait/GWAS_2870.json",
+    "trait/GWAS_45.json",
+    "trait/GWAS_988.json"
+  ],
+  "APOB": [
+    "trait/GWAS_1800.json",
+    "trait/GWAS_1904.json",
+    "trait/GWAS_1947.json",
+    "trait/GWAS_195.json",
+    "trait/GWAS_2206.json",
+    "trait/GWAS_3330.json",
+    "trait/GWAS_3364.json",
+    "trait/GWAS_3530.json",
+    "trait/GWAS_3871.json",
+    "trait/GWAS_4831.json",
+    "trait/GWAS_508.json",
+    "trait/GWAS_708.json",
+    "trait/GWAS_752.json"
+  ],
+  "APOB48R": [
+    "trait/GWAS_2354.json"
+  ],
+  "APOC1": [
+    "trait/GWAS_3329.json",
+    "trait/GWAS_3958.json"
+  ],
+  "APOC2": [
+    "trait/GWAS_1852.json",
+    "trait/GWAS_1966.json",
+    "trait/GWAS_1970.json",
+    "trait/GWAS_2960.json",
+    "trait/GWAS_3866.json",
+    "trait/GWAS_4630.json",
+    "trait/GWAS_4832.json"
+  ],
+  "APOC3": [
+    "trait/GWAS_1279.json"
+  ],
+  "APOE": [
+    "gene/CPIC_gene_APOE_5.json",
+    "trait/GWAS_1156.json",
+    "trait/GWAS_1378.json",
+    "trait/GWAS_1569.json",
+    "trait/GWAS_186.json",
+    "trait/GWAS_1949.json",
+    "trait/GWAS_1952.json",
+    "trait/GWAS_2026.json",
+    "trait/GWAS_2783.json",
+    "trait/GWAS_3261.json",
+    "trait/GWAS_3529.json",
+    "trait/GWAS_3531.json",
+    "trait/GWAS_3797.json",
+    "trait/GWAS_395.json",
+    "trait/GWAS_4087.json",
+    "trait/GWAS_4509.json",
+    "trait/GWAS_4681.json",
+    "trait/GWAS_922.json",
+    "trait/GWAS_940.json"
+  ],
+  "APOL1": [
+    "trait/GWAS_4285.json"
+  ],
+  "APOM": [
+    "trait/GWAS_3051.json"
+  ],
+  "AR": [
+    "trait/GWAS_541.json"
+  ],
+  "ARG1": [
+    "trait/GWAS_4025.json"
+  ],
+  "ARHGAP1": [
+    "trait/GWAS_2406.json"
+  ],
+  "ARHGAP10": [
+    "trait/GWAS_2979.json"
+  ],
+  "ARHGAP15": [
+    "trait/GWAS_1968.json"
+  ],
+  "ARHGAP22": [
+    "trait/GWAS_1226.json",
+    "trait/GWAS_4047.json"
+  ],
+  "ARHGAP24": [
+    "trait/GWAS_1064.json",
+    "trait/GWAS_1110.json"
+  ],
+  "ARHGEF3": [
+    "trait/GWAS_2629.json",
+    "trait/GWAS_369.json",
+    "trait/GWAS_54.json"
+  ],
+  "ARHGEF7": [
+    "trait/GWAS_3260.json"
+  ],
+  "ARID1B": [
+    "trait/GWAS_4669.json"
+  ],
+  "ARID2": [
+    "trait/GWAS_2560.json"
+  ],
+  "ARID3A": [
+    "trait/GWAS_3978.json"
+  ],
+  "ARID5A": [
+    "trait/GWAS_949.json"
+  ],
+  "ARID5B": [
+    "trait/GWAS_1688.json",
+    "trait/GWAS_3782.json"
+  ],
+  "ARL15": [
+    "trait/GWAS_3061.json",
+    "trait/GWAS_4142.json",
+    "trait/GWAS_4601.json"
+  ],
+  "ARL4C": [
+    "trait/GWAS_2652.json"
+  ],
+  "ARL6": [
+    "trait/GWAS_3200.json"
+  ],
+  "ARMS2": [
+    "trait/GWAS_2108.json",
+    "trait/GWAS_3463.json",
+    "trait/GWAS_4011.json",
+    "trait/GWAS_4615.json"
+  ],
+  "ARNT2": [
+    "trait/GWAS_1828.json"
+  ],
+  "ARNTL": [
+    "trait/GWAS_2387.json"
+  ],
+  "ARPC2": [
+    "trait/GWAS_4812.json"
+  ],
+  "ARSB": [
+    "trait/GWAS_2731.json",
+    "trait/GWAS_3352.json"
+  ],
+  "ASAH2B": [
+    "trait/GWAS_2692.json"
+  ],
+  "ASB1": [
+    "trait/GWAS_4029.json"
+  ],
+  "ASB18": [
+    "trait/GWAS_3727.json"
+  ],
+  "ASCL1": [
+    "trait/GWAS_2422.json"
+  ],
+  "ASIP": [
+    "trait/GWAS_2536.json",
+    "trait/GWAS_4913.json"
+  ],
+  "ASL": [
+    "gene/CPIC_gene_ASL_30.json"
+  ],
+  "ASPH": [
+    "trait/GWAS_670.json"
+  ],
+  "ASS1": [
+    "gene/CPIC_gene_ASS1_2.json"
+  ],
+  "ASTN2": [
+    "trait/GWAS_1877.json",
+    "trait/GWAS_4113.json"
+  ],
+  "ATF7": [
+    "trait/GWAS_2736.json"
+  ],
+  "ATG16L1": [
+    "trait/GWAS_1520.json",
+    "trait/GWAS_298.json",
+    "trait/GWAS_4508.json",
+    "trait/GWAS_617.json"
+  ],
+  "ATG4C": [
+    "trait/GWAS_4536.json"
+  ],
+  "ATIC": [
+    "gene/CPIC_gene_ATIC_4.json"
+  ],
+  "ATL1": [
+    "trait/GWAS_453.json"
+  ],
+  "ATM": [
+    "trait/GWAS_2438.json"
+  ],
+  "ATOH7": [
+    "trait/GWAS_3173.json",
+    "trait/GWAS_3950.json",
+    "trait/GWAS_920.json"
+  ],
+  "ATP10D": [
+    "trait/GWAS_1976.json"
+  ],
+  "ATP13A2": [
+    "trait/GWAS_2734.json"
+  ],
+  "ATP1B1": [
+    "trait/GWAS_757.json"
+  ],
+  "ATP2A2": [
+    "trait/GWAS_1150.json"
+  ],
+  "ATP2B1": [
+    "trait/GWAS_1367.json",
+    "trait/GWAS_14.json",
+    "trait/GWAS_15.json",
+    "trait/GWAS_1748.json",
+    "trait/GWAS_2294.json",
+    "trait/GWAS_328.json",
+    "trait/GWAS_4284.json"
+  ],
+  "ATP2B2": [
+    "trait/GWAS_4418.json"
+  ],
+  "ATP2C2": [
+    "trait/GWAS_1887.json"
+  ],
+  "ATP5SL": [
+    "trait/GWAS_4084.json",
+    "trait/GWAS_4085.json"
+  ],
+  "ATP6V0A4": [
+    "trait/GWAS_4516.json"
+  ],
+  "ATP6V1G3": [
+    "trait/GWAS_2932.json"
+  ],
+  "ATP8B1": [
+    "trait/GWAS_3594.json",
+    "trait/GWAS_3874.json"
+  ],
+  "ATRNL1": [
+    "trait/GWAS_3632.json"
+  ],
+  "ATXN7L1": [
+    "trait/GWAS_2879.json"
+  ],
+  "ATXN7L2": [
+    "trait/GWAS_6.json"
+  ],
+  "AUH": [
+    "trait/GWAS_1590.json"
+  ],
+  "AVGR8": [
+    "trait/GWAS_4230.json"
+  ],
+  "B3GAT2": [
+    "trait/GWAS_4497.json"
+  ],
+  "B3GNT2": [
+    "trait/GWAS_1116.json"
+  ],
+  "B4GALT5": [
+    "trait/GWAS_225.json"
+  ],
+  "BABAM1": [
+    "trait/GWAS_3077.json"
+  ],
+  "BACH2": [
+    "trait/GWAS_2273.json",
+    "trait/GWAS_3516.json",
+    "trait/GWAS_4457.json",
+    "trait/GWAS_546.json"
+  ],
+  "BAK1": [
+    "trait/GWAS_1892.json",
+    "trait/GWAS_2405.json",
+    "trait/GWAS_2414.json",
+    "trait/GWAS_4114.json"
+  ],
+  "BANK1": [
+    "trait/GWAS_447.json"
+  ],
+  "BANP": [
+    "trait/GWAS_4931.json"
+  ],
+  "BARD1": [
+    "trait/GWAS_2216.json",
+    "trait/GWAS_2444.json",
+    "trait/GWAS_3938.json"
+  ],
+  "BAT2": [
+    "trait/GWAS_4031.json"
+  ],
+  "BAT3": [
+    "trait/GWAS_2972.json",
+    "trait/GWAS_543.json"
+  ],
+  "BAZ1B": [
+    "trait/GWAS_4280.json"
+  ],
+  "BC039327": [
+    "trait/GWAS_2124.json"
+  ],
+  "BCAS3": [
+    "trait/GWAS_3823.json",
+    "trait/GWAS_3977.json"
+  ],
+  "BCDIN3D": [
+    "trait/GWAS_3614.json"
+  ],
+  "BCHE": [
+    "gene/CPIC_gene_BCHE_98.json"
+  ],
+  "BCL11A": [
+    "trait/GWAS_2056.json",
+    "trait/GWAS_4370.json",
+    "trait/GWAS_4947.json",
+    "trait/GWAS_618.json"
+  ],
+  "BCL2L11": [
+    "trait/GWAS_3967.json"
+  ],
+  "BCL6": [
+    "trait/GWAS_869.json"
+  ],
+  "BCL7B": [
+    "trait/GWAS_1234.json"
+  ],
+  "BCM01": [
+    "trait/GWAS_2239.json"
+  ],
+  "BCMO1": [
+    "trait/GWAS_1374.json"
+  ],
+  "BCO2": [
+    "trait/GWAS_3295.json",
+    "trait/GWAS_3828.json"
+  ],
+  "BDNF": [
+    "trait/GWAS_2353.json",
+    "trait/GWAS_272.json",
+    "trait/GWAS_4675.json"
+  ],
+  "BEGAIN": [
+    "trait/GWAS_2386.json"
+  ],
+  "BET1L": [
+    "trait/GWAS_1945.json"
+  ],
+  "BF": [
+    "trait/GWAS_2637.json"
+  ],
+  "BFZB": [
+    "trait/GWAS_1450.json"
+  ],
+  "BIK": [
+    "trait/GWAS_2125.json"
+  ],
+  "BIN1": [
+    "trait/GWAS_2630.json"
+  ],
+  "BLK": [
+    "trait/GWAS_1100.json",
+    "trait/GWAS_2628.json",
+    "trait/GWAS_2779.json",
+    "trait/GWAS_2847.json",
+    "trait/GWAS_3152.json"
+  ],
+  "BMP2": [
+    "trait/GWAS_3367.json"
+  ],
+  "BMP4": [
+    "trait/GWAS_4428.json",
+    "trait/GWAS_466.json"
+  ],
+  "BMP6": [
+    "trait/GWAS_2382.json"
+  ],
+  "BMP7": [
+    "trait/GWAS_3049.json",
+    "trait/GWAS_4429.json"
+  ],
+  "BMPR1B": [
+    "trait/GWAS_4894.json"
+  ],
+  "BNC2": [
+    "trait/GWAS_1551.json",
+    "trait/GWAS_2874.json",
+    "trait/GWAS_895.json"
+  ],
+  "BOLL": [
+    "trait/GWAS_467.json"
+  ],
+  "BQ013595": [
+    "trait/GWAS_1403.json"
+  ],
+  "BRAP": [
+    "trait/GWAS_2727.json",
+    "trait/GWAS_3703.json"
+  ],
+  "BRD1": [
+    "trait/GWAS_4528.json"
+  ],
+  "BRDG1": [
+    "trait/GWAS_3350.json"
+  ],
+  "BRSK1": [
+    "trait/GWAS_3207.json"
+  ],
+  "BRUNOL4": [
+    "trait/GWAS_1725.json",
+    "trait/GWAS_4359.json"
+  ],
+  "BST1": [
+    "trait/GWAS_1352.json",
+    "trait/GWAS_2341.json",
+    "trait/GWAS_2857.json"
+  ],
+  "BTBD1": [
+    "trait/GWAS_3954.json"
+  ],
+  "BTBD9": [
+    "trait/GWAS_403.json",
+    "trait/GWAS_406.json"
+  ],
+  "BTG1": [
+    "trait/GWAS_677.json"
+  ],
+  "BTN1A1": [
+    "trait/GWAS_1721.json"
+  ],
+  "BTNL2": [
+    "trait/GWAS_2602.json"
+  ],
+  "BUD13": [
+    "trait/GWAS_2448.json",
+    "trait/GWAS_2867.json",
+    "trait/GWAS_2869.json",
+    "trait/GWAS_4520.json"
+  ],
+  "BVES": [
+    "trait/GWAS_3835.json"
+  ],
+  "BYSL": [
+    "trait/GWAS_1939.json",
+    "trait/GWAS_2933.json",
+    "trait/GWAS_2945.json",
+    "trait/GWAS_745.json",
+    "trait/GWAS_996.json"
+  ],
+  "C10ORF107": [
+    "trait/GWAS_2303.json"
+  ],
+  "C10ORF122": [
+    "trait/GWAS_2211.json"
+  ],
+  "C10ORF59": [
+    "trait/GWAS_1037.json"
+  ],
+  "C10ORF64": [
+    "trait/GWAS_1286.json"
+  ],
+  "C10ORF67": [
+    "trait/GWAS_3641.json"
+  ],
+  "C10ORF79": [
+    "trait/GWAS_1878.json"
+  ],
+  "C11ORF10": [
+    "trait/GWAS_4223.json"
+  ],
+  "C11ORF30": [
+    "trait/GWAS_1560.json",
+    "trait/GWAS_3858.json"
+  ],
+  "C11ORF40": [
+    "trait/GWAS_3988.json"
+  ],
+  "C11ORF41": [
+    "trait/GWAS_2595.json"
+  ],
+  "C11ORF65": [
+    "gene/CPIC_gene_C11ORF65_53.json"
+  ],
+  "C11ORF9": [
+    "trait/GWAS_4195.json"
+  ],
+  "C12ORF28": [
+    "trait/GWAS_4413.json"
+  ],
+  "C12ORF30": [
+    "trait/GWAS_1417.json",
+    "trait/GWAS_306.json"
+  ],
+  "C12ORF43": [
+    "trait/GWAS_1957.json"
+  ],
+  "C12ORF5": [
+    "trait/GWAS_608.json"
+  ],
+  "C12ORF51": [
+    "trait/GWAS_2676.json",
+    "trait/GWAS_2843.json",
+    "trait/GWAS_8.json"
+  ],
+  "C12ORF55": [
+    "trait/GWAS_280.json"
+  ],
+  "C12ORF67": [
+    "trait/GWAS_3318.json"
+  ],
+  "C13ORF16": [
+    "trait/GWAS_289.json"
+  ],
+  "C13ORF31": [
+    "trait/GWAS_3054.json"
+  ],
+  "C14ORF118": [
+    "trait/GWAS_2243.json"
+  ],
+  "C14ORF143": [
+    "trait/GWAS_2380.json"
+  ],
+  "C15ORF53": [
+    "trait/GWAS_3146.json"
+  ],
+  "C17ORF53": [
+    "trait/GWAS_1628.json"
+  ],
+  "C17ORF62": [
+    "trait/GWAS_3663.json"
+  ],
+  "C18ORF2": [
+    "trait/GWAS_3047.json"
+  ],
+  "C18ORF20": [
+    "trait/GWAS_971.json"
+  ],
+  "C18ORF42": [
+    "trait/GWAS_876.json"
+  ],
+  "C19ORF62": [
+    "trait/GWAS_50.json"
+  ],
+  "C1GALT1": [
+    "trait/GWAS_3889.json",
+    "trait/GWAS_4704.json"
+  ],
+  "C1ORF102": [
+    "trait/GWAS_3103.json"
+  ],
+  "C1ORF106": [
+    "trait/GWAS_4492.json"
+  ],
+  "C1ORF53": [
+    "trait/GWAS_4801.json"
+  ],
+  "C1ORF63": [
+    "trait/GWAS_4664.json"
+  ],
+  "C1QTNF5": [
+    "trait/GWAS_3095.json"
+  ],
+  "C1QTNF6": [
+    "trait/GWAS_1586.json",
+    "trait/GWAS_3520.json",
+    "trait/GWAS_549.json"
+  ],
+  "C1QTNF7": [
+    "trait/GWAS_4906.json"
+  ],
+  "C2": [
+    "trait/GWAS_2805.json"
+  ],
+  "C20ORF132": [
+    "trait/GWAS_2561.json"
+  ],
+  "C20ORF133": [
+    "trait/GWAS_3610.json"
+  ],
+  "C20ORF187": [
+    "trait/GWAS_1171.json"
+  ],
+  "C20ORF196": [
+    "trait/GWAS_3108.json"
+  ],
+  "C20ORF71": [
+    "trait/GWAS_593.json"
+  ],
+  "C20ORF82": [
+    "trait/GWAS_999.json"
+  ],
+  "C21ORF34": [
+    "trait/GWAS_4893.json"
+  ],
+  "C21ORF49": [
+    "trait/GWAS_3422.json"
+  ],
+  "C2ORF43": [
+    "trait/GWAS_4220.json"
+  ],
+  "C2ORF47": [
+    "trait/GWAS_2825.json"
+  ],
+  "C2ORF83": [
+    "trait/GWAS_4115.json"
+  ],
+  "C3": [
+    "trait/GWAS_2458.json",
+    "trait/GWAS_3947.json",
+    "trait/GWAS_4010.json"
+  ],
+  "C3ORF31": [
+    "trait/GWAS_2395.json"
+  ],
+  "C4": [
+    "trait/GWAS_3420.json",
+    "trait/GWAS_3421.json"
+  ],
+  "C4BPB": [
+    "trait/GWAS_130.json"
+  ],
+  "C4ORF14": [
+    "trait/GWAS_519.json"
+  ],
+  "C5ORF15": [
+    "trait/GWAS_3900.json"
+  ],
+  "C5ORF23": [
+    "trait/GWAS_1024.json"
+  ],
+  "C5ORF35": [
+    "trait/GWAS_2851.json"
+  ],
+  "C5ORF42": [
+    "trait/GWAS_4573.json"
+  ],
+  "C6ORF10": [
+    "trait/GWAS_4862.json"
+  ],
+  "C6ORF15": [
+    "trait/GWAS_2614.json"
+  ],
+  "C6ORF170": [
+    "trait/GWAS_4458.json"
+  ],
+  "C6ORF173": [
+    "trait/GWAS_1035.json",
+    "trait/GWAS_1242.json"
+  ],
+  "C6ORF182": [
+    "trait/GWAS_2942.json",
+    "trait/GWAS_3380.json"
+  ],
+  "C6ORF204": [
+    "trait/GWAS_2936.json",
+    "trait/GWAS_3197.json",
+    "trait/GWAS_3397.json"
+  ],
+  "C6ORF71": [
+    "trait/GWAS_4419.json"
+  ],
+  "C80RF42": [
+    "trait/GWAS_4633.json"
+  ],
+  "C8ORF12": [
+    "trait/GWAS_4460.json"
+  ],
+  "C8ORF13": [
+    "trait/GWAS_446.json"
+  ],
+  "C8ORF34": [
+    "gene/CPIC_gene_C8ORF34_75.json"
+  ],
+  "C9ORF3": [
+    "trait/GWAS_2366.json"
+  ],
+  "C9ORF52": [
+    "trait/GWAS_2199.json"
+  ],
+  "C9ORF98": [
+    "trait/GWAS_1870.json"
+  ],
+  "C9ORG82": [
+    "trait/GWAS_3199.json"
+  ],
+  "CA10": [
+    "trait/GWAS_2377.json"
+  ],
+  "CA8": [
+    "trait/GWAS_2607.json"
+  ],
+  "CABLES1": [
+    "trait/GWAS_3294.json"
+  ],
+  "CACNA1C": [
+    "trait/GWAS_2485.json",
+    "trait/GWAS_3340.json"
+  ],
+  "CACNA1S": [
+    "gene/CPIC_gene_CACNA1S_130.json",
+    "guideline/CPIC_GL_CACNA1S_unknown_100427.json"
+  ],
+  "CACNA2D1": [
+    "trait/GWAS_2100.json",
+    "trait/GWAS_591.json"
+  ],
+  "CACNB2": [
+    "trait/GWAS_1366.json",
+    "trait/GWAS_1762.json",
+    "trait/GWAS_1963.json",
+    "trait/GWAS_3249.json",
+    "trait/GWAS_3250.json"
+  ],
+  "CACNG4": [
+    "trait/GWAS_3191.json"
+  ],
+  "CACNG5": [
+    "trait/GWAS_4404.json",
+    "trait/GWAS_974.json"
+  ],
+  "CADM2": [
+    "trait/GWAS_2361.json"
+  ],
+  "CALCOCO1": [
+    "trait/GWAS_1768.json"
+  ],
+  "CALCR": [
+    "trait/GWAS_1543.json"
+  ],
+  "CALU": [
+    "gene/CPIC_gene_CALU_35.json"
+  ],
+  "CAMK4": [
+    "trait/GWAS_2242.json"
+  ],
+  "CAND1": [
+    "trait/GWAS_2409.json"
+  ],
+  "CAP2": [
+    "trait/GWAS_3989.json"
+  ],
+  "CAPN3": [
+    "trait/GWAS_4846.json"
+  ],
+  "CAPN9": [
+    "trait/GWAS_2348.json"
+  ],
+  "CAPSL": [
+    "trait/GWAS_308.json"
+  ],
+  "CARD10": [
+    "trait/GWAS_4493.json"
+  ],
+  "CARD15": [
+    "trait/GWAS_236.json",
+    "trait/GWAS_2519.json",
+    "trait/GWAS_526.json",
+    "trait/GWAS_530.json"
+  ],
+  "CARD9": [
+    "trait/GWAS_3242.json",
+    "trait/GWAS_4082.json",
+    "trait/GWAS_919.json"
+  ],
+  "CASR": [
+    "trait/GWAS_2200.json"
+  ],
+  "CAST": [
+    "trait/GWAS_2763.json"
+  ],
+  "CASZ1": [
+    "trait/GWAS_1362.json"
+  ],
+  "CATSPER4": [
+    "trait/GWAS_16.json"
+  ],
+  "CAV1": [
+    "trait/GWAS_1112.json",
+    "trait/GWAS_417.json",
+    "trait/GWAS_908.json"
+  ],
+  "CBLB": [
+    "trait/GWAS_198.json"
+  ],
+  "CBR3": [
+    "gene/CPIC_gene_CBR3_56.json",
+    "trait/GWAS_3931.json"
+  ],
+  "CBS": [
+    "trait/GWAS_3586.json"
+  ],
+  "CCDC100": [
+    "trait/GWAS_3398.json"
+  ],
+  "CCDC101": [
+    "trait/GWAS_3596.json"
+  ],
+  "CCDC121": [
+    "trait/GWAS_1270.json"
+  ],
+  "CCDC134": [
+    "trait/GWAS_2186.json"
+  ],
+  "CCDC160": [
+    "trait/GWAS_2590.json"
+  ],
+  "CCDC26": [
+    "trait/GWAS_2725.json",
+    "trait/GWAS_2753.json"
+  ],
+  "CCDC60": [
+    "trait/GWAS_4312.json",
+    "trait/GWAS_784.json"
+  ],
+  "CCDC63": [
+    "trait/GWAS_2845.json"
+  ],
+  "CCDC68": [
+    "trait/GWAS_360.json"
+  ],
+  "CCDC81": [
+    "trait/GWAS_223.json"
+  ],
+  "CCDC83": [
+    "trait/GWAS_4393.json"
+  ],
+  "CCDC85A": [
+    "trait/GWAS_1900.json"
+  ],
+  "CCHCR1": [
+    "gene/CPIC_gene_CCHCR1_26.json"
+  ],
+  "CCL2": [
+    "trait/GWAS_4791.json"
+  ],
+  "CCL20": [
+    "trait/GWAS_125.json"
+  ],
+  "CCL21": [
+    "trait/GWAS_3138.json"
+  ],
+  "CCL4L2": [
+    "trait/GWAS_4342.json"
+  ],
+  "CCND2": [
+    "trait/GWAS_55.json"
+  ],
+  "CCND3": [
+    "trait/GWAS_4992.json"
+  ],
+  "CCNY": [
+    "trait/GWAS_269.json"
+  ],
+  "CCR1": [
+    "trait/GWAS_2049.json"
+  ],
+  "CCR3": [
+    "trait/GWAS_4081.json"
+  ],
+  "CCR4": [
+    "trait/GWAS_3501.json"
+  ],
+  "CCR6": [
+    "trait/GWAS_197.json",
+    "trait/GWAS_2538.json"
+  ],
+  "CCRL2": [
+    "trait/GWAS_3767.json"
+  ],
+  "CCT7P2": [
+    "trait/GWAS_4209.json"
+  ],
+  "CD164": [
+    "trait/GWAS_2569.json"
+  ],
+  "CD226": [
+    "trait/GWAS_307.json",
+    "trait/GWAS_371.json",
+    "trait/GWAS_4691.json"
+  ],
+  "CD244": [
+    "trait/GWAS_4799.json"
+  ],
+  "CD247": [
+    "trait/GWAS_2066.json",
+    "trait/GWAS_2418.json"
+  ],
+  "CD300LF": [
+    "trait/GWAS_3761.json"
+  ],
+  "CD33": [
+    "trait/GWAS_3869.json"
+  ],
+  "CD34": [
+    "trait/GWAS_566.json"
+  ],
+  "CD36": [
+    "trait/GWAS_449.json"
+  ],
+  "CD40": [
+    "trait/GWAS_2176.json",
+    "trait/GWAS_3606.json",
+    "trait/GWAS_4697.json"
+  ],
+  "CD46": [
+    "trait/GWAS_9.json"
+  ],
+  "CD5": [
+    "trait/GWAS_4194.json"
+  ],
+  "CD58": [
+    "trait/GWAS_1555.json",
+    "trait/GWAS_2398.json",
+    "trait/GWAS_38.json"
+  ],
+  "CD6": [
+    "trait/GWAS_2397.json",
+    "trait/GWAS_3007.json"
+  ],
+  "CD69": [
+    "trait/GWAS_1038.json"
+  ],
+  "CD80": [
+    "trait/GWAS_3502.json",
+    "trait/GWAS_4957.json"
+  ],
+  "CDAN1": [
+    "trait/GWAS_3676.json"
+  ],
+  "CDC123": [
+    "trait/GWAS_4231.json",
+    "trait/GWAS_780.json"
+  ],
+  "CDC91L1": [
+    "trait/GWAS_4339.json"
+  ],
+  "CDCA7L": [
+    "trait/GWAS_232.json",
+    "trait/GWAS_2740.json"
+  ],
+  "CDH1": [
+    "trait/GWAS_2815.json"
+  ],
+  "CDH10": [
+    "trait/GWAS_1740.json"
+  ],
+  "CDH12": [
+    "trait/GWAS_3613.json"
+  ],
+  "CDH13": [
+    "trait/GWAS_1612.json",
+    "trait/GWAS_2213.json",
+    "trait/GWAS_2941.json",
+    "trait/GWAS_4019.json",
+    "trait/GWAS_844.json",
+    "trait/GWAS_911.json",
+    "trait/GWAS_942.json"
+  ],
+  "CDH18": [
+    "trait/GWAS_2088.json",
+    "trait/GWAS_2501.json"
+  ],
+  "CDH4": [
+    "trait/GWAS_2429.json",
+    "trait/GWAS_2494.json"
+  ],
+  "CDK6": [
+    "trait/GWAS_19.json",
+    "trait/GWAS_2175.json",
+    "trait/GWAS_2623.json"
+  ],
+  "CDK8": [
+    "trait/GWAS_2507.json"
+  ],
+  "CDKAL": [
+    "trait/GWAS_4760.json"
+  ],
+  "CDKAL1": [
+    "trait/GWAS_1022.json",
+    "trait/GWAS_1528.json",
+    "trait/GWAS_1873.json",
+    "trait/GWAS_2121.json",
+    "trait/GWAS_2252.json",
+    "trait/GWAS_2285.json",
+    "trait/GWAS_2713.json",
+    "trait/GWAS_3653.json",
+    "trait/GWAS_3702.json",
+    "trait/GWAS_386.json",
+    "trait/GWAS_4503.json",
+    "trait/GWAS_4506.json",
+    "trait/GWAS_4612.json",
+    "trait/GWAS_4672.json",
+    "trait/GWAS_4988.json"
+  ],
+  "CDKL1": [
+    "trait/GWAS_1664.json"
+  ],
+  "CDKN1A": [
+    "trait/GWAS_2939.json",
+    "trait/GWAS_979.json"
+  ],
+  "CDKN2A": [
+    "trait/GWAS_1786.json",
+    "trait/GWAS_1936.json",
+    "trait/GWAS_2730.json",
+    "trait/GWAS_3281.json",
+    "trait/GWAS_3451.json",
+    "trait/GWAS_3562.json",
+    "trait/GWAS_3605.json",
+    "trait/GWAS_387.json",
+    "trait/GWAS_414.json",
+    "trait/GWAS_4507.json",
+    "trait/GWAS_4936.json",
+    "trait/GWAS_684.json",
+    "trait/GWAS_688.json",
+    "trait/GWAS_717.json"
+  ],
+  "CDKN2B": [
+    "trait/GWAS_3472.json",
+    "trait/GWAS_4148.json",
+    "trait/GWAS_427.json",
+    "trait/GWAS_4995.json"
+  ],
+  "CDKN2BAS": [
+    "trait/GWAS_3980.json"
+  ],
+  "CDKN3": [
+    "trait/GWAS_287.json"
+  ],
+  "CDON": [
+    "trait/GWAS_2883.json"
+  ],
+  "CDRT4": [
+    "trait/GWAS_2523.json"
+  ],
+  "CDSN": [
+    "trait/GWAS_1.json"
+  ],
+  "CDYL": [
+    "trait/GWAS_4750.json"
+  ],
+  "CEBPB": [
+    "trait/GWAS_4698.json"
+  ],
+  "CEBPE": [
+    "trait/GWAS_2724.json"
+  ],
+  "CEBPG": [
+    "trait/GWAS_4693.json"
+  ],
+  "CELSR1": [
+    "trait/GWAS_624.json"
+  ],
+  "CELSR2": [
+    "trait/GWAS_1594.json",
+    "trait/GWAS_187.json",
+    "trait/GWAS_2290.json",
+    "trait/GWAS_4112.json",
+    "trait/GWAS_441.json",
+    "trait/GWAS_4757.json",
+    "trait/GWAS_707.json"
+  ],
+  "CENTD1": [
+    "trait/GWAS_2143.json"
+  ],
+  "CENTD2": [
+    "trait/GWAS_238.json"
+  ],
+  "CEP170P1": [
+    "trait/GWAS_1542.json"
+  ],
+  "CEP72": [
+    "trait/GWAS_3442.json"
+  ],
+  "CERKL": [
+    "trait/GWAS_4358.json"
+  ],
+  "CES1": [
+    "gene/CPIC_gene_CES1_36.json"
+  ],
+  "CETP": [
+    "gene/CPIC_gene_CETP_43.json",
+    "trait/GWAS_1376.json",
+    "trait/GWAS_192.json",
+    "trait/GWAS_2025.json",
+    "trait/GWAS_2789.json",
+    "trait/GWAS_2864.json",
+    "trait/GWAS_2866.json",
+    "trait/GWAS_2868.json",
+    "trait/GWAS_3360.json",
+    "trait/GWAS_383.json",
+    "trait/GWAS_4061.json",
+    "trait/GWAS_4435.json",
+    "trait/GWAS_4518.json",
+    "trait/GWAS_4627.json",
+    "trait/GWAS_4767.json",
+    "trait/GWAS_4821.json",
+    "trait/GWAS_4826.json",
+    "trait/GWAS_4838.json",
+    "trait/GWAS_94.json"
+  ],
+  "CFB": [
+    "trait/GWAS_2461.json",
+    "trait/GWAS_3464.json",
+    "trait/GWAS_4009.json"
+  ],
+  "CFH": [
+    "trait/GWAS_2107.json",
+    "trait/GWAS_2237.json",
+    "trait/GWAS_2460.json",
+    "trait/GWAS_3462.json",
+    "trait/GWAS_351.json",
+    "trait/GWAS_4008.json"
+  ],
+  "CFHR1": [
+    "trait/GWAS_3946.json"
+  ],
+  "CFHR3": [
+    "trait/GWAS_2092.json"
+  ],
+  "CFI": [
+    "trait/GWAS_2459.json",
+    "trait/GWAS_578.json"
+  ],
+  "CFTR": [
+    "gene/CPIC_gene_CFTR_103.json",
+    "guideline/CPIC_GL_CFTR_unknown_100409.json"
+  ],
+  "CGNL1": [
+    "trait/GWAS_4485.json"
+  ],
+  "CHCHD7": [
+    "trait/GWAS_2624.json"
+  ],
+  "CHCHD9": [
+    "trait/GWAS_619.json"
+  ],
+  "CHD1L": [
+    "trait/GWAS_1752.json",
+    "trait/GWAS_3666.json"
+  ],
+  "CHD4": [
+    "trait/GWAS_2191.json"
+  ],
+  "CHEK2": [
+    "trait/GWAS_3976.json"
+  ],
+  "CHI3L1": [
+    "trait/GWAS_2017.json"
+  ],
+  "CHM": [
+    "trait/GWAS_2589.json"
+  ],
+  "CHMP4C": [
+    "trait/GWAS_3079.json"
+  ],
+  "CHRM3": [
+    "trait/GWAS_1521.json",
+    "trait/GWAS_4977.json"
+  ],
+  "CHRNA3": [
+    "gene/CPIC_gene_CHRNA3_9.json",
+    "trait/GWAS_1686.json",
+    "trait/GWAS_271.json",
+    "trait/GWAS_4030.json"
+  ],
+  "CHRNA5": [
+    "trait/GWAS_1783.json",
+    "trait/GWAS_2173.json",
+    "trait/GWAS_3154.json",
+    "trait/GWAS_3267.json",
+    "trait/GWAS_4075.json",
+    "trait/GWAS_724.json",
+    "trait/GWAS_774.json",
+    "trait/GWAS_775.json",
+    "trait/GWAS_926.json"
+  ],
+  "CHRNB3": [
+    "trait/GWAS_2456.json"
+  ],
+  "CHST11": [
+    "trait/GWAS_4017.json"
+  ],
+  "CHST8": [
+    "trait/GWAS_284.json"
+  ],
+  "CHUK": [
+    "trait/GWAS_1411.json"
+  ],
+  "CILP2": [
+    "trait/GWAS_1854.json"
+  ],
+  "CISD1": [
+    "trait/GWAS_4185.json"
+  ],
+  "CITED2": [
+    "trait/GWAS_208.json",
+    "trait/GWAS_2235.json",
+    "trait/GWAS_2319.json",
+    "trait/GWAS_2570.json",
+    "trait/GWAS_746.json"
+  ],
+  "CKDN2B": [
+    "trait/GWAS_4904.json"
+  ],
+  "CLCN6": [
+    "trait/GWAS_4494.json"
+  ],
+  "CLDN1": [
+    "trait/GWAS_3220.json"
+  ],
+  "CLDN14": [
+    "trait/GWAS_3607.json"
+  ],
+  "CLDN17": [
+    "trait/GWAS_3690.json"
+  ],
+  "CLEC16A": [
+    "trait/GWAS_1609.json",
+    "trait/GWAS_3004.json",
+    "trait/GWAS_3118.json",
+    "trait/GWAS_3519.json"
+  ],
+  "CLGN": [
+    "trait/GWAS_1385.json"
+  ],
+  "CLK4": [
+    "trait/GWAS_630.json"
+  ],
+  "CLOCK": [
+    "trait/GWAS_1421.json"
+  ],
+  "CLPTM1L": [
+    "trait/GWAS_1550.json",
+    "trait/GWAS_3587.json",
+    "trait/GWAS_3893.json"
+  ],
+  "CLSTN2": [
+    "trait/GWAS_3153.json"
+  ],
+  "CLU": [
+    "trait/GWAS_1548.json",
+    "trait/GWAS_1707.json",
+    "trait/GWAS_2830.json"
+  ],
+  "CLYBL": [
+    "trait/GWAS_2469.json"
+  ],
+  "CMKLR1": [
+    "trait/GWAS_2362.json"
+  ],
+  "CMTM7": [
+    "trait/GWAS_1601.json"
+  ],
+  "CMYC": [
+    "trait/GWAS_2875.json"
+  ],
+  "CNNM2": [
+    "trait/GWAS_2920.json"
+  ],
+  "CNTF": [
+    "trait/GWAS_4193.json"
+  ],
+  "CNTN4": [
+    "trait/GWAS_126.json",
+    "trait/GWAS_3579.json",
+    "trait/GWAS_4847.json"
+  ],
+  "CNTN5": [
+    "trait/GWAS_2441.json",
+    "trait/GWAS_2544.json",
+    "trait/GWAS_2906.json"
+  ],
+  "CNTN6": [
+    "trait/GWAS_1598.json",
+    "trait/GWAS_4645.json"
+  ],
+  "CNTNAP2": [
+    "trait/GWAS_1539.json",
+    "trait/GWAS_2111.json",
+    "trait/GWAS_4644.json"
+  ],
+  "CNTNAP5": [
+    "trait/GWAS_76.json"
+  ],
+  "COBL": [
+    "trait/GWAS_1036.json",
+    "trait/GWAS_631.json"
+  ],
+  "COG6": [
+    "trait/GWAS_773.json"
+  ],
+  "COL11A1": [
+    "trait/GWAS_3665.json"
+  ],
+  "COL13A1": [
+    "trait/GWAS_914.json"
+  ],
+  "COL17A1": [
+    "trait/GWAS_244.json"
+  ],
+  "COL1A1": [
+    "trait/GWAS_2893.json"
+  ],
+  "COL1A2": [
+    "trait/GWAS_2511.json",
+    "trait/GWAS_4849.json"
+  ],
+  "COL22A1": [
+    "gene/CPIC_gene_COL22A1_73.json",
+    "trait/GWAS_661.json",
+    "trait/GWAS_861.json"
+  ],
+  "COL25A1": [
+    "trait/GWAS_2357.json"
+  ],
+  "COL28A1": [
+    "trait/GWAS_2518.json"
+  ],
+  "COL4A1": [
+    "trait/GWAS_3589.json",
+    "trait/GWAS_3709.json",
+    "trait/GWAS_3813.json"
+  ],
+  "COL4A3BP": [
+    "trait/GWAS_2717.json",
+    "trait/GWAS_3001.json"
+  ],
+  "COL5A1": [
+    "trait/GWAS_3196.json",
+    "trait/GWAS_3738.json"
+  ],
+  "COL8A1": [
+    "trait/GWAS_64.json"
+  ],
+  "COMMD7": [
+    "trait/GWAS_879.json"
+  ],
+  "COMT": [
+    "gene/CPIC_gene_COMT_108.json"
+  ],
+  "COQ2": [
+    "gene/CPIC_gene_COQ2_14.json"
+  ],
+  "COX10": [
+    "trait/GWAS_4679.json"
+  ],
+  "CPAMD8": [
+    "trait/GWAS_1324.json"
+  ],
+  "CPEB4": [
+    "trait/GWAS_3236.json"
+  ],
+  "CPM": [
+    "trait/GWAS_4219.json"
+  ],
+  "CPPED1": [
+    "trait/GWAS_878.json"
+  ],
+  "CPS1": [
+    "gene/CPIC_gene_CPS1_20.json",
+    "trait/GWAS_1164.json",
+    "trait/GWAS_231.json",
+    "trait/GWAS_3760.json",
+    "trait/GWAS_4816.json"
+  ],
+  "CPT1A": [
+    "trait/GWAS_4617.json"
+  ],
+  "CPT1B": [
+    "trait/GWAS_2071.json"
+  ],
+  "CPVL": [
+    "trait/GWAS_2890.json"
+  ],
+  "CR1": [
+    "trait/GWAS_2782.json",
+    "trait/GWAS_4663.json"
+  ],
+  "CR1L": [
+    "trait/GWAS_4667.json"
+  ],
+  "CRB1": [
+    "trait/GWAS_3067.json"
+  ],
+  "CRCP": [
+    "trait/GWAS_3636.json"
+  ],
+  "CREB5": [
+    "trait/GWAS_1886.json"
+  ],
+  "CRHR1": [
+    "gene/CPIC_gene_CRHR1_11.json",
+    "trait/GWAS_1204.json",
+    "trait/GWAS_2548.json"
+  ],
+  "CRHR2": [
+    "gene/CPIC_gene_CRHR2_70.json"
+  ],
+  "CRIM1": [
+    "trait/GWAS_2985.json"
+  ],
+  "CRP": [
+    "trait/GWAS_1441.json",
+    "trait/GWAS_2324.json",
+    "trait/GWAS_2449.json",
+    "trait/GWAS_2755.json",
+    "trait/GWAS_4208.json",
+    "trait/GWAS_710.json"
+  ],
+  "CRPP1": [
+    "trait/GWAS_4592.json"
+  ],
+  "CRTC1": [
+    "trait/GWAS_4307.json"
+  ],
+  "CRTC3": [
+    "trait/GWAS_3427.json",
+    "trait/GWAS_4682.json"
+  ],
+  "CRYGC": [
+    "trait/GWAS_1880.json"
+  ],
+  "CSF1": [
+    "trait/GWAS_4558.json"
+  ],
+  "CSF2RA": [
+    "trait/GWAS_22.json"
+  ],
+  "CSK": [
+    "trait/GWAS_1368.json"
+  ],
+  "CSMD1": [
+    "trait/GWAS_3564.json",
+    "trait/GWAS_4955.json"
+  ],
+  "CSMD2": [
+    "trait/GWAS_1428.json",
+    "trait/GWAS_3997.json",
+    "trait/GWAS_4898.json"
+  ],
+  "CSNK2A2": [
+    "trait/GWAS_4572.json"
+  ],
+  "CSPG3": [
+    "trait/GWAS_4833.json"
+  ],
+  "CSRP2BP": [
+    "trait/GWAS_2337.json"
+  ],
+  "CST5": [
+    "trait/GWAS_1327.json"
+  ],
+  "CST9": [
+    "trait/GWAS_2330.json"
+  ],
+  "CTAGE1": [
+    "trait/GWAS_862.json"
+  ],
+  "CTBP2": [
+    "trait/GWAS_438.json"
+  ],
+  "CTC": [
+    "trait/GWAS_456.json"
+  ],
+  "CTDSPL": [
+    "trait/GWAS_2895.json"
+  ],
+  "CTLA4": [
+    "trait/GWAS_1416.json",
+    "trait/GWAS_1620.json",
+    "trait/GWAS_3786.json"
+  ],
+  "CTNNA2": [
+    "trait/GWAS_3257.json",
+    "trait/GWAS_3667.json"
+  ],
+  "CTNNA3": [
+    "trait/GWAS_1973.json",
+    "trait/GWAS_3348.json"
+  ],
+  "CTNNB1": [
+    "trait/GWAS_377.json"
+  ],
+  "CTNNBL1": [
+    "trait/GWAS_116.json"
+  ],
+  "CTNND2": [
+    "trait/GWAS_288.json"
+  ],
+  "CTSH": [
+    "trait/GWAS_1031.json",
+    "trait/GWAS_548.json"
+  ],
+  "CUBN": [
+    "trait/GWAS_2645.json",
+    "trait/GWAS_2957.json",
+    "trait/GWAS_2988.json"
+  ],
+  "CUEDC1": [
+    "trait/GWAS_4065.json"
+  ],
+  "CUGBP2": [
+    "trait/GWAS_2859.json"
+  ],
+  "CXCL12": [
+    "trait/GWAS_1541.json",
+    "trait/GWAS_2172.json",
+    "trait/GWAS_4965.json",
+    "trait/GWAS_718.json"
+  ],
+  "CXCR4": [
+    "trait/GWAS_2777.json",
+    "trait/GWAS_3986.json"
+  ],
+  "CXCR5": [
+    "trait/GWAS_4200.json"
+  ],
+  "CYB5R1": [
+    "gene/CPIC_gene_CYB5R1_59.json"
+  ],
+  "CYB5R2": [
+    "gene/CPIC_gene_CYB5R2_71.json"
+  ],
+  "CYB5R3": [
+    "gene/CPIC_gene_CYB5R3_8.json"
+  ],
+  "CYB5R4": [
+    "gene/CPIC_gene_CYB5R4_74.json"
+  ],
+  "CYP17A1": [
+    "trait/GWAS_1365.json"
+  ],
+  "CYP19A1": [
+    "trait/GWAS_2735.json",
+    "trait/GWAS_3285.json"
+  ],
+  "CYP1A1": [
+    "trait/GWAS_1229.json",
+    "trait/GWAS_2304.json"
+  ],
+  "CYP1A2": [
+    "variant/PharmGKB_CA_CA_PA27093.json"
+  ],
+  "CYP20A1": [
+    "trait/GWAS_4541.json"
+  ],
+  "CYP27B1": [
+    "trait/GWAS_2283.json"
+  ],
+  "CYP2A6": [
+    "trait/GWAS_930.json"
+  ],
+  "CYP2A7P1": [
+    "gene/CPIC_gene_CYP2A7P1_78.json"
+  ],
+  "CYP2B6": [
+    "gene/CPIC_gene_CYP2B6_129.json",
+    "guideline/CPIC_GL_CYP2B6_unknown_104245.json",
+    "guideline/CPIC_GL_CYP2B6_unknown_5290481.json",
+    "trait/GWAS_2457.json"
+  ],
+  "CYP2C18": [
+    "trait/GWAS_1077.json",
+    "trait/GWAS_1660.json"
+  ],
+  "CYP2C19": [
+    "gene/CPIC_gene_CYP2C19_125.json",
+    "guideline/CPIC_GL_CYP2C19_unknown_100410.json",
+    "guideline/CPIC_GL_CYP2C19_unknown_100411.json",
+    "guideline/CPIC_GL_CYP2C19_unknown_100414.json",
+    "guideline/CPIC_GL_CYP2C19_unknown_110076.json",
+    "guideline/CPIC_GL_CYP2C19_unknown_3070400.json",
+    "trait/GWAS_1078.json",
+    "variant/PharmGKB_CA_CA_PA124.json"
+  ],
+  "CYP2C8": [
+    "gene/CPIC_gene_CYP2C8_109.json",
+    "trait/GWAS_1056.json"
+  ],
+  "CYP2C9": [
+    "gene/CPIC_gene_CYP2C9_105.json",
+    "guideline/CPIC_GL_CYP2C9_unknown_100412.json",
+    "guideline/CPIC_GL_CYP2C9_unknown_100425.json",
+    "guideline/CPIC_GL_CYP2C9_unknown_110058.json",
+    "trait/GWAS_2023.json",
+    "trait/GWAS_2749.json",
+    "trait/GWAS_282.json",
+    "trait/GWAS_4070.json",
+    "trait/GWAS_4235.json",
+    "variant/PharmGKB_CA_CA_PA126.json"
+  ],
+  "CYP2D6": [
+    "gene/CPIC_gene_CYP2D6_111.json",
+    "guideline/CPIC_GL_CYP2D6_unknown_100413.json",
+    "guideline/CPIC_GL_CYP2D6_unknown_100415.json",
+    "guideline/CPIC_GL_CYP2D6_unknown_100416.json",
+    "guideline/CPIC_GL_CYP2D6_unknown_100417.json",
+    "guideline/CPIC_GL_CYP2D6_unknown_104243.json",
+    "guideline/CPIC_GL_CYP2D6_unknown_5290480.json",
+    "variant/PharmGKB_CA_CA_PA128.json"
+  ],
+  "CYP3A4": [
+    "gene/CPIC_gene_CYP3A4_110.json",
+    "variant/PharmGKB_CA_CA_PA130.json"
+  ],
+  "CYP3A5": [
+    "gene/CPIC_gene_CYP3A5_124.json",
+    "guideline/CPIC_GL_CYP3A5_unknown_100418.json",
+    "variant/PharmGKB_CA_CA_PA131.json"
+  ],
+  "CYP4A": [
+    "trait/GWAS_4815.json"
+  ],
+  "CYP4B1": [
+    "trait/GWAS_4151.json"
+  ],
+  "CYP4F2": [
+    "gene/CPIC_gene_CYP4F2_95.json",
+    "trait/GWAS_1553.json",
+    "trait/GWAS_2993.json",
+    "trait/GWAS_4067.json"
+  ],
+  "CYP51A1": [
+    "trait/GWAS_3098.json"
+  ],
+  "CYYR1": [
+    "trait/GWAS_4676.json"
+  ],
+  "DAAM2": [
+    "trait/GWAS_3045.json"
+  ],
+  "DAP": [
+    "trait/GWAS_265.json"
+  ],
+  "DBC1": [
+    "trait/GWAS_1635.json",
+    "trait/GWAS_3408.json"
+  ],
+  "DBH": [
+    "trait/GWAS_273.json"
+  ],
+  "DCAMKL1": [
+    "trait/GWAS_2487.json"
+  ],
+  "DCD": [
+    "trait/GWAS_2249.json"
+  ],
+  "DCDC2": [
+    "trait/GWAS_3106.json"
+  ],
+  "DCDC5": [
+    "trait/GWAS_1709.json",
+    "trait/GWAS_991.json"
+  ],
+  "DCHS2": [
+    "trait/GWAS_3686.json"
+  ],
+  "DCLK2": [
+    "trait/GWAS_4740.json"
+  ],
+  "DCLRE1B": [
+    "trait/GWAS_3583.json"
+  ],
+  "DCN": [
+    "trait/GWAS_4748.json"
+  ],
+  "DCTN5": [
+    "trait/GWAS_1515.json"
+  ],
+  "DDC": [
+    "trait/GWAS_1922.json",
+    "trait/GWAS_3203.json"
+  ],
+  "DDRGK1": [
+    "trait/GWAS_848.json"
+  ],
+  "DDX21": [
+    "trait/GWAS_48.json"
+  ],
+  "DDX60L": [
+    "trait/GWAS_2101.json"
+  ],
+  "DEFA": [
+    "trait/GWAS_864.json"
+  ],
+  "DENND1A": [
+    "trait/GWAS_2426.json",
+    "trait/GWAS_2453.json",
+    "trait/GWAS_2656.json",
+    "trait/GWAS_3122.json"
+  ],
+  "DENND1B": [
+    "trait/GWAS_1237.json"
+  ],
+  "DENND4B": [
+    "trait/GWAS_1984.json"
+  ],
+  "DGCR5": [
+    "trait/GWAS_4003.json"
+  ],
+  "DGKB": [
+    "trait/GWAS_2826.json"
+  ],
+  "DGKH": [
+    "trait/GWAS_2280.json",
+    "trait/GWAS_2741.json"
+  ],
+  "DGKK": [
+    "trait/GWAS_4543.json"
+  ],
+  "DGKQ": [
+    "trait/GWAS_3409.json"
+  ],
+  "DGKZ": [
+    "trait/GWAS_828.json"
+  ],
+  "DHX15": [
+    "trait/GWAS_1549.json"
+  ],
+  "DIO3": [
+    "trait/GWAS_2583.json"
+  ],
+  "DIRAS2": [
+    "trait/GWAS_2900.json"
+  ],
+  "DIS3L2": [
+    "trait/GWAS_1021.json",
+    "trait/GWAS_3101.json"
+  ],
+  "DISC1": [
+    "trait/GWAS_4529.json",
+    "trait/GWAS_4763.json"
+  ],
+  "DKK1": [
+    "trait/GWAS_1113.json"
+  ],
+  "DLD": [
+    "trait/GWAS_2838.json",
+    "trait/GWAS_2839.json",
+    "trait/GWAS_3882.json"
+  ],
+  "DLEU7": [
+    "trait/GWAS_3838.json"
+  ],
+  "DLG2": [
+    "trait/GWAS_1763.json",
+    "trait/GWAS_4043.json",
+    "trait/GWAS_664.json"
+  ],
+  "DMBX1": [
+    "trait/GWAS_629.json"
+  ],
+  "DMRT2": [
+    "trait/GWAS_4179.json"
+  ],
+  "DNAH10": [
+    "trait/GWAS_4607.json"
+  ],
+  "DNAH11": [
+    "trait/GWAS_1951.json",
+    "trait/GWAS_397.json"
+  ],
+  "DNAH5": [
+    "trait/GWAS_23.json",
+    "trait/GWAS_2491.json",
+    "trait/GWAS_2898.json"
+  ],
+  "DNAI2": [
+    "trait/GWAS_3428.json"
+  ],
+  "DNAJC6": [
+    "trait/GWAS_4121.json"
+  ],
+  "DNAPTP6": [
+    "trait/GWAS_302.json"
+  ],
+  "DNM1": [
+    "trait/GWAS_3913.json"
+  ],
+  "DNM3": [
+    "trait/GWAS_1857.json",
+    "trait/GWAS_1944.json"
+  ],
+  "DNMT3B": [
+    "trait/GWAS_4696.json"
+  ],
+  "DOCK1": [
+    "trait/GWAS_611.json"
+  ],
+  "DOCK2": [
+    "trait/GWAS_1756.json"
+  ],
+  "DOCK7": [
+    "trait/GWAS_1449.json",
+    "trait/GWAS_2293.json",
+    "trait/GWAS_3370.json",
+    "trait/GWAS_3651.json"
+  ],
+  "DOK2": [
+    "trait/GWAS_2236.json"
+  ],
+  "DOK5": [
+    "trait/GWAS_3764.json"
+  ],
+  "DOT1L": [
+    "trait/GWAS_1154.json",
+    "trait/GWAS_2625.json"
+  ],
+  "DPP6": [
+    "trait/GWAS_1165.json",
+    "trait/GWAS_2653.json",
+    "trait/GWAS_74.json"
+  ],
+  "DPPA4": [
+    "trait/GWAS_248.json"
+  ],
+  "DPT": [
+    "trait/GWAS_994.json"
+  ],
+  "DPY19L3": [
+    "trait/GWAS_1193.json"
+  ],
+  "DPYD": [
+    "gene/CPIC_gene_DPYD_93.json",
+    "guideline/CPIC_GL_DPYD_unknown_100419.json",
+    "trait/GWAS_4981.json",
+    "variant/PharmGKB_CA_CA_PA145.json"
+  ],
+  "DQ141194": [
+    "trait/GWAS_1726.json"
+  ],
+  "DQA1": [
+    "trait/GWAS_4903.json"
+  ],
+  "DRD2": [
+    "gene/CPIC_gene_DRD2_3.json",
+    "trait/GWAS_2808.json",
+    "trait/GWAS_842.json"
+  ],
+  "DRIM": [
+    "trait/GWAS_25.json"
+  ],
+  "DSC3": [
+    "trait/GWAS_2241.json"
+  ],
+  "DSCAM": [
+    "trait/GWAS_4500.json"
+  ],
+  "DSEL": [
+    "trait/GWAS_4437.json"
+  ],
+  "DSG1": [
+    "trait/GWAS_2063.json"
+  ],
+  "DUS4L": [
+    "trait/GWAS_2335.json"
+  ],
+  "DUSP10": [
+    "trait/GWAS_283.json"
+  ],
+  "DUSP9": [
+    "trait/GWAS_239.json"
+  ],
+  "DUT": [
+    "trait/GWAS_2238.json"
+  ],
+  "DUXA": [
+    "trait/GWAS_4182.json"
+  ],
+  "DYNC2H1": [
+    "gene/CPIC_gene_DYNC2H1_22.json"
+  ],
+  "DYSF": [
+    "trait/GWAS_1753.json",
+    "trait/GWAS_669.json"
+  ],
+  "ECE2": [
+    "trait/GWAS_4483.json"
+  ],
+  "ECGF1": [
+    "trait/GWAS_4369.json"
+  ],
+  "ECHDC1": [
+    "trait/GWAS_783.json"
+  ],
+  "ECHS1": [
+    "trait/GWAS_3096.json"
+  ],
+  "EDG7": [
+    "trait/GWAS_3910.json"
+  ],
+  "EDIL3": [
+    "trait/GWAS_4242.json"
+  ],
+  "EDN3": [
+    "trait/GWAS_1749.json"
+  ],
+  "EEFSEC": [
+    "trait/GWAS_291.json"
+  ],
+  "EEPD1": [
+    "trait/GWAS_4979.json"
+  ],
+  "EFCAB4B": [
+    "trait/GWAS_3202.json"
+  ],
+  "EFEMP1": [
+    "trait/GWAS_13.json",
+    "trait/GWAS_1444.json",
+    "trait/GWAS_1889.json",
+    "trait/GWAS_3374.json"
+  ],
+  "EFNA5": [
+    "trait/GWAS_1679.json"
+  ],
+  "EGF": [
+    "gene/CPIC_gene_EGF_21.json"
+  ],
+  "EGFLAM": [
+    "trait/GWAS_4652.json"
+  ],
+  "EHBP1": [
+    "trait/GWAS_2130.json",
+    "trait/GWAS_3059.json",
+    "trait/GWAS_436.json"
+  ],
+  "EHD3": [
+    "trait/GWAS_3231.json"
+  ],
+  "EHF": [
+    "trait/GWAS_2037.json",
+    "trait/GWAS_285.json"
+  ],
+  "EIF3H": [
+    "trait/GWAS_1785.json"
+  ],
+  "EIF4E2": [
+    "trait/GWAS_948.json"
+  ],
+  "ELF1": [
+    "trait/GWAS_944.json"
+  ],
+  "ELL2": [
+    "trait/GWAS_1535.json",
+    "trait/GWAS_1537.json"
+  ],
+  "ELMO1": [
+    "trait/GWAS_1148.json",
+    "trait/GWAS_2885.json",
+    "trait/GWAS_3715.json",
+    "trait/GWAS_3744.json",
+    "trait/GWAS_846.json"
+  ],
+  "ELOVL2": [
+    "trait/GWAS_4858.json"
+  ],
+  "ELOVL5": [
+    "trait/GWAS_133.json"
+  ],
+  "ELTD1": [
+    "trait/GWAS_636.json"
+  ],
+  "EMR4P": [
+    "trait/GWAS_1545.json"
+  ],
+  "ENSG00000118975": [
+    "trait/GWAS_1263.json"
+  ],
+  "EPAS1": [
+    "trait/GWAS_4544.json"
+  ],
+  "EPB41L2": [
+    "trait/GWAS_1982.json"
+  ],
+  "EPC2": [
+    "trait/GWAS_1755.json",
+    "trait/GWAS_3429.json",
+    "trait/GWAS_976.json"
+  ],
+  "EPDR1": [
+    "trait/GWAS_4175.json"
+  ],
+  "EPGN": [
+    "trait/GWAS_1718.json"
+  ],
+  "EPHA4": [
+    "trait/GWAS_203.json",
+    "trait/GWAS_420.json"
+  ],
+  "EPHB1": [
+    "trait/GWAS_4737.json"
+  ],
+  "EPHX1": [
+    "gene/CPIC_gene_EPHX1_112.json"
+  ],
+  "EPS8": [
+    "trait/GWAS_1149.json"
+  ],
+  "ERAP1": [
+    "trait/GWAS_1117.json",
+    "trait/GWAS_3484.json"
+  ],
+  "ERAP2": [
+    "trait/GWAS_4783.json"
+  ],
+  "ERBB3": [
+    "trait/GWAS_1029.json",
+    "trait/GWAS_1418.json",
+    "trait/GWAS_2013.json",
+    "trait/GWAS_430.json"
+  ],
+  "ERBB4": [
+    "trait/GWAS_3190.json"
+  ],
+  "ERC2": [
+    "trait/GWAS_42.json"
+  ],
+  "ERCC1": [
+    "gene/CPIC_gene_ERCC1_0.json"
+  ],
+  "ERCC4": [
+    "trait/GWAS_2195.json"
+  ],
+  "ERO1LB": [
+    "trait/GWAS_213.json"
+  ],
+  "ESR1": [
+    "trait/GWAS_1206.json",
+    "trait/GWAS_1440.json",
+    "trait/GWAS_1625.json",
+    "trait/GWAS_3353.json",
+    "trait/GWAS_3577.json",
+    "trait/GWAS_4433.json",
+    "trait/GWAS_584.json"
+  ],
+  "ESRRG": [
+    "trait/GWAS_245.json",
+    "trait/GWAS_4553.json"
+  ],
+  "ETAA1": [
+    "trait/GWAS_3443.json"
+  ],
+  "ETFDH": [
+    "trait/GWAS_1073.json",
+    "trait/GWAS_4857.json"
+  ],
+  "ETS1": [
+    "trait/GWAS_1101.json",
+    "trait/GWAS_3506.json",
+    "trait/GWAS_7.json"
+  ],
+  "ETV3L": [
+    "trait/GWAS_3898.json"
+  ],
+  "ETV5": [
+    "trait/GWAS_2355.json"
+  ],
+  "EVI5L": [
+    "trait/GWAS_3283.json"
+  ],
+  "EVX1": [
+    "trait/GWAS_3272.json"
+  ],
+  "EXOC2": [
+    "trait/GWAS_3660.json",
+    "trait/GWAS_4353.json",
+    "trait/GWAS_4654.json",
+    "trait/GWAS_499.json"
+  ],
+  "EXOC3": [
+    "trait/GWAS_259.json"
+  ],
+  "EXOC4": [
+    "trait/GWAS_128.json"
+  ],
+  "EXT1": [
+    "trait/GWAS_3376.json"
+  ],
+  "EYA4": [
+    "trait/GWAS_3670.json"
+  ],
+  "F11": [
+    "trait/GWAS_3730.json",
+    "trait/GWAS_4648.json",
+    "trait/GWAS_4649.json"
+  ],
+  "F12": [
+    "trait/GWAS_3733.json"
+  ],
+  "F5": [
+    "gene/CPIC_gene_F5_7.json"
+  ],
+  "FADS1": [
+    "trait/GWAS_1175.json",
+    "trait/GWAS_1593.json",
+    "trait/GWAS_2790.json",
+    "trait/GWAS_340.json",
+    "trait/GWAS_3937.json",
+    "trait/GWAS_4135.json",
+    "trait/GWAS_4330.json",
+    "trait/GWAS_4334.json",
+    "trait/GWAS_4623.json",
+    "trait/GWAS_4834.json",
+    "trait/GWAS_565.json",
+    "trait/GWAS_709.json"
+  ],
+  "FADS2": [
+    "trait/GWAS_1950.json",
+    "trait/GWAS_3228.json",
+    "trait/GWAS_392.json",
+    "trait/GWAS_610.json"
+  ],
+  "FADS3": [
+    "trait/GWAS_2407.json"
+  ],
+  "FAIM2": [
+    "trait/GWAS_1909.json",
+    "trait/GWAS_2921.json"
+  ],
+  "FAM110C": [
+    "trait/GWAS_3109.json"
+  ],
+  "FAM113B": [
+    "trait/GWAS_3917.json"
+  ],
+  "FAM135B": [
+    "trait/GWAS_2680.json",
+    "trait/GWAS_4465.json"
+  ],
+  "FAM13A": [
+    "trait/GWAS_1698.json",
+    "trait/GWAS_2224.json",
+    "trait/GWAS_4072.json"
+  ],
+  "FAM155A": [
+    "trait/GWAS_1274.json",
+    "trait/GWAS_2502.json"
+  ],
+  "FAM174B": [
+    "trait/GWAS_2446.json"
+  ],
+  "FAM179A": [
+    "trait/GWAS_1009.json"
+  ],
+  "FAM19A2": [
+    "trait/GWAS_4958.json"
+  ],
+  "FAM3C": [
+    "trait/GWAS_2479.json"
+  ],
+  "FAM49B": [
+    "trait/GWAS_1761.json"
+  ],
+  "FAM55B": [
+    "trait/GWAS_113.json"
+  ],
+  "FAM5C": [
+    "trait/GWAS_2908.json",
+    "trait/GWAS_3725.json"
+  ],
+  "FAM82A1": [
+    "trait/GWAS_4499.json"
+  ],
+  "FAM84A": [
+    "trait/GWAS_4738.json"
+  ],
+  "FAM91A1": [
+    "trait/GWAS_4108.json"
+  ],
+  "FARP1": [
+    "trait/GWAS_1161.json"
+  ],
+  "FASTKD2": [
+    "trait/GWAS_4514.json"
+  ],
+  "FAT1": [
+    "trait/GWAS_2391.json"
+  ],
+  "FBN1": [
+    "trait/GWAS_27.json"
+  ],
+  "FBP2": [
+    "trait/GWAS_1002.json"
+  ],
+  "FBX07": [
+    "trait/GWAS_1940.json"
+  ],
+  "FBXO32": [
+    "trait/GWAS_1822.json"
+  ],
+  "FBXW11": [
+    "trait/GWAS_1443.json"
+  ],
+  "FCER1A": [
+    "trait/GWAS_1318.json",
+    "trait/GWAS_3935.json",
+    "trait/GWAS_4092.json"
+  ],
+  "FCGR2A": [
+    "trait/GWAS_1347.json",
+    "trait/GWAS_253.json",
+    "trait/GWAS_4800.json"
+  ],
+  "FCGR3A": [
+    "gene/CPIC_gene_FCGR3A_27.json"
+  ],
+  "FDFT1": [
+    "trait/GWAS_915.json"
+  ],
+  "FDPS": [
+    "gene/CPIC_gene_FDPS_61.json"
+  ],
+  "FDPSP": [
+    "trait/GWAS_2563.json"
+  ],
+  "FEN": [
+    "trait/GWAS_338.json"
+  ],
+  "FGB": [
+    "trait/GWAS_3756.json",
+    "trait/GWAS_4944.json"
+  ],
+  "FGF1": [
+    "trait/GWAS_250.json"
+  ],
+  "FGF12": [
+    "trait/GWAS_3701.json"
+  ],
+  "FGF14": [
+    "trait/GWAS_983.json"
+  ],
+  "FGF3": [
+    "trait/GWAS_1151.json"
+  ],
+  "FGF4": [
+    "trait/GWAS_850.json"
+  ],
+  "FGF5": [
+    "trait/GWAS_1363.json",
+    "trait/GWAS_4033.json"
+  ],
+  "FGFR2": [
+    "trait/GWAS_1278.json",
+    "trait/GWAS_2141.json",
+    "trait/GWAS_2278.json",
+    "trait/GWAS_334.json",
+    "trait/GWAS_3628.json",
+    "trait/GWAS_433.json",
+    "trait/GWAS_585.json"
+  ],
+  "FGGY": [
+    "trait/GWAS_1091.json"
+  ],
+  "FHIT": [
+    "trait/GWAS_1010.json",
+    "trait/GWAS_2067.json",
+    "trait/GWAS_2219.json",
+    "trait/GWAS_531.json"
+  ],
+  "FHOD3": [
+    "trait/GWAS_3719.json"
+  ],
+  "FIGN": [
+    "trait/GWAS_3778.json"
+  ],
+  "FKBP5": [
+    "gene/CPIC_gene_FKBP5_38.json"
+  ],
+  "FLI1": [
+    "trait/GWAS_2442.json"
+  ],
+  "FLJ11017": [
+    "trait/GWAS_560.json"
+  ],
+  "FLJ20309": [
+    "trait/GWAS_3611.json"
+  ],
+  "FLJ21820": [
+    "trait/GWAS_1597.json"
+  ],
+  "FLJ22536": [
+    "trait/GWAS_2661.json",
+    "trait/GWAS_4343.json"
+  ],
+  "FLJ31818": [
+    "trait/GWAS_3895.json"
+  ],
+  "FLJ32831": [
+    "trait/GWAS_2513.json"
+  ],
+  "FLJ34870": [
+    "trait/GWAS_2217.json",
+    "trait/GWAS_887.json"
+  ],
+  "FLJ39061": [
+    "trait/GWAS_3899.json"
+  ],
+  "FLJ41733": [
+    "trait/GWAS_4224.json"
+  ],
+  "FLJ42280": [
+    "trait/GWAS_1210.json",
+    "trait/GWAS_1708.json"
+  ],
+  "FLJ44385": [
+    "trait/GWAS_1054.json"
+  ],
+  "FLJ45974": [
+    "trait/GWAS_4138.json"
+  ],
+  "FLOT1": [
+    "gene/CPIC_gene_FLOT1_79.json"
+  ],
+  "FLRT3": [
+    "trait/GWAS_3819.json"
+  ],
+  "FMN2": [
+    "trait/GWAS_221.json"
+  ],
+  "FMO3": [
+    "trait/GWAS_1079.json"
+  ],
+  "FN3K": [
+    "trait/GWAS_4277.json"
+  ],
+  "FNDC4": [
+    "trait/GWAS_2198.json"
+  ],
+  "FNTB": [
+    "trait/GWAS_997.json"
+  ],
+  "FOLH1": [
+    "trait/GWAS_4559.json"
+  ],
+  "FOS": [
+    "trait/GWAS_4789.json"
+  ],
+  "FOSL2": [
+    "trait/GWAS_4805.json"
+  ],
+  "FOXA2": [
+    "trait/GWAS_1254.json"
+  ],
+  "FOXE1": [
+    "trait/GWAS_1962.json",
+    "trait/GWAS_2182.json"
+  ],
+  "FOXL1": [
+    "trait/GWAS_1211.json",
+    "trait/GWAS_381.json"
+  ],
+  "FOXL2": [
+    "trait/GWAS_4107.json"
+  ],
+  "FOXO1": [
+    "trait/GWAS_2886.json"
+  ],
+  "FOXO3": [
+    "trait/GWAS_2649.json"
+  ],
+  "FOXP1": [
+    "trait/GWAS_2220.json"
+  ],
+  "FOXP2": [
+    "trait/GWAS_233.json",
+    "trait/GWAS_293.json"
+  ],
+  "FOXP4": [
+    "trait/GWAS_4287.json"
+  ],
+  "FOXQ1": [
+    "trait/GWAS_2654.json"
+  ],
+  "FRAP1": [
+    "trait/GWAS_4971.json"
+  ],
+  "FREM1": [
+    "trait/GWAS_3377.json"
+  ],
+  "FRMD4A": [
+    "trait/GWAS_4946.json"
+  ],
+  "FRMD5": [
+    "trait/GWAS_4841.json"
+  ],
+  "FRMD6": [
+    "trait/GWAS_2965.json",
+    "trait/GWAS_3495.json"
+  ],
+  "FRS2": [
+    "trait/GWAS_1314.json"
+  ],
+  "FSHB": [
+    "trait/GWAS_1732.json"
+  ],
+  "FSHR": [
+    "trait/GWAS_1905.json"
+  ],
+  "FSTL5": [
+    "trait/GWAS_4513.json"
+  ],
+  "FTO": [
+    "trait/GWAS_1246.json",
+    "trait/GWAS_1379.json",
+    "trait/GWAS_1399.json",
+    "trait/GWAS_1559.json",
+    "trait/GWAS_2255.json",
+    "trait/GWAS_2287.json",
+    "trait/GWAS_235.json",
+    "trait/GWAS_2482.json",
+    "trait/GWAS_2556.json",
+    "trait/GWAS_2878.json",
+    "trait/GWAS_2917.json",
+    "trait/GWAS_3574.json",
+    "trait/GWAS_3615.json",
+    "trait/GWAS_402.json",
+    "trait/GWAS_4481.json",
+    "trait/GWAS_4611.json",
+    "trait/GWAS_4674.json",
+    "trait/GWAS_95.json"
+  ],
+  "FUBP3": [
+    "trait/GWAS_2626.json"
+  ],
+  "FUSSEL18": [
+    "trait/GWAS_2375.json"
+  ],
+  "FUT2": [
+    "trait/GWAS_2333.json",
+    "trait/GWAS_2644.json",
+    "trait/GWAS_2821.json",
+    "trait/GWAS_2994.json",
+    "trait/GWAS_4820.json",
+    "trait/GWAS_555.json"
+  ],
+  "FUT4": [
+    "trait/GWAS_4705.json"
+  ],
+  "FUT8": [
+    "trait/GWAS_2181.json",
+    "trait/GWAS_561.json"
+  ],
+  "FXR1": [
+    "trait/GWAS_3576.json"
+  ],
+  "G6PC2": [
+    "trait/GWAS_1932.json",
+    "trait/GWAS_2531.json",
+    "trait/GWAS_3655.json",
+    "trait/GWAS_4273.json",
+    "trait/GWAS_460.json",
+    "trait/GWAS_512.json"
+  ],
+  "G6PD": [
+    "gene/CPIC_gene_G6PD_127.json",
+    "guideline/CPIC_GL_G6PD_unknown_100420.json",
+    "guideline/CPIC_GL_G6PD_unknown_2405438.json",
+    "trait/GWAS_1370.json"
+  ],
+  "GAB2": [
+    "trait/GWAS_2385.json",
+    "trait/GWAS_4338.json"
+  ],
+  "GABBR1": [
+    "trait/GWAS_3781.json"
+  ],
+  "GADD45G": [
+    "trait/GWAS_70.json"
+  ],
+  "GAK": [
+    "trait/GWAS_2856.json",
+    "trait/GWAS_4105.json"
+  ],
+  "GALC": [
+    "trait/GWAS_4581.json"
+  ],
+  "GALM": [
+    "trait/GWAS_4255.json"
+  ],
+  "GALNT13": [
+    "trait/GWAS_4311.json"
+  ],
+  "GALNT2": [
+    "trait/GWAS_1016.json",
+    "trait/GWAS_1448.json",
+    "trait/GWAS_188.json",
+    "trait/GWAS_448.json",
+    "trait/GWAS_4836.json"
+  ],
+  "GALNTL4": [
+    "trait/GWAS_3815.json"
+  ],
+  "GATA2": [
+    "trait/GWAS_1958.json"
+  ],
+  "GATA3": [
+    "trait/GWAS_179.json"
+  ],
+  "GATA4": [
+    "trait/GWAS_309.json"
+  ],
+  "GATAD2B": [
+    "trait/GWAS_4426.json"
+  ],
+  "GBA": [
+    "gene/CPIC_gene_GBA_41.json"
+  ],
+  "GC": [
+    "trait/GWAS_3983.json",
+    "trait/GWAS_4119.json"
+  ],
+  "GCDH": [
+    "trait/GWAS_2566.json"
+  ],
+  "GCK": [
+    "trait/GWAS_1933.json",
+    "trait/GWAS_4274.json"
+  ],
+  "GCKR": [
+    "trait/GWAS_1231.json",
+    "trait/GWAS_1269.json",
+    "trait/GWAS_1454.json",
+    "trait/GWAS_2212.json",
+    "trait/GWAS_2245.json",
+    "trait/GWAS_2618.json",
+    "trait/GWAS_3678.json",
+    "trait/GWAS_3790.json",
+    "trait/GWAS_4350.json",
+    "trait/GWAS_4828.json",
+    "trait/GWAS_509.json",
+    "trait/GWAS_635.json",
+    "trait/GWAS_855.json",
+    "trait/GWAS_89.json"
+  ],
+  "GCM2": [
+    "trait/GWAS_451.json"
+  ],
+  "GDA": [
+    "trait/GWAS_1849.json",
+    "trait/GWAS_194.json"
+  ],
+  "GDAP1": [
+    "trait/GWAS_2327.json",
+    "trait/GWAS_3671.json"
+  ],
+  "GDNF": [
+    "trait/GWAS_2310.json"
+  ],
+  "GGCX": [
+    "gene/CPIC_gene_GGCX_113.json"
+  ],
+  "GGT1": [
+    "trait/GWAS_3662.json",
+    "trait/GWAS_3906.json"
+  ],
+  "GGTLC1": [
+    "trait/GWAS_2371.json"
+  ],
+  "GH": [
+    "trait/GWAS_1437.json"
+  ],
+  "GHR": [
+    "trait/GWAS_1724.json",
+    "trait/GWAS_1978.json"
+  ],
+  "GHSR": [
+    "trait/GWAS_105.json"
+  ],
+  "GINS3": [
+    "trait/GWAS_2996.json"
+  ],
+  "GIPR": [
+    "trait/GWAS_1916.json"
+  ],
+  "GIT2": [
+    "trait/GWAS_4225.json"
+  ],
+  "GJA1": [
+    "trait/GWAS_1758.json",
+    "trait/GWAS_4101.json"
+  ],
+  "GJA5": [
+    "trait/GWAS_1659.json",
+    "trait/GWAS_3805.json"
+  ],
+  "GJD2": [
+    "trait/GWAS_901.json"
+  ],
+  "GLB1": [
+    "trait/GWAS_2804.json"
+  ],
+  "GLDN": [
+    "trait/GWAS_4391.json"
+  ],
+  "GLI2": [
+    "trait/GWAS_2368.json"
+  ],
+  "GLIS1": [
+    "trait/GWAS_1595.json"
+  ],
+  "GLIS3": [
+    "trait/GWAS_3522.json",
+    "trait/GWAS_4897.json"
+  ],
+  "GLRA3": [
+    "trait/GWAS_2500.json"
+  ],
+  "GLRX3": [
+    "trait/GWAS_2447.json"
+  ],
+  "GLT25D2": [
+    "trait/GWAS_2742.json",
+    "trait/GWAS_3894.json"
+  ],
+  "GLT6D1": [
+    "trait/GWAS_2579.json"
+  ],
+  "GLTP": [
+    "trait/GWAS_2193.json"
+  ],
+  "GLUT9": [
+    "trait/GWAS_2666.json",
+    "trait/GWAS_292.json"
+  ],
+  "GMDS": [
+    "trait/GWAS_4997.json"
+  ],
+  "GNA12": [
+    "trait/GWAS_18.json",
+    "trait/GWAS_3441.json",
+    "trait/GWAS_3454.json"
+  ],
+  "GNA15": [
+    "trait/GWAS_3467.json"
+  ],
+  "GNAS1": [
+    "trait/GWAS_950.json"
+  ],
+  "GNAT2": [
+    "trait/GWAS_1008.json"
+  ],
+  "GNB3": [
+    "gene/CPIC_gene_GNB3_23.json"
+  ],
+  "GNG4": [
+    "trait/GWAS_3948.json"
+  ],
+  "GNL3": [
+    "trait/GWAS_4596.json"
+  ],
+  "GNPDA2": [
+    "trait/GWAS_2352.json",
+    "trait/GWAS_4885.json"
+  ],
+  "GOSR2": [
+    "trait/GWAS_1591.json"
+  ],
+  "GOT2": [
+    "trait/GWAS_3480.json"
+  ],
+  "GP1BA": [
+    "gene/CPIC_gene_GP1BA_114.json"
+  ],
+  "GPATCH2": [
+    "trait/GWAS_4736.json"
+  ],
+  "GPC5": [
+    "trait/GWAS_1860.json",
+    "trait/GWAS_1888.json",
+    "trait/GWAS_3457.json",
+    "trait/GWAS_694.json"
+  ],
+  "GPC6": [
+    "trait/GWAS_129.json",
+    "trait/GWAS_1883.json",
+    "trait/GWAS_2617.json"
+  ],
+  "GPLD1": [
+    "trait/GWAS_1414.json"
+  ],
+  "GPM6A": [
+    "trait/GWAS_1603.json"
+  ],
+  "GPR126": [
+    "trait/GWAS_1433.json",
+    "trait/GWAS_1445.json",
+    "trait/GWAS_2627.json",
+    "trait/GWAS_3471.json",
+    "trait/GWAS_3842.json"
+  ],
+  "GPR133": [
+    "trait/GWAS_1332.json",
+    "trait/GWAS_301.json",
+    "trait/GWAS_3675.json"
+  ],
+  "GPR137B": [
+    "trait/GWAS_2807.json"
+  ],
+  "GPR155": [
+    "trait/GWAS_214.json"
+  ],
+  "GPR177": [
+    "trait/GWAS_559.json"
+  ],
+  "GPR183": [
+    "trait/GWAS_4579.json"
+  ],
+  "GPR35": [
+    "trait/GWAS_256.json",
+    "trait/GWAS_4813.json"
+  ],
+  "GPR98": [
+    "trait/GWAS_1575.json",
+    "trait/GWAS_2541.json"
+  ],
+  "GPRC5B": [
+    "trait/GWAS_2359.json"
+  ],
+  "GPRC6A": [
+    "trait/GWAS_4210.json",
+    "trait/GWAS_4221.json"
+  ],
+  "GPX6": [
+    "trait/GWAS_3087.json",
+    "trait/GWAS_3092.json"
+  ],
+  "GRAMD1B": [
+    "trait/GWAS_3142.json"
+  ],
+  "GRAMD3": [
+    "trait/GWAS_4455.json"
+  ],
+  "GREM1": [
+    "trait/GWAS_3058.json"
+  ],
+  "GRIA1": [
+    "trait/GWAS_361.json"
+  ],
+  "GRID1": [
+    "trait/GWAS_3400.json"
+  ],
+  "GRIK1": [
+    "trait/GWAS_2894.json"
+  ],
+  "GRIK2": [
+    "trait/GWAS_2608.json",
+    "trait/GWAS_2823.json"
+  ],
+  "GRIK4": [
+    "gene/CPIC_gene_GRIK4_81.json",
+    "trait/GWAS_768.json"
+  ],
+  "GRK4": [
+    "gene/CPIC_gene_GRK4_82.json"
+  ],
+  "GRK5": [
+    "gene/CPIC_gene_GRK5_83.json"
+  ],
+  "GRM5": [
+    "trait/GWAS_501.json"
+  ],
+  "GRM7": [
+    "trait/GWAS_204.json",
+    "trait/GWAS_2695.json",
+    "trait/GWAS_2831.json",
+    "trait/GWAS_3298.json",
+    "trait/GWAS_3740.json"
+  ],
+  "GRM8": [
+    "trait/GWAS_4246.json",
+    "trait/GWAS_823.json"
+  ],
+  "GSDMA": [
+    "trait/GWAS_1943.json",
+    "trait/GWAS_4239.json"
+  ],
+  "GSDMB": [
+    "trait/GWAS_4100.json",
+    "trait/GWAS_4686.json"
+  ],
+  "GSDMC": [
+    "trait/GWAS_2272.json"
+  ],
+  "GSDML": [
+    "trait/GWAS_3432.json"
+  ],
+  "GSTCD": [
+    "trait/GWAS_1701.json",
+    "trait/GWAS_2673.json"
+  ],
+  "GSTM1": [
+    "gene/CPIC_gene_GSTM1_6.json"
+  ],
+  "GSTP1": [
+    "gene/CPIC_gene_GSTP1_115.json"
+  ],
+  "GSX1": [
+    "trait/GWAS_3873.json"
+  ],
+  "GTF2E2": [
+    "trait/GWAS_1184.json"
+  ],
+  "GTF2F2": [
+    "trait/GWAS_874.json"
+  ],
+  "GUCY1A2": [
+    "trait/GWAS_4643.json"
+  ],
+  "GZMB": [
+    "trait/GWAS_1582.json"
+  ],
+  "HACE1": [
+    "trait/GWAS_2331.json"
+  ],
+  "HAND2": [
+    "trait/GWAS_1819.json"
+  ],
+  "HAPLN1": [
+    "trait/GWAS_4144.json",
+    "trait/GWAS_703.json"
+  ],
+  "HAS3": [
+    "gene/CPIC_gene_HAS3_54.json",
+    "trait/GWAS_2463.json"
+  ],
+  "HBB": [
+    "trait/GWAS_3405.json",
+    "trait/GWAS_442.json"
+  ],
+  "HBE1": [
+    "trait/GWAS_2580.json"
+  ],
+  "HBS1L": [
+    "trait/GWAS_1890.json",
+    "trait/GWAS_1941.json",
+    "trait/GWAS_2228.json",
+    "trait/GWAS_2315.json",
+    "trait/GWAS_2961.json",
+    "trait/GWAS_4362.json",
+    "trait/GWAS_4365.json",
+    "trait/GWAS_4367.json"
+  ],
+  "HCK": [
+    "trait/GWAS_4695.json"
+  ],
+  "HCP5": [
+    "trait/GWAS_3301.json",
+    "trait/GWAS_3787.json"
+  ],
+  "HCRTR2": [
+    "trait/GWAS_3306.json"
+  ],
+  "HDAC4": [
+    "trait/GWAS_4159.json"
+  ],
+  "HDAC5": [
+    "trait/GWAS_1205.json",
+    "trait/GWAS_2549.json"
+  ],
+  "HDAC9": [
+    "trait/GWAS_4160.json",
+    "trait/GWAS_590.json"
+  ],
+  "HECTD4": [
+    "trait/GWAS_4389.json"
+  ],
+  "HEMGN": [
+    "trait/GWAS_2958.json"
+  ],
+  "HERC2": [
+    "trait/GWAS_2535.json",
+    "trait/GWAS_3659.json",
+    "trait/GWAS_443.json"
+  ],
+  "HERPUD1": [
+    "trait/GWAS_4226.json"
+  ],
+  "HFE": [
+    "trait/GWAS_1105.json",
+    "trait/GWAS_1106.json",
+    "trait/GWAS_1720.json",
+    "trait/GWAS_3212.json",
+    "trait/GWAS_3381.json",
+    "trait/GWAS_367.json",
+    "trait/GWAS_4161.json",
+    "trait/GWAS_4162.json",
+    "trait/GWAS_558.json",
+    "trait/GWAS_60.json",
+    "trait/GWAS_695.json",
+    "trait/GWAS_748.json"
+  ],
+  "HHEX": [
+    "trait/GWAS_1023.json",
+    "trait/GWAS_2032.json",
+    "trait/GWAS_2253.json",
+    "trait/GWAS_2289.json",
+    "trait/GWAS_390.json",
+    "trait/GWAS_4241.json",
+    "trait/GWAS_4613.json",
+    "trait/GWAS_529.json"
+  ],
+  "HHIP": [
+    "trait/GWAS_1432.json",
+    "trait/GWAS_1436.json",
+    "trait/GWAS_21.json",
+    "trait/GWAS_2225.json",
+    "trait/GWAS_2675.json",
+    "trait/GWAS_2685.json",
+    "trait/GWAS_2750.json",
+    "trait/GWAS_3273.json",
+    "trait/GWAS_4074.json",
+    "trait/GWAS_725.json"
+  ],
+  "HHIPL1": [
+    "trait/GWAS_3710.json"
+  ],
+  "HIST1H1D": [
+    "trait/GWAS_2267.json",
+    "trait/GWAS_2686.json"
+  ],
+  "HIST1H2BC": [
+    "trait/GWAS_3258.json"
+  ],
+  "HIST1H2BJ": [
+    "trait/GWAS_1781.json",
+    "trait/GWAS_2761.json"
+  ],
+  "HIVEP1": [
+    "trait/GWAS_4589.json"
+  ],
+  "HK1": [
+    "trait/GWAS_2949.json",
+    "trait/GWAS_2953.json",
+    "trait/GWAS_56.json"
+  ],
+  "HLA": [
+    "trait/GWAS_1057.json",
+    "trait/GWAS_1074.json",
+    "trait/GWAS_1104.json",
+    "trait/GWAS_1220.json",
+    "trait/GWAS_1221.json",
+    "trait/GWAS_1222.json",
+    "trait/GWAS_1223.json",
+    "trait/GWAS_1257.json",
+    "trait/GWAS_1325.json",
+    "trait/GWAS_1348.json",
+    "trait/GWAS_1523.json",
+    "trait/GWAS_1564.json",
+    "trait/GWAS_1568.json",
+    "trait/GWAS_1577.json",
+    "trait/GWAS_1578.json",
+    "trait/GWAS_1617.json",
+    "trait/GWAS_17.json",
+    "trait/GWAS_1898.json",
+    "trait/GWAS_1919.json",
+    "trait/GWAS_1953.json",
+    "trait/GWAS_2086.json",
+    "trait/GWAS_2178.json",
+    "trait/GWAS_2284.json",
+    "trait/GWAS_2413.json",
+    "trait/GWAS_251.json",
+    "trait/GWAS_255.json",
+    "trait/GWAS_2600.json",
+    "trait/GWAS_2663.json",
+    "trait/GWAS_2773.json",
+    "trait/GWAS_2915.json",
+    "trait/GWAS_2924.json",
+    "trait/GWAS_2970.json",
+    "trait/GWAS_2971.json",
+    "trait/GWAS_3131.json",
+    "trait/GWAS_3133.json",
+    "trait/GWAS_3302.json",
+    "trait/GWAS_3319.json",
+    "trait/GWAS_3331.json",
+    "trait/GWAS_3418.json",
+    "trait/GWAS_3419.json",
+    "trait/GWAS_3458.json",
+    "trait/GWAS_3556.json",
+    "trait/GWAS_3558.json",
+    "trait/GWAS_3669.json",
+    "trait/GWAS_3681.json",
+    "trait/GWAS_3691.json",
+    "trait/GWAS_3696.json",
+    "trait/GWAS_3770.json",
+    "trait/GWAS_3829.json",
+    "trait/GWAS_3878.json",
+    "trait/GWAS_3966.json",
+    "trait/GWAS_4062.json",
+    "trait/GWAS_4099.json",
+    "trait/GWAS_4116.json",
+    "trait/GWAS_4117.json",
+    "trait/GWAS_4125.json",
+    "trait/GWAS_4153.json",
+    "trait/GWAS_4243.json",
+    "trait/GWAS_4269.json",
+    "trait/GWAS_4290.json",
+    "trait/GWAS_4292.json",
+    "trait/GWAS_4432.json",
+    "trait/GWAS_4477.json",
+    "trait/GWAS_4732.json",
+    "trait/GWAS_4772.json",
+    "trait/GWAS_4835.json",
+    "trait/GWAS_4856.json",
+    "trait/GWAS_4895.json",
+    "trait/GWAS_4935.json",
+    "trait/GWAS_4941.json",
+    "trait/GWAS_4942.json",
+    "trait/GWAS_4943.json",
+    "trait/GWAS_4948.json",
+    "trait/GWAS_4996.json",
+    "trait/GWAS_4999.json",
+    "trait/GWAS_500.json",
+    "trait/GWAS_552.json",
+    "trait/GWAS_672.json",
+    "trait/GWAS_714.json",
+    "trait/GWAS_87.json",
+    "trait/GWAS_917.json"
+  ],
+  "HLA-A": [
+    "gene/CPIC_gene_HLA-A_91.json",
+    "guideline/CPIC_GL_HLA-A_unknown_100423.json"
+  ],
+  "HLA-B": [
+    "gene/CPIC_gene_HLA-B_107.json",
+    "guideline/CPIC_GL_HLA-B_unknown_100421.json",
+    "guideline/CPIC_GL_HLA-B_unknown_100422.json"
+  ],
+  "HLA-C": [
+    "gene/CPIC_gene_HLA-C_84.json"
+  ],
+  "HLA-DPB1": [
+    "gene/CPIC_gene_HLA-DPB1_85.json"
+  ],
+  "HLA-DQA1": [
+    "gene/CPIC_gene_HLA-DQA1_64.json"
+  ],
+  "HLA-DRB1": [
+    "gene/CPIC_gene_HLA-DRB1_42.json"
+  ],
+  "HLF": [
+    "trait/GWAS_220.json"
+  ],
+  "HMG20A": [
+    "trait/GWAS_4155.json"
+  ],
+  "HMGA1": [
+    "trait/GWAS_10.json",
+    "trait/GWAS_104.json",
+    "trait/GWAS_1856.json",
+    "trait/GWAS_3073.json",
+    "trait/GWAS_3375.json",
+    "trait/GWAS_3839.json",
+    "trait/GWAS_3973.json"
+  ],
+  "HMGA2": [
+    "trait/GWAS_1431.json",
+    "trait/GWAS_1631.json",
+    "trait/GWAS_2188.json"
+  ],
+  "HMGCR": [
+    "gene/CPIC_gene_HMGCR_10.json",
+    "trait/GWAS_196.json",
+    "trait/GWAS_3526.json",
+    "trait/GWAS_3865.json",
+    "trait/GWAS_396.json",
+    "trait/GWAS_754.json"
+  ],
+  "HNF1A": [
+    "trait/GWAS_1531.json",
+    "trait/GWAS_2722.json",
+    "trait/GWAS_4336.json",
+    "trait/GWAS_4349.json"
+  ],
+  "HNF1B": [
+    "trait/GWAS_2123.json",
+    "trait/GWAS_3081.json",
+    "trait/GWAS_3327.json",
+    "trait/GWAS_3328.json",
+    "trait/GWAS_3631.json",
+    "trait/GWAS_4236.json",
+    "trait/GWAS_4921.json"
+  ],
+  "HNF4A": [
+    "trait/GWAS_2612.json",
+    "trait/GWAS_3599.json",
+    "trait/GWAS_3936.json",
+    "trait/GWAS_4137.json",
+    "trait/GWAS_4332.json"
+  ],
+  "HNF4G": [
+    "trait/GWAS_3974.json"
+  ],
+  "HOMER1": [
+    "trait/GWAS_1453.json",
+    "trait/GWAS_4282.json"
+  ],
+  "HOXD1": [
+    "trait/GWAS_3075.json"
+  ],
+  "HOXD9": [
+    "trait/GWAS_3123.json"
+  ],
+  "HPRT1": [
+    "gene/CPIC_gene_HPRT1_31.json"
+  ],
+  "HPRTP4": [
+    "trait/GWAS_3994.json"
+  ],
+  "HPS5": [
+    "trait/GWAS_3960.json"
+  ],
+  "HRG": [
+    "trait/GWAS_3735.json"
+  ],
+  "HS3ST3A1": [
+    "trait/GWAS_1381.json"
+  ],
+  "HS3ST3B1": [
+    "trait/GWAS_2240.json"
+  ],
+  "HS6ST3": [
+    "trait/GWAS_2394.json"
+  ],
+  "HSD17B12": [
+    "trait/GWAS_3945.json"
+  ],
+  "HSD17B6": [
+    "trait/GWAS_616.json"
+  ],
+  "HSF2": [
+    "trait/GWAS_1821.json"
+  ],
+  "HSP90B3P": [
+    "trait/GWAS_923.json"
+  ],
+  "HTR1A": [
+    "gene/CPIC_gene_HTR1A_86.json"
+  ],
+  "HTR2A": [
+    "gene/CPIC_gene_HTR2A_116.json",
+    "trait/GWAS_249.json"
+  ],
+  "HTR2C": [
+    "gene/CPIC_gene_HTR2C_15.json"
+  ],
+  "HTR3D": [
+    "trait/GWAS_4583.json"
+  ],
+  "HTR4": [
+    "trait/GWAS_3043.json",
+    "trait/GWAS_4850.json"
+  ],
+  "HTRA1": [
+    "trait/GWAS_3349.json"
+  ],
+  "HUNK": [
+    "trait/GWAS_136.json",
+    "trait/GWAS_3595.json"
+  ],
+  "ICAM": [
+    "trait/GWAS_2553.json"
+  ],
+  "ICAM1": [
+    "trait/GWAS_1059.json",
+    "trait/GWAS_3643.json",
+    "trait/GWAS_3852.json"
+  ],
+  "ICOS": [
+    "trait/GWAS_2079.json",
+    "trait/GWAS_3766.json"
+  ],
+  "ICOSLG": [
+    "trait/GWAS_2345.json",
+    "trait/GWAS_3507.json",
+    "trait/GWAS_3860.json"
+  ],
+  "ID4": [
+    "trait/GWAS_3689.json"
+  ],
+  "IDS": [
+    "trait/GWAS_1663.json"
+  ],
+  "IER3": [
+    "trait/GWAS_589.json"
+  ],
+  "IFIH1": [
+    "trait/GWAS_1372.json",
+    "trait/GWAS_2184.json",
+    "trait/GWAS_2651.json",
+    "trait/GWAS_4042.json",
+    "trait/GWAS_4810.json"
+  ],
+  "IFNE1": [
+    "trait/GWAS_4822.json"
+  ],
+  "IFNG": [
+    "trait/GWAS_1769.json",
+    "trait/GWAS_262.json",
+    "trait/GWAS_4574.json"
+  ],
+  "IFNGR2": [
+    "trait/GWAS_294.json"
+  ],
+  "IFNK": [
+    "trait/GWAS_1060.json",
+    "trait/GWAS_1696.json",
+    "trait/GWAS_2208.json",
+    "trait/GWAS_3619.json"
+  ],
+  "IFNL3": [
+    "gene/CPIC_gene_IFNL3_126.json",
+    "guideline/CPIC_GL_IFNL3_unknown_100424.json"
+  ],
+  "IFNL4": [
+    "gene/CPIC_gene_IFNL4_87.json"
+  ],
+  "IG2BP2": [
+    "trait/GWAS_4614.json"
+  ],
+  "IGDCC4": [
+    "trait/GWAS_2928.json"
+  ],
+  "IGF1": [
+    "trait/GWAS_3102.json",
+    "trait/GWAS_4765.json"
+  ],
+  "IGF2": [
+    "trait/GWAS_2671.json"
+  ],
+  "IGF2BP2": [
+    "trait/GWAS_1874.json",
+    "trait/GWAS_2251.json",
+    "trait/GWAS_2286.json",
+    "trait/GWAS_2955.json",
+    "trait/GWAS_791.json",
+    "trait/GWAS_868.json"
+  ],
+  "IGF2R": [
+    "trait/GWAS_3570.json"
+  ],
+  "IGFBP1": [
+    "trait/GWAS_1253.json"
+  ],
+  "IGFBP3": [
+    "trait/GWAS_3698.json"
+  ],
+  "IGSF21": [
+    "trait/GWAS_2365.json"
+  ],
+  "IGSF4B": [
+    "trait/GWAS_1386.json",
+    "trait/GWAS_1392.json"
+  ],
+  "IGSF5": [
+    "trait/GWAS_178.json",
+    "trait/GWAS_4254.json"
+  ],
+  "IHH": [
+    "trait/GWAS_1446.json",
+    "trait/GWAS_2738.json"
+  ],
+  "IKZF1": [
+    "trait/GWAS_1099.json",
+    "trait/GWAS_1683.json",
+    "trait/GWAS_2571.json",
+    "trait/GWAS_304.json"
+  ],
+  "IKZF2": [
+    "trait/GWAS_4425.json"
+  ],
+  "IKZF4": [
+    "trait/GWAS_2085.json"
+  ],
+  "IL10": [
+    "trait/GWAS_1034.json",
+    "trait/GWAS_1359.json",
+    "trait/GWAS_1529.json",
+    "trait/GWAS_1585.json",
+    "trait/GWAS_2260.json",
+    "trait/GWAS_3456.json",
+    "trait/GWAS_4905.json"
+  ],
+  "IL12A": [
+    "trait/GWAS_2774.json",
+    "trait/GWAS_3120.json",
+    "trait/GWAS_3768.json",
+    "trait/GWAS_786.json"
+  ],
+  "IL12B": [
+    "trait/GWAS_2376.json",
+    "trait/GWAS_2400.json",
+    "trait/GWAS_2537.json",
+    "trait/GWAS_267.json",
+    "trait/GWAS_2828.json",
+    "trait/GWAS_3695.json",
+    "trait/GWAS_457.json"
+  ],
+  "IL12RB2": [
+    "trait/GWAS_1583.json",
+    "trait/GWAS_4569.json",
+    "trait/GWAS_4792.json"
+  ],
+  "IL13": [
+    "trait/GWAS_1247.json",
+    "trait/GWAS_2827.json"
+  ],
+  "IL15": [
+    "trait/GWAS_2824.json"
+  ],
+  "IL16": [
+    "trait/GWAS_2477.json"
+  ],
+  "IL17REL": [
+    "trait/GWAS_3435.json",
+    "trait/GWAS_82.json"
+  ],
+  "IL18R1": [
+    "trait/GWAS_2050.json",
+    "trait/GWAS_3765.json",
+    "trait/GWAS_4237.json",
+    "trait/GWAS_4809.json"
+  ],
+  "IL1F10": [
+    "trait/GWAS_1232.json"
+  ],
+  "IL1R2": [
+    "trait/GWAS_1066.json",
+    "trait/GWAS_3438.json"
+  ],
+  "IL1RL1": [
+    "trait/GWAS_4424.json"
+  ],
+  "IL1RN": [
+    "trait/GWAS_1751.json"
+  ],
+  "IL2": [
+    "trait/GWAS_1556.json",
+    "trait/GWAS_2080.json",
+    "trait/GWAS_258.json",
+    "trait/GWAS_3323.json",
+    "trait/GWAS_3769.json",
+    "trait/GWAS_4531.json"
+  ],
+  "IL20": [
+    "trait/GWAS_4803.json"
+  ],
+  "IL21R": [
+    "trait/GWAS_3759.json"
+  ],
+  "IL23R": [
+    "trait/GWAS_1065.json",
+    "trait/GWAS_1955.json",
+    "trait/GWAS_2114.json",
+    "trait/GWAS_2517.json",
+    "trait/GWAS_2836.json",
+    "trait/GWAS_297.json",
+    "trait/GWAS_3342.json",
+    "trait/GWAS_3371.json",
+    "trait/GWAS_3652.json",
+    "trait/GWAS_3774.json",
+    "trait/GWAS_3861.json",
+    "trait/GWAS_3877.json",
+    "trait/GWAS_3956.json",
+    "trait/GWAS_4532.json",
+    "trait/GWAS_4762.json",
+    "trait/GWAS_524.json"
+  ],
+  "IL26": [
+    "trait/GWAS_3916.json"
+  ],
+  "IL27": [
+    "trait/GWAS_3524.json"
+  ],
+  "IL28A": [
+    "trait/GWAS_603.json"
+  ],
+  "IL28B": [
+    "trait/GWAS_3221.json",
+    "trait/GWAS_3780.json",
+    "trait/GWAS_604.json"
+  ],
+  "IL28RA": [
+    "trait/GWAS_3969.json"
+  ],
+  "IL29": [
+    "trait/GWAS_1068.json"
+  ],
+  "IL2RA": [
+    "trait/GWAS_1633.json",
+    "trait/GWAS_2083.json",
+    "trait/GWAS_2775.json",
+    "trait/GWAS_3003.json",
+    "trait/GWAS_3517.json"
+  ],
+  "IL2RB": [
+    "trait/GWAS_4240.json"
+  ],
+  "IL33": [
+    "trait/GWAS_4238.json"
+  ],
+  "IL5": [
+    "trait/GWAS_1262.json"
+  ],
+  "IL6": [
+    "trait/GWAS_2450.json"
+  ],
+  "IL6R": [
+    "trait/GWAS_1533.json",
+    "trait/GWAS_2522.json",
+    "trait/GWAS_2721.json",
+    "trait/GWAS_3758.json",
+    "trait/GWAS_92.json"
+  ],
+  "IL6ST": [
+    "trait/GWAS_1179.json"
+  ],
+  "IL7R": [
+    "trait/GWAS_1228.json",
+    "trait/GWAS_1238.json",
+    "trait/GWAS_3005.json",
+    "trait/GWAS_554.json"
+  ],
+  "IL7RA": [
+    "trait/GWAS_4530.json"
+  ],
+  "IL8RA": [
+    "trait/GWAS_264.json"
+  ],
+  "IMPA2": [
+    "trait/GWAS_683.json"
+  ],
+  "INHBB": [
+    "trait/GWAS_4024.json"
+  ],
+  "INPP5D": [
+    "trait/GWAS_3263.json"
+  ],
+  "INPP5E": [
+    "trait/GWAS_4205.json"
+  ],
+  "INS": [
+    "trait/GWAS_2402.json",
+    "trait/GWAS_3518.json",
+    "trait/GWAS_99.json"
+  ],
+  "INSL6": [
+    "trait/GWAS_1350.json"
+  ],
+  "INTERGENIC": [
+    "trait/GWAS_1727.json",
+    "trait/GWAS_1730.json",
+    "trait/GWAS_1731.json",
+    "trait/GWAS_4852.json",
+    "trait/GWAS_4853.json",
+    "trait/GWAS_4854.json",
+    "trait/GWAS_4864.json",
+    "trait/GWAS_4970.json",
+    "trait/GWAS_4982.json",
+    "trait/GWAS_4983.json"
+  ],
+  "IQCE": [
+    "trait/GWAS_2696.json"
+  ],
+  "IQCH": [
+    "trait/GWAS_4535.json"
+  ],
+  "IQGAP2": [
+    "trait/GWAS_4374.json"
+  ],
+  "IRF1": [
+    "trait/GWAS_2855.json",
+    "trait/GWAS_3845.json",
+    "trait/GWAS_3846.json",
+    "trait/GWAS_822.json"
+  ],
+  "IRF4": [
+    "trait/GWAS_3143.json",
+    "trait/GWAS_3508.json",
+    "trait/GWAS_4340.json",
+    "trait/GWAS_4755.json",
+    "trait/GWAS_4917.json",
+    "trait/GWAS_4919.json"
+  ],
+  "IRF5": [
+    "trait/GWAS_1255.json",
+    "trait/GWAS_2594.json",
+    "trait/GWAS_2816.json",
+    "trait/GWAS_2841.json",
+    "trait/GWAS_3923.json"
+  ],
+  "IRF6": [
+    "trait/GWAS_2042.json"
+  ],
+  "IRF8": [
+    "trait/GWAS_3006.json",
+    "trait/GWAS_357.json",
+    "trait/GWAS_3965.json",
+    "trait/GWAS_4685.json"
+  ],
+  "IRGM": [
+    "trait/GWAS_2006.json",
+    "trait/GWAS_2401.json",
+    "trait/GWAS_3647.json"
+  ],
+  "IRS1": [
+    "trait/GWAS_620.json"
+  ],
+  "IRX4": [
+    "trait/GWAS_4007.json"
+  ],
+  "ISG20": [
+    "trait/GWAS_4180.json"
+  ],
+  "ITFG3": [
+    "trait/GWAS_4364.json",
+    "trait/GWAS_4371.json"
+  ],
+  "ITGA11": [
+    "trait/GWAS_1882.json"
+  ],
+  "ITGA4": [
+    "trait/GWAS_354.json"
+  ],
+  "ITGA6": [
+    "trait/GWAS_595.json"
+  ],
+  "ITGA8": [
+    "trait/GWAS_1001.json",
+    "trait/GWAS_1766.json"
+  ],
+  "ITGA9": [
+    "trait/GWAS_737.json"
+  ],
+  "ITGAE": [
+    "trait/GWAS_3914.json"
+  ],
+  "ITGAM": [
+    "trait/GWAS_1320.json",
+    "trait/GWAS_2057.json"
+  ],
+  "ITGB1": [
+    "trait/GWAS_4063.json"
+  ],
+  "ITGB6": [
+    "trait/GWAS_1579.json"
+  ],
+  "ITIH1": [
+    "trait/GWAS_2990.json"
+  ],
+  "ITLN1": [
+    "trait/GWAS_886.json"
+  ],
+  "ITPA": [
+    "gene/CPIC_gene_ITPA_12.json",
+    "trait/GWAS_1903.json"
+  ],
+  "ITPR2": [
+    "trait/GWAS_2516.json"
+  ],
+  "ITPR3": [
+    "trait/GWAS_2772.json"
+  ],
+  "IVD": [
+    "trait/GWAS_4859.json"
+  ],
+  "JAG1": [
+    "trait/GWAS_1642.json",
+    "trait/GWAS_3926.json"
+  ],
+  "JAK2": [
+    "trait/GWAS_3572.json",
+    "trait/GWAS_3645.json",
+    "trait/GWAS_4204.json"
+  ],
+  "JAZF1": [
+    "trait/GWAS_2268.json",
+    "trait/GWAS_3563.json",
+    "trait/GWAS_440.json",
+    "trait/GWAS_779.json"
+  ],
+  "JMJD1C": [
+    "trait/GWAS_370.json",
+    "trait/GWAS_3907.json",
+    "trait/GWAS_4839.json"
+  ],
+  "KCNAB1": [
+    "trait/GWAS_4313.json"
+  ],
+  "KCNB2": [
+    "trait/GWAS_2527.json",
+    "trait/GWAS_3887.json",
+    "trait/GWAS_4461.json"
+  ],
+  "KCND2": [
+    "trait/GWAS_4863.json"
+  ],
+  "KCND3": [
+    "trait/GWAS_4743.json"
+  ],
+  "KCNE1": [
+    "trait/GWAS_2313.json"
+  ],
+  "KCNE2": [
+    "trait/GWAS_4027.json"
+  ],
+  "KCNE4": [
+    "trait/GWAS_4537.json"
+  ],
+  "KCNH2": [
+    "trait/GWAS_2998.json",
+    "trait/GWAS_2999.json",
+    "trait/GWAS_3415.json",
+    "trait/GWAS_4372.json",
+    "trait/GWAS_758.json"
+  ],
+  "KCNH8": [
+    "trait/GWAS_1711.json"
+  ],
+  "KCNIP1": [
+    "trait/GWAS_1323.json"
+  ],
+  "KCNIP4": [
+    "gene/CPIC_gene_KCNIP4_63.json",
+    "trait/GWAS_1850.json"
+  ],
+  "KCNJ11": [
+    "trait/GWAS_1935.json",
+    "trait/GWAS_2254.json",
+    "trait/GWAS_2984.json",
+    "trait/GWAS_426.json",
+    "trait/GWAS_4316.json",
+    "trait/GWAS_790.json"
+  ],
+  "KCNJ2": [
+    "trait/GWAS_760.json"
+  ],
+  "KCNK12": [
+    "trait/GWAS_1084.json"
+  ],
+  "KCNK13": [
+    "trait/GWAS_1604.json"
+  ],
+  "KCNMA1": [
+    "trait/GWAS_1259.json"
+  ],
+  "KCNMB2": [
+    "trait/GWAS_607.json"
+  ],
+  "KCNN3": [
+    "trait/GWAS_1806.json",
+    "trait/GWAS_1807.json",
+    "trait/GWAS_3296.json"
+  ],
+  "KCNQ1": [
+    "trait/GWAS_1561.json",
+    "trait/GWAS_2997.json",
+    "trait/GWAS_3240.json",
+    "trait/GWAS_3416.json",
+    "trait/GWAS_3673.json",
+    "trait/GWAS_3822.json",
+    "trait/GWAS_388.json",
+    "trait/GWAS_468.json",
+    "trait/GWAS_615.json",
+    "trait/GWAS_759.json",
+    "trait/GWAS_762.json"
+  ],
+  "KCNS3": [
+    "trait/GWAS_227.json"
+  ],
+  "KCNU1": [
+    "trait/GWAS_4708.json"
+  ],
+  "KCNV2": [
+    "trait/GWAS_4775.json"
+  ],
+  "KCTD15": [
+    "trait/GWAS_1737.json",
+    "trait/GWAS_2358.json"
+  ],
+  "KCTD2": [
+    "trait/GWAS_3111.json"
+  ],
+  "KCTD8": [
+    "trait/GWAS_4123.json"
+  ],
+  "KDM3B": [
+    "trait/GWAS_4534.json"
+  ],
+  "KDM4C": [
+    "trait/GWAS_2435.json"
+  ],
+  "KHDRBS2": [
+    "trait/GWAS_1757.json"
+  ],
+  "KIAA0040": [
+    "trait/GWAS_4657.json"
+  ],
+  "KIAA0090": [
+    "trait/GWAS_3494.json"
+  ],
+  "KIAA0319": [
+    "trait/GWAS_144.json"
+  ],
+  "KIAA0350": [
+    "trait/GWAS_2014.json",
+    "trait/GWAS_2916.json",
+    "trait/GWAS_408.json",
+    "trait/GWAS_431.json"
+  ],
+  "KIAA0914": [
+    "trait/GWAS_4040.json"
+  ],
+  "KIAA1166": [
+    "trait/GWAS_4498.json"
+  ],
+  "KIAA1217": [
+    "trait/GWAS_4469.json"
+  ],
+  "KIAA1271": [
+    "trait/GWAS_3493.json"
+  ],
+  "KIAA1345": [
+    "trait/GWAS_4911.json"
+  ],
+  "KIAA1462": [
+    "trait/GWAS_2403.json"
+  ],
+  "KIAA1505": [
+    "trait/GWAS_142.json"
+  ],
+  "KIAA1542": [
+    "trait/GWAS_841.json"
+  ],
+  "KIAA1598": [
+    "trait/GWAS_2545.json"
+  ],
+  "KIAA1712": [
+    "trait/GWAS_947.json"
+  ],
+  "KIAA1727": [
+    "trait/GWAS_2028.json"
+  ],
+  "KIAA1804": [
+    "trait/GWAS_1667.json"
+  ],
+  "KIF1B": [
+    "trait/GWAS_3868.json"
+  ],
+  "KIF21B": [
+    "trait/GWAS_3777.json",
+    "trait/GWAS_4802.json"
+  ],
+  "KIF5A": [
+    "trait/GWAS_4900.json"
+  ],
+  "KIF6": [
+    "gene/CPIC_gene_KIF6_25.json"
+  ],
+  "KIR2DL1": [
+    "trait/GWAS_4694.json"
+  ],
+  "KIRREL3": [
+    "trait/GWAS_3674.json",
+    "trait/GWAS_3723.json",
+    "trait/GWAS_4414.json"
+  ],
+  "KIT": [
+    "trait/GWAS_2568.json",
+    "trait/GWAS_3383.json"
+  ],
+  "KITLG": [
+    "trait/GWAS_1081.json",
+    "trait/GWAS_1581.json",
+    "trait/GWAS_3573.json",
+    "trait/GWAS_3836.json",
+    "trait/GWAS_4089.json"
+  ],
+  "KLF12": [
+    "trait/GWAS_1588.json",
+    "trait/GWAS_1643.json"
+  ],
+  "KLF14": [
+    "trait/GWAS_201.json",
+    "trait/GWAS_3452.json"
+  ],
+  "KLF5": [
+    "trait/GWAS_877.json"
+  ],
+  "KLHDC7A": [
+    "trait/GWAS_2707.json",
+    "trait/GWAS_4259.json"
+  ],
+  "KLHDC8B": [
+    "trait/GWAS_4533.json"
+  ],
+  "KLHL13": [
+    "trait/GWAS_735.json"
+  ],
+  "KLHL25": [
+    "trait/GWAS_3949.json"
+  ],
+  "KLHL29": [
+    "trait/GWAS_4256.json"
+  ],
+  "KLHL8": [
+    "trait/GWAS_4840.json"
+  ],
+  "KLK3": [
+    "trait/GWAS_2139.json",
+    "trait/GWAS_3425.json",
+    "trait/GWAS_789.json"
+  ],
+  "KNG1": [
+    "trait/GWAS_3734.json"
+  ],
+  "KRCC1": [
+    "trait/GWAS_3259.json"
+  ],
+  "KRT23": [
+    "trait/GWAS_1005.json"
+  ],
+  "KRT5": [
+    "trait/GWAS_3450.json"
+  ],
+  "KRTARP7": [
+    "trait/GWAS_3426.json"
+  ],
+  "KRTHB5": [
+    "trait/GWAS_305.json"
+  ],
+  "KSR2": [
+    "trait/GWAS_47.json",
+    "trait/GWAS_4741.json",
+    "trait/GWAS_734.json"
+  ],
+  "L3MBTL4": [
+    "trait/GWAS_4103.json"
+  ],
+  "LACTB": [
+    "trait/GWAS_4817.json"
+  ],
+  "LAMA1": [
+    "trait/GWAS_4154.json"
+  ],
+  "LAMA2": [
+    "trait/GWAS_3473.json"
+  ],
+  "LAMA5": [
+    "trait/GWAS_1789.json"
+  ],
+  "LAMB1": [
+    "trait/GWAS_2963.json"
+  ],
+  "LAMC2": [
+    "trait/GWAS_3920.json"
+  ],
+  "LARGE": [
+    "trait/GWAS_2703.json"
+  ],
+  "LASS4": [
+    "trait/GWAS_3266.json"
+  ],
+  "LASS6": [
+    "trait/GWAS_1326.json"
+  ],
+  "LBH": [
+    "trait/GWAS_3289.json"
+  ],
+  "LC0RL": [
+    "trait/GWAS_3277.json"
+  ],
+  "LCAT": [
+    "trait/GWAS_711.json"
+  ],
+  "LCE3D": [
+    "trait/GWAS_2829.json",
+    "trait/GWAS_3943.json"
+  ],
+  "LCORL": [
+    "trait/GWAS_1855.json",
+    "trait/GWAS_3831.json",
+    "trait/GWAS_3841.json"
+  ],
+  "LDHA": [
+    "trait/GWAS_3961.json"
+  ],
+  "LDLR": [
+    "gene/CPIC_gene_LDLR_29.json",
+    "trait/GWAS_2292.json",
+    "trait/GWAS_2421.json",
+    "trait/GWAS_3528.json",
+    "trait/GWAS_4629.json",
+    "trait/GWAS_506.json",
+    "trait/GWAS_712.json",
+    "trait/GWAS_753.json"
+  ],
+  "LEKR1": [
+    "trait/GWAS_2791.json",
+    "trait/GWAS_3927.json"
+  ],
+  "LEPR": [
+    "trait/GWAS_1532.json",
+    "trait/GWAS_2756.json",
+    "trait/GWAS_3827.json",
+    "trait/GWAS_511.json",
+    "trait/GWAS_93.json"
+  ],
+  "LGR4": [
+    "trait/GWAS_627.json"
+  ],
+  "LGR5": [
+    "trait/GWAS_4920.json",
+    "trait/GWAS_781.json"
+  ],
+  "LHFPL3": [
+    "trait/GWAS_2392.json"
+  ],
+  "LIF": [
+    "trait/GWAS_2611.json",
+    "trait/GWAS_3243.json"
+  ],
+  "LIG3": [
+    "trait/GWAS_729.json"
+  ],
+  "LIG4": [
+    "trait/GWAS_3896.json"
+  ],
+  "LIME1": [
+    "trait/GWAS_4781.json"
+  ],
+  "LIN28B": [
+    "trait/GWAS_1191.json",
+    "trait/GWAS_1192.json",
+    "trait/GWAS_3205.json",
+    "trait/GWAS_3732.json"
+  ],
+  "LIN7C": [
+    "trait/GWAS_3928.json"
+  ],
+  "LINC00340": [
+    "trait/GWAS_3939.json"
+  ],
+  "LINC00348": [
+    "trait/GWAS_875.json"
+  ],
+  "LINC00477": [
+    "trait/GWAS_1824.json"
+  ],
+  "LINC00506": [
+    "trait/GWAS_2131.json"
+  ],
+  "LINC01142": [
+    "trait/GWAS_1808.json",
+    "trait/GWAS_1833.json"
+  ],
+  "LINC01539": [
+    "trait/GWAS_4403.json"
+  ],
+  "LINGO1": [
+    "trait/GWAS_1630.json"
+  ],
+  "LIPC": [
+    "trait/GWAS_1176.json",
+    "trait/GWAS_1921.json",
+    "trait/GWAS_2145.json",
+    "trait/GWAS_3387.json",
+    "trait/GWAS_393.json",
+    "trait/GWAS_4519.json",
+    "trait/GWAS_4625.json",
+    "trait/GWAS_4837.json",
+    "trait/GWAS_4986.json",
+    "trait/GWAS_505.json",
+    "trait/GWAS_90.json"
+  ],
+  "LIPG": [
+    "trait/GWAS_1013.json",
+    "trait/GWAS_1377.json",
+    "trait/GWAS_3211.json",
+    "trait/GWAS_3361.json",
+    "trait/GWAS_394.json",
+    "trait/GWAS_4628.json",
+    "trait/GWAS_91.json"
+  ],
+  "LITAF": [
+    "trait/GWAS_2744.json",
+    "trait/GWAS_2748.json",
+    "trait/GWAS_4790.json"
+  ],
+  "LMBRD1": [
+    "trait/GWAS_344.json"
+  ],
+  "LMBRD2": [
+    "trait/GWAS_3534.json"
+  ],
+  "LMO1": [
+    "trait/GWAS_3944.json",
+    "trait/GWAS_3964.json"
+  ],
+  "LMO4": [
+    "trait/GWAS_2142.json"
+  ],
+  "LMTK2": [
+    "trait/GWAS_434.json"
+  ],
+  "LMX1B": [
+    "trait/GWAS_3975.json"
+  ],
+  "LOC100128354": [
+    "trait/GWAS_1230.json",
+    "trait/GWAS_2862.json"
+  ],
+  "LOC100129150": [
+    "trait/GWAS_4522.json"
+  ],
+  "LOC100129620": [
+    "trait/GWAS_2342.json"
+  ],
+  "LOC100129646": [
+    "trait/GWAS_4707.json"
+  ],
+  "LOC100130766": [
+    "trait/GWAS_3952.json"
+  ],
+  "LOC100132612": [
+    "trait/GWAS_1276.json"
+  ],
+  "LOC100132626": [
+    "trait/GWAS_146.json"
+  ],
+  "LOC100132805": [
+    "trait/GWAS_3217.json"
+  ],
+  "LOC100505817": [
+    "trait/GWAS_3816.json"
+  ],
+  "LOC100506433": [
+    "trait/GWAS_3814.json"
+  ],
+  "LOC100507537": [
+    "trait/GWAS_3817.json"
+  ],
+  "LOC102723828": [
+    "trait/GWAS_4402.json"
+  ],
+  "LOC116437": [
+    "trait/GWAS_3991.json"
+  ],
+  "LOC122509": [
+    "trait/GWAS_2986.json"
+  ],
+  "LOC158376": [
+    "trait/GWAS_215.json"
+  ],
+  "LOC338694": [
+    "trait/GWAS_2128.json"
+  ],
+  "LOC338797": [
+    "trait/GWAS_2349.json"
+  ],
+  "LOC339298": [
+    "trait/GWAS_4405.json"
+  ],
+  "LOC339529": [
+    "trait/GWAS_2693.json"
+  ],
+  "LOC339760": [
+    "trait/GWAS_674.json"
+  ],
+  "LOC339975": [
+    "trait/GWAS_4401.json"
+  ],
+  "LOC340602": [
+    "trait/GWAS_435.json"
+  ],
+  "LOC343052": [
+    "trait/GWAS_384.json",
+    "trait/GWAS_4923.json"
+  ],
+  "LOC344382": [
+    "trait/GWAS_1626.json"
+  ],
+  "LOC389365": [
+    "trait/GWAS_4929.json"
+  ],
+  "LOC390980": [
+    "trait/GWAS_2472.json"
+  ],
+  "LOC392008": [
+    "trait/GWAS_521.json"
+  ],
+  "LOC399959": [
+    "trait/GWAS_3041.json"
+  ],
+  "LOC400456": [
+    "trait/GWAS_4001.json"
+  ],
+  "LOC400680": [
+    "trait/GWAS_2043.json"
+  ],
+  "LOC400794": [
+    "trait/GWAS_3772.json"
+  ],
+  "LOC440100": [
+    "trait/GWAS_497.json"
+  ],
+  "LOC642846": [
+    "trait/GWAS_4706.json"
+  ],
+  "LOC642891": [
+    "trait/GWAS_1258.json"
+  ],
+  "LOC643153": [
+    "trait/GWAS_2073.json"
+  ],
+  "LOC643174": [
+    "trait/GWAS_1219.json"
+  ],
+  "LOC643308": [
+    "trait/GWAS_742.json"
+  ],
+  "LOC644282": [
+    "trait/GWAS_575.json"
+  ],
+  "LOC644502": [
+    "trait/GWAS_2787.json"
+  ],
+  "LOC644659": [
+    "trait/GWAS_3951.json"
+  ],
+  "LOC645044": [
+    "trait/GWAS_2247.json"
+  ],
+  "LOC64673": [
+    "trait/GWAS_2710.json"
+  ],
+  "LOC646909": [
+    "trait/GWAS_1613.json"
+  ],
+  "LOC727677": [
+    "trait/GWAS_2122.json"
+  ],
+  "LOC727878": [
+    "trait/GWAS_336.json"
+  ],
+  "LOC72901": [
+    "trait/GWAS_2712.json"
+  ],
+  "LOC729159": [
+    "trait/GWAS_4406.json"
+  ],
+  "LOC729257": [
+    "trait/GWAS_3872.json"
+  ],
+  "LOC729993": [
+    "trait/GWAS_540.json"
+  ],
+  "LOH12CR1": [
+    "trait/GWAS_4201.json"
+  ],
+  "LOXL1": [
+    "trait/GWAS_1187.json",
+    "trait/GWAS_2914.json"
+  ],
+  "LPA": [
+    "gene/CPIC_gene_LPA_18.json",
+    "trait/GWAS_1876.json",
+    "trait/GWAS_3677.json",
+    "trait/GWAS_4937.json"
+  ],
+  "LPHN1": [
+    "trait/GWAS_1602.json"
+  ],
+  "LPHN3": [
+    "trait/GWAS_1797.json",
+    "trait/GWAS_2810.json"
+  ],
+  "LPIN2": [
+    "trait/GWAS_3625.json"
+  ],
+  "LPL": [
+    "trait/GWAS_1267.json",
+    "trait/GWAS_1280.json",
+    "trait/GWAS_1948.json",
+    "trait/GWAS_2024.json",
+    "trait/GWAS_2619.json",
+    "trait/GWAS_2861.json",
+    "trait/GWAS_2863.json",
+    "trait/GWAS_3210.json",
+    "trait/GWAS_3362.json",
+    "trait/GWAS_3365.json",
+    "trait/GWAS_4055.json",
+    "trait/GWAS_423.json",
+    "trait/GWAS_4523.json",
+    "trait/GWAS_4525.json",
+    "trait/GWAS_4621.json",
+    "trait/GWAS_4823.json",
+    "trait/GWAS_755.json"
+  ],
+  "LPP": [
+    "trait/GWAS_2919.json",
+    "trait/GWAS_355.json",
+    "trait/GWAS_840.json"
+  ],
+  "LRFN5": [
+    "trait/GWAS_4855.json",
+    "trait/GWAS_634.json"
+  ],
+  "LRIG1": [
+    "trait/GWAS_867.json"
+  ],
+  "LRP1": [
+    "trait/GWAS_3169.json",
+    "trait/GWAS_4843.json"
+  ],
+  "LRP1B": [
+    "trait/GWAS_3459.json",
+    "trait/GWAS_385.json",
+    "trait/GWAS_4482.json"
+  ],
+  "LRP2": [
+    "trait/GWAS_180.json"
+  ],
+  "LRP4": [
+    "trait/GWAS_1622.json"
+  ],
+  "LRP5": [
+    "trait/GWAS_1207.json",
+    "trait/GWAS_4337.json",
+    "trait/GWAS_4933.json"
+  ],
+  "LRRC10": [
+    "trait/GWAS_1826.json"
+  ],
+  "LRRC16": [
+    "trait/GWAS_1722.json",
+    "trait/GWAS_1780.json",
+    "trait/GWAS_665.json"
+  ],
+  "LRRC16A": [
+    "trait/GWAS_61.json"
+  ],
+  "LRRC18": [
+    "trait/GWAS_2490.json",
+    "trait/GWAS_3752.json"
+  ],
+  "LRRC4C": [
+    "trait/GWAS_135.json"
+  ],
+  "LRRK2": [
+    "trait/GWAS_1353.json",
+    "trait/GWAS_2858.json",
+    "trait/GWAS_4861.json"
+  ],
+  "LRRN6A": [
+    "trait/GWAS_4122.json"
+  ],
+  "LRRN6C": [
+    "trait/GWAS_1918.json"
+  ],
+  "LSP1": [
+    "trait/GWAS_1396.json",
+    "trait/GWAS_2277.json",
+    "trait/GWAS_270.json",
+    "trait/GWAS_3276.json"
+  ],
+  "LST": [
+    "trait/GWAS_1743.json"
+  ],
+  "LTA4H": [
+    "trait/GWAS_4542.json"
+  ],
+  "LTBP1": [
+    "trait/GWAS_2732.json",
+    "trait/GWAS_3373.json"
+  ],
+  "LTBP3": [
+    "trait/GWAS_4077.json"
+  ],
+  "LTC4S": [
+    "gene/CPIC_gene_LTC4S_88.json"
+  ],
+  "LTF": [
+    "trait/GWAS_4989.json"
+  ],
+  "LUZP2": [
+    "trait/GWAS_1719.json",
+    "trait/GWAS_2882.json"
+  ],
+  "LY75": [
+    "trait/GWAS_356.json"
+  ],
+  "LY86": [
+    "trait/GWAS_3299.json",
+    "trait/GWAS_638.json"
+  ],
+  "LYPLAL1": [
+    "trait/GWAS_2768.json",
+    "trait/GWAS_4594.json"
+  ],
+  "LYZL4": [
+    "trait/GWAS_137.json"
+  ],
+  "MACROD2": [
+    "trait/GWAS_4888.json",
+    "trait/GWAS_569.json"
+  ],
+  "MAD2L1": [
+    "trait/GWAS_4517.json"
+  ],
+  "MAF": [
+    "trait/GWAS_2098.json"
+  ],
+  "MAFB": [
+    "trait/GWAS_4329.json"
+  ],
+  "MAGEB18": [
+    "trait/GWAS_2370.json"
+  ],
+  "MAGI2": [
+    "trait/GWAS_1684.json"
+  ],
+  "MAL2": [
+    "trait/GWAS_1685.json"
+  ],
+  "MAMDC1": [
+    "trait/GWAS_1406.json",
+    "trait/GWAS_4303.json"
+  ],
+  "MAML2": [
+    "trait/GWAS_3536.json"
+  ],
+  "MAN2A2": [
+    "trait/GWAS_1875.json"
+  ],
+  "MAP1B": [
+    "trait/GWAS_3911.json"
+  ],
+  "MAP2K5": [
+    "trait/GWAS_1911.json",
+    "trait/GWAS_407.json",
+    "trait/GWAS_4671.json"
+  ],
+  "MAP3K1": [
+    "trait/GWAS_199.json",
+    "trait/GWAS_2276.json",
+    "trait/GWAS_4842.json",
+    "trait/GWAS_764.json"
+  ],
+  "MAP3K7": [
+    "trait/GWAS_3503.json"
+  ],
+  "MAP3K7IP2": [
+    "trait/GWAS_33.json",
+    "trait/GWAS_359.json"
+  ],
+  "MAP3K9": [
+    "trait/GWAS_516.json"
+  ],
+  "MAP4K2": [
+    "trait/GWAS_4004.json"
+  ],
+  "MAP4K5": [
+    "trait/GWAS_772.json"
+  ],
+  "MAPT": [
+    "trait/GWAS_2336.json",
+    "trait/GWAS_2574.json",
+    "trait/GWAS_3406.json",
+    "trait/GWAS_4106.json"
+  ],
+  "MARCH1": [
+    "trait/GWAS_2390.json"
+  ],
+  "MARCH8": [
+    "trait/GWAS_2572.json"
+  ],
+  "MARK2": [
+    "trait/GWAS_982.json"
+  ],
+  "MAST4": [
+    "trait/GWAS_3310.json"
+  ],
+  "MATP": [
+    "trait/GWAS_4341.json",
+    "trait/GWAS_4354.json",
+    "trait/GWAS_767.json"
+  ],
+  "MAX": [
+    "trait/GWAS_3000.json"
+  ],
+  "MBL2": [
+    "trait/GWAS_3929.json"
+  ],
+  "MBP": [
+    "trait/GWAS_4632.json"
+  ],
+  "MC1R": [
+    "trait/GWAS_1240.json",
+    "trait/GWAS_240.json",
+    "trait/GWAS_2667.json",
+    "trait/GWAS_2729.json",
+    "trait/GWAS_3355.json",
+    "trait/GWAS_3402.json",
+    "trait/GWAS_3661.json",
+    "trait/GWAS_3982.json",
+    "trait/GWAS_4090.json",
+    "trait/GWAS_4653.json",
+    "trait/GWAS_498.json"
+  ],
+  "MC4R": [
+    "gene/CPIC_gene_MC4R_13.json",
+    "trait/GWAS_1735.json",
+    "trait/GWAS_1906.json",
+    "trait/GWAS_2767.json",
+    "trait/GWAS_3132.json",
+    "trait/GWAS_3679.json",
+    "trait/GWAS_4345.json"
+  ],
+  "MCCC1": [
+    "trait/GWAS_4213.json"
+  ],
+  "MCCD1": [
+    "trait/GWAS_1627.json"
+  ],
+  "MCF2L": [
+    "trait/GWAS_2113.json"
+  ],
+  "MCHR2": [
+    "trait/GWAS_1245.json"
+  ],
+  "MCM8": [
+    "trait/GWAS_3280.json",
+    "trait/GWAS_450.json"
+  ],
+  "MCTP1": [
+    "trait/GWAS_3227.json"
+  ],
+  "MCTP2": [
+    "trait/GWAS_3389.json",
+    "trait/GWAS_3789.json"
+  ],
+  "MDS1": [
+    "trait/GWAS_1364.json",
+    "trait/GWAS_3124.json",
+    "trait/GWAS_3252.json",
+    "trait/GWAS_3470.json"
+  ],
+  "MECOM": [
+    "trait/GWAS_614.json"
+  ],
+  "MED30": [
+    "trait/GWAS_633.json"
+  ],
+  "MEF2C": [
+    "trait/GWAS_1050.json",
+    "trait/GWAS_1209.json",
+    "trait/GWAS_2373.json"
+  ],
+  "MEF2D": [
+    "trait/GWAS_3165.json"
+  ],
+  "MEG3": [
+    "trait/GWAS_4554.json"
+  ],
+  "MEIS1": [
+    "trait/GWAS_1115.json",
+    "trait/GWAS_98.json"
+  ],
+  "MEIS2": [
+    "trait/GWAS_3724.json"
+  ],
+  "MEPE": [
+    "trait/GWAS_2233.json",
+    "trait/GWAS_375.json",
+    "trait/GWAS_4006.json"
+  ],
+  "MET": [
+    "trait/GWAS_1321.json"
+  ],
+  "MEX3C": [
+    "trait/GWAS_1832.json"
+  ],
+  "MGAT1": [
+    "trait/GWAS_1201.json",
+    "trait/GWAS_3268.json"
+  ],
+  "MGAT5": [
+    "trait/GWAS_1902.json"
+  ],
+  "MGC13125": [
+    "trait/GWAS_3890.json"
+  ],
+  "MGC2650": [
+    "trait/GWAS_2546.json",
+    "trait/GWAS_2716.json"
+  ],
+  "MGC33657": [
+    "trait/GWAS_1871.json"
+  ],
+  "MGC45491": [
+    "trait/GWAS_4776.json"
+  ],
+  "MGC45800": [
+    "trait/GWAS_37.json"
+  ],
+  "MHC": [
+    "trait/GWAS_1025.json",
+    "trait/GWAS_1045.json",
+    "trait/GWAS_1146.json",
+    "trait/GWAS_2759.json",
+    "trait/GWAS_3121.json",
+    "trait/GWAS_3552.json",
+    "trait/GWAS_3575.json",
+    "trait/GWAS_3776.json",
+    "trait/GWAS_4346.json",
+    "trait/GWAS_4661.json",
+    "trait/GWAS_502.json"
+  ],
+  "MIA3": [
+    "trait/GWAS_2291.json",
+    "trait/GWAS_3559.json",
+    "trait/GWAS_364.json"
+  ],
+  "MIAT": [
+    "trait/GWAS_226.json"
+  ],
+  "MICA": [
+    "trait/GWAS_1447.json",
+    "trait/GWAS_1795.json",
+    "trait/GWAS_2423.json"
+  ],
+  "MINPP1": [
+    "trait/GWAS_337.json"
+  ],
+  "MIRN147": [
+    "trait/GWAS_341.json"
+  ],
+  "MLLT10": [
+    "trait/GWAS_3080.json"
+  ],
+  "MLN": [
+    "trait/GWAS_2771.json"
+  ],
+  "MLXIPL": [
+    "trait/GWAS_1456.json",
+    "trait/GWAS_2620.json",
+    "trait/GWAS_425.json",
+    "trait/GWAS_4620.json",
+    "trait/GWAS_4829.json"
+  ],
+  "MMEL1": [
+    "trait/GWAS_1638.json",
+    "trait/GWAS_2174.json",
+    "trait/GWAS_263.json"
+  ],
+  "MMP": [
+    "trait/GWAS_2410.json",
+    "trait/GWAS_2977.json",
+    "trait/GWAS_3591.json"
+  ],
+  "MMP24": [
+    "trait/GWAS_3915.json"
+  ],
+  "MMRN1": [
+    "trait/GWAS_4427.json"
+  ],
+  "MOBKL2B": [
+    "trait/GWAS_3465.json"
+  ],
+  "MOBP": [
+    "trait/GWAS_1872.json"
+  ],
+  "MOSC2": [
+    "trait/GWAS_1090.json"
+  ],
+  "MPHOSPH9": [
+    "trait/GWAS_3009.json"
+  ],
+  "MPP6": [
+    "trait/GWAS_632.json"
+  ],
+  "MPP7": [
+    "trait/GWAS_3930.json"
+  ],
+  "MPPED2": [
+    "trait/GWAS_4032.json"
+  ],
+  "MPZL1": [
+    "trait/GWAS_2657.json"
+  ],
+  "MRAS": [
+    "trait/GWAS_503.json"
+  ],
+  "MRPL14": [
+    "trait/GWAS_4773.json"
+  ],
+  "MRPS30": [
+    "trait/GWAS_2106.json"
+  ],
+  "MRVI1": [
+    "trait/GWAS_2820.json"
+  ],
+  "MSMB": [
+    "trait/GWAS_2934.json",
+    "trait/GWAS_2946.json",
+    "trait/GWAS_3629.json",
+    "trait/GWAS_4234.json",
+    "trait/GWAS_437.json",
+    "trait/GWAS_788.json"
+  ],
+  "MSRA": [
+    "trait/GWAS_1747.json",
+    "trait/GWAS_1866.json",
+    "trait/GWAS_2954.json",
+    "trait/GWAS_4974.json"
+  ],
+  "MST1": [
+    "trait/GWAS_2005.json",
+    "trait/GWAS_3104.json",
+    "trait/GWAS_3646.json",
+    "trait/GWAS_3784.json",
+    "trait/GWAS_4480.json"
+  ],
+  "MT-RNR1": [
+    "gene/CPIC_gene_MT-RNR1_97.json",
+    "guideline/CPIC_GL_MT-RNR1_unknown_826283.json"
+  ],
+  "MT1X": [
+    "trait/GWAS_613.json"
+  ],
+  "MTAP": [
+    "trait/GWAS_2411.json"
+  ],
+  "MTCH2": [
+    "trait/GWAS_2356.json"
+  ],
+  "MTHFD1L": [
+    "trait/GWAS_404.json",
+    "trait/GWAS_872.json"
+  ],
+  "MTHFD2L": [
+    "trait/GWAS_1055.json"
+  ],
+  "MTHFR": [
+    "gene/CPIC_gene_MTHFR_117.json",
+    "trait/GWAS_2643.json",
+    "trait/GWAS_2781.json"
+  ],
+  "MTMR12": [
+    "trait/GWAS_3955.json"
+  ],
+  "MTNR1B": [
+    "trait/GWAS_2974.json",
+    "trait/GWAS_3444.json",
+    "trait/GWAS_4275.json",
+    "trait/GWAS_459.json"
+  ],
+  "MTRR": [
+    "gene/CPIC_gene_MTRR_17.json",
+    "trait/GWAS_834.json"
+  ],
+  "MTX1": [
+    "trait/GWAS_4045.json"
+  ],
+  "MUC1": [
+    "trait/GWAS_4293.json"
+  ],
+  "MUC15": [
+    "trait/GWAS_1554.json"
+  ],
+  "MUC19": [
+    "trait/GWAS_3644.json",
+    "trait/GWAS_4787.json"
+  ],
+  "MUT": [
+    "trait/GWAS_3634.json"
+  ],
+  "MYC": [
+    "trait/GWAS_131.json"
+  ],
+  "MYH6": [
+    "trait/GWAS_1114.json",
+    "trait/GWAS_1618.json"
+  ],
+  "MYH7": [
+    "trait/GWAS_4102.json"
+  ],
+  "MYL2": [
+    "trait/GWAS_2844.json",
+    "trait/GWAS_4058.json",
+    "trait/GWAS_4109.json"
+  ],
+  "MYO18B": [
+    "trait/GWAS_2698.json",
+    "trait/GWAS_2702.json"
+  ],
+  "MYP10": [
+    "trait/GWAS_2439.json"
+  ],
+  "MYP11": [
+    "trait/GWAS_4020.json",
+    "trait/GWAS_4998.json"
+  ],
+  "MYPN": [
+    "trait/GWAS_921.json"
+  ],
+  "MYRIP": [
+    "trait/GWAS_2328.json",
+    "trait/GWAS_2799.json"
+  ],
+  "MYSM1": [
+    "trait/GWAS_2115.json"
+  ],
+  "MYT1L": [
+    "trait/GWAS_1884.json"
+  ],
+  "NAALADL2": [
+    "trait/GWAS_2138.json"
+  ],
+  "NACA": [
+    "trait/GWAS_1825.json"
+  ],
+  "NADSYN1": [
+    "trait/GWAS_3984.json",
+    "trait/GWAS_4562.json"
+  ],
+  "NAG": [
+    "trait/GWAS_4907.json"
+  ],
+  "NAGS": [
+    "gene/CPIC_gene_NAGS_28.json"
+  ],
+  "NAPRT1": [
+    "trait/GWAS_2468.json"
+  ],
+  "NAT1": [
+    "gene/CPIC_gene_NAT1_19.json"
+  ],
+  "NAT2": [
+    "gene/CPIC_gene_NAT2_80.json",
+    "guideline/CPIC_GL_NAT2_unknown_6478852.json",
+    "trait/GWAS_3953.json",
+    "trait/GWAS_939.json"
+  ],
+  "NAT8": [
+    "trait/GWAS_3162.json"
+  ],
+  "NAV3": [
+    "trait/GWAS_3129.json"
+  ],
+  "NBPF3": [
+    "trait/GWAS_2646.json"
+  ],
+  "NCALD": [
+    "trait/GWAS_1189.json"
+  ],
+  "NCAM1": [
+    "trait/GWAS_2647.json",
+    "trait/GWAS_4512.json"
+  ],
+  "NCAM2": [
+    "trait/GWAS_4023.json"
+  ],
+  "NCAN": [
+    "trait/GWAS_1771.json",
+    "trait/GWAS_1772.json",
+    "trait/GWAS_2119.json",
+    "trait/GWAS_2665.json",
+    "trait/GWAS_4756.json"
+  ],
+  "NCAPD3": [
+    "trait/GWAS_1213.json"
+  ],
+  "NCOA3": [
+    "trait/GWAS_713.json"
+  ],
+  "NCRNA00114": [
+    "trait/GWAS_571.json"
+  ],
+  "NDRG4": [
+    "trait/GWAS_2747.json",
+    "trait/GWAS_3417.json"
+  ],
+  "NDUFAF6": [
+    "trait/GWAS_3446.json"
+  ],
+  "NEBL": [
+    "trait/GWAS_2505.json",
+    "trait/GWAS_2705.json"
+  ],
+  "NEDD4": [
+    "trait/GWAS_2095.json"
+  ],
+  "NEDD4L": [
+    "gene/CPIC_gene_NEDD4L_58.json"
+  ],
+  "NEDD8": [
+    "trait/GWAS_4399.json"
+  ],
+  "NEGR1": [
+    "trait/GWAS_1979.json",
+    "trait/GWAS_4883.json"
+  ],
+  "NEIL3": [
+    "trait/GWAS_706.json"
+  ],
+  "NEK6": [
+    "trait/GWAS_2681.json"
+  ],
+  "NELL1": [
+    "trait/GWAS_2148.json"
+  ],
+  "NEURL": [
+    "trait/GWAS_4730.json"
+  ],
+  "NEURL1": [
+    "trait/GWAS_1823.json",
+    "trait/GWAS_1835.json"
+  ],
+  "NEUROLIGIN": [
+    "trait/GWAS_731.json"
+  ],
+  "NF1A": [
+    "trait/GWAS_1744.json"
+  ],
+  "NFAT5": [
+    "trait/GWAS_1243.json"
+  ],
+  "NFIA": [
+    "trait/GWAS_4463.json"
+  ],
+  "NFKBIA": [
+    "trait/GWAS_4953.json"
+  ],
+  "NFKBIL1": [
+    "trait/GWAS_2205.json"
+  ],
+  "NFYC": [
+    "trait/GWAS_4978.json"
+  ],
+  "NID1": [
+    "trait/GWAS_858.json"
+  ],
+  "NID2": [
+    "trait/GWAS_78.json"
+  ],
+  "NIN": [
+    "trait/GWAS_3384.json"
+  ],
+  "NKX2": [
+    "trait/GWAS_1517.json",
+    "trait/GWAS_1820.json",
+    "trait/GWAS_2020.json",
+    "trait/GWAS_2925.json",
+    "trait/GWAS_4038.json",
+    "trait/GWAS_4191.json",
+    "trait/GWAS_428.json",
+    "trait/GWAS_4327.json",
+    "trait/GWAS_4423.json"
+  ],
+  "NLGN1": [
+    "trait/GWAS_932.json"
+  ],
+  "NLRP11": [
+    "trait/GWAS_3567.json"
+  ],
+  "NLRP3": [
+    "trait/GWAS_3745.json",
+    "trait/GWAS_3847.json"
+  ],
+  "NMUR2": [
+    "trait/GWAS_678.json"
+  ],
+  "NNMT": [
+    "trait/GWAS_2530.json"
+  ],
+  "NOD2": [
+    "trait/GWAS_2520.json",
+    "trait/GWAS_296.json",
+    "trait/GWAS_3055.json",
+    "trait/GWAS_3548.json",
+    "trait/GWAS_3648.json",
+    "trait/GWAS_551.json",
+    "trait/GWAS_671.json"
+  ],
+  "NOG": [
+    "trait/GWAS_1442.json",
+    "trait/GWAS_3066.json"
+  ],
+  "NOL4": [
+    "trait/GWAS_2577.json",
+    "trait/GWAS_853.json"
+  ],
+  "NOLA1": [
+    "trait/GWAS_2509.json"
+  ],
+  "NOS1AP": [
+    "trait/GWAS_2719.json",
+    "trait/GWAS_2743.json",
+    "trait/GWAS_3215.json",
+    "trait/GWAS_3317.json",
+    "trait/GWAS_3351.json",
+    "trait/GWAS_3414.json",
+    "trait/GWAS_726.json",
+    "trait/GWAS_727.json",
+    "trait/GWAS_756.json",
+    "trait/GWAS_761.json"
+  ],
+  "NOTCH2": [
+    "trait/GWAS_2248.json"
+  ],
+  "NOTCH4": [
+    "trait/GWAS_2550.json"
+  ],
+  "NPAS3": [
+    "trait/GWAS_2616.json"
+  ],
+  "NPHP4": [
+    "trait/GWAS_1261.json"
+  ],
+  "NPPA": [
+    "trait/GWAS_1678.json",
+    "trait/GWAS_3254.json"
+  ],
+  "NPR3": [
+    "trait/GWAS_107.json",
+    "trait/GWAS_2266.json",
+    "trait/GWAS_310.json"
+  ],
+  "NQO1": [
+    "gene/CPIC_gene_NQO1_118.json"
+  ],
+  "NR1H3": [
+    "trait/GWAS_507.json"
+  ],
+  "NR3C2": [
+    "trait/GWAS_4326.json"
+  ],
+  "NR4A2": [
+    "trait/GWAS_339.json",
+    "trait/GWAS_4295.json"
+  ],
+  "NR5A2": [
+    "trait/GWAS_2227.json"
+  ],
+  "NRG1": [
+    "trait/GWAS_1972.json",
+    "trait/GWAS_3996.json",
+    "trait/GWAS_843.json"
+  ],
+  "NRG3": [
+    "trait/GWAS_4360.json"
+  ],
+  "NRGN": [
+    "trait/GWAS_3617.json"
+  ],
+  "NRSN1": [
+    "trait/GWAS_2801.json"
+  ],
+  "NRTN": [
+    "trait/GWAS_2639.json",
+    "trait/GWAS_2640.json",
+    "trait/GWAS_2641.json"
+  ],
+  "NRXN3": [
+    "trait/GWAS_1910.json",
+    "trait/GWAS_3612.json",
+    "trait/GWAS_4026.json"
+  ],
+  "NSD1": [
+    "trait/GWAS_206.json"
+  ],
+  "NSF": [
+    "trait/GWAS_1361.json"
+  ],
+  "NSMCE2": [
+    "trait/GWAS_342.json"
+  ],
+  "NT5C2": [
+    "gene/CPIC_gene_NT5C2_57.json",
+    "trait/GWAS_3708.json"
+  ],
+  "NT5DC3": [
+    "trait/GWAS_1879.json"
+  ],
+  "NUBP2": [
+    "trait/GWAS_2648.json"
+  ],
+  "NUBPL": [
+    "trait/GWAS_3569.json",
+    "trait/GWAS_4357.json"
+  ],
+  "NUDT15": [
+    "gene/CPIC_gene_NUDT15_92.json",
+    "guideline/CPIC_GL_NUDT15_unknown_100428.json"
+  ],
+  "NUMB": [
+    "trait/GWAS_2488.json"
+  ],
+  "NUP37": [
+    "trait/GWAS_3052.json"
+  ],
+  "NXPH1": [
+    "trait/GWAS_1407.json",
+    "trait/GWAS_1760.json"
+  ],
+  "NXPH2": [
+    "trait/GWAS_4111.json"
+  ],
+  "OAS3": [
+    "trait/GWAS_2846.json"
+  ],
+  "OASL": [
+    "trait/GWAS_2638.json",
+    "trait/GWAS_3682.json"
+  ],
+  "OBFC1": [
+    "trait/GWAS_2508.json",
+    "trait/GWAS_3985.json"
+  ],
+  "OCA2": [
+    "trait/GWAS_2876.json",
+    "trait/GWAS_3357.json",
+    "trait/GWAS_3358.json",
+    "trait/GWAS_4088.json",
+    "trait/GWAS_4754.json",
+    "trait/GWAS_4916.json",
+    "trait/GWAS_4918.json"
+  ],
+  "ODZ2": [
+    "trait/GWAS_4130.json"
+  ],
+  "OPCML": [
+    "trait/GWAS_4699.json"
+  ],
+  "OPG": [
+    "trait/GWAS_4347.json",
+    "trait/GWAS_4356.json"
+  ],
+  "OPRM1": [
+    "gene/CPIC_gene_OPRM1_89.json",
+    "trait/GWAS_4258.json"
+  ],
+  "OPTN": [
+    "trait/GWAS_933.json"
+  ],
+  "OR10J1": [
+    "trait/GWAS_2323.json"
+  ],
+  "OR10J3": [
+    "trait/GWAS_4244.json"
+  ],
+  "OR2C3": [
+    "trait/GWAS_1927.json"
+  ],
+  "OR4A15": [
+    "trait/GWAS_3925.json"
+  ],
+  "OR5AR1": [
+    "trait/GWAS_30.json"
+  ],
+  "OR5H2": [
+    "trait/GWAS_3512.json"
+  ],
+  "ORF": [
+    "trait/GWAS_4041.json"
+  ],
+  "ORMDL3": [
+    "trait/GWAS_1557.json",
+    "trait/GWAS_1636.json",
+    "trait/GWAS_2451.json",
+    "trait/GWAS_3859.json"
+  ],
+  "OSBPL10": [
+    "trait/GWAS_4915.json"
+  ],
+  "OSBPL1A": [
+    "trait/GWAS_4563.json"
+  ],
+  "OSMR": [
+    "trait/GWAS_3992.json"
+  ],
+  "OTC": [
+    "gene/CPIC_gene_OTC_16.json"
+  ],
+  "OTHER": [
+    "trait/GWAS_4680.json"
+  ],
+  "OTUD3": [
+    "trait/GWAS_2837.json",
+    "trait/GWAS_3775.json",
+    "trait/GWAS_4.json"
+  ],
+  "OTUD7A": [
+    "trait/GWAS_4012.json"
+  ],
+  "OVCH2": [
+    "trait/GWAS_2766.json"
+  ],
+  "OXER1": [
+    "trait/GWAS_1881.json"
+  ],
+  "P2RY2": [
+    "trait/GWAS_4879.json"
+  ],
+  "PABPC4": [
+    "trait/GWAS_2591.json"
+  ],
+  "PAFAH1B2": [
+    "trait/GWAS_1764.json"
+  ],
+  "PALLD": [
+    "trait/GWAS_69.json"
+  ],
+  "PALM2": [
+    "trait/GWAS_1006.json"
+  ],
+  "PALMD": [
+    "trait/GWAS_1186.json"
+  ],
+  "PANK1": [
+    "trait/GWAS_750.json"
+  ],
+  "PAPD4": [
+    "trait/GWAS_4668.json"
+  ],
+  "PAPPA": [
+    "trait/GWAS_2840.json"
+  ],
+  "PAPSS2": [
+    "trait/GWAS_3046.json"
+  ],
+  "PARD3": [
+    "trait/GWAS_3779.json"
+  ],
+  "PARD3B": [
+    "trait/GWAS_4352.json"
+  ],
+  "PARG": [
+    "trait/GWAS_2126.json"
+  ],
+  "PARK16": [
+    "trait/GWAS_2575.json"
+  ],
+  "PARK2": [
+    "trait/GWAS_3885.json"
+  ],
+  "PARK7": [
+    "trait/GWAS_3436.json"
+  ],
+  "PARP11": [
+    "trait/GWAS_769.json"
+  ],
+  "PARP8": [
+    "trait/GWAS_4635.json"
+  ],
+  "PARP9": [
+    "trait/GWAS_4584.json"
+  ],
+  "PARVA": [
+    "trait/GWAS_4013.json"
+  ],
+  "PAWR": [
+    "trait/GWAS_4896.json"
+  ],
+  "PAX1": [
+    "trait/GWAS_1404.json"
+  ],
+  "PAX2": [
+    "trait/GWAS_986.json"
+  ],
+  "PAX8": [
+    "trait/GWAS_4046.json"
+  ],
+  "PBLD": [
+    "trait/GWAS_4044.json"
+  ],
+  "PBRM1": [
+    "trait/GWAS_419.json"
+  ],
+  "PCCB": [
+    "trait/GWAS_3757.json"
+  ],
+  "PCDH11X": [
+    "trait/GWAS_1624.json"
+  ],
+  "PCDH15": [
+    "trait/GWAS_2506.json"
+  ],
+  "PCNX": [
+    "trait/GWAS_1896.json"
+  ],
+  "PCNXL2": [
+    "trait/GWAS_3624.json"
+  ],
+  "PCSK1": [
+    "trait/GWAS_4673.json"
+  ],
+  "PCSK2": [
+    "trait/GWAS_3957.json",
+    "trait/GWAS_730.json"
+  ],
+  "PCSK7": [
+    "trait/GWAS_2185.json"
+  ],
+  "PCSK9": [
+    "trait/GWAS_1155.json",
+    "trait/GWAS_191.json",
+    "trait/GWAS_1960.json",
+    "trait/GWAS_3704.json",
+    "trait/GWAS_4618.json"
+  ],
+  "PDCD6IP": [
+    "trait/GWAS_4739.json"
+  ],
+  "PDE2A": [
+    "trait/GWAS_3175.json"
+  ],
+  "PDE3A": [
+    "trait/GWAS_3201.json",
+    "trait/GWAS_3399.json",
+    "trait/GWAS_3714.json",
+    "trait/GWAS_4824.json"
+  ],
+  "PDE4B": [
+    "trait/GWAS_2529.json"
+  ],
+  "PDE4D": [
+    "trait/GWAS_1369.json",
+    "trait/GWAS_1632.json"
+  ],
+  "PDE4DIP": [
+    "trait/GWAS_4018.json"
+  ],
+  "PDE8A": [
+    "trait/GWAS_882.json"
+  ],
+  "PDE8B": [
+    "trait/GWAS_2596.json"
+  ],
+  "PDGFC": [
+    "trait/GWAS_2684.json"
+  ],
+  "PDGFD": [
+    "trait/GWAS_3292.json"
+  ],
+  "PDGFRA": [
+    "trait/GWAS_1451.json",
+    "trait/GWAS_2930.json",
+    "trait/GWAS_2943.json",
+    "trait/GWAS_4972.json"
+  ],
+  "PDK1": [
+    "trait/GWAS_4157.json"
+  ],
+  "PDLIM5": [
+    "trait/GWAS_2585.json",
+    "trait/GWAS_3056.json"
+  ],
+  "PDXC1": [
+    "trait/GWAS_4626.json"
+  ],
+  "PDXDC1": [
+    "trait/GWAS_1611.json"
+  ],
+  "PDZK1": [
+    "trait/GWAS_2103.json",
+    "trait/GWAS_854.json"
+  ],
+  "PDZRN4": [
+    "trait/GWAS_35.json",
+    "trait/GWAS_863.json"
+  ],
+  "PEAR1": [
+    "trait/GWAS_2819.json",
+    "trait/GWAS_3477.json"
+  ],
+  "PECR": [
+    "trait/GWAS_1937.json"
+  ],
+  "PEG3": [
+    "trait/GWAS_210.json"
+  ],
+  "PELI1": [
+    "trait/GWAS_3635.json"
+  ],
+  "PER4": [
+    "trait/GWAS_3993.json"
+  ],
+  "PGM1": [
+    "trait/GWAS_1043.json"
+  ],
+  "PHACTR1": [
+    "trait/GWAS_1710.json",
+    "trait/GWAS_3167.json",
+    "trait/GWAS_3290.json",
+    "trait/GWAS_3987.json",
+    "trait/GWAS_4149.json",
+    "trait/GWAS_4510.json",
+    "trait/GWAS_4960.json",
+    "trait/GWAS_586.json",
+    "trait/GWAS_720.json"
+  ],
+  "PHACTR2": [
+    "trait/GWAS_4158.json"
+  ],
+  "PHB": [
+    "trait/GWAS_3253.json"
+  ],
+  "PHEX": [
+    "trait/GWAS_2604.json"
+  ],
+  "PHF11": [
+    "trait/GWAS_4490.json"
+  ],
+  "PHF21A": [
+    "trait/GWAS_290.json"
+  ],
+  "PHF8": [
+    "trait/GWAS_945.json"
+  ],
+  "PHLDB1": [
+    "trait/GWAS_3799.json"
+  ],
+  "PHLDB2": [
+    "trait/GWAS_3513.json"
+  ],
+  "PHTF1": [
+    "trait/GWAS_2036.json"
+  ],
+  "PI16": [
+    "trait/GWAS_3161.json"
+  ],
+  "PICALM": [
+    "trait/GWAS_2679.json"
+  ],
+  "PIEZO1": [
+    "trait/GWAS_3187.json",
+    "trait/GWAS_881.json"
+  ],
+  "PIGC": [
+    "trait/GWAS_1250.json"
+  ],
+  "PIGF": [
+    "trait/GWAS_4540.json"
+  ],
+  "PIK3CG": [
+    "trait/GWAS_3230.json"
+  ],
+  "PITPNB": [
+    "trait/GWAS_2606.json"
+  ],
+  "PITPNM2": [
+    "trait/GWAS_4993.json"
+  ],
+  "PITRM1": [
+    "trait/GWAS_3901.json"
+  ],
+  "PITX2": [
+    "trait/GWAS_101.json",
+    "trait/GWAS_1661.json",
+    "trait/GWAS_1811.json",
+    "trait/GWAS_1812.json",
+    "trait/GWAS_1813.json",
+    "trait/GWAS_1814.json",
+    "trait/GWAS_1815.json",
+    "trait/GWAS_1816.json",
+    "trait/GWAS_1817.json",
+    "trait/GWAS_1818.json",
+    "trait/GWAS_1834.json",
+    "trait/GWAS_3396.json",
+    "trait/GWAS_409.json"
+  ],
+  "PIWIL4": [
+    "trait/GWAS_3810.json",
+    "trait/GWAS_3820.json"
+  ],
+  "PKD1L2": [
+    "trait/GWAS_3897.json"
+  ],
+  "PKD1L3": [
+    "trait/GWAS_2120.json",
+    "trait/GWAS_3875.json"
+  ],
+  "PKHD1": [
+    "trait/GWAS_2765.json",
+    "trait/GWAS_702.json"
+  ],
+  "PKMYT1": [
+    "trait/GWAS_2196.json"
+  ],
+  "PKN2": [
+    "trait/GWAS_1675.json"
+  ],
+  "PKNOX1": [
+    "trait/GWAS_1373.json",
+    "trait/GWAS_1983.json",
+    "trait/GWAS_2947.json",
+    "trait/GWAS_3113.json"
+  ],
+  "PKNOX2": [
+    "trait/GWAS_4591.json",
+    "trait/GWAS_4659.json"
+  ],
+  "PKP1": [
+    "trait/GWAS_1767.json"
+  ],
+  "PLA2G6": [
+    "trait/GWAS_3403.json"
+  ],
+  "PLA2G7": [
+    "trait/GWAS_4557.json"
+  ],
+  "PLAA": [
+    "trait/GWAS_3763.json"
+  ],
+  "PLAG1": [
+    "trait/GWAS_12.json",
+    "trait/GWAS_3074.json",
+    "trait/GWAS_3840.json",
+    "trait/GWAS_4945.json"
+  ],
+  "PLCB1": [
+    "trait/GWAS_1666.json"
+  ],
+  "PLCB4": [
+    "trait/GWAS_3830.json"
+  ],
+  "PLCE1": [
+    "trait/GWAS_2621.json",
+    "trait/GWAS_989.json"
+  ],
+  "PLCL1": [
+    "trait/GWAS_2072.json",
+    "trait/GWAS_4991.json"
+  ],
+  "PLEK": [
+    "trait/GWAS_1174.json",
+    "trait/GWAS_3500.json"
+  ],
+  "PLEKHA1": [
+    "trait/GWAS_2737.json"
+  ],
+  "PLEKHA7": [
+    "trait/GWAS_1750.json",
+    "trait/GWAS_3248.json"
+  ],
+  "PLEKHF2": [
+    "trait/GWAS_2437.json"
+  ],
+  "PLEKHG1": [
+    "trait/GWAS_2044.json",
+    "trait/GWAS_4590.json"
+  ],
+  "PLEKHM1": [
+    "trait/GWAS_3083.json"
+  ],
+  "PLN": [
+    "trait/GWAS_2746.json"
+  ],
+  "PLTP": [
+    "trait/GWAS_4333.json",
+    "trait/GWAS_4631.json",
+    "trait/GWAS_751.json"
+  ],
+  "PLXDC2": [
+    "trait/GWAS_1225.json"
+  ],
+  "PLXNA2": [
+    "trait/GWAS_2609.json"
+  ],
+  "PMAIP": [
+    "trait/GWAS_140.json"
+  ],
+  "PMAIP1": [
+    "trait/GWAS_4227.json"
+  ],
+  "PML": [
+    "trait/GWAS_103.json"
+  ],
+  "PNPLA3": [
+    "trait/GWAS_3908.json"
+  ],
+  "POLE": [
+    "trait/GWAS_662.json"
+  ],
+  "POLG": [
+    "gene/CPIC_gene_POLG_1.json"
+  ],
+  "POLR3B": [
+    "trait/GWAS_2040.json"
+  ],
+  "PON1": [
+    "trait/GWAS_2144.json"
+  ],
+  "POU2F1": [
+    "trait/GWAS_1412.json"
+  ],
+  "POU3F2": [
+    "trait/GWAS_3863.json"
+  ],
+  "POU5FIP1": [
+    "trait/GWAS_776.json"
+  ],
+  "PPAN": [
+    "trait/GWAS_4692.json"
+  ],
+  "PPAP2B": [
+    "trait/GWAS_3705.json",
+    "trait/GWAS_4963.json"
+  ],
+  "PPARD": [
+    "trait/GWAS_3720.json"
+  ],
+  "PPARG": [
+    "trait/GWAS_2033.json",
+    "trait/GWAS_2288.json",
+    "trait/GWAS_4317.json"
+  ],
+  "PPARGC1B": [
+    "trait/GWAS_469.json"
+  ],
+  "PPIF": [
+    "trait/GWAS_106.json"
+  ],
+  "PPL": [
+    "trait/GWAS_3164.json"
+  ],
+  "PPM1E": [
+    "trait/GWAS_2904.json"
+  ],
+  "PPP1R3B": [
+    "trait/GWAS_2798.json",
+    "trait/GWAS_3959.json",
+    "trait/GWAS_4143.json"
+  ],
+  "PPP2R2B": [
+    "trait/GWAS_205.json",
+    "trait/GWAS_2764.json"
+  ],
+  "PPP2R2C": [
+    "trait/GWAS_2711.json"
+  ],
+  "PPP2R3A": [
+    "trait/GWAS_4124.json"
+  ],
+  "PPP2R5C": [
+    "trait/GWAS_990.json"
+  ],
+  "PRDM1": [
+    "trait/GWAS_3750.json"
+  ],
+  "PRDM15": [
+    "trait/GWAS_3843.json",
+    "trait/GWAS_4582.json"
+  ],
+  "PRDM5": [
+    "trait/GWAS_40.json",
+    "trait/GWAS_401.json"
+  ],
+  "PRDX5": [
+    "trait/GWAS_2084.json"
+  ],
+  "PREX1": [
+    "trait/GWAS_1049.json"
+  ],
+  "PRF1": [
+    "trait/GWAS_3794.json"
+  ],
+  "PRICKLE1": [
+    "trait/GWAS_673.json"
+  ],
+  "PRICKLE2": [
+    "trait/GWAS_2995.json"
+  ],
+  "PRKACB": [
+    "trait/GWAS_1217.json"
+  ],
+  "PRKAG2": [
+    "trait/GWAS_2948.json",
+    "trait/GWAS_2952.json",
+    "trait/GWAS_4486.json"
+  ],
+  "PRKCA": [
+    "gene/CPIC_gene_PRKCA_46.json"
+  ],
+  "PRKCB": [
+    "trait/GWAS_4683.json"
+  ],
+  "PRKCE": [
+    "trait/GWAS_1107.json",
+    "trait/GWAS_3547.json"
+  ],
+  "PRKCI": [
+    "trait/GWAS_2127.json"
+  ],
+  "PRKCQ": [
+    "trait/GWAS_1028.json",
+    "trait/GWAS_3137.json",
+    "trait/GWAS_547.json"
+  ],
+  "PRKCZ": [
+    "trait/GWAS_138.json"
+  ],
+  "PRKD2": [
+    "trait/GWAS_1317.json"
+  ],
+  "PRKG2": [
+    "trait/GWAS_2265.json"
+  ],
+  "PRMT7": [
+    "trait/GWAS_992.json"
+  ],
+  "PRNP": [
+    "trait/GWAS_3478.json"
+  ],
+  "PROC": [
+    "gene/CPIC_gene_PROC_119.json"
+  ],
+  "PROS1": [
+    "gene/CPIC_gene_PROS1_120.json"
+  ],
+  "PROX1": [
+    "trait/GWAS_3114.json"
+  ],
+  "PRPF8": [
+    "trait/GWAS_2201.json"
+  ],
+  "PRUNE2": [
+    "trait/GWAS_1203.json"
+  ],
+  "PSCA": [
+    "trait/GWAS_1190.json"
+  ],
+  "PSD3": [
+    "trait/GWAS_860.json"
+  ],
+  "PSEUDOGENE": [
+    "trait/GWAS_405.json"
+  ],
+  "PSMG1": [
+    "trait/GWAS_1067.json",
+    "trait/GWAS_1235.json",
+    "trait/GWAS_3341.json"
+  ],
+  "PSORS1C1": [
+    "trait/GWAS_3238.json"
+  ],
+  "PSRC1": [
+    "trait/GWAS_1458.json",
+    "trait/GWAS_3468.json",
+    "trait/GWAS_96.json"
+  ],
+  "PTBP2": [
+    "trait/GWAS_2760.json"
+  ],
+  "PTCH": [
+    "trait/GWAS_2927.json"
+  ],
+  "PTCH1": [
+    "trait/GWAS_1699.json"
+  ],
+  "PTCHD1": [
+    "trait/GWAS_4002.json"
+  ],
+  "PTGER4": [
+    "trait/GWAS_2147.json",
+    "trait/GWAS_266.json",
+    "trait/GWAS_299.json",
+    "trait/GWAS_3008.json"
+  ],
+  "PTGFR": [
+    "gene/CPIC_gene_PTGFR_62.json"
+  ],
+  "PTGS1": [
+    "gene/CPIC_gene_PTGS1_90.json"
+  ],
+  "PTGS2": [
+    "trait/GWAS_4344.json"
+  ],
+  "PTH": [
+    "trait/GWAS_1086.json"
+  ],
+  "PTHR2": [
+    "trait/GWAS_3163.json"
+  ],
+  "PTPN2": [
+    "trait/GWAS_1032.json",
+    "trait/GWAS_1419.json",
+    "trait/GWAS_1607.json",
+    "trait/GWAS_2007.json",
+    "trait/GWAS_2021.json",
+    "trait/GWAS_2854.json",
+    "trait/GWAS_3741.json",
+    "trait/GWAS_429.json",
+    "trait/GWAS_432.json"
+  ],
+  "PTPN22": [
+    "trait/GWAS_1256.json",
+    "trait/GWAS_1371.json",
+    "trait/GWAS_1526.json",
+    "trait/GWAS_2177.json",
+    "trait/GWAS_241.json",
+    "trait/GWAS_3551.json",
+    "trait/GWAS_3791.json",
+    "trait/GWAS_3853.json",
+    "trait/GWAS_553.json",
+    "trait/GWAS_609.json",
+    "trait/GWAS_847.json"
+  ],
+  "PTPRD": [
+    "trait/GWAS_1282.json",
+    "trait/GWAS_1283.json",
+    "trait/GWAS_183.json",
+    "trait/GWAS_3239.json",
+    "trait/GWAS_3476.json",
+    "trait/GWAS_4411.json"
+  ],
+  "PTPRE": [
+    "trait/GWAS_108.json"
+  ],
+  "PTPRG": [
+    "trait/GWAS_3218.json",
+    "trait/GWAS_883.json"
+  ],
+  "PTPRN2": [
+    "trait/GWAS_4297.json"
+  ],
+  "PTPRT": [
+    "trait/GWAS_224.json"
+  ],
+  "PUS10": [
+    "trait/GWAS_254.json",
+    "trait/GWAS_2852.json"
+  ],
+  "PVRL2": [
+    "trait/GWAS_189.json"
+  ],
+  "PVT1": [
+    "trait/GWAS_2534.json"
+  ],
+  "PXK": [
+    "trait/GWAS_444.json"
+  ],
+  "PXMP3": [
+    "trait/GWAS_4959.json"
+  ],
+  "PYGM": [
+    "trait/GWAS_4779.json"
+  ],
+  "PYROXD2": [
+    "trait/GWAS_4076.json"
+  ],
+  "PZP": [
+    "trait/GWAS_903.json"
+  ],
+  "Q6ZNG6": [
+    "trait/GWAS_1723.json"
+  ],
+  "Q6ZUR9": [
+    "trait/GWAS_1779.json"
+  ],
+  "QKI": [
+    "trait/GWAS_3642.json"
+  ],
+  "QSOX2": [
+    "trait/GWAS_2872.json"
+  ],
+  "R3HDM2": [
+    "trait/GWAS_857.json"
+  ],
+  "RAB4B": [
+    "trait/GWAS_4073.json"
+  ],
+  "RABEP2": [
+    "trait/GWAS_4684.json"
+  ],
+  "RABGEF1": [
+    "trait/GWAS_3637.json"
+  ],
+  "RAD23B": [
+    "trait/GWAS_276.json"
+  ],
+  "RAD50": [
+    "trait/GWAS_1319.json",
+    "trait/GWAS_1662.json"
+  ],
+  "RAD51B": [
+    "trait/GWAS_1218.json"
+  ],
+  "RAD51L1": [
+    "trait/GWAS_766.json"
+  ],
+  "RAFTLIN": [
+    "trait/GWAS_3793.json"
+  ],
+  "RAI14": [
+    "trait/GWAS_741.json"
+  ],
+  "RANK": [
+    "trait/GWAS_4319.json"
+  ],
+  "RANKL": [
+    "trait/GWAS_1438.json",
+    "trait/GWAS_3963.json",
+    "trait/GWAS_4348.json"
+  ],
+  "RAP1GDS1": [
+    "trait/GWAS_2041.json"
+  ],
+  "RAPGEF5": [
+    "trait/GWAS_2332.json"
+  ],
+  "RARB": [
+    "trait/GWAS_2769.json"
+  ],
+  "RASA1": [
+    "trait/GWAS_2137.json",
+    "trait/GWAS_3105.json"
+  ],
+  "RASGRF1": [
+    "trait/GWAS_1339.json",
+    "trait/GWAS_4066.json"
+  ],
+  "RASGRF2": [
+    "trait/GWAS_981.json"
+  ],
+  "RASGRP1": [
+    "trait/GWAS_2274.json"
+  ],
+  "RASGRP3": [
+    "trait/GWAS_3748.json",
+    "trait/GWAS_4394.json"
+  ],
+  "RBBP6": [
+    "trait/GWAS_1160.json"
+  ],
+  "RBBP8": [
+    "trait/GWAS_335.json",
+    "trait/GWAS_4288.json"
+  ],
+  "RBFOX1": [
+    "trait/GWAS_1422.json"
+  ],
+  "RBFOX3": [
+    "trait/GWAS_216.json",
+    "trait/GWAS_623.json"
+  ],
+  "RBM17": [
+    "trait/GWAS_3461.json"
+  ],
+  "RBM26": [
+    "trait/GWAS_4575.json"
+  ],
+  "RBM38": [
+    "trait/GWAS_2230.json"
+  ],
+  "RBM43": [
+    "trait/GWAS_4132.json"
+  ],
+  "RBM6": [
+    "trait/GWAS_2388.json"
+  ],
+  "RBMS3": [
+    "trait/GWAS_2668.json"
+  ],
+  "RBX1": [
+    "trait/GWAS_295.json"
+  ],
+  "RCC2": [
+    "trait/GWAS_3447.json",
+    "trait/GWAS_542.json"
+  ],
+  "RCL1": [
+    "trait/GWAS_1893.json",
+    "trait/GWAS_2231.json",
+    "trait/GWAS_2316.json",
+    "trait/GWAS_2565.json"
+  ],
+  "REEP3": [
+    "trait/GWAS_3909.json"
+  ],
+  "REEP5": [
+    "trait/GWAS_2812.json"
+  ],
+  "REL": [
+    "trait/GWAS_1277.json",
+    "trait/GWAS_2778.json",
+    "trait/GWAS_3482.json"
+  ],
+  "RELA": [
+    "trait/GWAS_4197.json"
+  ],
+  "RELN": [
+    "trait/GWAS_1562.json",
+    "trait/GWAS_1865.json",
+    "trait/GWAS_3324.json",
+    "trait/GWAS_3886.json"
+  ],
+  "REPS1": [
+    "trait/GWAS_3990.json"
+  ],
+  "RERE": [
+    "trait/GWAS_924.json"
+  ],
+  "RERG": [
+    "trait/GWAS_851.json"
+  ],
+  "RFC3": [
+    "trait/GWAS_2786.json"
+  ],
+  "RFC4": [
+    "trait/GWAS_4651.json"
+  ],
+  "RFPL1": [
+    "trait/GWAS_4431.json"
+  ],
+  "RFTN1": [
+    "trait/GWAS_3172.json"
+  ],
+  "RFX3": [
+    "trait/GWAS_3821.json"
+  ],
+  "RGPD2": [
+    "trait/GWAS_4587.json"
+  ],
+  "RGS1": [
+    "trait/GWAS_1610.json",
+    "trait/GWAS_785.json"
+  ],
+  "RGS11": [
+    "trait/GWAS_2314.json"
+  ],
+  "RGS22": [
+    "trait/GWAS_3808.json"
+  ],
+  "RGS6": [
+    "trait/GWAS_1236.json",
+    "trait/GWAS_4278.json"
+  ],
+  "RHBDD1": [
+    "trait/GWAS_2521.json"
+  ],
+  "RHOU": [
+    "trait/GWAS_3178.json",
+    "trait/GWAS_3448.json",
+    "trait/GWAS_3905.json"
+  ],
+  "RHPN2": [
+    "trait/GWAS_1415.json"
+  ],
+  "RIMBP2": [
+    "trait/GWAS_3097.json"
+  ],
+  "RIMS1": [
+    "trait/GWAS_4456.json"
+  ],
+  "RIPK2": [
+    "trait/GWAS_4462.json"
+  ],
+  "RIT1": [
+    "trait/GWAS_4798.json"
+  ],
+  "RKHD3": [
+    "trait/GWAS_4884.json"
+  ],
+  "RNASET2": [
+    "trait/GWAS_1565.json"
+  ],
+  "RND1": [
+    "trait/GWAS_4752.json"
+  ],
+  "RNF11": [
+    "trait/GWAS_1587.json"
+  ],
+  "RNF186": [
+    "trait/GWAS_3876.json"
+  ],
+  "RNF19A": [
+    "trait/GWAS_973.json"
+  ],
+  "RNF207": [
+    "trait/GWAS_2987.json"
+  ],
+  "RNF212": [
+    "trait/GWAS_2664.json",
+    "trait/GWAS_73.json"
+  ],
+  "RNF213": [
+    "trait/GWAS_946.json"
+  ],
+  "RNU6": [
+    "trait/GWAS_3388.json"
+  ],
+  "ROBO1": [
+    "trait/GWAS_3668.json"
+  ],
+  "ROPN1L": [
+    "trait/GWAS_4487.json"
+  ],
+  "RORA": [
+    "trait/GWAS_1233.json",
+    "trait/GWAS_275.json",
+    "trait/GWAS_3050.json",
+    "trait/GWAS_909.json"
+  ],
+  "RORB": [
+    "trait/GWAS_4702.json"
+  ],
+  "RORC": [
+    "trait/GWAS_4797.json"
+  ],
+  "RP11": [
+    "trait/GWAS_1182.json",
+    "trait/GWAS_1863.json",
+    "trait/GWAS_2559.json",
+    "trait/GWAS_2687.json",
+    "trait/GWAS_2690.json",
+    "trait/GWAS_3186.json",
+    "trait/GWAS_3188.json",
+    "trait/GWAS_3804.json",
+    "trait/GWAS_4173.json",
+    "trait/GWAS_4184.json",
+    "trait/GWAS_849.json",
+    "trait/GWAS_880.json"
+  ],
+  "RP13": [
+    "trait/GWAS_1402.json"
+  ],
+  "RP5": [
+    "trait/GWAS_2309.json",
+    "trait/GWAS_3496.json"
+  ],
+  "RPA3": [
+    "trait/GWAS_222.json"
+  ],
+  "RPL13AP17": [
+    "trait/GWAS_4515.json"
+  ],
+  "RPL15P2": [
+    "trait/GWAS_1540.json"
+  ],
+  "RPL21": [
+    "trait/GWAS_705.json"
+  ],
+  "RPL3L": [
+    "trait/GWAS_1829.json",
+    "trait/GWAS_1830.json"
+  ],
+  "RPL5": [
+    "trait/GWAS_1634.json",
+    "trait/GWAS_39.json"
+  ],
+  "RPN2": [
+    "trait/GWAS_2562.json"
+  ],
+  "RPS12": [
+    "trait/GWAS_2187.json"
+  ],
+  "RPS12P4": [
+    "trait/GWAS_1251.json"
+  ],
+  "RPS6KA4": [
+    "trait/GWAS_4196.json"
+  ],
+  "RPS6KB1": [
+    "trait/GWAS_4688.json"
+  ],
+  "RREB1": [
+    "trait/GWAS_2102.json",
+    "trait/GWAS_4770.json",
+    "trait/GWAS_577.json"
+  ],
+  "RSPO1": [
+    "trait/GWAS_3085.json",
+    "trait/GWAS_3090.json"
+  ],
+  "RSPO2": [
+    "trait/GWAS_4177.json"
+  ],
+  "RSPO3": [
+    "trait/GWAS_2306.json"
+  ],
+  "RSU1": [
+    "trait/GWAS_2860.json"
+  ],
+  "RTBDN": [
+    "trait/GWAS_2573.json"
+  ],
+  "RTEL1": [
+    "trait/GWAS_2412.json",
+    "trait/GWAS_3800.json"
+  ],
+  "RTN4": [
+    "trait/GWAS_2770.json"
+  ],
+  "RUFY1": [
+    "trait/GWAS_3072.json"
+  ],
+  "RUNX3": [
+    "trait/GWAS_1639.json"
+  ],
+  "RXRG": [
+    "trait/GWAS_1690.json",
+    "trait/GWAS_2383.json"
+  ],
+  "RYR1": [
+    "gene/CPIC_gene_RYR1_94.json"
+  ],
+  "RYR2": [
+    "trait/GWAS_2510.json",
+    "trait/GWAS_4215.json",
+    "trait/GWAS_606.json"
+  ],
+  "RYR3": [
+    "trait/GWAS_824.json"
+  ],
+  "S100A5": [
+    "trait/GWAS_3796.json"
+  ],
+  "SACS": [
+    "trait/GWAS_1152.json"
+  ],
+  "SAG": [
+    "trait/GWAS_2204.json"
+  ],
+  "SALL1": [
+    "trait/GWAS_1566.json",
+    "trait/GWAS_2613.json"
+  ],
+  "SALL3": [
+    "trait/GWAS_3639.json"
+  ],
+  "SALL4": [
+    "trait/GWAS_1083.json"
+  ],
+  "SASH1": [
+    "trait/GWAS_1547.json",
+    "trait/GWAS_1759.json"
+  ],
+  "SCAMP5": [
+    "trait/GWAS_4171.json"
+  ],
+  "SCARB1": [
+    "trait/GWAS_2803.json"
+  ],
+  "SCARB2": [
+    "trait/GWAS_4658.json"
+  ],
+  "SCFD2": [
+    "trait/GWAS_3174.json"
+  ],
+  "SCG2": [
+    "trait/GWAS_1423.json"
+  ],
+  "SCG3": [
+    "trait/GWAS_3492.json"
+  ],
+  "SCGN": [
+    "trait/GWAS_2780.json",
+    "trait/GWAS_46.json"
+  ],
+  "SCHIP1": [
+    "trait/GWAS_1967.json"
+  ],
+  "SCN10A": [
+    "trait/GWAS_1111.json",
+    "trait/GWAS_1637.json",
+    "trait/GWAS_1809.json",
+    "trait/GWAS_1810.json",
+    "trait/GWAS_4376.json",
+    "trait/GWAS_534.json",
+    "trait/GWAS_952.json",
+    "trait/GWAS_978.json"
+  ],
+  "SCN1A": [
+    "gene/CPIC_gene_SCN1A_121.json"
+  ],
+  "SCN5A": [
+    "trait/GWAS_1563.json",
+    "trait/GWAS_1592.json",
+    "trait/GWAS_2117.json",
+    "trait/GWAS_2189.json",
+    "trait/GWAS_2215.json",
+    "trait/GWAS_2745.json",
+    "trait/GWAS_2937.json",
+    "trait/GWAS_3413.json",
+    "trait/GWAS_4375.json",
+    "trait/GWAS_728.json"
+  ],
+  "SCO1": [
+    "trait/GWAS_3204.json"
+  ],
+  "SDC4": [
+    "trait/GWAS_193.json"
+  ],
+  "SDK1": [
+    "trait/GWAS_2959.json"
+  ],
+  "SDK2": [
+    "trait/GWAS_461.json"
+  ],
+  "SDR16C5": [
+    "trait/GWAS_1435.json"
+  ],
+  "SEC16B": [
+    "trait/GWAS_1244.json",
+    "trait/GWAS_1907.json"
+  ],
+  "SEC5L1": [
+    "trait/GWAS_1170.json"
+  ],
+  "SELP": [
+    "trait/GWAS_2552.json",
+    "trait/GWAS_4449.json",
+    "trait/GWAS_4647.json"
+  ],
+  "SELPLG": [
+    "trait/GWAS_4922.json"
+  ],
+  "SEMA3C": [
+    "gene/CPIC_gene_SEMA3C_24.json",
+    "trait/GWAS_1558.json"
+  ],
+  "SEMA4F": [
+    "trait/GWAS_4636.json"
+  ],
+  "SEMA5A": [
+    "trait/GWAS_373.json",
+    "trait/GWAS_4127.json"
+  ],
+  "SEPT9": [
+    "trait/GWAS_277.json"
+  ],
+  "SERINC3": [
+    "trait/GWAS_3433.json"
+  ],
+  "SERPINC1": [
+    "gene/CPIC_gene_SERPINC1_51.json"
+  ],
+  "SEZ6L2": [
+    "trait/GWAS_1668.json"
+  ],
+  "SF4": [
+    "trait/GWAS_3650.json"
+  ],
+  "SFXN2": [
+    "trait/GWAS_2576.json"
+  ],
+  "SGCD": [
+    "trait/GWAS_1671.json",
+    "trait/GWAS_1672.json",
+    "trait/GWAS_3888.json"
+  ],
+  "SGCZ": [
+    "trait/GWAS_3971.json"
+  ],
+  "SGPP1": [
+    "trait/GWAS_3012.json"
+  ],
+  "SGSM3": [
+    "trait/GWAS_1026.json"
+  ],
+  "SH2B1": [
+    "trait/GWAS_1736.json"
+  ],
+  "SH2B3": [
+    "trait/GWAS_1030.json",
+    "trait/GWAS_1272.json",
+    "trait/GWAS_1524.json",
+    "trait/GWAS_1894.json",
+    "trait/GWAS_2296.json",
+    "trait/GWAS_2369.json",
+    "trait/GWAS_2417.json",
+    "trait/GWAS_3251.json",
+    "trait/GWAS_3322.json",
+    "trait/GWAS_3771.json",
+    "trait/GWAS_4938.json",
+    "trait/GWAS_716.json",
+    "trait/GWAS_744.json"
+  ],
+  "SH2D6": [
+    "trait/GWAS_1754.json"
+  ],
+  "SH3BP5": [
+    "trait/GWAS_4110.json",
+    "trait/GWAS_4588.json"
+  ],
+  "SH3GL2": [
+    "trait/GWAS_3565.json",
+    "trait/GWAS_675.json"
+  ],
+  "SH3GL3": [
+    "trait/GWAS_3279.json"
+  ],
+  "SHANK2": [
+    "trait/GWAS_229.json",
+    "trait/GWAS_4882.json"
+  ],
+  "SHB": [
+    "trait/GWAS_4377.json"
+  ],
+  "SHBG": [
+    "trait/GWAS_1216.json",
+    "trait/GWAS_1395.json"
+  ],
+  "SHFM1": [
+    "trait/GWAS_3116.json"
+  ],
+  "SHROOM3": [
+    "trait/GWAS_3270.json"
+  ],
+  "SIA1L2": [
+    "trait/GWAS_1596.json"
+  ],
+  "SIAT7C": [
+    "trait/GWAS_1925.json"
+  ],
+  "SIN3A": [
+    "trait/GWAS_2873.json"
+  ],
+  "SIPA1L2": [
+    "trait/GWAS_825.json"
+  ],
+  "SIRPA": [
+    "trait/GWAS_3773.json"
+  ],
+  "SIX1": [
+    "trait/GWAS_1920.json",
+    "trait/GWAS_4555.json"
+  ],
+  "SIX3": [
+    "trait/GWAS_4586.json"
+  ],
+  "SKAP1": [
+    "trait/GWAS_3078.json"
+  ],
+  "SLC12A2": [
+    "trait/GWAS_1774.json",
+    "trait/GWAS_3970.json"
+  ],
+  "SLC12A3": [
+    "trait/GWAS_1673.json"
+  ],
+  "SLC12A5": [
+    "trait/GWAS_3192.json"
+  ],
+  "SLC12A9": [
+    "trait/GWAS_4252.json",
+    "trait/GWAS_563.json"
+  ],
+  "SLC14A2": [
+    "trait/GWAS_2822.json"
+  ],
+  "SLC15A1": [
+    "trait/GWAS_3390.json"
+  ],
+  "SLC15A4": [
+    "trait/GWAS_3754.json"
+  ],
+  "SLC16A10": [
+    "trait/GWAS_4860.json"
+  ],
+  "SLC16A9": [
+    "trait/GWAS_1018.json"
+  ],
+  "SLC17A1": [
+    "trait/GWAS_2210.json",
+    "trait/GWAS_2706.json",
+    "trait/GWAS_3511.json",
+    "trait/GWAS_59.json",
+    "trait/GWAS_666.json"
+  ],
+  "SLC17A3": [
+    "trait/GWAS_2262.json",
+    "trait/GWAS_4366.json"
+  ],
+  "SLC18A1": [
+    "trait/GWAS_1072.json",
+    "trait/GWAS_2246.json"
+  ],
+  "SLC1A7": [
+    "trait/GWAS_2598.json"
+  ],
+  "SLC22A": [
+    "trait/GWAS_4021.json"
+  ],
+  "SLC22A1": [
+    "trait/GWAS_4818.json"
+  ],
+  "SLC22A11": [
+    "trait/GWAS_1931.json",
+    "trait/GWAS_2691.json",
+    "trait/GWAS_2700.json",
+    "trait/GWAS_856.json"
+  ],
+  "SLC22A12": [
+    "trait/GWAS_1019.json",
+    "trait/GWAS_219.json",
+    "trait/GWAS_4778.json"
+  ],
+  "SLC22A18": [
+    "trait/GWAS_1741.json",
+    "trait/GWAS_2202.json"
+  ],
+  "SLC22A23": [
+    "trait/GWAS_941.json"
+  ],
+  "SLC22A3": [
+    "trait/GWAS_2054.json",
+    "trait/GWAS_2129.json",
+    "trait/GWAS_3222.json",
+    "trait/GWAS_4478.json"
+  ],
+  "SLC24A3": [
+    "trait/GWAS_3069.json"
+  ],
+  "SLC24A4": [
+    "trait/GWAS_1168.json",
+    "trait/GWAS_1169.json",
+    "trait/GWAS_1848.json",
+    "trait/GWAS_2454.json",
+    "trait/GWAS_556.json",
+    "trait/GWAS_893.json"
+  ],
+  "SLC24A5": [
+    "trait/GWAS_4091.json"
+  ],
+  "SLC25A26": [
+    "trait/GWAS_1589.json"
+  ],
+  "SLC25A36": [
+    "trait/GWAS_36.json"
+  ],
+  "SLC25A46": [
+    "trait/GWAS_3198.json"
+  ],
+  "SLC26A3": [
+    "trait/GWAS_2962.json"
+  ],
+  "SLC26A9": [
+    "trait/GWAS_2809.json",
+    "trait/GWAS_3998.json"
+  ],
+  "SLC28A1": [
+    "trait/GWAS_209.json"
+  ],
+  "SLC28A2": [
+    "trait/GWAS_4129.json"
+  ],
+  "SLC28A3": [
+    "gene/CPIC_gene_SLC28A3_60.json",
+    "trait/GWAS_1614.json"
+  ],
+  "SLC2A1": [
+    "trait/GWAS_246.json"
+  ],
+  "SLC2A9": [
+    "trait/GWAS_2048.json",
+    "trait/GWAS_2203.json",
+    "trait/GWAS_2263.json",
+    "trait/GWAS_3785.json",
+    "trait/GWAS_732.json"
+  ],
+  "SLC30A1": [
+    "trait/GWAS_4260.json"
+  ],
+  "SLC30A8": [
+    "trait/GWAS_2031.json",
+    "trait/GWAS_2848.json",
+    "trait/GWAS_389.json",
+    "trait/GWAS_4505.json",
+    "trait/GWAS_4608.json",
+    "trait/GWAS_528.json",
+    "trait/GWAS_57.json",
+    "trait/GWAS_687.json",
+    "trait/GWAS_792.json"
+  ],
+  "SLC35F1": [
+    "trait/GWAS_562.json"
+  ],
+  "SLC39A1": [
+    "trait/GWAS_3382.json"
+  ],
+  "SLC39A8": [
+    "trait/GWAS_1917.json",
+    "trait/GWAS_4140.json"
+  ],
+  "SLC44A3": [
+    "trait/GWAS_4131.json"
+  ],
+  "SLC44A4": [
+    "trait/GWAS_931.json"
+  ],
+  "SLC44A5": [
+    "trait/GWAS_831.json"
+  ],
+  "SLC45A2": [
+    "trait/GWAS_2321.json",
+    "trait/GWAS_4912.json",
+    "trait/GWAS_891.json"
+  ],
+  "SLC45A3": [
+    "trait/GWAS_4039.json"
+  ],
+  "SLC46A3": [
+    "trait/GWAS_689.json"
+  ],
+  "SLC47A2": [
+    "gene/CPIC_gene_SLC47A2_55.json"
+  ],
+  "SLC4A7": [
+    "trait/GWAS_3278.json",
+    "trait/GWAS_581.json"
+  ],
+  "SLC5A3": [
+    "trait/GWAS_719.json"
+  ],
+  "SLC6A4": [
+    "gene/CPIC_gene_SLC6A4_122.json"
+  ],
+  "SLC7A10": [
+    "trait/GWAS_4735.json"
+  ],
+  "SLC7A9": [
+    "trait/GWAS_2670.json",
+    "trait/GWAS_3722.json"
+  ],
+  "SLC9A9": [
+    "trait/GWAS_1383.json",
+    "trait/GWAS_4930.json",
+    "trait/GWAS_905.json"
+  ],
+  "SLCO1B1": [
+    "gene/CPIC_gene_SLCO1B1_123.json",
+    "guideline/CPIC_GL_SLCO1B1_unknown_100426.json",
+    "trait/GWAS_4819.json"
+  ],
+  "SLCO1B3": [
+    "trait/GWAS_3627.json"
+  ],
+  "SLCO3A1": [
+    "trait/GWAS_1773.json",
+    "trait/GWAS_3656.json"
+  ],
+  "SLCO6A1": [
+    "trait/GWAS_2762.json"
+  ],
+  "SLFN12L": [
+    "trait/GWAS_2089.json"
+  ],
+  "SLIT2": [
+    "trait/GWAS_2495.json",
+    "trait/GWAS_2526.json"
+  ],
+  "SMAD3": [
+    "trait/GWAS_4656.json",
+    "trait/GWAS_97.json"
+  ],
+  "SMAD7": [
+    "trait/GWAS_2322.json",
+    "trait/GWAS_3320.json",
+    "trait/GWAS_4690.json",
+    "trait/GWAS_778.json"
+  ],
+  "SMCHD1": [
+    "trait/GWAS_3693.json"
+  ],
+  "SMG6": [
+    "trait/GWAS_1185.json",
+    "trait/GWAS_3286.json"
+  ],
+  "SMOC2": [
+    "trait/GWAS_1085.json"
+  ],
+  "SMOX": [
+    "trait/GWAS_4422.json"
+  ],
+  "SMURF1": [
+    "trait/GWAS_81.json"
+  ],
+  "SNCA": [
+    "trait/GWAS_1360.json",
+    "trait/GWAS_181.json",
+    "trait/GWAS_2096.json",
+    "trait/GWAS_4214.json",
+    "trait/GWAS_998.json"
+  ],
+  "SNCAIP": [
+    "trait/GWAS_3811.json"
+  ],
+  "SNF8": [
+    "trait/GWAS_3287.json"
+  ],
+  "SNORD52": [
+    "trait/GWAS_3303.json"
+  ],
+  "SNRPN": [
+    "trait/GWAS_2512.json"
+  ],
+  "SNTG1": [
+    "trait/GWAS_2912.json"
+  ],
+  "SOCS2": [
+    "trait/GWAS_102.json"
+  ],
+  "SOCS5P5": [
+    "trait/GWAS_871.json"
+  ],
+  "SOD2": [
+    "gene/CPIC_gene_SOD2_50.json"
+  ],
+  "SORBS3": [
+    "trait/GWAS_1862.json"
+  ],
+  "SORCS2": [
+    "trait/GWAS_3699.json"
+  ],
+  "SORL1": [
+    "trait/GWAS_3818.json"
+  ],
+  "SORT1": [
+    "trait/GWAS_363.json"
+  ],
+  "SOST": [
+    "trait/GWAS_1621.json"
+  ],
+  "SOSTDC1": [
+    "trait/GWAS_3729.json"
+  ],
+  "SOX11": [
+    "trait/GWAS_2499.json"
+  ],
+  "SOX17": [
+    "trait/GWAS_2918.json",
+    "trait/GWAS_3561.json",
+    "trait/GWAS_912.json"
+  ],
+  "SOX5": [
+    "trait/GWAS_1334.json",
+    "trait/GWAS_539.json"
+  ],
+  "SOX6": [
+    "trait/GWAS_2784.json",
+    "trait/GWAS_376.json"
+  ],
+  "SP140": [
+    "trait/GWAS_3262.json"
+  ],
+  "SP4": [
+    "trait/GWAS_3297.json"
+  ],
+  "SP7": [
+    "trait/GWAS_378.json"
+  ],
+  "SP8": [
+    "trait/GWAS_4985.json",
+    "trait/GWAS_898.json"
+  ],
+  "SPACA1": [
+    "trait/GWAS_2909.json"
+  ],
+  "SPATA17": [
+    "trait/GWAS_668.json"
+  ],
+  "SPATA2": [
+    "trait/GWAS_2533.json"
+  ],
+  "SPATA5L1": [
+    "trait/GWAS_1047.json"
+  ],
+  "SPATA7": [
+    "trait/GWAS_3107.json"
+  ],
+  "SPATA8": [
+    "trait/GWAS_4415.json"
+  ],
+  "SPATS2L": [
+    "trait/GWAS_202.json"
+  ],
+  "SPIB": [
+    "trait/GWAS_2842.json",
+    "trait/GWAS_605.json"
+  ],
+  "SPOCK2": [
+    "trait/GWAS_3700.json"
+  ],
+  "SPP2": [
+    "trait/GWAS_4564.json"
+  ],
+  "SPPL3": [
+    "trait/GWAS_1765.json"
+  ],
+  "SPRED2": [
+    "trait/GWAS_3288.json",
+    "trait/GWAS_4808.json"
+  ],
+  "SPRY2": [
+    "trait/GWAS_4232.json"
+  ],
+  "SPRY4": [
+    "trait/GWAS_2415.json",
+    "trait/GWAS_621.json"
+  ],
+  "SPTA1": [
+    "trait/GWAS_3194.json"
+  ],
+  "SPTBN1": [
+    "trait/GWAS_2256.json",
+    "trait/GWAS_4634.json",
+    "trait/GWAS_4766.json"
+  ],
+  "SPTLC3": [
+    "trait/GWAS_1271.json",
+    "trait/GWAS_3265.json"
+  ],
+  "SQRDL": [
+    "trait/GWAS_281.json"
+  ],
+  "SRBD1": [
+    "trait/GWAS_132.json",
+    "trait/GWAS_865.json"
+  ],
+  "SRPK2": [
+    "trait/GWAS_4296.json"
+  ],
+  "SSBP2": [
+    "trait/GWAS_2339.json"
+  ],
+  "ST6GAL1": [
+    "trait/GWAS_1080.json",
+    "trait/GWAS_980.json"
+  ],
+  "ST8SIA1": [
+    "trait/GWAS_906.json"
+  ],
+  "ST8SIA2": [
+    "trait/GWAS_576.json"
+  ],
+  "STARD3": [
+    "trait/GWAS_4139.json"
+  ],
+  "STARD3NL": [
+    "trait/GWAS_382.json"
+  ],
+  "STAT1": [
+    "trait/GWAS_4811.json"
+  ],
+  "STAT2": [
+    "trait/GWAS_2922.json"
+  ],
+  "STAT3": [
+    "trait/GWAS_2539.json",
+    "trait/GWAS_4454.json",
+    "trait/GWAS_4687.json"
+  ],
+  "STAT4": [
+    "trait/GWAS_1281.json",
+    "trait/GWAS_1859.json",
+    "trait/GWAS_1981.json",
+    "trait/GWAS_2593.json",
+    "trait/GWAS_2632.json",
+    "trait/GWAS_3749.json",
+    "trait/GWAS_4744.json",
+    "trait/GWAS_890.json"
+  ],
+  "STAT6": [
+    "trait/GWAS_2059.json"
+  ],
+  "STAU2": [
+    "trait/GWAS_574.json"
+  ],
+  "STBD1": [
+    "trait/GWAS_1000.json"
+  ],
+  "STC2": [
+    "trait/GWAS_859.json"
+  ],
+  "STG": [
+    "trait/GWAS_1552.json"
+  ],
+  "STK33": [
+    "trait/GWAS_3366.json"
+  ],
+  "STK39": [
+    "trait/GWAS_692.json"
+  ],
+  "STMN2": [
+    "trait/GWAS_3995.json",
+    "trait/GWAS_715.json"
+  ],
+  "STOML3": [
+    "trait/GWAS_2197.json"
+  ],
+  "STX17": [
+    "trait/GWAS_2082.json"
+  ],
+  "SUCLA2": [
+    "trait/GWAS_4742.json"
+  ],
+  "SULF1": [
+    "trait/GWAS_4178.json"
+  ],
+  "SULF2": [
+    "trait/GWAS_1869.json"
+  ],
+  "SUPT3H": [
+    "trait/GWAS_1003.json",
+    "trait/GWAS_2813.json"
+  ],
+  "SUSD1": [
+    "trait/GWAS_3346.json"
+  ],
+  "SVIL": [
+    "trait/GWAS_1322.json"
+  ],
+  "SYCP2L": [
+    "trait/GWAS_2704.json"
+  ],
+  "SYF2": [
+    "trait/GWAS_230.json"
+  ],
+  "SYN2": [
+    "trait/GWAS_2250.json"
+  ],
+  "SYNE1": [
+    "trait/GWAS_819.json"
+  ],
+  "SYNGR2": [
+    "trait/GWAS_1729.json"
+  ],
+  "SYNPO2": [
+    "trait/GWAS_3086.json",
+    "trait/GWAS_3091.json"
+  ],
+  "SYT11": [
+    "trait/GWAS_4211.json"
+  ],
+  "SYT16": [
+    "trait/GWAS_3128.json"
+  ],
+  "SYTL5": [
+    "trait/GWAS_2372.json"
+  ],
+  "TACC2": [
+    "trait/GWAS_4248.json"
+  ],
+  "TAGAP": [
+    "trait/GWAS_2853.json",
+    "trait/GWAS_3.json",
+    "trait/GWAS_787.json",
+    "trait/GWAS_935.json"
+  ],
+  "TAL2": [
+    "trait/GWAS_4466.json"
+  ],
+  "TANC1": [
+    "gene/CPIC_gene_TANC1_69.json"
+  ],
+  "TAOK1": [
+    "trait/GWAS_3229.json",
+    "trait/GWAS_5.json"
+  ],
+  "TAP2": [
+    "trait/GWAS_207.json",
+    "trait/GWAS_2610.json"
+  ],
+  "TARBP1": [
+    "trait/GWAS_2112.json"
+  ],
+  "TARDBP": [
+    "trait/GWAS_4616.json"
+  ],
+  "TAS1R1": [
+    "trait/GWAS_4660.json"
+  ],
+  "TAS1R2": [
+    "trait/GWAS_3407.json"
+  ],
+  "TAS2R38": [
+    "trait/GWAS_4216.json"
+  ],
+  "TBC1D23": [
+    "trait/GWAS_4701.json"
+  ],
+  "TBC1D30": [
+    "trait/GWAS_770.json"
+  ],
+  "TBC1D4": [
+    "trait/GWAS_3466.json"
+  ],
+  "TBC1D8": [
+    "trait/GWAS_680.json"
+  ],
+  "TBCE": [
+    "trait/GWAS_3795.json"
+  ],
+  "TBL2": [
+    "trait/GWAS_793.json"
+  ],
+  "TBX15": [
+    "trait/GWAS_3934.json"
+  ],
+  "TBX3": [
+    "trait/GWAS_327.json",
+    "trait/GWAS_3630.json",
+    "trait/GWAS_852.json"
+  ],
+  "TBX4": [
+    "trait/GWAS_2578.json"
+  ],
+  "TBX5": [
+    "trait/GWAS_2133.json",
+    "trait/GWAS_2297.json",
+    "trait/GWAS_2938.json",
+    "trait/GWAS_2940.json",
+    "trait/GWAS_3410.json",
+    "trait/GWAS_3412.json"
+  ],
+  "TCERG1L": [
+    "trait/GWAS_4678.json"
+  ],
+  "TCF2": [
+    "trait/GWAS_410.json"
+  ],
+  "TCF21": [
+    "trait/GWAS_3706.json",
+    "trait/GWAS_4511.json"
+  ],
+  "TCF4": [
+    "trait/GWAS_1020.json",
+    "trait/GWAS_2720.json",
+    "trait/GWAS_4266.json"
+  ],
+  "TCF7L2": [
+    "gene/CPIC_gene_TCF7L2_47.json",
+    "trait/GWAS_1397.json",
+    "trait/GWAS_1787.json",
+    "trait/GWAS_2027.json",
+    "trait/GWAS_2030.json",
+    "trait/GWAS_2194.json",
+    "trait/GWAS_2714.json",
+    "trait/GWAS_3193.json",
+    "trait/GWAS_3555.json",
+    "trait/GWAS_3557.json",
+    "trait/GWAS_3832.json",
+    "trait/GWAS_391.json",
+    "trait/GWAS_4504.json",
+    "trait/GWAS_4610.json"
+  ],
+  "TCHH": [
+    "trait/GWAS_896.json"
+  ],
+  "TCL6": [
+    "trait/GWAS_3216.json"
+  ],
+  "TCN1": [
+    "trait/GWAS_3633.json",
+    "trait/GWAS_4476.json"
+  ],
+  "TERC": [
+    "trait/GWAS_2222.json"
+  ],
+  "TERT": [
+    "trait/GWAS_1173.json",
+    "trait/GWAS_2132.json",
+    "trait/GWAS_2723.json",
+    "trait/GWAS_2754.json",
+    "trait/GWAS_3082.json",
+    "trait/GWAS_3424.json",
+    "trait/GWAS_3449.json",
+    "trait/GWAS_4560.json",
+    "trait/GWAS_4561.json",
+    "trait/GWAS_545.json"
+  ],
+  "TET2": [
+    "trait/GWAS_2134.json",
+    "trait/GWAS_2586.json"
+  ],
+  "TF": [
+    "trait/GWAS_1629.json",
+    "trait/GWAS_2305.json",
+    "trait/GWAS_3532.json",
+    "trait/GWAS_3623.json",
+    "trait/GWAS_3940.json",
+    "trait/GWAS_691.json"
+  ],
+  "TFAP2B": [
+    "trait/GWAS_1268.json",
+    "trait/GWAS_3608.json"
+  ],
+  "TFCP2L1": [
+    "trait/GWAS_1858.json"
+  ],
+  "TFEB": [
+    "trait/GWAS_2811.json"
+  ],
+  "TFR2": [
+    "trait/GWAS_2951.json",
+    "trait/GWAS_365.json",
+    "trait/GWAS_3694.json",
+    "trait/GWAS_4368.json"
+  ],
+  "TFRC": [
+    "trait/GWAS_1108.json",
+    "trait/GWAS_2232.json",
+    "trait/GWAS_2317.json",
+    "trait/GWAS_2567.json",
+    "trait/GWAS_4670.json"
+  ],
+  "TGFA": [
+    "trait/GWAS_4990.json"
+  ],
+  "TGFBR2": [
+    "trait/GWAS_3166.json",
+    "trait/GWAS_820.json"
+  ],
+  "TGFBR3": [
+    "trait/GWAS_4324.json"
+  ],
+  "TGFBRAP1": [
+    "trait/GWAS_602.json"
+  ],
+  "TGM3": [
+    "trait/GWAS_3807.json"
+  ],
+  "TGM5": [
+    "trait/GWAS_2715.json"
+  ],
+  "THADA": [
+    "trait/GWAS_2584.json",
+    "trait/GWAS_3057.json",
+    "trait/GWAS_782.json"
+  ],
+  "THAP4": [
+    "trait/GWAS_1159.json"
+  ],
+  "THEMIS": [
+    "trait/GWAS_3504.json"
+  ],
+  "THPO": [
+    "trait/GWAS_1891.json"
+  ],
+  "THRB": [
+    "trait/GWAS_2931.json",
+    "trait/GWAS_2944.json"
+  ],
+  "THSD4": [
+    "trait/GWAS_2557.json"
+  ],
+  "THUMPD2": [
+    "trait/GWAS_3867.json"
+  ],
+  "TIMP3": [
+    "trait/GWAS_1776.json",
+    "trait/GWAS_1777.json"
+  ],
+  "TIPARP": [
+    "trait/GWAS_3076.json",
+    "trait/GWAS_52.json"
+  ],
+  "TLE4": [
+    "trait/GWAS_1687.json"
+  ],
+  "TLK2": [
+    "trait/GWAS_3094.json"
+  ],
+  "TLL2": [
+    "trait/GWAS_1885.json"
+  ],
+  "TLR7": [
+    "trait/GWAS_353.json"
+  ],
+  "TMC2": [
+    "trait/GWAS_2633.json"
+  ],
+  "TMCC2": [
+    "trait/GWAS_1946.json"
+  ],
+  "TMCO1": [
+    "trait/GWAS_4994.json"
+  ],
+  "TMCO5A": [
+    "trait/GWAS_663.json"
+  ],
+  "TMED10": [
+    "trait/GWAS_20.json"
+  ],
+  "TMEFF2": [
+    "trait/GWAS_400.json"
+  ],
+  "TMEM108": [
+    "trait/GWAS_4309.json"
+  ],
+  "TMEM126B": [
+    "trait/GWAS_2758.json"
+  ],
+  "TMEM160": [
+    "trait/GWAS_2360.json"
+  ],
+  "TMEM16B": [
+    "trait/GWAS_2045.json"
+  ],
+  "TMEM178": [
+    "trait/GWAS_2364.json"
+  ],
+  "TMEM18": [
+    "trait/GWAS_1241.json",
+    "trait/GWAS_1734.json",
+    "trait/GWAS_2351.json",
+    "trait/GWAS_4128.json"
+  ],
+  "TMEM215": [
+    "trait/GWAS_3445.json"
+  ],
+  "TMEM38B": [
+    "trait/GWAS_2384.json",
+    "trait/GWAS_3672.json"
+  ],
+  "TMEM43": [
+    "gene/CPIC_gene_TMEM43_49.json"
+  ],
+  "TMEM45B": [
+    "trait/GWAS_4133.json"
+  ],
+  "TMEM50A": [
+    "trait/GWAS_4665.json"
+  ],
+  "TMEM57": [
+    "trait/GWAS_3368.json",
+    "trait/GWAS_4666.json"
+  ],
+  "TMOD1": [
+    "trait/GWAS_3226.json"
+  ],
+  "TMPRSS6": [
+    "trait/GWAS_1938.json",
+    "trait/GWAS_1975.json",
+    "trait/GWAS_2234.json",
+    "trait/GWAS_2318.json",
+    "trait/GWAS_2817.json",
+    "trait/GWAS_3209.json",
+    "trait/GWAS_3213.json",
+    "trait/GWAS_3762.json",
+    "trait/GWAS_3941.json",
+    "trait/GWAS_4279.json",
+    "trait/GWAS_4361.json",
+    "trait/GWAS_44.json",
+    "trait/GWAS_557.json",
+    "trait/GWAS_747.json"
+  ],
+  "TMTC1": [
+    "trait/GWAS_676.json"
+  ],
+  "TMTC2": [
+    "trait/GWAS_572.json"
+  ],
+  "TNF": [
+    "gene/CPIC_gene_TNF_52.json"
+  ],
+  "TNFAIP3": [
+    "trait/GWAS_1167.json",
+    "trait/GWAS_1285.json",
+    "trait/GWAS_3134.json",
+    "trait/GWAS_3499.json",
+    "trait/GWAS_3697.json",
+    "trait/GWAS_3751.json",
+    "trait/GWAS_4474.json"
+  ],
+  "TNFAIP8L3": [
+    "trait/GWAS_3386.json"
+  ],
+  "TNFIP3": [
+    "trait/GWAS_3136.json"
+  ],
+  "TNFRSF10A": [
+    "trait/GWAS_1252.json"
+  ],
+  "TNFRSF11A": [
+    "trait/GWAS_1208.json",
+    "trait/GWAS_927.json",
+    "trait/GWAS_934.json"
+  ],
+  "TNFRSF11B": [
+    "trait/GWAS_3680.json",
+    "trait/GWAS_4434.json"
+  ],
+  "TNFRSF18": [
+    "trait/GWAS_4793.json"
+  ],
+  "TNFRSF19": [
+    "trait/GWAS_3460.json"
+  ],
+  "TNFRSF1A": [
+    "trait/GWAS_2776.json",
+    "trait/GWAS_3117.json",
+    "trait/GWAS_3833.json"
+  ],
+  "TNFRSF1B": [
+    "trait/GWAS_212.json"
+  ],
+  "TNFRSF21": [
+    "trait/GWAS_463.json"
+  ],
+  "TNFRSF6B": [
+    "trait/GWAS_2344.json",
+    "trait/GWAS_66.json"
+  ],
+  "TNFRSF9": [
+    "trait/GWAS_4794.json"
+  ],
+  "TNFSF15": [
+    "trait/GWAS_2019.json",
+    "trait/GWAS_3053.json",
+    "trait/GWAS_3144.json"
+  ],
+  "TNFSF18": [
+    "trait/GWAS_3585.json",
+    "trait/GWAS_4464.json"
+  ],
+  "TNFSF4": [
+    "trait/GWAS_1097.json"
+  ],
+  "TNFSF8": [
+    "trait/GWAS_3440.json"
+  ],
+  "TNIK": [
+    "trait/GWAS_4761.json"
+  ],
+  "TNIP1": [
+    "trait/GWAS_1098.json",
+    "trait/GWAS_1954.json",
+    "trait/GWAS_4784.json"
+  ],
+  "TNNI2": [
+    "trait/GWAS_4192.json"
+  ],
+  "TNP2": [
+    "trait/GWAS_550.json"
+  ],
+  "TNPO": [
+    "trait/GWAS_274.json"
+  ],
+  "TNPO3": [
+    "trait/GWAS_1980.json",
+    "trait/GWAS_4203.json",
+    "trait/GWAS_4571.json",
+    "trait/GWAS_4745.json"
+  ],
+  "TNR": [
+    "trait/GWAS_1382.json"
+  ],
+  "TNRC6B": [
+    "trait/GWAS_2757.json",
+    "trait/GWAS_3535.json",
+    "trait/GWAS_4086.json"
+  ],
+  "TNRC9": [
+    "trait/GWAS_2279.json",
+    "trait/GWAS_234.json"
+  ],
+  "TNS1": [
+    "trait/GWAS_2674.json"
+  ],
+  "TNXB": [
+    "trait/GWAS_1061.json",
+    "trait/GWAS_2592.json"
+  ],
+  "TOM1": [
+    "trait/GWAS_1536.json",
+    "trait/GWAS_1538.json"
+  ],
+  "TOMM40": [
+    "trait/GWAS_3430.json",
+    "trait/GWAS_422.json",
+    "trait/GWAS_977.json"
+  ],
+  "TOPBP1": [
+    "trait/GWAS_3537.json"
+  ],
+  "TOX": [
+    "trait/GWAS_4700.json"
+  ],
+  "TOX3": [
+    "trait/GWAS_1580.json",
+    "trait/GWAS_2104.json",
+    "trait/GWAS_2347.json",
+    "trait/GWAS_3849.json",
+    "trait/GWAS_583.json"
+  ],
+  "TP53": [
+    "gene/CPIC_gene_TP53_45.json",
+    "trait/GWAS_3453.json"
+  ],
+  "TP53INP1": [
+    "trait/GWAS_237.json"
+  ],
+  "TP63": [
+    "trait/GWAS_2090.json",
+    "trait/GWAS_3135.json",
+    "trait/GWAS_421.json",
+    "trait/GWAS_514.json"
+  ],
+  "TPCN2": [
+    "trait/GWAS_2532.json"
+  ],
+  "TPMT": [
+    "gene/CPIC_gene_TPMT_128.json",
+    "trait/GWAS_1567.json",
+    "trait/GWAS_1640.json",
+    "trait/GWAS_1641.json",
+    "variant/PharmGKB_CA_CA_PA356.json"
+  ],
+  "TRA": [
+    "trait/GWAS_3293.json"
+  ],
+  "TRAF1": [
+    "trait/GWAS_3742.json",
+    "trait/GWAS_740.json",
+    "trait/GWAS_86.json"
+  ],
+  "TRAF3": [
+    "trait/GWAS_3571.json"
+  ],
+  "TRAF3IP2": [
+    "trait/GWAS_3485.json",
+    "trait/GWAS_4501.json",
+    "trait/GWAS_4786.json",
+    "trait/GWAS_4954.json"
+  ],
+  "TRAFD1": [
+    "trait/GWAS_4363.json"
+  ],
+  "TRAM1L1": [
+    "trait/GWAS_3609.json"
+  ],
+  "TRANK1": [
+    "trait/GWAS_2312.json"
+  ],
+  "TRHDE": [
+    "trait/GWAS_4245.json"
+  ],
+  "TRHR": [
+    "trait/GWAS_4325.json"
+  ],
+  "TRIB1": [
+    "trait/GWAS_1455.json",
+    "trait/GWAS_1853.json",
+    "trait/GWAS_2419.json",
+    "trait/GWAS_3527.json",
+    "trait/GWAS_4136.json",
+    "trait/GWAS_424.json",
+    "trait/GWAS_4521.json",
+    "trait/GWAS_4527.json",
+    "trait/GWAS_4605.json",
+    "trait/GWAS_4830.json",
+    "trait/GWAS_794.json"
+  ],
+  "TRIB3": [
+    "trait/GWAS_3112.json"
+  ],
+  "TRIM10": [
+    "trait/GWAS_3525.json"
+  ],
+  "TRIM24": [
+    "trait/GWAS_1198.json"
+  ],
+  "TRIM27": [
+    "trait/GWAS_4731.json"
+  ],
+  "TRIM38": [
+    "trait/GWAS_1782.json"
+  ],
+  "TRIM44": [
+    "trait/GWAS_1357.json"
+  ],
+  "TRIM47": [
+    "trait/GWAS_4973.json"
+  ],
+  "TRIM58": [
+    "trait/GWAS_3378.json",
+    "trait/GWAS_3999.json"
+  ],
+  "TRIM66": [
+    "trait/GWAS_4308.json"
+  ],
+  "TRNAA": [
+    "trait/GWAS_3588.json"
+  ],
+  "TRPM3": [
+    "trait/GWAS_4000.json"
+  ],
+  "TRPM8": [
+    "trait/GWAS_3168.json"
+  ],
+  "TRPS1": [
+    "trait/GWAS_4585.json"
+  ],
+  "TSC1": [
+    "trait/GWAS_4421.json"
+  ],
+  "TSC22D2": [
+    "trait/GWAS_4599.json"
+  ],
+  "TSHR": [
+    "trait/GWAS_4556.json"
+  ],
+  "TSHZ2": [
+    "trait/GWAS_2950.json"
+  ],
+  "TSLP": [
+    "trait/GWAS_1959.json"
+  ],
+  "TSN": [
+    "trait/GWAS_2363.json"
+  ],
+  "TSPAN14": [
+    "trait/GWAS_4189.json"
+  ],
+  "TSSK1": [
+    "trait/GWAS_2603.json"
+  ],
+  "TTC39B": [
+    "trait/GWAS_4331.json"
+  ],
+  "TTC7A": [
+    "trait/GWAS_3728.json"
+  ],
+  "TTLL7": [
+    "trait/GWAS_987.json"
+  ],
+  "TTN": [
+    "trait/GWAS_2981.json"
+  ],
+  "TTYH2": [
+    "trait/GWAS_4400.json"
+  ],
+  "TXK": [
+    "trait/GWAS_3264.json"
+  ],
+  "TXNRD2": [
+    "gene/CPIC_gene_TXNRD2_40.json"
+  ],
+  "TYK2": [
+    "trait/GWAS_2582.json",
+    "trait/GWAS_3486.json",
+    "trait/GWAS_3942.json"
+  ],
+  "TYMP": [
+    "trait/GWAS_2929.json"
+  ],
+  "TYMS": [
+    "gene/CPIC_gene_TYMS_99.json"
+  ],
+  "TYR": [
+    "trait/GWAS_1260.json",
+    "trait/GWAS_2320.json",
+    "trait/GWAS_3356.json",
+    "trait/GWAS_3802.json",
+    "trait/GWAS_3862.json",
+    "trait/GWAS_4318.json",
+    "trait/GWAS_892.json",
+    "trait/GWAS_894.json",
+    "trait/GWAS_925.json"
+  ],
+  "TYRP1": [
+    "trait/GWAS_3657.json"
+  ],
+  "TYW1B": [
+    "trait/GWAS_4844.json"
+  ],
+  "TYW5": [
+    "trait/GWAS_866.json"
+  ],
+  "UBA7": [
+    "trait/GWAS_257.json"
+  ],
+  "UBASH3A": [
+    "trait/GWAS_1033.json",
+    "trait/GWAS_1584.json",
+    "trait/GWAS_2275.json"
+  ],
+  "UBE2L3": [
+    "trait/GWAS_1102.json",
+    "trait/GWAS_2229.json",
+    "trait/GWAS_3743.json",
+    "trait/GWAS_3921.json"
+  ],
+  "UBE2Q2": [
+    "trait/GWAS_628.json"
+  ],
+  "UBE3A": [
+    "trait/GWAS_4956.json"
+  ],
+  "UBE3C": [
+    "trait/GWAS_2956.json",
+    "trait/GWAS_3048.json",
+    "trait/GWAS_4430.json"
+  ],
+  "UBE4B": [
+    "trait/GWAS_2650.json"
+  ],
+  "UBR3": [
+    "trait/GWAS_228.json"
+  ],
+  "UBXD4": [
+    "trait/GWAS_2605.json"
+  ],
+  "UCN": [
+    "trait/GWAS_1335.json"
+  ],
+  "UFSP1": [
+    "trait/GWAS_564.json"
+  ],
+  "UGT1A": [
+    "trait/GWAS_4502.json"
+  ],
+  "UGT1A1": [
+    "gene/CPIC_gene_UGT1A1_104.json",
+    "guideline/CPIC_GL_UGT1A1_unknown_100429.json",
+    "trait/GWAS_3255.json",
+    "trait/GWAS_3626.json",
+    "trait/GWAS_4771.json"
+  ],
+  "UGT1A4": [
+    "gene/CPIC_gene_UGT1A4_44.json"
+  ],
+  "UGT2B15": [
+    "gene/CPIC_gene_UGT2B15_67.json"
+  ],
+  "UIMC1": [
+    "trait/GWAS_3208.json"
+  ],
+  "ULBP1": [
+    "trait/GWAS_2436.json"
+  ],
+  "ULBP3": [
+    "trait/GWAS_2081.json"
+  ],
+  "ULK4": [
+    "trait/GWAS_2295.json"
+  ],
+  "UMOD": [
+    "trait/GWAS_1046.json",
+    "trait/GWAS_3247.json",
+    "trait/GWAS_4228.json"
+  ],
+  "UMPS": [
+    "gene/CPIC_gene_UMPS_102.json"
+  ],
+  "UNC13A": [
+    "trait/GWAS_4472.json"
+  ],
+  "UNC5B": [
+    "trait/GWAS_2814.json"
+  ],
+  "UNC5C": [
+    "trait/GWAS_2433.json"
+  ],
+  "UNCX": [
+    "trait/GWAS_639.json"
+  ],
+  "UNKNOWN": [
+    "trait/GWAS_4351.json",
+    "trait/GWAS_884.json",
+    "trait/GWAS_885.json"
+  ],
+  "UPP2": [
+    "trait/GWAS_2431.json"
+  ],
+  "UQCC": [
+    "trait/GWAS_2271.json",
+    "trait/GWAS_3455.json"
+  ],
+  "USP12": [
+    "trait/GWAS_1349.json",
+    "trait/GWAS_2396.json"
+  ],
+  "USP25": [
+    "trait/GWAS_2832.json"
+  ],
+  "USP3": [
+    "trait/GWAS_3271.json"
+  ],
+  "USP46": [
+    "trait/GWAS_2752.json"
+  ],
+  "UTP20": [
+    "trait/GWAS_3712.json"
+  ],
+  "VAMP1": [
+    "trait/GWAS_1716.json"
+  ],
+  "VARS2": [
+    "trait/GWAS_3315.json"
+  ],
+  "VAV2": [
+    "trait/GWAS_4049.json"
+  ],
+  "VDR": [
+    "gene/CPIC_gene_VDR_106.json",
+    "trait/GWAS_4202.json"
+  ],
+  "VEGFA": [
+    "trait/GWAS_1788.json",
+    "trait/GWAS_3933.json",
+    "trait/GWAS_4603.json"
+  ],
+  "VGLL3": [
+    "trait/GWAS_4294.json"
+  ],
+  "VGLL4": [
+    "trait/GWAS_2340.json"
+  ],
+  "VKORC1": [
+    "gene/CPIC_gene_VKORC1_131.json",
+    "trait/GWAS_2022.json",
+    "trait/GWAS_4069.json",
+    "trait/GWAS_723.json"
+  ],
+  "VPS37A": [
+    "trait/GWAS_1380.json"
+  ],
+  "VPS45": [
+    "trait/GWAS_2503.json"
+  ],
+  "VRK2": [
+    "trait/GWAS_2718.json"
+  ],
+  "VTA1": [
+    "trait/GWAS_2334.json"
+  ],
+  "VTCN1": [
+    "trait/GWAS_3918.json"
+  ],
+  "WDFY4": [
+    "trait/GWAS_1424.json"
+  ],
+  "WDR1": [
+    "trait/GWAS_1459.json",
+    "trait/GWAS_4126.json"
+  ],
+  "WDR12": [
+    "trait/GWAS_1961.json"
+  ],
+  "WDR36": [
+    "trait/GWAS_352.json"
+  ],
+  "WDR40A": [
+    "trait/GWAS_2462.json"
+  ],
+  "WDR64": [
+    "trait/GWAS_2434.json"
+  ],
+  "WDR66": [
+    "trait/GWAS_2669.json",
+    "trait/GWAS_3214.json",
+    "trait/GWAS_3919.json"
+  ],
+  "WDR7": [
+    "trait/GWAS_3566.json"
+  ],
+  "WFDC2": [
+    "trait/GWAS_1429.json"
+  ],
+  "WFS1": [
+    "trait/GWAS_3981.json"
+  ],
+  "WNT10A": [
+    "trait/GWAS_897.json"
+  ],
+  "WNT11": [
+    "trait/GWAS_418.json"
+  ],
+  "WNT16": [
+    "trait/GWAS_4932.json"
+  ],
+  "WNT2": [
+    "trait/GWAS_4176.json"
+  ],
+  "WNT4": [
+    "trait/GWAS_3084.json",
+    "trait/GWAS_3089.json",
+    "trait/GWAS_4851.json",
+    "trait/GWAS_4902.json"
+  ],
+  "WNT7B": [
+    "trait/GWAS_1546.json"
+  ],
+  "WRN": [
+    "trait/GWAS_2525.json",
+    "trait/GWAS_3099.json"
+  ],
+  "WTAP": [
+    "trait/GWAS_3803.json"
+  ],
+  "WWOX": [
+    "trait/GWAS_4022.json"
+  ],
+  "XKR6": [
+    "trait/GWAS_43.json",
+    "trait/GWAS_4845.json"
+  ],
+  "XPC": [
+    "gene/CPIC_gene_XPC_33.json"
+  ],
+  "XPNPEP1": [
+    "trait/GWAS_3736.json"
+  ],
+  "XRCC1": [
+    "gene/CPIC_gene_XRCC1_72.json"
+  ],
+  "XXBAC": [
+    "trait/GWAS_1400.json"
+  ],
+  "YDJC": [
+    "trait/GWAS_3509.json"
+  ],
+  "YEATS4": [
+    "gene/CPIC_gene_YEATS4_68.json"
+  ],
+  "YIPF1": [
+    "trait/GWAS_4118.json"
+  ],
+  "ZBED3": [
+    "trait/GWAS_200.json"
+  ],
+  "ZBP1": [
+    "trait/GWAS_2967.json",
+    "trait/GWAS_4272.json"
+  ],
+  "ZBTB20": [
+    "trait/GWAS_625.json"
+  ],
+  "ZBTB38": [
+    "trait/GWAS_11.json",
+    "trait/GWAS_1452.json",
+    "trait/GWAS_2264.json",
+    "trait/GWAS_3100.json",
+    "trait/GWAS_690.json"
+  ],
+  "ZBTB40": [
+    "trait/GWAS_1439.json",
+    "trait/GWAS_374.json",
+    "trait/GWAS_380.json",
+    "trait/GWAS_4355.json"
+  ],
+  "ZBTB9": [
+    "trait/GWAS_4746.json"
+  ],
+  "ZC3H12D": [
+    "trait/GWAS_4174.json"
+  ],
+  "ZC3HC1": [
+    "trait/GWAS_3707.json"
+  ],
+  "ZCCHC16": [
+    "trait/GWAS_2466.json"
+  ],
+  "ZDHHC19": [
+    "trait/GWAS_2445.json"
+  ],
+  "ZFAND3": [
+    "trait/GWAS_4037.json"
+  ],
+  "ZFAND6": [
+    "trait/GWAS_1847.json"
+  ],
+  "ZFHX3": [
+    "trait/GWAS_1676.json",
+    "trait/GWAS_1677.json",
+    "trait/GWAS_1831.json",
+    "trait/GWAS_2835.json"
+  ],
+  "ZFP36L1": [
+    "trait/GWAS_2223.json",
+    "trait/GWAS_4580.json"
+  ],
+  "ZFP36L2": [
+    "trait/GWAS_2452.json"
+  ],
+  "ZFP64": [
+    "trait/GWAS_3345.json"
+  ],
+  "ZFP90": [
+    "trait/GWAS_139.json",
+    "trait/GWAS_3431.json"
+  ],
+  "ZFPM2": [
+    "trait/GWAS_4774.json"
+  ],
+  "ZMAT4": [
+    "trait/GWAS_41.json",
+    "trait/GWAS_77.json"
+  ],
+  "ZMIZ1": [
+    "trait/GWAS_2818.json",
+    "trait/GWAS_3010.json",
+    "trait/GWAS_3505.json",
+    "trait/GWAS_3598.json"
+  ],
+  "ZNF124": [
+    "trait/GWAS_4496.json"
+  ],
+  "ZNF180": [
+    "trait/GWAS_1420.json"
+  ],
+  "ZNF202": [
+    "trait/GWAS_1354.json"
+  ],
+  "ZNF224": [
+    "trait/GWAS_3883.json"
+  ],
+  "ZNF230": [
+    "trait/GWAS_1924.json"
+  ],
+  "ZNF248": [
+    "trait/GWAS_3834.json"
+  ],
+  "ZNF259": [
+    "trait/GWAS_190.json",
+    "trait/GWAS_2420.json",
+    "trait/GWAS_3363.json",
+    "trait/GWAS_3469.json",
+    "trait/GWAS_4057.json",
+    "trait/GWAS_4524.json",
+    "trait/GWAS_4526.json",
+    "trait/GWAS_4968.json"
+  ],
+  "ZNF326": [
+    "trait/GWAS_3692.json"
+  ],
+  "ZNF365": [
+    "trait/GWAS_1864.json",
+    "trait/GWAS_300.json",
+    "trait/GWAS_3649.json",
+    "trait/GWAS_4488.json",
+    "trait/GWAS_4848.json"
+  ],
+  "ZNF366": [
+    "trait/GWAS_1712.json"
+  ],
+  "ZNF385D": [
+    "trait/GWAS_3475.json"
+  ],
+  "ZNF462": [
+    "trait/GWAS_452.json"
+  ],
+  "ZNF469": [
+    "trait/GWAS_3737.json"
+  ],
+  "ZNF483": [
+    "trait/GWAS_1899.json"
+  ],
+  "ZNF498": [
+    "trait/GWAS_1669.json",
+    "trait/GWAS_1670.json",
+    "trait/GWAS_3489.json"
+  ],
+  "ZNF512": [
+    "trait/GWAS_2871.json"
+  ],
+  "ZNF536": [
+    "trait/GWAS_4093.json"
+  ],
+  "ZNF544": [
+    "trait/GWAS_2464.json"
+  ],
+  "ZNF577": [
+    "trait/GWAS_4491.json"
+  ],
+  "ZNF599": [
+    "trait/GWAS_217.json"
+  ],
+  "ZNF608": [
+    "trait/GWAS_2367.json",
+    "trait/GWAS_3972.json"
+  ],
+  "ZNF644": [
+    "trait/GWAS_4291.json"
+  ],
+  "ZNF648": [
+    "trait/GWAS_4141.json"
+  ],
+  "ZNF676": [
+    "trait/GWAS_929.json"
+  ],
+  "ZNF679": [
+    "trait/GWAS_1599.json"
+  ],
+  "ZNF706": [
+    "trait/GWAS_517.json"
+  ],
+  "ZNF804A": [
+    "trait/GWAS_3640.json"
+  ],
+  "ZNF804B": [
+    "trait/GWAS_4538.json"
+  ],
+  "ZNF831": [
+    "trait/GWAS_1356.json",
+    "trait/GWAS_4780.json"
+  ],
+  "ZNF841": [
+    "trait/GWAS_4597.json",
+    "trait/GWAS_4598.json"
+  ],
+  "ZNHIT6": [
+    "trait/GWAS_667.json"
+  ],
+  "ZNRD1": [
+    "trait/GWAS_3879.json",
+    "trait/GWAS_537.json"
+  ],
+  "ZWINT": [
+    "trait/GWAS_247.json"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "SLC10A6",
+  "id": "GWAS_6649",
+  "last_updated": "2025-12-24T00:12:31.693915",
+  "odds_ratio": 0.25,
+  "phenotype": "(FI)",
+  "pvalue": 8e-06,
+  "references": [],
+  "rsid": "rs10050311",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "HFE",
+  "id": "GWAS_4161",
+  "last_updated": "2025-12-24T00:26:49.624965",
+  "odds_ratio": 35.36,
+  "phenotype": "(Total iron-binding capacity)",
+  "pvalue": 3.0000000000000004e-08,
+  "references": [],
+  "rsid": "rs1800562",
+  "source": "GWAS",
+  "source_url": null
+}

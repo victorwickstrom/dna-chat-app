@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "RHOU",
+  "id": "GWAS_3905",
+  "last_updated": "2025-12-24T00:26:49.622589",
+  "odds_ratio": 1.28,
+  "phenotype": "GWAS association for rs801114",
+  "pvalue": 6e-12,
+  "references": [],
+  "rsid": "rs801114",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "CDKN3",
+  "id": "GWAS_287",
+  "last_updated": "2025-12-24T00:26:49.585459",
+  "odds_ratio": null,
+  "phenotype": "(quetiapine)",
+  "pvalue": 3e-06,
+  "references": [],
+  "rsid": "rs4293296",
+  "source": "GWAS",
+  "source_url": null
+}

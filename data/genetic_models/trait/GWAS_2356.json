@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "MTCH2",
+  "id": "GWAS_2356",
+  "last_updated": "2025-12-24T00:26:49.607141",
+  "odds_ratio": 0.06,
+  "phenotype": "GWAS association for rs3817334",
+  "pvalue": 2e-12,
+  "references": [],
+  "rsid": "rs3817334",
+  "source": "GWAS",
+  "source_url": null
+}

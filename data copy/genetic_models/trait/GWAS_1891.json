@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "THPO",
+  "id": "GWAS_1891",
+  "last_updated": "2025-12-24T00:26:49.601990",
+  "odds_ratio": 0.076,
+  "phenotype": "GWAS association for rs6141",
+  "pvalue": 4.9999999999999995e-11,
+  "references": [],
+  "rsid": "rs6141",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "KCNN3",
+  "id": "GWAS_3296",
+  "last_updated": "2025-12-24T00:26:49.616227",
+  "odds_ratio": 1.52,
+  "phenotype": "GWAS association for rs13376333",
+  "pvalue": 2e-21,
+  "references": [],
+  "rsid": "rs13376333",
+  "source": "GWAS",
+  "source_url": null
+}

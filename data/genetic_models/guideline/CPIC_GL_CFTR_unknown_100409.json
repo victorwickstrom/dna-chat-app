@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "guideline",
+  "drug": null,
+  "effect": "CFTR and Ivacaftor",
+  "evidence_level": "unknown",
+  "gene": "CFTR",
+  "id": "CPIC_GL_CFTR_unknown_100409",
+  "last_updated": "2025-12-24T00:26:50.460863",
+  "odds_ratio": null,
+  "phenotype": null,
+  "pvalue": null,
+  "references": [],
+  "rsid": null,
+  "source": "CPIC",
+  "source_url": null
+}

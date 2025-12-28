@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "HFE",
+  "id": "GWAS_6289",
+  "last_updated": "2025-12-24T00:12:31.682611",
+  "odds_ratio": 0.478,
+  "phenotype": "(Mean Arterial Pressure)",
+  "pvalue": 2e-12,
+  "references": [],
+  "rsid": "rs198846",
+  "source": "GWAS",
+  "source_url": null
+}

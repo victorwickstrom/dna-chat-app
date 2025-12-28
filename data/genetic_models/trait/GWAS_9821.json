@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "TRUB2",
+  "id": "GWAS_9821",
+  "last_updated": "2025-12-24T00:12:31.768304",
+  "odds_ratio": 0.02,
+  "phenotype": "(WC change )",
+  "pvalue": 7e-06,
+  "references": [],
+  "rsid": "rs11539570",
+  "source": "GWAS",
+  "source_url": null
+}

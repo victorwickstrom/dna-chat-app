@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "TGFBR2",
+  "id": "GWAS_3166",
+  "last_updated": "2025-12-24T00:26:49.615026",
+  "odds_ratio": 1.19,
+  "phenotype": "GWAS association for rs7640543",
+  "pvalue": 1e-09,
+  "references": [],
+  "rsid": "rs7640543",
+  "source": "GWAS",
+  "source_url": null
+}

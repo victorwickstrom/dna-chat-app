@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "GLUT9",
+  "id": "GWAS_292",
+  "last_updated": "2025-12-24T00:26:49.585509",
+  "odds_ratio": 0.44,
+  "phenotype": "GWAS association for rs16890979",
+  "pvalue": 1e-11,
+  "references": [],
+  "rsid": "rs16890979",
+  "source": "GWAS",
+  "source_url": null
+}

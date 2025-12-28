@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "RBM17",
+  "id": "GWAS_3461",
+  "last_updated": "2025-12-24T00:26:49.617720",
+  "odds_ratio": 1.27,
+  "phenotype": "GWAS association for rs706779",
+  "pvalue": 3.0000000000000004e-09,
+  "references": [],
+  "rsid": "rs706779",
+  "source": "GWAS",
+  "source_url": null
+}

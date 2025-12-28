@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "TNFSF4",
+  "id": "GWAS_1097",
+  "last_updated": "2025-12-24T00:26:49.594664",
+  "odds_ratio": 1.46,
+  "phenotype": "GWAS association for rs2205960",
+  "pvalue": 3e-32,
+  "references": [],
+  "rsid": "rs2205960",
+  "source": "GWAS",
+  "source_url": null
+}

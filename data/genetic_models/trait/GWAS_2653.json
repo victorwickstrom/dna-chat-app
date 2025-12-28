@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "DPP6",
+  "id": "GWAS_2653",
+  "last_updated": "2025-12-24T00:26:49.609910",
+  "odds_ratio": 3.73,
+  "phenotype": "(recessive)",
+  "pvalue": 4e-07,
+  "references": [],
+  "rsid": "rs6464375",
+  "source": "GWAS",
+  "source_url": null
+}

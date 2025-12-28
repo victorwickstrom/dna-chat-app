@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "ADRA2A",
+  "id": "GWAS_9273",
+  "last_updated": "2025-12-24T00:12:31.757340",
+  "odds_ratio": null,
+  "phenotype": "(epinephrine)",
+  "pvalue": 3e-12,
+  "references": [],
+  "rsid": "rs869244",
+  "source": "GWAS",
+  "source_url": null
+}

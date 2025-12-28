@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "TRPS1",
+  "id": "GWAS_4585",
+  "last_updated": "2025-12-24T00:26:49.628936",
+  "odds_ratio": null,
+  "phenotype": "GWAS association for rs2721937",
+  "pvalue": 8e-06,
+  "references": [],
+  "rsid": "rs2721937",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "MBP",
+  "id": "GWAS_9382",
+  "last_updated": "2025-12-24T00:12:31.759395",
+  "odds_ratio": null,
+  "phenotype": "(EA)",
+  "pvalue": 6e-06,
+  "references": [],
+  "rsid": "rs180931486",
+  "source": "GWAS",
+  "source_url": null
+}

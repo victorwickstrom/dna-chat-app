@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "TOX3",
+  "id": "GWAS_1580",
+  "last_updated": "2025-12-24T00:26:49.599216",
+  "odds_ratio": 1.24,
+  "phenotype": "(all races combined)",
+  "pvalue": 1e-28,
+  "references": [],
+  "rsid": "rs4784227",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "CXCL12",
+  "id": "GWAS_2172",
+  "last_updated": "2025-12-24T00:26:49.605345",
+  "odds_ratio": 1.33,
+  "phenotype": "GWAS association for rs501120",
+  "pvalue": 9e-08,
+  "references": [],
+  "rsid": "rs501120",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "CDKN1A",
+  "id": "GWAS_979",
+  "last_updated": "2025-12-24T00:26:49.593437",
+  "odds_ratio": 0.87,
+  "phenotype": "GWAS association for rs9470361",
+  "pvalue": 3e-27,
+  "references": [],
+  "rsid": "rs9470361",
+  "source": "GWAS",
+  "source_url": null
+}

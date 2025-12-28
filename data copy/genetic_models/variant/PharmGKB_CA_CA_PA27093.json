@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "variant",
+  "drug": null,
+  "effect": "<p>CYP1A2 is an inducible member of the cytochrome P450 (CYP) drug metabolizing gene family, important for metabolism of caffeine and antipsychotics.</p>\n",
+  "evidence_level": "3",
+  "gene": "CYP1A2",
+  "id": "PharmGKB_CA_CA_PA27093",
+  "last_updated": "2025-12-24T00:26:50.447421",
+  "odds_ratio": null,
+  "phenotype": null,
+  "pvalue": null,
+  "references": [],
+  "rsid": null,
+  "source": "PharmGKB",
+  "source_url": null
+}

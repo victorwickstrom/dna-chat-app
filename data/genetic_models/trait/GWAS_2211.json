@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "C10ORF122",
+  "id": "GWAS_2211",
+  "last_updated": "2025-12-24T00:26:49.605707",
+  "odds_ratio": 0.23,
+  "phenotype": "(Ballon TT)",
+  "pvalue": 7e-06,
+  "references": [],
+  "rsid": "rs10510146",
+  "source": "GWAS",
+  "source_url": null
+}

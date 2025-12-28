@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "FHIT",
+  "id": "GWAS_2067",
+  "last_updated": "2025-12-24T00:26:49.603825",
+  "odds_ratio": null,
+  "phenotype": "GWAS association for rs931317",
+  "pvalue": 3e-06,
+  "references": [],
+  "rsid": "rs931317",
+  "source": "GWAS",
+  "source_url": null
+}

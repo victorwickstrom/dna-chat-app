@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "CEBPB",
+  "id": "GWAS_4698",
+  "last_updated": "2025-12-24T00:26:49.629982",
+  "odds_ratio": 1.056,
+  "phenotype": "GWAS association for rs913678",
+  "pvalue": 5e-08,
+  "references": [],
+  "rsid": "rs913678",
+  "source": "GWAS",
+  "source_url": null
+}

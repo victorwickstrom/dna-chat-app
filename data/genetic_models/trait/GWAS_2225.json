@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "HHIP",
+  "id": "GWAS_2225",
+  "last_updated": "2025-12-24T00:26:49.605862",
+  "odds_ratio": 1.25,
+  "phenotype": "GWAS association for rs13118928",
+  "pvalue": 5e-07,
+  "references": [],
+  "rsid": "rs13118928",
+  "source": "GWAS",
+  "source_url": null
+}

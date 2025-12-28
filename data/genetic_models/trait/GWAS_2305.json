@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "TF",
+  "id": "GWAS_2305",
+  "last_updated": "2025-12-24T00:26:49.606665",
+  "odds_ratio": 0.43,
+  "phenotype": "(serum transferrin)",
+  "pvalue": 1e-09,
+  "references": [],
+  "rsid": "rs1830084",
+  "source": "GWAS",
+  "source_url": null
+}

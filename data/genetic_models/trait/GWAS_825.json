@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "SIPA1L2",
+  "id": "GWAS_825",
+  "last_updated": "2025-12-24T00:26:49.592096",
+  "odds_ratio": 1.33,
+  "phenotype": "GWAS association for rs669408",
+  "pvalue": 1e-06,
+  "references": [],
+  "rsid": "rs669408",
+  "source": "GWAS",
+  "source_url": null
+}

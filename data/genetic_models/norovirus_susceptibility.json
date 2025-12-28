@@ -1,0 +1,35 @@
+{
+  "id": "norovirus_susceptibility",
+  "category": "trait",
+  "snps": [
+    {
+      "rsid": "rs601338",
+      "riskAllele": "A",
+      "weight": 2.5
+    },
+    {
+      "rsid": "rs4072037",
+      "riskAllele": "C",
+      "weight": 1.5
+    },
+    {
+      "rsid": "rs601229",
+      "riskAllele": "G",
+      "weight": 1.2
+    }
+  ],
+  "population": "ALL",
+  "interpretation": {
+    "low": "L\u00e5g genetisk risk f\u00f6r norovirus susceptibility.",
+    "medium": "M\u00e5ttlig risk f\u00f6r norovirus susceptibility.",
+    "high": "H\u00f6g genetisk risk f\u00f6r norovirus susceptibility; flera riskalleler p\u00e5tr\u00e4ffade."
+  },
+  "evidence": [
+    {
+      "source": "GWAS",
+      "pubmed": "23319571"
+    }
+  ],
+  "severity": "trait",
+  "confidence": "moderate"
+}

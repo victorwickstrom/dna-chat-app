@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "ITGA9",
+  "id": "GWAS_5887",
+  "last_updated": "2025-12-24T00:12:31.674243",
+  "odds_ratio": 0.8,
+  "phenotype": "(levels)",
+  "pvalue": 2e-08,
+  "references": [],
+  "rsid": "rs197770",
+  "source": "GWAS",
+  "source_url": null
+}

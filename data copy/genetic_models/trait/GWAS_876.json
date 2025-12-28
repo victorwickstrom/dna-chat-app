@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "C18ORF42",
+  "id": "GWAS_876",
+  "last_updated": "2025-12-24T00:26:49.592541",
+  "odds_ratio": 0.32,
+  "phenotype": "GWAS association for rs6506284",
+  "pvalue": 3e-06,
+  "references": [],
+  "rsid": "rs6506284",
+  "source": "GWAS",
+  "source_url": null
+}

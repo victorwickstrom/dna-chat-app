@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "HAND2",
+  "id": "GWAS_1819",
+  "last_updated": "2025-12-24T00:26:49.601370",
+  "odds_ratio": 1.05,
+  "phenotype": "GWAS association for rs10520260",
+  "pvalue": 6e-10,
+  "references": [],
+  "rsid": "rs10520260",
+  "source": "GWAS",
+  "source_url": null
+}

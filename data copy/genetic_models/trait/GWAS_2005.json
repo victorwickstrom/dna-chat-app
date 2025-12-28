@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "MST1",
+  "id": "GWAS_2005",
+  "last_updated": "2025-12-24T00:26:49.603288",
+  "odds_ratio": 1.09,
+  "phenotype": "GWAS association for rs9858542",
+  "pvalue": 4e-08,
+  "references": [],
+  "rsid": "rs9858542",
+  "source": "GWAS",
+  "source_url": null
+}

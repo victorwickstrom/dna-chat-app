@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "ACTA2",
+  "id": "GWAS_829",
+  "last_updated": "2025-12-24T00:26:49.592132",
+  "odds_ratio": 1.32,
+  "phenotype": "GWAS association for rs2234978",
+  "pvalue": 6e-06,
+  "references": [],
+  "rsid": "rs2234978",
+  "source": "GWAS",
+  "source_url": null
+}

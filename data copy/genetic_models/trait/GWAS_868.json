@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "IGF2BP2",
+  "id": "GWAS_868",
+  "last_updated": "2025-12-24T00:26:49.592470",
+  "odds_ratio": 0.78,
+  "phenotype": "GWAS association for rs138306797",
+  "pvalue": 3e-06,
+  "references": [],
+  "rsid": "rs138306797",
+  "source": "GWAS",
+  "source_url": null
+}

@@ -1,0 +1,17 @@
+{
+  "confidence_interval": null,
+  "domain": "trait",
+  "drug": null,
+  "effect": null,
+  "evidence_level": "unknown",
+  "gene": "AHR",
+  "id": "GWAS_8474",
+  "last_updated": "2025-12-24T00:12:31.738636",
+  "odds_ratio": 0.294,
+  "phenotype": "(caffeine/quinate + 3 other traits)",
+  "pvalue": 5.000000000000001e-15,
+  "references": [],
+  "rsid": "rs12670403",
+  "source": "GWAS",
+  "source_url": null
+}
