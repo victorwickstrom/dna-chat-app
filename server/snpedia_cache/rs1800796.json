@@ -1,0 +1,20 @@
+{
+  "rsid": "rs1800796",
+  "fetched_at": "2025-12-30T19:56:21.753Z",
+  "source": "SNPedia",
+  "gene": "LOC541472",
+  "chromosome": "7",
+  "summary": "}} rs1800796 IL-6 572G>C polymorphism (and h.211 haplotype) is associated with abdominal aortic aneurysm (AAA). The risk allele is C. }} rs1800797, rs1800796 and rs1800795 have been shown to affect both the transcription and secretion of IL-6, to symptomatic distal interphalangeal osteoarthritis based on 535 women. the G alleles of two promoter single-nucleotide polymorphisms (SNP) G-597A and G-174C were more common among the subjects with symptomatic DIP OA than among those with no disease (p-values corrected for multiple testing 0.020 and 0.024). Also, the carriage of at least one G allele in these positions increased the risk of disease (p=0.006 and, p=0.008, respectively). Carrying a haplotype with the G allele in all three promoter SNPs increased the risk of symptomatic DIP OA more th",
+  "genotypes": {
+    "C;C": {
+      "description": "See SNPedia for details"
+    },
+    "C;G": {
+      "description": "See SNPedia for details"
+    },
+    "G;G": {
+      "description": "See SNPedia for details"
+    }
+  },
+  "magnitude": null
+}

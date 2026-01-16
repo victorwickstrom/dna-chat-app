@@ -1,0 +1,20 @@
+{
+  "rsid": "rs1799950",
+  "fetched_at": "2025-12-31T11:55:54.680Z",
+  "source": "SNPedia",
+  "gene": "BRCA1",
+  "chromosome": "17",
+  "summary": "}}This SNP, a variant in the BRCA1 gene, is 1 of 25 SNPs reported to represent independently minor, but cumulatively significant, increased risk for breast cancer. For details of all 25 SNPs in this group, along with the two methods used to calculate overall risk estimates for breast cancer, refer to the SNPedia breast cancer entry. This particular SNP, rs1799950, was actually the only SNP of the 25 to have an increased odds ratio for breast cancer to be over 1.5 in carriers and to also be present at a minor allele frequency of over 5%. The odds ratio calculated was 1.72 (P = 0.0002). The risk (minor) allele is (G).",
+  "genotypes": {
+    "A;A": {
+      "description": "See SNPedia for details"
+    },
+    "A;G": {
+      "description": "See SNPedia for details"
+    },
+    "G;G": {
+      "description": "See SNPedia for details"
+    }
+  },
+  "magnitude": null
+}

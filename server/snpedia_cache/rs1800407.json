@@ -1,0 +1,20 @@
+{
+  "rsid": "rs1800407",
+  "gene": "OCA2",
+  "chromosome": "15",
+  "summary": "Modifier of eye color. Can influence green/hazel eye color.",
+  "genotypes": {
+    "C;C": {
+      "description": "Normal OCA2 function"
+    },
+    "C;T": {
+      "description": "Slightly reduced melanin, may contribute to lighter eyes"
+    },
+    "T;T": {
+      "description": "Reduced melanin production, associated with blue/green eyes"
+    }
+  },
+  "magnitude": 2,
+  "fetched_at": "2025-12-29T22:47:58.943Z",
+  "source": "SNPedia (pre-seeded)"
+}

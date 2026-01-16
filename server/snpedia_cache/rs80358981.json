@@ -1,0 +1,20 @@
+{
+  "rsid": "rs80358981",
+  "fetched_at": "2025-12-31T11:55:54.677Z",
+  "source": "SNPedia",
+  "gene": "BRCA2",
+  "chromosome": "13",
+  "summary": "}}rs80358981, also known as R2520X, c.7558C>T and p.Arg2520Ter, is a variant in the BRCA2 gene considered pathogenic for breast cancer in ClinVar.",
+  "genotypes": {
+    "C;C": {
+      "description": "See SNPedia for details"
+    },
+    "C;T": {
+      "description": "See SNPedia for details"
+    },
+    "T;T": {
+      "description": "See SNPedia for details"
+    }
+  },
+  "magnitude": null
+}

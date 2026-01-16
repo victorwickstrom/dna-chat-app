@@ -1,0 +1,20 @@
+{
+  "rsid": "rs2187668",
+  "fetched_at": "2025-12-29T23:37:38.935Z",
+  "source": "SNPedia",
+  "gene": "HLA",
+  "chromosome": "6",
+  "summary": "In at least UK populations, and perhaps others, SNP rs2187668 is a tag SNP for the HLA-DRB1*0301 allele. }} A high-resolution linkage-disequilibrium map of the human major histocompatibility complex and first generation of tag single-nucleotide polymorphisms. }} Newly identified genetic risk variants for celiac disease related to the immune response. }} Genome-wide association analysis by lasso penalized logistic regression. }} No association of multiple type 2 diabetes loci with type 1 diabetes. }} Mapping of multiple susceptibility variants within the MHC region for 7 immune-mediated diseases.",
+  "genotypes": {
+    "A;A": {
+      "description": "See SNPedia for details"
+    },
+    "A;G": {
+      "description": "See SNPedia for details"
+    },
+    "G;G": {
+      "description": "See SNPedia for details"
+    }
+  },
+  "magnitude": null
+}

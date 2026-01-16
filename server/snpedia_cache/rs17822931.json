@@ -1,0 +1,20 @@
+{
+  "rsid": "rs17822931",
+  "gene": "ABCC11",
+  "chromosome": "16",
+  "summary": "Determines earwax type (wet vs dry) and body odor. The T allele is associated with dry earwax and less body odor, common in East Asian populations.",
+  "genotypes": {
+    "C;C": {
+      "description": "Wet earwax, typical body odor (common in Europeans/Africans)"
+    },
+    "C;T": {
+      "description": "Intermediate - likely wet earwax"
+    },
+    "T;T": {
+      "description": "Dry earwax, reduced body odor (common in East Asians)"
+    }
+  },
+  "magnitude": 2,
+  "fetched_at": "2025-12-29T23:06:19.484Z",
+  "source": "SNPedia (pre-seeded)"
+}

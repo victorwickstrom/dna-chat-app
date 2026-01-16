@@ -126,7 +126,7 @@ const defaultPreferences: Preferences = {
   explanationLevel: 'normal',
   tone: 'calm',
   showUncertainty: true,
-  language: 'sv',
+  language: 'en',
   autoSendGenotypes: false,
 }
 

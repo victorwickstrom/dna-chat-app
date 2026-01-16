@@ -1,0 +1,20 @@
+{
+  "rsid": "rs12913832",
+  "gene": "HERC2",
+  "chromosome": "15",
+  "summary": "Primary determinant of eye color. The A allele is associated with brown eyes, G allele with blue eyes.",
+  "genotypes": {
+    "A;A": {
+      "description": "Brown eyes (most common worldwide)"
+    },
+    "A;G": {
+      "description": "Likely brown or hazel eyes"
+    },
+    "G;G": {
+      "description": "Blue eyes likely"
+    }
+  },
+  "magnitude": 3,
+  "fetched_at": "2025-12-29T22:47:58.942Z",
+  "source": "SNPedia (pre-seeded)"
+}

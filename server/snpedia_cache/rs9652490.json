@@ -1,0 +1,20 @@
+{
+  "rsid": "rs9652490",
+  "fetched_at": "2026-01-12T23:23:04.554Z",
+  "source": "SNPedia",
+  "gene": "LINGO1",
+  "chromosome": "15",
+  "summary": "}}rs9652490 is a SNP in the LINGO1 gene. Note: it is unclear why one set of authors report the risk allele for essential tremors to be (G), while the others just as clearly report the risk allele to be (A). blog \"In a combined analysis of 752 subjects with essential tremor from Iceland, Austria, Germany and the United States and 15,797 controls, Stefansson et al found that the G version of rs9652490 in the LINGO1 gene is associated with increased odds of the condition. Carrying one G increases the odds of essential tremor by 1.55 times compared to two As. The approximately 5% of the population with European ancestry with two Gs has 2.40 times increased odds.\"",
+  "genotypes": {
+    "A;A": {
+      "description": "See SNPedia for details"
+    },
+    "A;G": {
+      "description": "See SNPedia for details"
+    },
+    "G;G": {
+      "description": "See SNPedia for details"
+    }
+  },
+  "magnitude": null
+}

@@ -1,0 +1,20 @@
+{
+  "rsid": "rs6025",
+  "gene": "F5",
+  "chromosome": "1",
+  "summary": "Factor V Leiden mutation. Most common inherited blood clotting disorder.",
+  "genotypes": {
+    "C;C": {
+      "description": "Normal Factor V"
+    },
+    "C;T": {
+      "description": "Heterozygous Factor V Leiden - increased clot risk"
+    },
+    "T;T": {
+      "description": "Homozygous Factor V Leiden - significantly increased clot risk"
+    }
+  },
+  "magnitude": 4,
+  "fetched_at": "2025-12-29T22:47:58.943Z",
+  "source": "SNPedia (pre-seeded)"
+}

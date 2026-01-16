@@ -1,0 +1,20 @@
+{
+  "rsid": "rs4236601",
+  "fetched_at": "2025-12-31T11:54:58.152Z",
+  "source": "SNPedia",
+  "gene": null,
+  "chromosome": "7",
+  "summary": "}} Chromosome 7q31 POAG locus: ocular expression of caveolins and lack of association with POAG in a US cohort.",
+  "genotypes": {
+    "A;A": {
+      "description": "See SNPedia for details"
+    },
+    "A;G": {
+      "description": "See SNPedia for details"
+    },
+    "G;G": {
+      "description": "See SNPedia for details"
+    }
+  },
+  "magnitude": null
+}

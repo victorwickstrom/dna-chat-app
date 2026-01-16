@@ -1,0 +1,20 @@
+{
+  "rsid": "rs10741657",
+  "fetched_at": "2026-01-13T20:01:28.921Z",
+  "source": "SNPedia",
+  "gene": "LOC107984314",
+  "chromosome": "11",
+  "summary": "}}rs10741657, located near the cytochrome P450, family 2, subfamily R, polypeptide 1 CYP2R1 gene on chromosome 11p15, has been linked by several studies to vitamin D serum concentrations. }} The 'A' allele of CYP2R1 rs10741657 was associated with increased 25(OH)D levels in a study of vitamin D levels and MS risk in 1,655 cases and 6,349 controls.",
+  "genotypes": {
+    "A;A": {
+      "description": "See SNPedia for details"
+    },
+    "A;G": {
+      "description": "See SNPedia for details"
+    },
+    "G;G": {
+      "description": "See SNPedia for details"
+    }
+  },
+  "magnitude": null
+}

@@ -1,0 +1,62 @@
+{
+  "learned_topics": {
+    "earwax": {
+      "first_requested": 1767049673056,
+      "request_count": 2,
+      "last_requested": 1768260876650
+    },
+    "eye_color": {
+      "first_requested": 1767049908904,
+      "request_count": 1,
+      "last_requested": 1767049908904
+    },
+    "celiac": {
+      "first_requested": 1767051458985,
+      "request_count": 2,
+      "last_requested": 1768309971831
+    },
+    "lactose": {
+      "first_requested": 1767051615632,
+      "request_count": 1,
+      "last_requested": 1767051615633
+    },
+    "alcohol": {
+      "first_requested": 1767051615633,
+      "request_count": 1,
+      "last_requested": 1767051615633
+    },
+    "glaucoma": {
+      "first_requested": 1767182098171,
+      "request_count": 1,
+      "last_requested": 1767182098171
+    },
+    "brca": {
+      "first_requested": 1767182154689,
+      "request_count": 4,
+      "last_requested": 1768309909015
+    },
+    "hair_color": {
+      "first_requested": 1768310007785,
+      "request_count": 1,
+      "last_requested": 1768310007785
+    },
+    "vitamin_d": {
+      "first_requested": 1768334488935,
+      "request_count": 1,
+      "last_requested": 1768334488935
+    }
+  },
+  "total_requests": 79,
+  "auto_analyze": [
+    "eye_color",
+    "hair_color",
+    "caffeine",
+    "lactose",
+    "vitamin_d",
+    "earwax",
+    "celiac",
+    "alcohol",
+    "glaucoma",
+    "brca"
+  ]
+}

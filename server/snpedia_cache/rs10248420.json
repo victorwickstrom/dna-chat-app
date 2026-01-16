@@ -1,0 +1,20 @@
+{
+  "rsid": "rs10248420",
+  "fetched_at": "2026-01-12T19:52:41.403Z",
+  "source": "SNPedia",
+  "gene": "ABCB1",
+  "chromosome": "7",
+  "summary": "}}rs10248420 is a SNP in the ABCB1 gene (also known as the MDR1 gene), which encodes a protein that transports certain molecules across the blood-brain barrier. SNPs in ABCB1 may thus influence the intracerebral concentrations of certain drugs and their efficacy or potential for adverse side effects. However, the link between the increased brain concentrations of antidepressants and a clinically significant response is unconfirmed. In clinic, even the lower concentrations of drugs may achieve sufficient antidepressant effect, and the dose of the drug can be adjusted upwards until the patient responds. According to a recent review , ten studies reported that ABCB1 SNPs have clinical effect in depression and eight that they do not.",
+  "genotypes": {
+    "A;A": {
+      "description": "See SNPedia for details"
+    },
+    "A;G": {
+      "description": "See SNPedia for details"
+    },
+    "G;G": {
+      "description": "See SNPedia for details"
+    }
+  },
+  "magnitude": null
+}

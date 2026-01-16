@@ -3,11 +3,18 @@ import { useGlobalContext } from '../context/AppContext'
 import { clearData, loadSNPIndex, saveSNPIndex } from '../storage'
 import { computeHash } from '../utils/hash'
 import { parseDNA } from '../utils/workerWrapper'
+import { runDnaAnalysis } from '../dna/DnaAnalysisController'
+import { dnaState } from '../dna/dnaState'
 
-const FileUpload = () => {
+interface FileUploadProps {
+  compact?: boolean
+}
+
+const FileUpload = ({ compact = false }: FileUploadProps) => {
   const fileInputRef = useRef<HTMLInputElement | null>(null)
   const [progress, setProgress] = useState(0)
   const [status, setStatus] = useState<string | null>(null)
+  const [analysisStatus, setAnalysisStatus] = useState<string | null>(null)
   const [error, setError] = useState<string | null>(null)
   const { setMetadata, setSnpIndex } = useGlobalContext()
 
@@ -17,7 +24,7 @@ const FileUpload = () => {
     const lower = file.name.toLowerCase()
     const isValid = ['.txt', '.zip', '.gz'].some((ext) => lower.endsWith(ext))
     if (!isValid) {
-      setError('Endast .txt, .zip eller .gz-filer stöds.')
+      setError('Only .txt, .zip or .gz files are supported.')
       setStatus(null)
       setProgress(0)
       return
@@ -25,7 +32,7 @@ const FileUpload = () => {
 
     try {
       setError(null)
-      setStatus('Analyserar fil...')
+      setStatus('Analyzing file...')
       setProgress(0)
 
       const [hash, stored] = await Promise.all([computeHash(file), loadSNPIndex()])
@@ -34,32 +41,53 @@ const FileUpload = () => {
         setSnpIndex(stored.index)
         setMetadata(stored.metadata)
         setProgress(100)
-        setStatus('DNA-fil redan bearbetad. Laddade cachelagrat index.')
+        setStatus('DNA file already processed. Loaded cached index.')
+        
+        // Trigger analysis with cached rsids AND snpIndex (for primary matching)
+        const rsids = stored.index ? Array.from(stored.index.keys()) : []
+        if (rsids.length > 0 && stored.index) {
+          setAnalysisStatus('Analyzing genetic data...')
+          console.log('[FileUpload] Starting analysis from cache for', rsids.length, 'rsids')
+          await runDnaAnalysis(rsids, stored.index)
+          console.log('[FileUpload] Analysis status after cached run:', dnaState.status)
+          setAnalysisStatus(dnaState.snpMatchResult ? 'Analysis complete!' : null)
+        }
         return
       }
 
-      setStatus('Parserar DNA-fil...')
+      setStatus('Parsing DNA file...')
+      dnaState.status = 'parsing'
       const result = await parseDNA(file, (value) => setProgress(value))
       setSnpIndex(result.index)
       setMetadata(result.metadata)
       await saveSNPIndex(result.index, result.metadata)
       setStatus('Upload complete')
+
+      // Automatically trigger analysis after parsing - pass snpIndex for primary matching
+      const rsids = result.index ? Array.from(result.index.keys()) : []
+      if (rsids.length > 0 && result.index) {
+        setAnalysisStatus('Analyzing genetic data...')
+        console.log('[FileUpload] Starting analysis from parsed file for', rsids.length, 'rsids')
+        await runDnaAnalysis(rsids, result.index)
+        console.log('[FileUpload] Analysis status after parsed run:', dnaState.status)
+        setAnalysisStatus(dnaState.snpMatchResult ? 'Analysis complete!' : null)
+      }
     } catch (error) {
       console.error(error)
       setStatus(null)
       setProgress(0)
-      setError('Kunde inte tolka DNA-filen. Kontrollera formatet och försök igen.')
+      setError('Could not parse DNA file. Check the format and try again.')
     }
   }
 
   const handleClear = async () => {
-    const confirmed = window.confirm('Detta tar bort allt DNA-data från din webbläsare. Fortsätt?')
+    const confirmed = window.confirm('This will remove all DNA data from your browser. Continue?')
     if (!confirmed) return
     await clearData()
     setSnpIndex(null)
     setMetadata(null as never)
     setProgress(0)
-    setStatus('Lokalt DNA-data raderat.')
+    setStatus('Local DNA data cleared.')
   }
 
   const handleDrop = (event: React.DragEvent<HTMLLabelElement>) => {
@@ -72,20 +100,24 @@ const FileUpload = () => {
   }
 
   return (
-    <div className="w-full max-w-2xl rounded-lg border border-dashed border-slate-300 bg-white p-6 shadow-sm">
+    <div className={`rounded-lg border border-dashed border-slate-300 bg-white shadow-sm ${compact ? 'p-3' : 'w-full max-w-2xl p-6'}`}>
       <label
         htmlFor="dna-file"
         onDragOver={preventDefault}
         onDragEnter={preventDefault}
         onDrop={handleDrop}
-        className="flex h-40 cursor-pointer flex-col items-center justify-center rounded-md border border-slate-200 bg-slate-50 text-center transition hover:border-blue-400 hover:bg-slate-100"
+        className={`flex cursor-pointer flex-col items-center justify-center rounded-md border border-slate-200 bg-slate-50 text-center transition hover:border-blue-400 hover:bg-slate-100 ${compact ? 'h-20 gap-1 p-2' : 'h-40 p-4'}`}
       >
-        <p className="text-base font-medium text-slate-800">Släpp din DNA-fil här</p>
-        <p className="text-sm text-slate-500">
-          Stödjer .txt, .zip och .gz (23andMe, MyHeritage, AncestryDNA)
+        <p className={`font-medium text-slate-800 ${compact ? 'text-sm' : 'text-base'}`}>
+          {compact ? '📁 Drop DNA file here' : 'Drop your DNA file here'}
         </p>
-        <p className="mt-4 rounded bg-blue-600 px-4 py-1 text-sm font-semibold text-white">
-          Välj fil
+        {!compact && (
+          <p className="text-sm text-slate-500">
+            Supports .txt, .zip and .gz (23andMe, MyHeritage, AncestryDNA)
+          </p>
+        )}
+        <p className={`rounded bg-blue-600 font-semibold text-white ${compact ? 'mt-1 px-3 py-0.5 text-xs' : 'mt-4 px-4 py-1 text-sm'}`}>
+          Choose file
         </p>
         <input
           id="dna-file"
@@ -98,30 +130,33 @@ const FileUpload = () => {
       </label>
 
       {progress > 0 && (
-        <div className="mt-4 space-y-2">
-          <div className="flex justify-between text-sm text-slate-600">
-            <span>Parsing progress</span>
+        <div className={`space-y-1 ${compact ? 'mt-2' : 'mt-4 space-y-2'}`}>
+          <div className={`flex justify-between text-slate-600 ${compact ? 'text-xs' : 'text-sm'}`}>
+            <span>{progress === 100 ? '✓' : 'Parsing...'}</span>
             <span>{progress}%</span>
           </div>
-          <div className="h-2 w-full rounded-full bg-slate-200">
+          <div className={`w-full rounded-full bg-slate-200 ${compact ? 'h-1' : 'h-2'}`}>
             <div
-              className="h-2 rounded-full bg-blue-500 transition-all"
+              className={`rounded-full bg-blue-500 transition-all ${compact ? 'h-1' : 'h-2'}`}
               style={{ width: `${progress}%` }}
             />
           </div>
         </div>
       )}
 
-      {status && <p className="mt-2 text-sm text-slate-600">{status}</p>}
-      {error && <p className="mt-1 text-sm text-red-600">{error}</p>}
+      {status && <p className={`text-slate-600 ${compact ? 'mt-1 text-xs' : 'mt-2 text-sm'}`}>{status}</p>}
+      {analysisStatus && <p className={`text-green-600 ${compact ? 'text-xs' : 'mt-1 text-sm'}`}>{analysisStatus}</p>}
+      {error && <p className={`text-red-600 ${compact ? 'text-xs' : 'mt-1 text-sm'}`}>{error}</p>}
 
-      <button
-        type="button"
-        onClick={handleClear}
-        className="mt-4 text-sm font-medium text-red-600 hover:underline"
-      >
-        Rensa lagrat DNA-data
-      </button>
+      {!compact && (
+        <button
+          type="button"
+          onClick={handleClear}
+          className="mt-4 text-sm font-medium text-red-600 hover:underline"
+        >
+          Clear stored DNA data
+        </button>
+      )}
     </div>
   )
 }

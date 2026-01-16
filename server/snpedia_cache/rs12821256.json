@@ -1,0 +1,20 @@
+{
+  "rsid": "rs12821256",
+  "gene": "KITLG",
+  "chromosome": "12",
+  "summary": "Associated with BLONDE hair color, NOT red hair. T allele linked to lighter hair.",
+  "genotypes": {
+    "C;C": {
+      "description": "Typical, darker hair more likely"
+    },
+    "C;T": {
+      "description": "Carrier for blonde hair variant"
+    },
+    "T;T": {
+      "description": "Blonde hair more likely (European ancestry)"
+    }
+  },
+  "magnitude": 2.5,
+  "fetched_at": "2025-12-29T22:47:58.943Z",
+  "source": "SNPedia (pre-seeded)"
+}

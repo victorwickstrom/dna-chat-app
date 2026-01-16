@@ -1,0 +1,20 @@
+{
+  "rsid": "rs738409",
+  "fetched_at": "2026-01-12T23:17:26.896Z",
+  "source": "SNPedia",
+  "gene": "PNPLA3",
+  "chromosome": "22",
+  "summary": "rs738409 is a SNP in the PNPLA3 gene. In all HapMap populations the most common allele is a C on the plus strand (coding for 148I), which means a G on the minus strand as represented for this SNP in dbSNP and in SNPedia. In the scientific literature, however, most authors appear unaware that this SNP is defined as oriented on the minus strand, so they refer incorrectly to rs738409(G) as the minor allele. The genotypes defined in SNPedia are correct for the minus orientation of this SNP, but this can be confusing since it's the opposite of what the literature indicates in many cases. Nonalcoholic fatty liver disease.",
+  "genotypes": {
+    "C;C": {
+      "description": "See SNPedia for details"
+    },
+    "C;G": {
+      "description": "See SNPedia for details"
+    },
+    "G;G": {
+      "description": "See SNPedia for details"
+    }
+  },
+  "magnitude": null
+}

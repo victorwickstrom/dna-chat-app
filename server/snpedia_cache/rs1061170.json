@@ -1,0 +1,20 @@
+{
+  "rsid": "rs1061170",
+  "gene": "CFH",
+  "chromosome": "1",
+  "summary": "Complement factor H variant. Risk factor for age-related macular degeneration (AMD).",
+  "genotypes": {
+    "T;T": {
+      "description": "Lower AMD risk"
+    },
+    "C;T": {
+      "description": "Intermediate AMD risk (~2.5x)"
+    },
+    "C;C": {
+      "description": "Higher AMD risk (~5-7x)"
+    }
+  },
+  "magnitude": 3.5,
+  "fetched_at": "2025-12-29T23:17:52.008Z",
+  "source": "SNPedia (pre-seeded)"
+}

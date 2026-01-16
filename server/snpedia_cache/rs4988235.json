@@ -1,0 +1,20 @@
+{
+  "rsid": "rs4988235",
+  "gene": "MCM6",
+  "chromosome": "2",
+  "summary": "Lactase persistence. Determines ability to digest lactose in adulthood.",
+  "genotypes": {
+    "A;A": {
+      "description": "Lactase persistent - can digest milk as adult"
+    },
+    "A;G": {
+      "description": "Lactase persistent - can digest milk as adult"
+    },
+    "G;G": {
+      "description": "Lactose intolerant likely - reduced lactase production"
+    }
+  },
+  "magnitude": 2,
+  "fetched_at": "2025-12-29T22:47:58.943Z",
+  "source": "SNPedia (pre-seeded)"
+}

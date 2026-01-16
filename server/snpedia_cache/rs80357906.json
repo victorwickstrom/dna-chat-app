@@ -1,0 +1,14 @@
+{
+  "rsid": "rs80357906",
+  "fetched_at": "2025-12-31T11:55:54.593Z",
+  "source": "SNPedia",
+  "gene": "BRCA1",
+  "chromosome": "17",
+  "summary": "}}rs80357906, also known as 5382insC, c.5266dupC, c.5263_5264insC and p.Ser1755?fs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar. This BRCA1 mutation is considered a founder mutation in several populations including Ashkenazi Jews. rs80357906 is equivalent to rs397507247 (which is occasionally found in some older data). 23andMe name: i4000378",
+  "genotypes": {
+    "C;C": {
+      "description": "See SNPedia for details"
+    }
+  },
+  "magnitude": null
+}

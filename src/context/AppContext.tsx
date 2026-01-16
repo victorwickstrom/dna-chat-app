@@ -13,7 +13,7 @@ export interface Preferences {
   explanationLevel: 'layman' | 'normal' | 'technical'
   tone: 'calm' | 'formal'
   showUncertainty: boolean
-  language: 'sv' | 'en'
+  language: 'en'
   autoSendGenotypes: boolean
 }
 
@@ -23,18 +23,20 @@ interface GlobalContextValue {
   preferences: Preferences
   topicWeights: Record<string, number>
   knowledgeGraph: Record<string, number>
+  pendingQuestion: string | null
   setSnpIndex: (index: Map<string, string | null> | null) => void
   setMetadata: (metadata: Metadata) => void
   setPreferences: (prefs: Preferences) => void
   setTopicWeights: (weights: Record<string, number>) => void
   setKnowledgeGraph: (graph: Record<string, number>) => void
+  setPendingQuestion: (question: string | null) => void
 }
 
 const defaultPreferences: Preferences = {
   explanationLevel: 'normal',
   tone: 'calm',
   showUncertainty: true,
-  language: 'sv',
+  language: 'en',
   autoSendGenotypes: false,
 }
 
@@ -46,6 +48,7 @@ export const GlobalProvider = ({ children }: { children: ReactNode }) => {
   const [preferences, setPreferences] = useState<Preferences>(defaultPreferences)
   const [topicWeights, setTopicWeights] = useState<Record<string, number>>({})
   const [knowledgeGraph, setKnowledgeGraph] = useState<Record<string, number>>({})
+  const [pendingQuestion, setPendingQuestion] = useState<string | null>(null)
 
   const setSnpIndex = useCallback((index: Map<string, string | null> | null) => {
     setSnpIndexState(index)
@@ -58,13 +61,15 @@ export const GlobalProvider = ({ children }: { children: ReactNode }) => {
       preferences,
       topicWeights,
       knowledgeGraph,
+      pendingQuestion,
       setSnpIndex,
       setMetadata,
       setPreferences,
       setTopicWeights,
       setKnowledgeGraph,
+      setPendingQuestion,
     }),
-    [snpIndexState, metadata, preferences, topicWeights, knowledgeGraph, setSnpIndex]
+    [snpIndexState, metadata, preferences, topicWeights, knowledgeGraph, pendingQuestion, setSnpIndex]
   )
 
   return <GlobalContext.Provider value={value}>{children}</GlobalContext.Provider>

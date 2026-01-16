@@ -1,0 +1,20 @@
+{
+  "rsid": "rs7454108",
+  "fetched_at": "2025-12-29T23:37:38.975Z",
+  "source": "SNPedia",
+  "gene": null,
+  "chromosome": "6",
+  "summary": "}} People with the human leukocyte antigen (HLA) genotype DRB1*0301-DQA1*0501-DQB1*0201/DRB1*04-DQA1*0301-DQB1*0302 (more simply known as \"DR3/4-DQ8\") are at the highest risk of developing type-1 diabetes. The rs2040410(A) allele is associated with DRB1*0301, and the rs7454108(C) allele is associated with DQB1*0302 (and thus DQ8). Instead of more traditional antibody-based tests, two SNPs (rs2040410 and rs7454108) can be used to identify the presence or absence of the DR3/4-DQ8 genotype and thus the highest-risk heterozygous genotype associated with type-1 diabetes. For users of Promethease, this is determined via Gs121.",
+  "genotypes": {
+    "C;C": {
+      "description": "See SNPedia for details"
+    },
+    "C;T": {
+      "description": "See SNPedia for details"
+    },
+    "T;T": {
+      "description": "See SNPedia for details"
+    }
+  },
+  "magnitude": null
+}

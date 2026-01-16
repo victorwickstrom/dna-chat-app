@@ -1,0 +1,20 @@
+{
+  "rsid": "rs2165241",
+  "fetched_at": "2025-12-31T11:54:58.161Z",
+  "source": "SNPedia",
+  "gene": "LOXL1",
+  "chromosome": "15",
+  "summary": "}}This SNP, located in an intron of the LOXL1 gene, was initially reported to be associated with exfoliation glaucoma. However, it was shown in the same study to no longer be significant once two other SNPs, which cause actual changes in the LOXL1 protein, were identified. More specifically, the risk allele rs2165241(T) was found to be associated with glaucoma only because it effectively predicted (with 90% probability) the actual high-risk haplotype consisting of rs1048661(G) and rs3825942(C), as oriented with respect to their entries in dbSNP. }} rs1048661 (G), rs3825942 (G), and rs2165241 (T) are highly associated with XFS and XFG in American and European populations. The GGT haplotype constitutes a major risk haplotype for exfoliation.",
+  "genotypes": {
+    "C;C": {
+      "description": "See SNPedia for details"
+    },
+    "C;T": {
+      "description": "See SNPedia for details"
+    },
+    "T;T": {
+      "description": "See SNPedia for details"
+    }
+  },
+  "magnitude": null
+}

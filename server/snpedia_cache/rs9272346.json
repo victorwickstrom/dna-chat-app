@@ -1,0 +1,20 @@
+{
+  "rsid": "rs9272346",
+  "fetched_at": "2026-01-12T23:25:20.597Z",
+  "source": "SNPedia",
+  "gene": "HLA",
+  "chromosome": "6",
+  "summary": "In this 2007 article, titled \"Genome-wide association study of 14,000 cases of seven common diseases and 3,000 shared controls,\" rs9272346 has been reported to be associated with type-1 diabetes. The risk allele (oriented to the dbSNP entry) is (A); the odds ratio associated with heterozygotes is 5.49 (CI 4.83-6.24), and for homozygotes (AA), the risk is 18.52 (CI 12.69-27.03). The P value is extremely significant at 5.47 × 10-134, considering the threshold for genome-wide significance. NOTE: In previous edits of this page, it has been noted that \"the (A) allele of rs9272346 is common in various human populations, and one could consider the (G) allele as protective.\" However, the authors of  seem to disagree. (Of course, other significant genetic and/or environmental factors could be prote",
+  "genotypes": {
+    "A;A": {
+      "description": "See SNPedia for details"
+    },
+    "A;G": {
+      "description": "See SNPedia for details"
+    },
+    "G;G": {
+      "description": "See SNPedia for details"
+    }
+  },
+  "magnitude": null
+}

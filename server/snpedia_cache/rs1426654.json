@@ -1,0 +1,20 @@
+{
+  "rsid": "rs1426654",
+  "fetched_at": "2026-01-06T22:30:23.053Z",
+  "source": "SNPedia",
+  "gene": "SLC24A5",
+  "chromosome": "15",
+  "summary": "}}This SNP influences skin pigmentation. The allele, A111T, rs1426654(A), indicates light-skinned West Eurasian ancestry. [PMID 16847698, PMID 16357253] }}) has concluded that almost individuals carrying the A111T variant can trace ancestry back to a single person who most likely lived at least 10,000 years ago. The 3 SNPs are: * rs1426654 * rs2555364 * rs16960620",
+  "genotypes": {
+    "A;A": {
+      "description": "See SNPedia for details"
+    },
+    "A;G": {
+      "description": "See SNPedia for details"
+    },
+    "G;G": {
+      "description": "See SNPedia for details"
+    }
+  },
+  "magnitude": null
+}

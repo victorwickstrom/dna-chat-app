@@ -1,0 +1,20 @@
+{
+  "rsid": "rs1229984",
+  "fetched_at": "2025-12-29T23:40:15.626Z",
+  "source": "SNPedia",
+  "gene": "ADH1B",
+  "chromosome": "4",
+  "summary": "}}A SNP in rs1229984 encodes a form of the alcohol dehydrogenase ADH1B gene that significantly reduces the clearance rate of alcohol from the liver. This SNP is also known as Arg48His, with the (G) allele corresponding to the Arg and the (A) to the His. A study of over 3,800 cases of \"upper aerodigestive\" cancers (mouth/throat, voice box, and esophageal cancers) concluded that the rs1229984(A) allele (in dbSNP orientation) has a protective effect. Carriers of this allele had a 0.56x (decreased; p=10<sup>-10</sup>) risk of having one of these cancer types. A review of the (at times conflicting) findings regarding ADH1B genotypes and maternal and fetal alcohol syndromes is available.",
+  "genotypes": {
+    "A;A": {
+      "description": "See SNPedia for details"
+    },
+    "A;G": {
+      "description": "See SNPedia for details"
+    },
+    "G;G": {
+      "description": "See SNPedia for details"
+    }
+  },
+  "magnitude": null
+}

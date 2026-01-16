@@ -1,0 +1,20 @@
+{
+  "rsid": "rs429358",
+  "gene": "APOE",
+  "chromosome": "19",
+  "summary": "Part of APOE genotype. Combined with rs7412 determines APOE2/3/4 status and Alzheimer risk.",
+  "genotypes": {
+    "T;T": {
+      "description": "Part of APOE2 or APOE3"
+    },
+    "C;T": {
+      "description": "Heterozygous, one APOE4 allele"
+    },
+    "C;C": {
+      "description": "APOE4/4 - significantly elevated Alzheimer risk"
+    }
+  },
+  "magnitude": 4,
+  "fetched_at": "2025-12-29T22:47:58.943Z",
+  "source": "SNPedia (pre-seeded)"
+}

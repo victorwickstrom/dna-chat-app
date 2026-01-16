@@ -2,7 +2,7 @@ import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 
 interface ChatMessageProps {
-  sender: 'user' | 'system'
+  sender: 'user' | 'assistant'
   content: string
 }
 

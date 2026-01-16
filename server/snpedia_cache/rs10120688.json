@@ -1,0 +1,20 @@
+{
+  "rsid": "rs10120688",
+  "fetched_at": "2025-12-31T11:54:58.154Z",
+  "source": "SNPedia",
+  "gene": "CDKN2B",
+  "chromosome": "9",
+  "summary": "",
+  "genotypes": {
+    "A;A": {
+      "description": "See SNPedia for details"
+    },
+    "A;G": {
+      "description": "See SNPedia for details"
+    },
+    "G;G": {
+      "description": "See SNPedia for details"
+    }
+  },
+  "magnitude": null
+}

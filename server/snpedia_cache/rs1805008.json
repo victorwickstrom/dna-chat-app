@@ -1,0 +1,20 @@
+{
+  "rsid": "rs1805008",
+  "fetched_at": "2026-01-13T13:13:27.773Z",
+  "source": "SNPedia",
+  "gene": "MC1R",
+  "chromosome": "16",
+  "summary": "}}rs1805008, known as Arg160Trp or R160W, is one of several SNPs in the MC1R gene associated with red hair color (redheads), in this case in an Irish population  although this has also been reported in Icelandic and Dutch populations . The risk allele is rs1805008(T), compared with the wild-type rs1805008(C) allele. blog about designing melanocortin analogs specific to these genotypes. See also 155555.0005 Parkinson's disease",
+  "genotypes": {
+    "C;C": {
+      "description": "See SNPedia for details"
+    },
+    "C;T": {
+      "description": "See SNPedia for details"
+    },
+    "T;T": {
+      "description": "See SNPedia for details"
+    }
+  },
+  "magnitude": null
+}

@@ -1,12 +1,1402 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>DNA Chat Assistant</title>
-  </head>
-  <body class="bg-gray-50">
-    <div id="root"></div>
+
+<head>
+    <!-- meta tags -->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="DNA Chat App - Advanced DNA Analysis Platform powered by AI. Upload your genetic data and get personalized health insights.">
+    <meta name="keywords" content="DNA analysis, genetic testing, health insights, AI, personalized medicine, genomics">
+
+    <!-- title -->
+    <title>DNA Chat App - Advanced DNA Analysis Platform</title>
+
+    <!-- favicon -->
+    <link rel="icon" type="image/x-icon" href="/assets/img/logo/favicon.png">
+
+    <!-- css -->
+    <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/assets/css/all-fontawesome.min.css">
+    <link rel="stylesheet" href="/assets/css/flaticon.css">
+    <link rel="stylesheet" href="/assets/css/animate.min.css">
+    <link rel="stylesheet" href="/assets/css/magnific-popup.min.css">
+    <link rel="stylesheet" href="/assets/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="/assets/css/style.css">
+
+    <!-- Custom styles for DNA app integration -->
+    <style>
+        .dna-app-container {
+            background: #ffffff;
+            min-height: 500px;
+            border-radius: 24px;
+            padding: 30px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+            border: 2px solid #e5e7eb;
+            position: relative;
+        }
+        .dna-app-container::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 6px;
+            background: linear-gradient(90deg, #22c55e 0%, #16a34a 50%, #15803d 100%);
+            border-radius: 24px 24px 0 0;
+        }
+        
+        /* Safety badge for DNA container */
+        .dna-safety-header {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+            padding: 12px 20px;
+            background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%);
+            border: 1px solid #86efac;
+            border-radius: 12px;
+            margin-bottom: 20px;
+        }
+        .dna-safety-header i {
+            color: #16a34a;
+            font-size: 18px;
+        }
+        .dna-safety-header span {
+            color: #166534;
+            font-size: 14px;
+            font-weight: 600;
+        }
+        #root {
+            min-height: 500px;
+        }
+        
+        /* Security/Trust Banner - Clean white design */
+        .security-banner {
+            background: #ffffff;
+            padding: 60px 0;
+            border-bottom: 1px solid #e5e7eb;
+        }
+        .security-item {
+            text-align: center;
+            padding: 25px 20px;
+            background: #f9fafb;
+            border-radius: 16px;
+            border: 1px solid #e5e7eb;
+            height: 100%;
+            transition: all 0.3s ease;
+        }
+        .security-item:hover {
+            background: #f0fdf4;
+            border-color: #86efac;
+            transform: translateY(-3px);
+            box-shadow: 0 10px 30px rgba(34, 197, 94, 0.1);
+        }
+        .security-icon {
+            width: 60px;
+            height: 60px;
+            background: linear-gradient(135deg, #dcfce7 0%, #bbf7d0 100%);
+            border: none;
+            border-radius: 16px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 0 auto 18px;
+            font-size: 26px;
+            color: #16a34a;
+        }
+        .security-item h4 {
+            color: #1f2937;
+            font-size: 18px;
+            font-weight: 700;
+            margin-bottom: 10px;
+        }
+        .security-item p {
+            color: #6b7280;
+            font-size: 14px;
+            margin: 0;
+            line-height: 1.6;
+        }
+        
+        /* DNA Download Guide */
+        .download-guide-section {
+            background: #f8fafc;
+        }
+        .provider-card {
+            background: #fff;
+            border-radius: 16px;
+            padding: 30px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.06);
+            border: 1px solid #e2e8f0;
+            height: 100%;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .provider-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 30px rgba(0,0,0,0.1);
+        }
+        .provider-logo {
+            height: 50px;
+            margin-bottom: 20px;
+            object-fit: contain;
+        }
+        .provider-card h4 {
+            font-size: 20px;
+            font-weight: 600;
+            color: #1e293b;
+            margin-bottom: 15px;
+        }
+        .provider-steps {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+        .provider-steps li {
+            display: flex;
+            align-items: flex-start;
+            gap: 12px;
+            margin-bottom: 12px;
+            font-size: 14px;
+            color: #475569;
+            line-height: 1.5;
+        }
+        .step-number {
+            min-width: 24px;
+            height: 24px;
+            background: var(--theme-color);
+            color: #fff;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 12px;
+            font-weight: 600;
+        }
+        .provider-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            margin-top: 15px;
+            color: var(--theme-color);
+            font-weight: 500;
+            text-decoration: none;
+            font-size: 14px;
+        }
+        .provider-link:hover {
+            text-decoration: underline;
+        }
+        
+        /* Privacy Notice Box */
+        .privacy-notice {
+            background: linear-gradient(135deg, #f0fdfa 0%, #ccfbf1 100%);
+            border: 2px solid #5eead4;
+            border-radius: 16px;
+            padding: 30px 35px;
+            margin-top: 50px;
+        }
+        .privacy-notice-icon {
+            font-size: 48px;
+            color: #0d9488;
+            margin-bottom: 0;
+        }
+        .privacy-notice h4 {
+            color: #134e4a;
+            font-size: 20px;
+            font-weight: 700;
+            margin-bottom: 12px;
+        }
+        .privacy-notice p {
+            color: #115e59;
+            font-size: 15px;
+            margin: 0;
+            line-height: 1.7;
+        }
+        
+        /* Section backgrounds for contrast */
+        .section-white {
+            background: #ffffff;
+        }
+        .section-light {
+            background: #f8fafc;
+        }
+        .section-gradient {
+            background: linear-gradient(180deg, #f1f5f9 0%, #ffffff 100%);
+        }
+        
+        /* Improved service cards */
+        .service-item {
+            background: #fff;
+            border: 1px solid #e2e8f0;
+            transition: all 0.3s ease;
+        }
+        .service-item:hover {
+            border-color: var(--theme-color);
+            box-shadow: 0 10px 40px rgba(0, 174, 255, 0.15);
+        }
+        
+        /* Counter area update */
+        .counter-area {
+            background: linear-gradient(135deg, #1e3a5f 0%, #0c4a6e 100%) !important;
+        }
+        
+        /* Choose/How it works area */
+        .choose-area.bg {
+            background: #ffffff !important;
+        }
+        
+        /* About area */
+        .about-area.bg {
+            background: linear-gradient(180deg, #f8fafc 0%, #f1f5f9 100%) !important;
+        }
+        
+        /* Testimonial area */
+        .testimonial-area.bg {
+            background: linear-gradient(180deg, #f1f5f9 0%, #e2e8f0 100%) !important;
+        }
+        
+        /* FAQ area styling */
+        #faq {
+            background: #ffffff;
+        }
+        #faq .accordion-button {
+            font-weight: 600;
+            color: #1e293b;
+        }
+        #faq .accordion-button:not(.collapsed) {
+            background: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 100%);
+            color: var(--theme-color);
+        }
+        
+        /* Provider card step numbers - use theme color */
+        .step-number {
+            background: linear-gradient(135deg, #0891b2 0%, #0e7490 100%) !important;
+        }
+        
+        /* Automatic analysis section */
+        #auto-analysis {
+            background: linear-gradient(180deg, #ffffff 0%, #f8fafc 100%) !important;
+        }
+        
+        /* Download guide section */
+        .download-guide-section {
+            background: linear-gradient(180deg, #f8fafc 0%, #ffffff 100%) !important;
+        }
+        
+        /* Service area background */
+        .service-area {
+            background: linear-gradient(180deg, #ffffff 0%, #f8fafc 100%);
+        }
+        
+        /* DNA App section */
+        #dna-app {
+            background: #ffffff;
+        }
+        
+        /* Hero improvements */
+        .hero-section {
+            position: relative;
+        }
+        .hero-section::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            height: 100px;
+            background: linear-gradient(to bottom, transparent, #1e3a5f);
+            pointer-events: none;
+        }
+        
+        /* Button hover states */
+        .theme-btn {
+            transition: all 0.3s ease;
+        }
+        .theme-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 25px rgba(0, 174, 255, 0.3);
+        }
+        
+        /* Provider card improvements */
+        .provider-card {
+            border: 2px solid #e2e8f0;
+        }
+        .provider-card:hover {
+            border-color: var(--theme-color);
+        }
+        
+        /* Analysis card styles */
+        .analysis-card {
+            background: #fff;
+            border-radius: 12px;
+            padding: 20px;
+            border: 1px solid #e9ecef;
+            transition: all 0.3s ease;
+            cursor: pointer;
+        }
+        .analysis-card:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+        }
+        .analysis-card.has-match {
+            border-color: var(--theme-color);
+            background: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 100%);
+            box-shadow: 0 0 20px rgba(0, 174, 255, 0.2);
+        }
+        .analysis-card.has-match::before {
+            content: '';
+            position: absolute;
+            top: -2px;
+            left: -2px;
+            right: -2px;
+            bottom: -2px;
+            background: linear-gradient(45deg, var(--theme-color), #8b5cf6);
+            border-radius: 14px;
+            z-index: -1;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+        .analysis-card.has-match:hover::before {
+            opacity: 1;
+        }
+        .analysis-card .match-badge {
+            background: linear-gradient(135deg, var(--theme-color), #0284c7);
+            color: #fff;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 12px;
+            font-weight: 600;
+        }
+        .analysis-card .category-icon {
+            width: 40px;
+            height: 40px;
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 20px;
+            background: #f1f5f9;
+        }
+        .analysis-card.has-match .category-icon {
+            background: linear-gradient(135deg, var(--theme-color), #0284c7);
+        }
+        
+        /* Expanded details */
+        .analysis-details {
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.3s ease, padding 0.3s ease;
+        }
+        .analysis-card.expanded .analysis-details {
+            max-height: 500px;
+            padding-top: 15px;
+            margin-top: 15px;
+            border-top: 1px solid #e9ecef;
+        }
+        
+        /* Fix FAQ accordion visibility and collapse behavior */
+        .accordion-body {
+            color: #333 !important;
+            background: #fff !important;
+        }
+        .accordion-collapse {
+            background: #fff;
+        }
+        .accordion-button:not(.collapsed) {
+            color: var(--theme-color);
+            background-color: #f0f9ff;
+        }
+        /* Ensure collapse animations work properly */
+        .accordion-collapse.collapsing {
+            height: 0;
+            overflow: hidden;
+            transition: height 0.35s ease;
+        }
+        .accordion-collapse.show {
+            display: block;
+            visibility: visible !important;
+        }
+        .accordion-collapse:not(.show) {
+            display: none;
+        }
+        /* Fix Tailwind .collapse conflicting with Bootstrap accordion */
+        .accordion-collapse.collapse {
+            visibility: visible !important;
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- preloader -->
+    <div class="preloader">
+        <div class="loader">
+            <div class="loader-box-1"></div>
+            <div class="loader-box-2"></div>
+        </div>
+    </div>
+    <!-- preloader end -->
+
+
+    <!-- header area -->
+    <header class="header">
+
+        <div class="main-navigation">
+            <nav class="navbar navbar-expand-lg">
+                <div class="container">
+                    <a class="navbar-brand" href="index.html">
+                        <img src="/assets/img/logo.png" class="logo-display" alt="DNA Chat App" style="max-height: 60px; width: auto;">
+                        <img src="/assets/img/logo.png" class="logo-scrolled" alt="DNA Chat App" style="max-height: 50px; width: auto;">
+                    </a>
+                    <div class="mobile-menu-right">
+                        <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#main_nav" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"><i class="far fa-bars"></i></span>
+                        </button>
+                    </div>
+                    <div class="collapse navbar-collapse" id="main_nav">
+                        <ul class="navbar-nav ms-auto">
+                            <li class="nav-item">
+                                <a class="nav-link active" href="index.html">Home</a>
+                            </li>
+                            <li class="nav-item"><a class="nav-link" href="#dna-app">DNA Analysis</a></li>
+                            <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
+                            <li class="nav-item"><a class="nav-link" href="#services">Services</a></li>
+                            <li class="nav-item"><a class="nav-link" href="#how-it-works">How It Works</a></li>
+                            <li class="nav-item"><a class="nav-link" href="#faq">FAQ</a></li>
+                            <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
+                        </ul>
+                        <div class="header-nav-right">
+                            <div class="header-btn">
+                                <a href="#dna-app" class="theme-btn">Start Analysis</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </header>
+    <!-- header area end -->
+
+
+    <main class="main">
+
+        <!-- hero area -->
+        <div class="hero-section">
+            <div class="hero-wrapper">
+                <div class="container">
+                    <div class="row align-items-center">
+                        <div class="col-md-6 col-lg-6">
+                            <div class="hero-content">
+                                <h6 class="hero-sub-title wow animate__animated animate__fadeInUp"
+                                    data-wow-duration="1s" data-wow-delay=".25s">
+                                    Private & Secure DNA Insights
+                                </h6>
+                                <h1 class="hero-title wow animate__animated animate__fadeInUp" data-wow-duration="1s"
+                                    data-wow-delay=".50s">
+                                    Discover What Your <span>DNA</span> Says About You
+                                </h1>
+                                <p class="wow animate__animated animate__fadeInUp" data-wow-duration="1s"
+                                    data-wow-delay=".75s">
+                                    Already have DNA results from 23andMe, AncestryDNA or MyHeritage? 
+                                    Upload your file and explore what your genes reveal about your health, traits, and wellness – all privately on your own device.
+                                </p>
+                                <div class="hero-btn wow animate__animated animate__fadeInUp" data-wow-duration="1s"
+                                    data-wow-delay="1s">
+                                    <a href="#dna-app" class="theme-btn">Get Started – It's Free</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-6">
+                            <div class="hero-img">
+                                <img src="/assets/img/hero/hero-1.png" alt="DNA Analysis">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="hero-shape">
+                    <img src="/assets/img/shape/shape-3.png" alt="">
+                </div>
+            </div>
+        </div>
+        <!-- hero area end -->
+
+
+        <!-- Security Trust Banner -->
+        <div class="security-banner">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6 col-lg-3">
+                        <div class="security-item">
+                            <div class="security-icon">
+                                <i class="fas fa-lock"></i>
+                            </div>
+                            <h4>Stays on Your Device</h4>
+                            <p>Your DNA file never leaves your computer. Everything happens right here in your browser.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3">
+                        <div class="security-item">
+                            <div class="security-icon">
+                                <i class="fas fa-shield-alt"></i>
+                            </div>
+                            <h4>No Sign-Up Needed</h4>
+                            <p>Just upload and explore. No account, no email, no forms to fill out.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3">
+                        <div class="security-item">
+                            <div class="security-icon">
+                                <i class="fas fa-eye-slash"></i>
+                            </div>
+                            <h4>Your Data, Your Control</h4>
+                            <p>We can't see your DNA data. We don't store it. It's completely private.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3">
+                        <div class="security-item">
+                            <div class="security-icon">
+                                <i class="fas fa-code"></i>
+                            </div>
+                            <h4>Based on Real Science</h4>
+                            <p>All insights come from published scientific research and trusted genetic databases.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Security Trust Banner end -->
+
+
+        <!-- DNA Download Guide Section -->
+        <div id="how-it-works" class="download-guide-section py-120">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 mx-auto">
+                        <div class="site-heading text-center mb-5">
+                            <span class="site-title-tagline"><i class="fas fa-download me-2"></i>Step 1</span>
+                            <h2 class="site-title">Get Your <span>DNA File</span></h2>
+                            <div class="heading-divider"></div>
+                            <p class="mt-3">Don't worry – it's easy! Here's how to download your DNA file from each provider</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="row g-4">
+                    <!-- 23andMe -->
+                    <div class="col-lg-4">
+                        <div class="provider-card">
+                            <h4><i class="fas fa-dna me-2" style="color: #6b21a8;"></i>23andMe</h4>
+                            <ul class="provider-steps">
+                                <li>
+                                    <span class="step-number">1</span>
+                                    <span>Log in to your 23andMe account at 23andme.com</span>
+                                </li>
+                                <li>
+                                    <span class="step-number">2</span>
+                                    <span>Click on your name in the top right corner</span>
+                                </li>
+                                <li>
+                                    <span class="step-number">3</span>
+                                    <span>Select "Settings" from the dropdown menu</span>
+                                </li>
+                                <li>
+                                    <span class="step-number">4</span>
+                                    <span>Scroll down to "23andMe Data" section</span>
+                                </li>
+                                <li>
+                                    <span class="step-number">5</span>
+                                    <span>Click "View" next to "Download Raw Data"</span>
+                                </li>
+                                <li>
+                                    <span class="step-number">6</span>
+                                    <span>Enter your password and click "Download"</span>
+                                </li>
+                            </ul>
+                            <a href="https://you.23andme.com/tools/data/download/" target="_blank" class="provider-link">
+                                <i class="fas fa-external-link-alt"></i> Go to 23andMe Download
+                            </a>
+                        </div>
+                    </div>
+                    
+                    <!-- AncestryDNA -->
+                    <div class="col-lg-4">
+                        <div class="provider-card">
+                            <h4><i class="fas fa-dna me-2" style="color: #059669;"></i>AncestryDNA</h4>
+                            <ul class="provider-steps">
+                                <li>
+                                    <span class="step-number">1</span>
+                                    <span>Log in to your Ancestry account at ancestry.com</span>
+                                </li>
+                                <li>
+                                    <span class="step-number">2</span>
+                                    <span>Click on "DNA" in the top navigation</span>
+                                </li>
+                                <li>
+                                    <span class="step-number">3</span>
+                                    <span>Click "Settings" in the DNA menu</span>
+                                </li>
+                                <li>
+                                    <span class="step-number">4</span>
+                                    <span>Scroll to "Download Raw DNA Data"</span>
+                                </li>
+                                <li>
+                                    <span class="step-number">5</span>
+                                    <span>Click "Download" and confirm your password</span>
+                                </li>
+                                <li>
+                                    <span class="step-number">6</span>
+                                    <span>Check your email for the download link</span>
+                                </li>
+                            </ul>
+                            <a href="https://www.ancestry.com/dna/settings" target="_blank" class="provider-link">
+                                <i class="fas fa-external-link-alt"></i> Go to Ancestry Settings
+                            </a>
+                        </div>
+                    </div>
+                    
+                    <!-- MyHeritage -->
+                    <div class="col-lg-4">
+                        <div class="provider-card">
+                            <h4><i class="fas fa-dna me-2" style="color: #dc2626;"></i>MyHeritage</h4>
+                            <ul class="provider-steps">
+                                <li>
+                                    <span class="step-number">1</span>
+                                    <span>Log in to your MyHeritage account</span>
+                                </li>
+                                <li>
+                                    <span class="step-number">2</span>
+                                    <span>Click on "DNA" in the top menu</span>
+                                </li>
+                                <li>
+                                    <span class="step-number">3</span>
+                                    <span>Select "Manage DNA kits"</span>
+                                </li>
+                                <li>
+                                    <span class="step-number">4</span>
+                                    <span>Click on the three dots (⋮) next to your kit</span>
+                                </li>
+                                <li>
+                                    <span class="step-number">5</span>
+                                    <span>Select "Download raw DNA data"</span>
+                                </li>
+                                <li>
+                                    <span class="step-number">6</span>
+                                    <span>Confirm and download the ZIP file</span>
+                                </li>
+                            </ul>
+                            <a href="https://www.myheritage.com/dna/manage" target="_blank" class="provider-link">
+                                <i class="fas fa-external-link-alt"></i> Go to MyHeritage DNA
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Additional providers row -->
+                <div class="row g-4 mt-2">
+                    <!-- FamilyTreeDNA -->
+                    <div class="col-lg-4">
+                        <div class="provider-card">
+                            <h4><i class="fas fa-dna me-2" style="color: #0284c7;"></i>FamilyTreeDNA</h4>
+                            <ul class="provider-steps">
+                                <li>
+                                    <span class="step-number">1</span>
+                                    <span>Log in to your FTDNA account</span>
+                                </li>
+                                <li>
+                                    <span class="step-number">2</span>
+                                    <span>Navigate to "myDNA" section</span>
+                                </li>
+                                <li>
+                                    <span class="step-number">3</span>
+                                    <span>Click on "Download Raw Data"</span>
+                                </li>
+                                <li>
+                                    <span class="step-number">4</span>
+                                    <span>Select "Concatenated" format</span>
+                                </li>
+                                <li>
+                                    <span class="step-number">5</span>
+                                    <span>Click Download and save the file</span>
+                                </li>
+                            </ul>
+                            <a href="https://www.familytreedna.com/my/profile" target="_blank" class="provider-link">
+                                <i class="fas fa-external-link-alt"></i> Go to FTDNA
+                            </a>
+                        </div>
+                    </div>
+                    
+                    <!-- LivingDNA -->
+                    <div class="col-lg-4">
+                        <div class="provider-card">
+                            <h4><i class="fas fa-dna me-2" style="color: #7c3aed;"></i>LivingDNA</h4>
+                            <ul class="provider-steps">
+                                <li>
+                                    <span class="step-number">1</span>
+                                    <span>Log in to your LivingDNA account</span>
+                                </li>
+                                <li>
+                                    <span class="step-number">2</span>
+                                    <span>Go to "My Account" settings</span>
+                                </li>
+                                <li>
+                                    <span class="step-number">3</span>
+                                    <span>Find "Raw DNA data" section</span>
+                                </li>
+                                <li>
+                                    <span class="step-number">4</span>
+                                    <span>Click "Download" button</span>
+                                </li>
+                                <li>
+                                    <span class="step-number">5</span>
+                                    <span>Save the downloaded file</span>
+                                </li>
+                            </ul>
+                            <a href="https://my.livingdna.com/" target="_blank" class="provider-link">
+                                <i class="fas fa-external-link-alt"></i> Go to LivingDNA
+                            </a>
+                        </div>
+                    </div>
+                    
+                    <!-- Generic/Other -->
+                    <div class="col-lg-4">
+                        <div class="provider-card">
+                            <h4><i class="fas fa-file-alt me-2" style="color: #64748b;"></i>Other Providers</h4>
+                            <ul class="provider-steps">
+                                <li>
+                                    <span class="step-number">1</span>
+                                    <span>Log in to your DNA testing provider</span>
+                                </li>
+                                <li>
+                                    <span class="step-number">2</span>
+                                    <span>Look for "Settings" or "Account"</span>
+                                </li>
+                                <li>
+                                    <span class="step-number">3</span>
+                                    <span>Search for "Raw Data" or "Download"</span>
+                                </li>
+                                <li>
+                                    <span class="step-number">4</span>
+                                    <span>Download as TXT or CSV format</span>
+                                </li>
+                                <li>
+                                    <span class="step-number">5</span>
+                                    <span>VCF files are also supported</span>
+                                </li>
+                            </ul>
+                            <p class="mt-3" style="font-size: 13px; color: #64748b;">
+                                <i class="fas fa-info-circle me-1"></i> Most providers offer raw data export in their account settings.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Privacy Notice -->
+                <div class="row">
+                    <div class="col-lg-10 mx-auto">
+                        <div class="privacy-notice">
+                            <div class="row align-items-center">
+                                <div class="col-md-2 text-center">
+                                    <div class="privacy-notice-icon">
+                                        <i class="fas fa-user-shield"></i>
+                                    </div>
+                                </div>
+                                <div class="col-md-10">
+                                    <h4><i class="fas fa-lock me-2"></i>Your Privacy is Our Priority</h4>
+                                    <p>
+                                        When you upload your DNA file, it is processed <strong>entirely within your browser</strong>. 
+                                        Your genetic data never leaves your device and is never sent to our servers. 
+                                        We don't store, track, or have any access to your DNA information. 
+                                        You can verify this by checking your browser's network activity – no DNA data is transmitted.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- DNA Download Guide Section end -->
+
+
+        <!-- DNA App Section -->
+        <div id="dna-app" class="py-120">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 mx-auto">
+                        <div class="site-heading text-center mb-5">
+                            <span class="site-title-tagline"><i class="fas fa-upload me-2"></i>Step 2</span>
+                            <h2 class="site-title">Upload & <span>Explore</span></h2>
+                            <div class="heading-divider"></div>
+                            <p class="mt-3">Drop your DNA file here and ask any question about your genetics in plain language</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <div class="dna-app-container">
+                            <div class="dna-safety-header">
+                                <i class="fas fa-shield-alt"></i>
+                                <span>Your data stays on your device – we never see or store it</span>
+                                <i class="fas fa-lock"></i>
+                            </div>
+                            <div id="root"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- DNA App Section end -->
+
+
+        <!-- Automatic Analysis Section -->
+        <div id="auto-analysis" class="py-80 bg">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 mx-auto">
+                        <div class="site-heading text-center mb-5">
+                            <span class="site-title-tagline"><i class="fas fa-lightbulb me-2"></i>Your Results</span>
+                            <h2 class="site-title">What We Found <span>For You</span></h2>
+                            <div class="heading-divider"></div>
+                            <p class="mt-3">Based on your DNA, here are some insights we can share with you</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <div id="auto-analysis-root"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Automatic Analysis Section end -->
+
+
+        <!-- about area -->
+        <div id="about" class="about-area py-120 bg">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-6">
+                        <div class="about-left">
+                            <div class="about-img">
+                                <img src="/assets/img/about/01.png" alt="About DNA Chat App">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="about-right">
+                            <div class="site-heading mb-3">
+                                <span class="site-title-tagline">Why Use This?</span>
+                                <h2 class="site-title">Finally Understand Your <span>DNA Results</span>
+                                </h2>
+                            </div>
+                            <p class="about-text">You did a DNA test, got your results... and then what? We help you actually understand what those results mean. Ask questions in plain English and get clear, easy-to-understand answers based on real scientific research.</p>
+                            <div class="about-list-wrapper">
+                                <ul class="about-list list-unstyled">
+                                    <li>
+                                        <div class="icon"><span class="fas fa-check-circle"></span></div>
+                                        <div class="text">
+                                            <p>Works with 23andMe, AncestryDNA, MyHeritage & more</p>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="icon"><span class="fas fa-check-circle"></span></div>
+                                        <div class="text">
+                                            <p>100% private – your DNA never leaves your computer</p>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="icon"><span class="fas fa-check-circle"></span></div>
+                                        <div class="text">
+                                            <p>Answers based on real published scientific studies</p>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                            <a href="#dna-app" class="theme-btn">Try It Now</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- about area end -->
+
+
+        <!-- service area -->
+        <div id="services" class="service-area py-120">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 mx-auto">
+                        <div class="site-heading text-center">
+                            <span class="site-title-tagline">What Can You Learn?</span>
+                            <h2 class="site-title">Explore Your <span>Genetic Traits</span></h2>
+                            <div class="heading-divider"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6 col-lg-4">
+                        <div class="service-item">
+                            <div class="service-icon">
+                                <i class="flaticon-machine-learning"></i>
+                            </div>
+                            <h3 class="service-title">
+                                <a href="#">Health Insights</a>
+                            </h3>
+                            <p class="service-text">
+                                Learn what your genes say about conditions like heart health, diabetes risk, and other health factors that run in families.
+                            </p>
+                            <div class="service-arrow">
+                                <a href="#dna-app" class="service-read-btn">Learn More<i class="far fa-long-arrow-right"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4">
+                        <div class="service-item">
+                            <div class="service-icon">
+                                <i class="flaticon-data-mining"></i>
+                            </div>
+                            <h3 class="service-title">
+                                <a href="#">Medication Response</a>
+                            </h3>
+                            <p class="service-text">
+                                Find out how your body might respond to common medications – useful information to discuss with your doctor.
+                            </p>
+                            <div class="service-arrow">
+                                <a href="#dna-app" class="service-read-btn">Learn More<i class="far fa-long-arrow-right"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4">
+                        <div class="service-item">
+                            <div class="service-icon">
+                                <i class="flaticon-automation"></i>
+                            </div>
+                            <h3 class="service-title">
+                                <a href="#">Family Planning</a>
+                            </h3>
+                            <p class="service-text">
+                                See if you carry genes that could be passed to children – helpful to know when planning a family.
+                            </p>
+                            <div class="service-arrow">
+                                <a href="#dna-app" class="service-read-btn">Learn More<i class="far fa-long-arrow-right"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4">
+                        <div class="service-item">
+                            <div class="service-icon">
+                                <i class="flaticon-deep-learning"></i>
+                            </div>
+                            <h3 class="service-title">
+                                <a href="#">Food & Nutrition</a>
+                            </h3>
+                            <p class="service-text">
+                                Discover how your body handles different foods – like lactose, caffeine, or gluten sensitivity.
+                            </p>
+                            <div class="service-arrow">
+                                <a href="#dna-app" class="service-read-btn">Learn More<i class="far fa-long-arrow-right"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4">
+                        <div class="service-item">
+                            <div class="service-icon">
+                                <i class="flaticon-predictive-chart"></i>
+                            </div>
+                            <h3 class="service-title">
+                                <a href="#">Personal Traits</a>
+                            </h3>
+                            <p class="service-text">
+                                Fun stuff too! Eye color, sleep patterns, whether you're a morning person – it's all in your genes.
+                            </p>
+                            <div class="service-arrow">
+                                <a href="#dna-app" class="service-read-btn">Learn More<i class="far fa-long-arrow-right"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4">
+                        <div class="service-item">
+                            <div class="service-icon">
+                                <i class="flaticon-processor"></i>
+                            </div>
+                            <h3 class="service-title">
+                                <a href="#">Ask Questions</a>
+                            </h3>
+                            <p class="service-text">
+                                Just type your question in everyday language – "Do I have the gene for blue eyes?" – and get a clear answer.
+                            </p>
+                            <div class="service-arrow">
+                                <a href="#dna-app" class="service-read-btn">Learn More<i class="far fa-long-arrow-right"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- service area end -->
+
+
+
+        <!-- choose area / How It Works -->
+        <div id="how-it-works" class="choose-area py-120 bg">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-6">
+                        <div class="choose-img">
+                            <img src="/assets/img/choose/01.svg" alt="How It Works">
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="choose-content">
+                            <div class="site-heading mb-3">
+                                <span class="site-title-tagline">It's Easy</span>
+                                <h2 class="site-title my-3">Three Simple <span>Steps</span>
+                                </h2>
+                            </div>
+                            <p class="mb-30">No technical knowledge needed. If you can upload a file and type a question, you're all set.</p>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <ul>
+                                        <li>
+                                            <h5>1. Download Your DNA File</h5>
+                                            <p class="small text-muted">Get it from 23andMe, AncestryDNA, or MyHeritage (we show you how above).</p>
+                                        </li>
+                                        <li>
+                                            <h5>2. Upload It Here</h5>
+                                            <p class="small text-muted">Just drag and drop. It stays on your computer – we never see it.</p>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="col-md-6">
+                                    <ul class="mt-md-0">
+                                        <li>
+                                            <h5>3. Ask Your Questions</h5>
+                                            <p class="small text-muted">Type what you want to know: "Am I lactose intolerant?" or "What about Alzheimer's?"</p>
+                                        </li>
+                                        <li>
+                                            <h5>4. Get Clear Answers</h5>
+                                            <p class="small text-muted">We explain what your genes say in plain, easy-to-understand language.</p>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <a href="#dna-app" class="theme-btn mt-4">Get Started Free</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- choose area end -->
+
+
+
+        <!-- counter area -->
+        <div class="counter-area">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-3 col-sm-6">
+                        <div class="counter-box">
+                            <div class="icon"><i class="fal fa-dna"></i></div>
+                            <span class="counter" data-count="+" data-to="100000" data-speed="3000">100000</span>
+                            <h6 class="title">+ SNPs Analyzed</h6>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-sm-6">
+                        <div class="counter-box">
+                            <div class="icon"><i class="fal fa-users"></i></div>
+                            <span class="counter" data-count="+" data-to="50000" data-speed="3000">50000</span>
+                            <h6 class="title">+ Users Worldwide</h6>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-sm-6">
+                        <div class="counter-box">
+                            <div class="icon"><i class="fal fa-microscope"></i></div>
+                            <span class="counter" data-count="+" data-to="500" data-speed="3000">500</span>
+                            <h6 class="title">+ Health Conditions</h6>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-sm-6">
+                        <div class="counter-box">
+                            <div class="icon"><i class="fal fa-shield-check"></i></div>
+                            <span class="counter" data-count="" data-to="100" data-speed="3000">100</span>
+                            <h6 class="title">% Privacy Protected</h6>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- counter area end -->
+
+
+        <!-- FAQ area -->
+        <div id="faq" class="faq-area py-120">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 mx-auto">
+                        <div class="site-heading text-center">
+                            <span class="site-title-tagline">FAQ</span>
+                            <h2 class="site-title">Frequently Asked <span>Questions</span></h2>
+                            <div class="heading-divider"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row mt-5">
+                    <div class="col-lg-8 mx-auto">
+                        <div class="accordion" id="faqAccordion">
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingOne">
+                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                        What DNA file formats do you support?
+                                    </button>
+                                </h2>
+                                <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        We work with files from 23andMe, AncestryDNA, MyHeritage, FamilyTreeDNA, LivingDNA and most other DNA testing services. Just download your "raw data" file from your provider (we have step-by-step guides above) and drop it here.
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingTwo">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                        Is my genetic data kept private?
+                                    </button>
+                                </h2>
+                                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        Yes, 100%. Your DNA file stays on your computer and is never sent anywhere. We literally cannot see your genetic data – everything is processed right in your browser. You can even disconnect from the internet after loading the page and it will still work.
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingThree">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                        How accurate are the health predictions?
+                                    </button>
+                                </h2>
+                                <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        We only show you information from real, published scientific studies. But remember – genes are just one piece of the puzzle. Lifestyle, environment, and many other factors matter too. This is for learning and curiosity, not medical diagnosis. Always talk to a doctor about health concerns.
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingFour">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                        Can I ask any question about my genetics?
+                                    </button>
+                                </h2>
+                                <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        Yes! Just type your question like you'd ask a friend: "Do I have the gene for red hair?" or "What does my DNA say about caffeine?" You'll get clear answers based on what's actually in your DNA file, with references to the scientific research behind it.
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingFive">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                        Is this service free to use?
+                                    </button>
+                                </h2>
+                                <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
+                                    <div class="accordion-body">
+                                        Yes, completely free! No hidden fees, no premium features locked behind a paywall, no "upgrade to see your results." Just upload and explore. We built this because we think everyone deserves to understand their own DNA.
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- FAQ area end -->
+
+
+
+        <!-- testimonial-area -->
+        <div class="testimonial-area bg py-120">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 mx-auto">
+                        <div class="site-heading text-center">
+                            <span class="site-title-tagline">Testimonials</span>
+                            <h2 class="site-title">What Our <span>Users Say</span></h2>
+                            <div class="heading-divider"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="testimonial-slider owl-carousel owl-theme">
+                    <div class="testimonial-single">
+                        <div class="testimonial-quote">
+                            <span class="testimonial-quote-icon"><i class="fal fa-quote-left"></i></span>
+                            <p>
+                                I was amazed at how much I learned about my health from my 23andMe data. The AI explained everything in simple terms and helped me understand my risks for various conditions.
+                            </p>
+                            <div class="testimonial-rate">
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                            </div>
+                        </div>
+                        <div class="testimonial-content">
+                            <div class="testimonial-author-img">
+                                <img src="/assets/img/testimonial/01.jpg" alt="">
+                            </div>
+                            <div class="testimonial-author-info">
+                                <h4>Sarah Mitchell</h4>
+                                <p>Health Enthusiast</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="testimonial-single">
+                        <div class="testimonial-quote">
+                            <span class="testimonial-quote-icon"><i class="fal fa-quote-left"></i></span>
+                            <p>
+                                The pharmacogenomics analysis was incredibly valuable. I discovered why certain medications hadn't worked well for me and was able to discuss alternatives with my doctor.
+                            </p>
+                            <div class="testimonial-rate">
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                            </div>
+                        </div>
+                        <div class="testimonial-content">
+                            <div class="testimonial-author-img">
+                                <img src="/assets/img/testimonial/02.jpg" alt="">
+                            </div>
+                            <div class="testimonial-author-info">
+                                <h4>Dr. James Chen</h4>
+                                <p>Medical Professional</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="testimonial-single">
+                        <div class="testimonial-quote">
+                            <span class="testimonial-quote-icon"><i class="fal fa-quote-left"></i></span>
+                            <p>
+                                Finally, a platform that makes genetic data accessible! I love being able to ask questions in plain English and get detailed, scientifically-backed answers about my DNA.
+                            </p>
+                            <div class="testimonial-rate">
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                            </div>
+                        </div>
+                        <div class="testimonial-content">
+                            <div class="testimonial-author-img">
+                                <img src="/assets/img/testimonial/03.jpg" alt="">
+                            </div>
+                            <div class="testimonial-author-info">
+                                <h4>Emily Rodriguez</h4>
+                                <p>Bioinformatics Student</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- testimonial-area end -->
+
+
+        <!-- Contact CTA -->
+        <div id="contact" class="cta-area py-80">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-8">
+                        <div class="cta-content">
+                            <h2>Ready to Discover Your Genetic Story?</h2>
+                            <p>Upload your DNA data now and start exploring your unique genetic profile with our AI-powered analysis platform.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 text-lg-end mt-4 mt-lg-0">
+                        <a href="#dna-app" class="theme-btn">Start Free Analysis</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Contact CTA end -->
+
+
+    </main>
+
+
+
+    <!-- footer area -->
+    <footer class="footer-area">
+        <div class="footer-widget">
+            <div class="container">
+                <div class="row footer-widget-wrapper pt-100 pb-70">
+                    <div class="col-md-6 col-lg-4">
+                        <div class="footer-widget-box about-us">
+                            <a href="#" class="footer-logo">
+                                <img src="/assets/img/logo.png" alt="DNA Chat App" style="max-height: 80px; width: auto;">
+                            </a>
+                            <p class="mb-20">
+                                DNA Chat App provides advanced genetic analysis powered by artificial intelligence. 
+                                Understand your DNA and take control of your health journey.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4">
+                        <div class="footer-widget-box list">
+                            <h4 class="footer-widget-title">Quick Links</h4>
+                            <ul class="footer-list">
+                                <li><a href="#about"><i class="fas fa-caret-right"></i> About Us</a></li>
+                                <li><a href="#services"><i class="fas fa-caret-right"></i> Our Services</a></li>
+                                <li><a href="#how-it-works"><i class="fas fa-caret-right"></i> How It Works</a></li>
+                                <li><a href="#faq"><i class="fas fa-caret-right"></i> FAQ</a></li>
+                                <li><a href="#dna-app"><i class="fas fa-caret-right"></i> DNA Analysis</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4">
+                        <div class="footer-widget-box list">
+                            <h4 class="footer-widget-title">Our Services</h4>
+                            <ul class="footer-list">
+                                <li><a href="#services"><i class="fas fa-caret-right"></i> Health Risk Assessment</a></li>
+                                <li><a href="#services"><i class="fas fa-caret-right"></i> Pharmacogenomics</a></li>
+                                <li><a href="#services"><i class="fas fa-caret-right"></i> Carrier Status</a></li>
+                                <li><a href="#services"><i class="fas fa-caret-right"></i> Nutrigenomics</a></li>
+                                <li><a href="#services"><i class="fas fa-caret-right"></i> Wellness Traits</a></li>
+                                <li><a href="#services"><i class="fas fa-caret-right"></i> AI Chat Assistant</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- footer area end -->
+
+
+
+
+    <!-- scroll-top -->
+    <a href="#" id="scroll-top"><i class="far fa-long-arrow-up"></i></a>
+    <!-- scroll-top end -->
+
+
+    <!-- js -->
+    <script src="/assets/js/jquery-3.6.0.min.js"></script>
+    <script src="/assets/js/modernizr.min.js"></script>
+    <script src="/assets/js/bootstrap.bundle.min.js"></script>
+    <script src="/assets/js/imagesloaded.pkgd.min.js"></script>
+    <script src="/assets/js/jquery.magnific-popup.min.js"></script>
+    <script src="/assets/js/isotope.pkgd.min.js"></script>
+    <script src="/assets/js/jquery.appear.min.js"></script>
+    <script src="/assets/js/jquery.easing.min.js"></script>
+    <script src="/assets/js/owl.carousel.min.js"></script>
+    <script src="/assets/js/counter-up.js"></script>
+    <script src="/assets/js/wow.min.js"></script>
+    <script src="/assets/js/main.js"></script>
+
+    <!-- React App -->
     <script type="module" src="/src/main.tsx"></script>
-  </body>
+</body>
+
 </html>

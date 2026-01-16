@@ -1,0 +1,20 @@
+{
+  "rsid": "rs4474514",
+  "fetched_at": "2025-12-30T20:44:04.554Z",
+  "source": "SNPedia",
+  "gene": "KITLG",
+  "chromosome": "12",
+  "summary": "}} A second independent locus within DMRT1 is associated with testicular germ cell tumor susceptibility.",
+  "genotypes": {
+    "A;A": {
+      "description": "See SNPedia for details"
+    },
+    "A;G": {
+      "description": "See SNPedia for details"
+    },
+    "G;G": {
+      "description": "See SNPedia for details"
+    }
+  },
+  "magnitude": null
+}

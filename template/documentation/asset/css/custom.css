@@ -1,0 +1,41 @@
+.nav-link{
+    color: #666666 ;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.nav-link:hover{
+    color: #506fe4;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #506fe4;
+    background-color: rgba(80,111,228, 0.1);
+
+}
+
+.tab-body{
+    color: #666666;
+    font-size: 17px;
+}
+
+.btn-cus{
+    background-color: #6E6FE4;
+    color: white;
+}
+
+.prettyprint i{
+    color:gray;
+}
+
+.faqs-content .card-header{
+    padding: 0px;
+}
+
+.faqs-content .btn-link{
+    text-decoration: none !important;
+    color: #6e6fe4;
+}
+
+
+

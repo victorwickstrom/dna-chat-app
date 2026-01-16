@@ -1,0 +1,20 @@
+{
+  "rsid": "rs1815739",
+  "gene": "ACTN3",
+  "chromosome": "11",
+  "summary": "The \"sprinter gene\". Affects muscle fiber composition - power vs endurance.",
+  "genotypes": {
+    "C;C": {
+      "description": "Power/sprint athlete type - functional alpha-actinin-3"
+    },
+    "C;T": {
+      "description": "Mixed muscle fiber type"
+    },
+    "T;T": {
+      "description": "Endurance athlete type - no alpha-actinin-3 (common in elite endurance athletes)"
+    }
+  },
+  "magnitude": 2.5,
+  "fetched_at": "2025-12-29T23:06:19.485Z",
+  "source": "SNPedia (pre-seeded)"
+}

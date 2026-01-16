@@ -1,0 +1,20 @@
+{
+  "rsid": "rs1800795",
+  "fetched_at": "2025-12-29T23:29:46.569Z",
+  "source": "SNPedia",
+  "gene": "IL6",
+  "chromosome": "7",
+  "summary": "rs1800795 is a SNP in the promoter of the interleukin-6 IL6 gene, affecting the levels made of this important cytokine. In the literature, it is almost universally referred to as the IL6 \"-174\" polymorphism. It tends to be quite polymorphic in Caucasians, but Asian and African populations are almost monomorphic (for the (G) allele). Studies on rs1800795 now include potential associations with heart disease, Kaposi's sarcoma, type-2 diabetes, stroke, obesity, Hodgkin's lymphoma, sudden infant death syndrome, cancer (including breast cancer, gastric cancer, prostate cancer), hypertension, periodontitis, and complications arising after organ transplantations or grafts. It is worth noting that some of the associations seen for rs1800795 alleles are not for the risk of developing a given disord",
+  "genotypes": {
+    "C;C": {
+      "description": "See SNPedia for details"
+    },
+    "C;G": {
+      "description": "See SNPedia for details"
+    },
+    "G;G": {
+      "description": "See SNPedia for details"
+    }
+  },
+  "magnitude": null
+}

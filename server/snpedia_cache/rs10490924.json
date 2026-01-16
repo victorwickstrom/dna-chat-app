@@ -1,0 +1,20 @@
+{
+  "rsid": "rs10490924",
+  "gene": "ARMS2",
+  "chromosome": "10",
+  "summary": "Strong risk factor for age-related macular degeneration (AMD). The T allele significantly increases risk of vision loss in older age.",
+  "genotypes": {
+    "G;G": {
+      "description": "Normal risk for AMD"
+    },
+    "G;T": {
+      "description": "Increased risk for AMD (~2.7x)"
+    },
+    "T;T": {
+      "description": "High risk for AMD (~8x increased risk)"
+    }
+  },
+  "magnitude": 4,
+  "fetched_at": "2025-12-29T23:17:52.007Z",
+  "source": "SNPedia (pre-seeded)"
+}

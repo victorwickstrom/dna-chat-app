@@ -1,0 +1,20 @@
+{
+  "rsid": "rs2282679",
+  "fetched_at": "2026-01-13T20:01:28.923Z",
+  "source": "SNPedia",
+  "gene": "GC",
+  "chromosome": "4",
+  "summary": "rs2282679, located in the group-specific component (vitamin D binding protein) GC gene on chromosome 4p12, has been linked by several studies to vitamin D serum concentrations. In both studies, the allele associated with lower vitamin D, and thus the potential for vitamin D insufficiency, is rs2282679(C). Carriers of two such alleles have lower vitamin D than carriers of one allele, who in turn on average have lower vitamin D levels than rs2282679(A;A) individuals. A near-perfect proxy (i.e. substitute) for rs2282679 is reported to be rs4588, which was the variant originally used along with rs7041 to define three alternative vitamin D binding protein forms. rs2282679(A) is typically co-inherited with rs4588(C); rs2282679(C) is typically co-inherited with rs4588(A).",
+  "genotypes": {
+    "A;A": {
+      "description": "See SNPedia for details"
+    },
+    "A;C": {
+      "description": "See SNPedia for details"
+    },
+    "C;C": {
+      "description": "See SNPedia for details"
+    }
+  },
+  "magnitude": null
+}

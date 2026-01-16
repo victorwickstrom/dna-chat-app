@@ -1,0 +1,20 @@
+{
+  "rsid": "rs10483727",
+  "fetched_at": "2025-12-31T11:54:58.154Z",
+  "source": "SNPedia",
+  "gene": "LOC105378189",
+  "chromosome": "14",
+  "summary": "",
+  "genotypes": {
+    "C;C": {
+      "description": "See SNPedia for details"
+    },
+    "C;T": {
+      "description": "See SNPedia for details"
+    },
+    "T;T": {
+      "description": "See SNPedia for details"
+    }
+  },
+  "magnitude": null
+}

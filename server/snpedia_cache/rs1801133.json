@@ -1,0 +1,20 @@
+{
+  "rsid": "rs1801133",
+  "gene": "MTHFR",
+  "chromosome": "1",
+  "summary": "C677T variant affecting folate metabolism. Important for methylation.",
+  "genotypes": {
+    "C;C": {
+      "description": "Normal MTHFR activity"
+    },
+    "C;T": {
+      "description": "Reduced MTHFR activity (~65%)"
+    },
+    "T;T": {
+      "description": "Significantly reduced MTHFR activity (~30%), may need methylfolate"
+    }
+  },
+  "magnitude": 2,
+  "fetched_at": "2025-12-29T22:47:58.943Z",
+  "source": "SNPedia (pre-seeded)"
+}
