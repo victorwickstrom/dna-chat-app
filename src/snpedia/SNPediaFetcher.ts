@@ -51,7 +51,7 @@ export async function fetchSNP(rsid: string): Promise<CSRFetchResult> {
   
   try {
     // Use server proxy for SNPedia (handles CORS and caching)
-    const proxyUrl = `http://localhost:3001/api/snpedia/${normalized}`
+    const proxyUrl = `/api/snpedia/${normalized}`
     
     const controller = new AbortController()
     const timeoutId = setTimeout(() => controller.abort(), FETCH_TIMEOUT)

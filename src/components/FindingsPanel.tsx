@@ -104,9 +104,10 @@ function interpretGenotype(topicId: string, snpData: Map<string, string>): { res
 
 interface FindingsPanelProps {
   onClose?: () => void
+  onFindingClick?: () => void
 }
 
-export default function FindingsPanel({ onClose }: FindingsPanelProps) {
+export default function FindingsPanel({ onClose, onFindingClick }: FindingsPanelProps) {
   const { setPendingQuestion, snpIndex } = useGlobalContext()
   const [status, setStatus] = useState<DnaAnalysisStatus>(dnaState.status)
   const [snpResult, setSnpResult] = useState<SnpMatchResult | null>(dnaState.snpMatchResult)
@@ -198,6 +199,7 @@ export default function FindingsPanel({ onClose }: FindingsPanelProps) {
   const handleDetailClick = (detail: SnpChatExplanation) => {
     const question = `Tell me more about ${detail.rsid} in the ${detail.gene || 'gene'}. My genotype is ${detail.genotype}. What should I know about this variant?`
     setPendingQuestion(question)
+    onFindingClick?.()
   }
 
   if (status === 'analyzing') {
@@ -237,11 +239,13 @@ export default function FindingsPanel({ onClose }: FindingsPanelProps) {
   const handleSnpClick = (snp: { rsid: string; gene?: string | null; genotype: string }) => {
     const question = `Tell me about ${snp.rsid}${snp.gene ? ` in ${snp.gene}` : ''}. My genotype is ${snp.genotype}. What does this mean for my health?`
     setPendingQuestion(question)
+    onFindingClick?.()
   }
 
   const handleTraitClick = (trait: TraitResult) => {
     const question = `Tell me about my ${trait.topic.display_name} genetics. ${trait.interpretation ? `My result shows: ${trait.interpretation.result}` : ''}`
     setPendingQuestion(question)
+    onFindingClick?.()
   }
 
   return (

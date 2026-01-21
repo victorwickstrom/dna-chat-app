@@ -252,7 +252,7 @@ const TOPIC_SNP_MAPPINGS: Record<string, { keywords: string[], snps: CanonicalSN
 // Storage (Server-side - persists across all users)
 // =============================================================================
 
-const API_BASE = 'http://localhost:3001'
+const API_BASE = ''
 
 /**
  * Record a question to the server for global learning

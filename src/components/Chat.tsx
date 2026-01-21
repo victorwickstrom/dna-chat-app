@@ -84,7 +84,7 @@ const Chat = () => {
       // =======================================================================
       let snpediaContext = ''
       try {
-        const contextResponse = await fetch('http://localhost:3001/api/learning/prepare-context', {
+        const contextResponse = await fetch('/api/learning/prepare-context', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({ question }),

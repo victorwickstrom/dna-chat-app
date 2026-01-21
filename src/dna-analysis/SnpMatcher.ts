@@ -46,7 +46,7 @@ export async function loadSnpDatabase(): Promise<void> {
   if (snpDatabase) return // Already loaded
 
   try {
-    const response = await fetch('/data/restructured_snp.json')
+    const response = await fetch('/data/restructured_snp.json', { cache: 'no-store' })
     if (!response.ok) {
       throw new Error(`Failed to load SNP database: ${response.status}`)
     }

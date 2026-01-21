@@ -1,0 +1,62 @@
+services:
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: frontend
+    container_name: dnahelper-frontend
+    restart: unless-stopped
+    depends_on:
+      - backend
+    labels:
+      - "traefik.enable=true"
+      # HTTP router - redirect to HTTPS
+      - "traefik.http.routers.dnahelper-http.rule=Host(`dnahelper.com`) || Host(`www.dnahelper.com`)"
+      - "traefik.http.routers.dnahelper-http.entrypoints=web"
+      - "traefik.http.routers.dnahelper-http.middlewares=redirect-to-https"
+      # HTTPS router for www - redirect to non-www
+      - "traefik.http.routers.dnahelper-www.rule=Host(`www.dnahelper.com`)"
+      - "traefik.http.routers.dnahelper-www.entrypoints=websecure"
+      - "traefik.http.routers.dnahelper-www.tls=true"
+      - "traefik.http.routers.dnahelper-www.tls.certresolver=letsencrypt"
+      - "traefik.http.routers.dnahelper-www.middlewares=dnahelper-redirect-to-non-www"
+      # HTTPS router for non-www (main)
+      - "traefik.http.routers.dnahelper.rule=Host(`dnahelper.com`)"
+      - "traefik.http.routers.dnahelper.entrypoints=websecure"
+      - "traefik.http.routers.dnahelper.tls=true"
+      - "traefik.http.routers.dnahelper.tls.certresolver=letsencrypt"
+      # Middleware for HTTPS redirect
+      - "traefik.http.middlewares.redirect-to-https.redirectscheme.scheme=https"
+      - "traefik.http.middlewares.redirect-to-https.redirectscheme.permanent=true"
+      # Middleware for www to non-www redirect
+      - "traefik.http.middlewares.dnahelper-redirect-to-non-www.redirectregex.regex=^https://www\\.(.+)"
+      - "traefik.http.middlewares.dnahelper-redirect-to-non-www.redirectregex.replacement=https://$${1}"
+      - "traefik.http.middlewares.dnahelper-redirect-to-non-www.redirectregex.permanent=true"
+      # Service
+      - "traefik.http.services.dnahelper.loadbalancer.server.port=80"
+    expose:
+      - "80"
+    networks:
+      - traefik-network
+
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: backend
+    container_name: dnahelper-backend
+    restart: unless-stopped
+    environment:
+      - NODE_ENV=production
+      - AZURE_ENDPOINT=${AZURE_ENDPOINT}
+      - AZURE_API_KEY=${AZURE_API_KEY}
+      - AZURE_DEPLOYMENT=${AZURE_DEPLOYMENT}
+    expose:
+      - "3001"
+    networks:
+      - traefik-network
+
+networks:
+  traefik-network:
+    external: true
+    name: nis2securewindsurf_default

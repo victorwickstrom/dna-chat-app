@@ -7,7 +7,7 @@
 
 import type { SnpMatch } from './SnpMatcher'
 
-const API_BASE = 'http://localhost:3001'
+const API_BASE = ''
 
 export interface EnrichedSnp extends SnpMatch {
   aiExplanation?: string

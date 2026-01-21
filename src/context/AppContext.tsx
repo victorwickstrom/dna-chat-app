@@ -13,7 +13,7 @@ export interface Preferences {
   explanationLevel: 'layman' | 'normal' | 'technical'
   tone: 'calm' | 'formal'
   showUncertainty: boolean
-  language: 'en'
+  language: 'en' | 'sv'
   autoSendGenotypes: boolean
 }
 
@@ -32,11 +32,19 @@ interface GlobalContextValue {
   setPendingQuestion: (question: string | null) => void
 }
 
+// Detect browser language and map to supported languages
+const getBrowserLanguage = (): 'en' | 'sv' => {
+  const browserLang = navigator.language || (navigator as { userLanguage?: string }).userLanguage || 'en'
+  const langCode = browserLang.split('-')[0].toLowerCase()
+  // Support Swedish, default to English for everything else
+  return langCode === 'sv' ? 'sv' : 'en'
+}
+
 const defaultPreferences: Preferences = {
   explanationLevel: 'normal',
   tone: 'calm',
   showUncertainty: true,
-  language: 'en',
+  language: getBrowserLanguage(),
   autoSendGenotypes: false,
 }
 

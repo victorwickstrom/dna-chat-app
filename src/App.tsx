@@ -11,6 +11,7 @@ import { runDnaAnalysis } from './dna/DnaAnalysisController'
 const App = () => {
   const [showSettings, setShowSettings] = useState(false)
   const [showFindings, setShowFindings] = useState(false)
+  const [showRightPanel, setShowRightPanel] = useState(true)
   const { snpIndex, setSnpIndex, setMetadata } = useGlobalContext()
   const [hasDnaData, setHasDnaData] = useState(false)
   const [isLoading, setIsLoading] = useState(true)
@@ -84,7 +85,7 @@ const App = () => {
           {/* Header */}
           <div className="mb-8 text-center">
             <div className="mb-4 text-6xl">🧬</div>
-            <h1 className="text-3xl font-bold text-slate-800">DNA Chat Assistant</h1>
+            <h1 className="text-3xl font-bold text-slate-800">DNA helper</h1>
             <p className="mt-2 text-slate-600">
               Upload your DNA file to explore your genetic data with AI
             </p>
@@ -283,31 +284,54 @@ const App = () => {
         >
           {/* Modal Header */}
           <div 
-            style={{ flexShrink: 0 }}
-            className="flex items-center justify-between border-b border-slate-200 bg-gradient-to-r from-indigo-600 to-purple-600 px-6 py-3"
+            style={{ flexShrink: 0, boxShadow: '0 0 15px rgba(0, 0, 0, 0.17)' }}
+            className="flex items-center justify-between border-b border-slate-200 bg-white px-6 py-3"
           >
             <div className="flex items-center gap-3">
-              <span className="text-2xl">🧬</span>
-              <h2 className="text-xl font-bold text-white">DNA Chat Assistant</h2>
+              <img src="/assets/img/logo.png" alt="DNA helper" className="h-10" />
             </div>
             <button
               onClick={() => setShowFindings(false)}
-              className="flex items-center gap-2 rounded-lg bg-white/20 px-4 py-2 font-medium text-white hover:bg-white/30"
+              className="flex items-center gap-2 rounded-lg bg-slate-100 px-4 py-2 font-medium text-slate-700 hover:bg-slate-200"
             >
               ✕ Close
             </button>
           </div>
 
           {/* 2-Column Layout: Chat (left) + Findings (right) */}
-          <div style={{ display: 'flex', flex: 1, overflow: 'hidden' }}>
+          <div className="flex flex-1 overflow-hidden relative">
             {/* Left Column - Chat */}
-            <div style={{ flex: 1, display: 'flex', flexDirection: 'column', borderRight: '1px solid #e2e8f0' }}>
+            <div 
+              className="flex-1 flex flex-col border-r border-slate-200"
+              onClick={() => showRightPanel && setShowRightPanel(false)}
+            >
               <Chat />
             </div>
 
-            {/* Right Column - Findings */}
-            <div style={{ width: '400px', flexShrink: 0, overflow: 'hidden', display: 'flex', flexDirection: 'column', background: '#f8fafc' }}>
-              <FindingsPanel onClose={() => setShowFindings(false)} />
+            {/* Toggle Button for Right Panel - Always visible */}
+            <button
+              onClick={() => setShowRightPanel(!showRightPanel)}
+              className="absolute top-1/2 -translate-y-1/2 z-20 bg-indigo-600 text-white border-none rounded-l-lg py-3 px-2 cursor-pointer shadow-lg hover:bg-indigo-700 transition-all duration-300"
+              style={{
+                right: showRightPanel ? 'min(400px, 85vw)' : '0',
+                writingMode: 'vertical-rl',
+                textOrientation: 'mixed',
+              }}
+            >
+              <span className="text-xs font-semibold">
+                {showRightPanel ? '◀ Hide' : '▶ Findings'}
+              </span>
+            </button>
+
+            {/* Right Column - Findings (Collapsible) */}
+            <div 
+              className="flex flex-col bg-slate-50 transition-all duration-300 ease-in-out overflow-hidden absolute md:relative right-0 top-0 bottom-0 z-10"
+              style={{ 
+                width: showRightPanel ? 'min(400px, 85vw)' : '0',
+                opacity: showRightPanel ? 1 : 0,
+              }}
+            >
+              <FindingsPanel onClose={() => setShowFindings(false)} onFindingClick={() => setShowRightPanel(false)} />
             </div>
           </div>
         </div>

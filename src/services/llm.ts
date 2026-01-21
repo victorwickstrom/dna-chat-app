@@ -3,7 +3,7 @@ import type { QueryPlan } from '../models/queryPlan'
 import { validateQueryPlan } from '../utils/validateQueryPlan'
 
 // Backend API configuration
-const BACKEND_URL = import.meta.env.VITE_BACKEND_URL || 'http://localhost:3001'
+const BACKEND_URL = import.meta.env.VITE_BACKEND_URL || ''
 
 interface ChoiceMessage {
   message?: { content?: string }

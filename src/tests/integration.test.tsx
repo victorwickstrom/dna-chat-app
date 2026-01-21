@@ -77,7 +77,7 @@ describe('End-to-end chat flow', () => {
   it('should render the app with header', () => {
     renderApp()
 
-    expect(screen.getByText('DNA Chat Assistant')).toBeInTheDocument()
+    expect(screen.getByText('DNA helper')).toBeInTheDocument()
   })
 
   it('should display chat input', () => {

@@ -10,16 +10,23 @@ export default defineConfig({
       workbox: {
         runtimeCaching: [
           {
-            urlPattern: /\/api\/.*\/interpreter/,
+            urlPattern: /\/api\/.*/,
             handler: 'NetworkOnly',
           },
           {
-            urlPattern: /\/api\/.*\/planner/,
-            handler: 'NetworkOnly',
+            urlPattern: /\/data\/.*/,
+            handler: 'NetworkFirst',
           },
           {
-            urlPattern: /.*/,
-            handler: 'StaleWhileRevalidate',
+            urlPattern: /\.(js|css|png|jpg|jpeg|svg|gif|woff|woff2)$/,
+            handler: 'CacheFirst',
+            options: {
+              cacheName: 'static-assets',
+              expiration: {
+                maxEntries: 100,
+                maxAgeSeconds: 60 * 60 * 24 * 30,
+              },
+            },
           },
         ],
       },
